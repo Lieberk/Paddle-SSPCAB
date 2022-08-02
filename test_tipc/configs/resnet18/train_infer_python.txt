@@ -1,0 +1,32 @@
+===========================train_params===========================
+model_name:resnet18
+python:python3.7
+gpu_list:0
+--cuda:True
+--epochs:lite_train_lite_infer=2|whole_train_whole_infer=256
+--model_dir:models
+--batch_size:lite_train_lite_infer=1|whole_train_whole_infer=96
+--pretrained:null
+train_model_name:model-bottle.pdparams
+--data-path:lite_data
+##
+trainer:norm_train
+norm_train:train.py --type bottle --test_epochs 3
+##
+===========================eval_params===========================
+eval:eval.py --type bottle
+##
+===========================infer_params===========================
+--save-inference-dir:deploy
+--pretrained:
+norm_export:deploy/export_model.py
+##
+train_model:logs/bottle/model-bottle.pdparams
+infer_export:deploy/export_model.py --data_type bottle
+##
+inference:deploy/infer.py
+--use-gpu:True
+--batch-size:1
+--model-dir:deploy
+--img-path:images/good.png
+--benchmark:False

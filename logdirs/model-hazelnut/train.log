@@ -1,0 +1,700 @@
+Type : hazelnut Train [ Epoch 1/500 ], loss: 1.3337, avg_reader_cost: 1.2794 avg_batch_cost: 1.6334, avg_ips: 58.7739.
+Type : hazelnut Train [ Epoch 2/500 ], loss: 1.1026, avg_reader_cost: 1.2277 avg_batch_cost: 1.5671, avg_ips: 61.2591.
+Type : hazelnut Train [ Epoch 3/500 ], loss: 0.9713, avg_reader_cost: 1.2430 avg_batch_cost: 1.5855, avg_ips: 60.5492.
+Type : hazelnut Train [ Epoch 4/500 ], loss: 0.8529, avg_reader_cost: 1.2406 avg_batch_cost: 1.5838, avg_ips: 60.6149.
+Type : hazelnut Train [ Epoch 5/500 ], loss: 0.7778, avg_reader_cost: 1.2288 avg_batch_cost: 1.5726, avg_ips: 61.0441.
+Type : hazelnut Train [ Epoch 6/500 ], loss: 0.7419, avg_reader_cost: 1.2466 avg_batch_cost: 1.5949, avg_ips: 60.1927.
+Type : hazelnut Train [ Epoch 7/500 ], loss: 0.6780, avg_reader_cost: 1.2376 avg_batch_cost: 1.5811, avg_ips: 60.7164.
+Type : hazelnut Train [ Epoch 8/500 ], loss: 0.6429, avg_reader_cost: 1.2343 avg_batch_cost: 1.5757, avg_ips: 60.9238.
+Type : hazelnut Train [ Epoch 9/500 ], loss: 0.5923, avg_reader_cost: 1.2396 avg_batch_cost: 1.5764, avg_ips: 60.8987.
+Type : hazelnut Train [ Epoch 10/500 ], loss: 0.6569, avg_reader_cost: 1.2339 avg_batch_cost: 1.3775, avg_ips: 69.6937.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 10/500 ] max_auc: 0.9157 roc_auc : 0.915714.
+Type : hazelnut Train [ Epoch 11/500 ], loss: 0.5987, avg_reader_cost: 14.9726 avg_batch_cost: 15.3300, avg_ips: 6.2622.
+Type : hazelnut Train [ Epoch 12/500 ], loss: 0.6187, avg_reader_cost: 0.0003 avg_batch_cost: 0.3482, avg_ips: 275.6677.
+Type : hazelnut Train [ Epoch 13/500 ], loss: 0.6304, avg_reader_cost: 0.0008 avg_batch_cost: 0.3527, avg_ips: 272.2245.
+Type : hazelnut Train [ Epoch 14/500 ], loss: 0.5816, avg_reader_cost: 0.0002 avg_batch_cost: 0.3443, avg_ips: 278.8565.
+Type : hazelnut Train [ Epoch 15/500 ], loss: 0.6131, avg_reader_cost: 0.0003 avg_batch_cost: 0.3530, avg_ips: 271.9511.
+Type : hazelnut Train [ Epoch 16/500 ], loss: 0.5884, avg_reader_cost: 1.0997 avg_batch_cost: 1.4450, avg_ips: 66.4346.
+Type : hazelnut Train [ Epoch 17/500 ], loss: 0.6017, avg_reader_cost: 1.2301 avg_batch_cost: 1.3749, avg_ips: 69.8239.
+Type : hazelnut Train [ Epoch 18/500 ], loss: 0.5472, avg_reader_cost: 1.2379 avg_batch_cost: 1.3842, avg_ips: 69.3561.
+Type : hazelnut Train [ Epoch 19/500 ], loss: 0.5179, avg_reader_cost: 1.2482 avg_batch_cost: 1.5951, avg_ips: 60.1844.
+Type : hazelnut Train [ Epoch 20/500 ], loss: 0.4942, avg_reader_cost: 1.2328 avg_batch_cost: 1.5839, avg_ips: 60.6112.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 20/500 ] max_auc: 0.9300 roc_auc : 0.930000.
+Type : hazelnut Train [ Epoch 21/500 ], loss: 0.4528, avg_reader_cost: 15.1078 avg_batch_cost: 15.4576, avg_ips: 6.2105.
+Type : hazelnut Train [ Epoch 22/500 ], loss: 0.4976, avg_reader_cost: 0.0003 avg_batch_cost: 0.3451, avg_ips: 278.1670.
+Type : hazelnut Train [ Epoch 23/500 ], loss: 0.4775, avg_reader_cost: 0.0003 avg_batch_cost: 0.1404, avg_ips: 683.8702.
+Type : hazelnut Train [ Epoch 24/500 ], loss: 0.4204, avg_reader_cost: 0.0004 avg_batch_cost: 0.3520, avg_ips: 272.7258.
+Type : hazelnut Train [ Epoch 25/500 ], loss: 0.3911, avg_reader_cost: 0.0003 avg_batch_cost: 0.1530, avg_ips: 627.3469.
+Type : hazelnut Train [ Epoch 26/500 ], loss: 0.3752, avg_reader_cost: 1.0981 avg_batch_cost: 1.4406, avg_ips: 66.6382.
+Type : hazelnut Train [ Epoch 27/500 ], loss: 0.3619, avg_reader_cost: 1.2393 avg_batch_cost: 1.3775, avg_ips: 69.6906.
+Type : hazelnut Train [ Epoch 28/500 ], loss: 0.3321, avg_reader_cost: 1.2365 avg_batch_cost: 1.5766, avg_ips: 60.8909.
+Type : hazelnut Train [ Epoch 29/500 ], loss: 0.3400, avg_reader_cost: 1.2386 avg_batch_cost: 1.5850, avg_ips: 60.5661.
+Type : hazelnut Train [ Epoch 30/500 ], loss: 0.3565, avg_reader_cost: 1.2270 avg_batch_cost: 1.5731, avg_ips: 61.0242.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 30/500 ] max_auc: 0.9796 roc_auc : 0.979643.
+Type : hazelnut Train [ Epoch 31/500 ], loss: 0.3834, avg_reader_cost: 13.5263 avg_batch_cost: 13.6396, avg_ips: 7.0383.
+Type : hazelnut Train [ Epoch 32/500 ], loss: 0.3468, avg_reader_cost: 1.2922 avg_batch_cost: 1.6304, avg_ips: 58.8804.
+Type : hazelnut Train [ Epoch 33/500 ], loss: 0.3540, avg_reader_cost: 1.2449 avg_batch_cost: 1.5804, avg_ips: 60.7452.
+Type : hazelnut Train [ Epoch 34/500 ], loss: 0.3611, avg_reader_cost: 1.2698 avg_batch_cost: 1.6141, avg_ips: 59.4753.
+Type : hazelnut Train [ Epoch 35/500 ], loss: 0.3222, avg_reader_cost: 1.2382 avg_batch_cost: 1.5813, avg_ips: 60.7097.
+Type : hazelnut Train [ Epoch 36/500 ], loss: 0.3148, avg_reader_cost: 1.2636 avg_batch_cost: 1.4001, avg_ips: 68.5659.
+Type : hazelnut Train [ Epoch 37/500 ], loss: 0.3277, avg_reader_cost: 1.2420 avg_batch_cost: 1.3871, avg_ips: 69.2073.
+Type : hazelnut Train [ Epoch 38/500 ], loss: 0.3594, avg_reader_cost: 1.2847 avg_batch_cost: 1.4240, avg_ips: 67.4152.
+Type : hazelnut Train [ Epoch 39/500 ], loss: 0.3314, avg_reader_cost: 1.3009 avg_batch_cost: 1.6419, avg_ips: 58.4694.
+Type : hazelnut Train [ Epoch 40/500 ], loss: 0.3574, avg_reader_cost: 1.3193 avg_batch_cost: 1.4738, avg_ips: 65.1395.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 40/500 ] max_auc: 0.9796 roc_auc : 0.956429.
+Type : hazelnut Train [ Epoch 41/500 ], loss: 0.3192, avg_reader_cost: 14.5747 avg_batch_cost: 14.8812, avg_ips: 6.4511.
+Type : hazelnut Train [ Epoch 42/500 ], loss: 0.3524, avg_reader_cost: 0.0005 avg_batch_cost: 0.3513, avg_ips: 273.2917.
+Type : hazelnut Train [ Epoch 43/500 ], loss: 0.3371, avg_reader_cost: 0.0003 avg_batch_cost: 0.3465, avg_ips: 277.0811.
+Type : hazelnut Train [ Epoch 44/500 ], loss: 0.2895, avg_reader_cost: 0.0006 avg_batch_cost: 0.1460, avg_ips: 657.6796.
+Type : hazelnut Train [ Epoch 45/500 ], loss: 0.3134, avg_reader_cost: 0.0004 avg_batch_cost: 0.3538, avg_ips: 271.3366.
+Type : hazelnut Train [ Epoch 46/500 ], loss: 0.3089, avg_reader_cost: 1.0944 avg_batch_cost: 1.4423, avg_ips: 66.5623.
+Type : hazelnut Train [ Epoch 47/500 ], loss: 0.2882, avg_reader_cost: 1.2261 avg_batch_cost: 1.5706, avg_ips: 61.1215.
+Type : hazelnut Train [ Epoch 48/500 ], loss: 0.2525, avg_reader_cost: 1.2426 avg_batch_cost: 1.3991, avg_ips: 68.6154.
+Type : hazelnut Train [ Epoch 49/500 ], loss: 0.2154, avg_reader_cost: 1.2283 avg_batch_cost: 1.5657, avg_ips: 61.3156.
+Type : hazelnut Train [ Epoch 50/500 ], loss: 0.2516, avg_reader_cost: 1.2262 avg_batch_cost: 1.5693, avg_ips: 61.1730.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 50/500 ] max_auc: 0.9796 roc_auc : 0.972857.
+Type : hazelnut Train [ Epoch 51/500 ], loss: 0.2382, avg_reader_cost: 14.3534 avg_batch_cost: 14.5416, avg_ips: 6.6017.
+Type : hazelnut Train [ Epoch 52/500 ], loss: 0.2819, avg_reader_cost: 0.0013 avg_batch_cost: 0.3484, avg_ips: 275.5764.
+Type : hazelnut Train [ Epoch 53/500 ], loss: 0.2610, avg_reader_cost: 0.0003 avg_batch_cost: 0.1563, avg_ips: 614.0149.
+Type : hazelnut Train [ Epoch 54/500 ], loss: 0.2550, avg_reader_cost: 0.0013 avg_batch_cost: 0.3531, avg_ips: 271.9116.
+Type : hazelnut Train [ Epoch 55/500 ], loss: 0.2655, avg_reader_cost: 0.0003 avg_batch_cost: 0.1653, avg_ips: 580.8229.
+Type : hazelnut Train [ Epoch 56/500 ], loss: 0.2192, avg_reader_cost: 1.1136 avg_batch_cost: 1.4516, avg_ips: 66.1357.
+Type : hazelnut Train [ Epoch 57/500 ], loss: 0.2081, avg_reader_cost: 1.2353 avg_batch_cost: 1.3817, avg_ips: 69.4782.
+Type : hazelnut Train [ Epoch 58/500 ], loss: 0.1915, avg_reader_cost: 1.2636 avg_batch_cost: 1.4111, avg_ips: 68.0344.
+Type : hazelnut Train [ Epoch 59/500 ], loss: 0.2229, avg_reader_cost: 1.2464 avg_batch_cost: 1.5915, avg_ips: 60.3209.
+Type : hazelnut Train [ Epoch 60/500 ], loss: 0.2645, avg_reader_cost: 1.2460 avg_batch_cost: 1.3831, avg_ips: 69.4101.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 60/500 ] max_auc: 0.9796 roc_auc : 0.959643.
+Type : hazelnut Train [ Epoch 61/500 ], loss: 0.2224, avg_reader_cost: 13.2491 avg_batch_cost: 13.4384, avg_ips: 7.1437.
+Type : hazelnut Train [ Epoch 62/500 ], loss: 0.2885, avg_reader_cost: 0.0004 avg_batch_cost: 0.1065, avg_ips: 901.3789.
+Type : hazelnut Train [ Epoch 63/500 ], loss: 0.3004, avg_reader_cost: 1.2945 avg_batch_cost: 1.6449, avg_ips: 58.3628.
+Type : hazelnut Train [ Epoch 64/500 ], loss: 0.1379, avg_reader_cost: 1.2502 avg_batch_cost: 1.5968, avg_ips: 60.1221.
+Type : hazelnut Train [ Epoch 65/500 ], loss: 0.1842, avg_reader_cost: 1.2453 avg_batch_cost: 1.3868, avg_ips: 69.2238.
+Type : hazelnut Train [ Epoch 66/500 ], loss: 0.1890, avg_reader_cost: 1.2443 avg_batch_cost: 1.5813, avg_ips: 60.7098.
+Type : hazelnut Train [ Epoch 67/500 ], loss: 0.1941, avg_reader_cost: 1.2395 avg_batch_cost: 1.5808, avg_ips: 60.7287.
+Type : hazelnut Train [ Epoch 68/500 ], loss: 0.2032, avg_reader_cost: 1.2294 avg_batch_cost: 1.3689, avg_ips: 70.1313.
+Type : hazelnut Train [ Epoch 69/500 ], loss: 0.1756, avg_reader_cost: 1.2400 avg_batch_cost: 1.5795, avg_ips: 60.7774.
+Type : hazelnut Train [ Epoch 70/500 ], loss: 0.1765, avg_reader_cost: 1.2297 avg_batch_cost: 1.5689, avg_ips: 61.1886.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 70/500 ] max_auc: 0.9796 roc_auc : 0.960714.
+Type : hazelnut Train [ Epoch 71/500 ], loss: 0.1549, avg_reader_cost: 14.8306 avg_batch_cost: 15.2276, avg_ips: 6.3043.
+Type : hazelnut Train [ Epoch 72/500 ], loss: 0.2203, avg_reader_cost: 0.0003 avg_batch_cost: 0.1544, avg_ips: 621.7958.
+Type : hazelnut Train [ Epoch 73/500 ], loss: 0.1466, avg_reader_cost: 0.0004 avg_batch_cost: 0.3499, avg_ips: 274.3949.
+Type : hazelnut Train [ Epoch 74/500 ], loss: 0.1829, avg_reader_cost: 0.0002 avg_batch_cost: 0.1410, avg_ips: 680.8808.
+Type : hazelnut Train [ Epoch 75/500 ], loss: 0.1641, avg_reader_cost: 0.0003 avg_batch_cost: 0.1192, avg_ips: 805.2709.
+Type : hazelnut Train [ Epoch 76/500 ], loss: 0.1827, avg_reader_cost: 1.0988 avg_batch_cost: 1.2346, avg_ips: 77.7558.
+Type : hazelnut Train [ Epoch 77/500 ], loss: 0.1530, avg_reader_cost: 1.2312 avg_batch_cost: 1.5724, avg_ips: 61.0528.
+Type : hazelnut Train [ Epoch 78/500 ], loss: 0.1345, avg_reader_cost: 1.2321 avg_batch_cost: 1.5842, avg_ips: 60.5982.
+Type : hazelnut Train [ Epoch 79/500 ], loss: 0.2523, avg_reader_cost: 1.2501 avg_batch_cost: 1.3964, avg_ips: 68.7491.
+Type : hazelnut Train [ Epoch 80/500 ], loss: 0.2056, avg_reader_cost: 1.2433 avg_batch_cost: 1.5910, avg_ips: 60.3378.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 80/500 ] max_auc: 0.9796 roc_auc : 0.877143.
+Type : hazelnut Train [ Epoch 81/500 ], loss: 0.1885, avg_reader_cost: 14.5567 avg_batch_cost: 14.9888, avg_ips: 6.4048.
+Type : hazelnut Train [ Epoch 82/500 ], loss: 0.1424, avg_reader_cost: 0.0003 avg_batch_cost: 0.3525, avg_ips: 272.3136.
+Type : hazelnut Train [ Epoch 83/500 ], loss: 0.1529, avg_reader_cost: 0.0007 avg_batch_cost: 0.3534, avg_ips: 271.6139.
+Type : hazelnut Train [ Epoch 84/500 ], loss: 0.2078, avg_reader_cost: 0.0003 avg_batch_cost: 0.3522, avg_ips: 272.5591.
+Type : hazelnut Train [ Epoch 85/500 ], loss: 0.2214, avg_reader_cost: 0.0003 avg_batch_cost: 0.3531, avg_ips: 271.8941.
+Type : hazelnut Train [ Epoch 86/500 ], loss: 0.2046, avg_reader_cost: 1.1952 avg_batch_cost: 1.5362, avg_ips: 62.4936.
+Type : hazelnut Train [ Epoch 87/500 ], loss: 0.1753, avg_reader_cost: 1.2270 avg_batch_cost: 1.3827, avg_ips: 69.4286.
+Type : hazelnut Train [ Epoch 88/500 ], loss: 0.2095, avg_reader_cost: 1.2204 avg_batch_cost: 1.3743, avg_ips: 69.8525.
+Type : hazelnut Train [ Epoch 89/500 ], loss: 0.2168, avg_reader_cost: 1.2159 avg_batch_cost: 1.5563, avg_ips: 61.6862.
+Type : hazelnut Train [ Epoch 90/500 ], loss: 0.1940, avg_reader_cost: 1.2205 avg_batch_cost: 1.3591, avg_ips: 70.6360.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 90/500 ] max_auc: 0.9796 roc_auc : 0.941429.
+Type : hazelnut Train [ Epoch 91/500 ], loss: 0.2143, avg_reader_cost: 13.5998 avg_batch_cost: 13.7183, avg_ips: 6.9979.
+Type : hazelnut Train [ Epoch 92/500 ], loss: 0.1600, avg_reader_cost: 0.0003 avg_batch_cost: 0.1067, avg_ips: 899.8279.
+Type : hazelnut Train [ Epoch 93/500 ], loss: 0.1327, avg_reader_cost: 0.0004 avg_batch_cost: 0.1058, avg_ips: 907.2137.
+Type : hazelnut Train [ Epoch 94/500 ], loss: 0.2103, avg_reader_cost: 1.2555 avg_batch_cost: 1.5980, avg_ips: 60.0769.
+Type : hazelnut Train [ Epoch 95/500 ], loss: 0.1334, avg_reader_cost: 1.2322 avg_batch_cost: 1.5717, avg_ips: 61.0808.
+Type : hazelnut Train [ Epoch 96/500 ], loss: 0.1558, avg_reader_cost: 1.2195 avg_batch_cost: 1.5747, avg_ips: 60.9659.
+Type : hazelnut Train [ Epoch 97/500 ], loss: 0.1731, avg_reader_cost: 1.2130 avg_batch_cost: 1.5633, avg_ips: 61.4080.
+Type : hazelnut Train [ Epoch 98/500 ], loss: 0.2029, avg_reader_cost: 1.2118 avg_batch_cost: 1.5609, avg_ips: 61.5034.
+Type : hazelnut Train [ Epoch 99/500 ], loss: 0.2001, avg_reader_cost: 1.2119 avg_batch_cost: 1.5579, avg_ips: 61.6221.
+Type : hazelnut Train [ Epoch 100/500 ], loss: 0.1479, avg_reader_cost: 1.2172 avg_batch_cost: 1.3606, avg_ips: 70.5561.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 100/500 ] max_auc: 0.9864 roc_auc : 0.986429.
+Type : hazelnut Train [ Epoch 101/500 ], loss: 0.1468, avg_reader_cost: 16.3227 avg_batch_cost: 16.6731, avg_ips: 5.7578.
+Type : hazelnut Train [ Epoch 102/500 ], loss: 0.1265, avg_reader_cost: 0.0003 avg_batch_cost: 0.3495, avg_ips: 274.6521.
+Type : hazelnut Train [ Epoch 103/500 ], loss: 0.0922, avg_reader_cost: 0.0003 avg_batch_cost: 0.3521, avg_ips: 272.6676.
+Type : hazelnut Train [ Epoch 104/500 ], loss: 0.1548, avg_reader_cost: 0.0003 avg_batch_cost: 0.3456, avg_ips: 277.8011.
+Type : hazelnut Train [ Epoch 105/500 ], loss: 0.1054, avg_reader_cost: 0.0004 avg_batch_cost: 0.3521, avg_ips: 272.6237.
+Type : hazelnut Train [ Epoch 106/500 ], loss: 0.0767, avg_reader_cost: 1.0809 avg_batch_cost: 1.4253, avg_ips: 67.3526.
+Type : hazelnut Train [ Epoch 107/500 ], loss: 0.1041, avg_reader_cost: 1.2262 avg_batch_cost: 1.5812, avg_ips: 60.7123.
+Type : hazelnut Train [ Epoch 108/500 ], loss: 0.1159, avg_reader_cost: 1.2135 avg_batch_cost: 1.3525, avg_ips: 70.9784.
+Type : hazelnut Train [ Epoch 109/500 ], loss: 0.1119, avg_reader_cost: 1.2264 avg_batch_cost: 1.5685, avg_ips: 61.2036.
+Type : hazelnut Train [ Epoch 110/500 ], loss: 0.1619, avg_reader_cost: 1.2235 avg_batch_cost: 1.5728, avg_ips: 61.0368.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 110/500 ] max_auc: 0.9864 roc_auc : 0.971071.
+Type : hazelnut Train [ Epoch 111/500 ], loss: 0.1366, avg_reader_cost: 14.6159 avg_batch_cost: 15.0147, avg_ips: 6.3937.
+Type : hazelnut Train [ Epoch 112/500 ], loss: 0.1077, avg_reader_cost: 0.0006 avg_batch_cost: 0.3474, avg_ips: 276.3075.
+Type : hazelnut Train [ Epoch 113/500 ], loss: 0.1420, avg_reader_cost: 0.0006 avg_batch_cost: 0.3481, avg_ips: 275.8031.
+Type : hazelnut Train [ Epoch 114/500 ], loss: 0.1577, avg_reader_cost: 0.0003 avg_batch_cost: 0.3449, avg_ips: 278.3811.
+Type : hazelnut Train [ Epoch 115/500 ], loss: 0.0992, avg_reader_cost: 0.0003 avg_batch_cost: 0.2931, avg_ips: 327.5643.
+Type : hazelnut Train [ Epoch 116/500 ], loss: 0.1239, avg_reader_cost: 1.0707 avg_batch_cost: 1.4146, avg_ips: 67.8658.
+Type : hazelnut Train [ Epoch 117/500 ], loss: 0.1519, avg_reader_cost: 1.2185 avg_batch_cost: 1.5606, avg_ips: 61.5142.
+Type : hazelnut Train [ Epoch 118/500 ], loss: 0.1588, avg_reader_cost: 1.2162 avg_batch_cost: 1.5575, avg_ips: 61.6391.
+Type : hazelnut Train [ Epoch 119/500 ], loss: 0.1238, avg_reader_cost: 1.2203 avg_batch_cost: 1.5735, avg_ips: 61.0094.
+Type : hazelnut Train [ Epoch 120/500 ], loss: 0.1194, avg_reader_cost: 1.2155 avg_batch_cost: 1.5644, avg_ips: 61.3650.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 120/500 ] max_auc: 0.9864 roc_auc : 0.974286.
+Type : hazelnut Train [ Epoch 121/500 ], loss: 0.1500, avg_reader_cost: 14.4632 avg_batch_cost: 14.6532, avg_ips: 6.5515.
+Type : hazelnut Train [ Epoch 122/500 ], loss: 0.0975, avg_reader_cost: 0.0004 avg_batch_cost: 0.1077, avg_ips: 891.5377.
+Type : hazelnut Train [ Epoch 123/500 ], loss: 0.1261, avg_reader_cost: 0.0004 avg_batch_cost: 0.1080, avg_ips: 889.1967.
+Type : hazelnut Train [ Epoch 124/500 ], loss: 0.1639, avg_reader_cost: 0.0005 avg_batch_cost: 0.1076, avg_ips: 891.8951.
+Type : hazelnut Train [ Epoch 125/500 ], loss: 0.1181, avg_reader_cost: 1.2952 avg_batch_cost: 1.6545, avg_ips: 58.0243.
+Type : hazelnut Train [ Epoch 126/500 ], loss: 0.1312, avg_reader_cost: 1.2233 avg_batch_cost: 1.5780, avg_ips: 60.8380.
+Type : hazelnut Train [ Epoch 127/500 ], loss: 0.1645, avg_reader_cost: 1.2408 avg_batch_cost: 1.3786, avg_ips: 69.6348.
+Type : hazelnut Train [ Epoch 128/500 ], loss: 0.1739, avg_reader_cost: 1.2355 avg_batch_cost: 1.5822, avg_ips: 60.6766.
+Type : hazelnut Train [ Epoch 129/500 ], loss: 0.0946, avg_reader_cost: 1.2406 avg_batch_cost: 1.5827, avg_ips: 60.6566.
+Type : hazelnut Train [ Epoch 130/500 ], loss: 0.1055, avg_reader_cost: 1.2420 avg_batch_cost: 1.5911, avg_ips: 60.3364.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 130/500 ] max_auc: 0.9864 roc_auc : 0.887143.
+Type : hazelnut Train [ Epoch 131/500 ], loss: 0.1751, avg_reader_cost: 16.5996 avg_batch_cost: 17.0264, avg_ips: 5.6383.
+Type : hazelnut Train [ Epoch 132/500 ], loss: 0.1380, avg_reader_cost: 0.0003 avg_batch_cost: 0.3528, avg_ips: 272.1233.
+Type : hazelnut Train [ Epoch 133/500 ], loss: 0.1444, avg_reader_cost: 0.0006 avg_batch_cost: 0.3538, avg_ips: 271.3750.
+Type : hazelnut Train [ Epoch 134/500 ], loss: 0.0981, avg_reader_cost: 0.0003 avg_batch_cost: 0.3508, avg_ips: 273.6987.
+Type : hazelnut Train [ Epoch 135/500 ], loss: 0.0970, avg_reader_cost: 0.0003 avg_batch_cost: 0.3597, avg_ips: 266.8624.
+Type : hazelnut Train [ Epoch 136/500 ], loss: 0.1458, avg_reader_cost: 1.0550 avg_batch_cost: 1.4018, avg_ips: 68.4819.
+Type : hazelnut Train [ Epoch 137/500 ], loss: 0.1490, avg_reader_cost: 1.2246 avg_batch_cost: 1.5608, avg_ips: 61.5081.
+Type : hazelnut Train [ Epoch 138/500 ], loss: 0.1643, avg_reader_cost: 1.2223 avg_batch_cost: 1.5629, avg_ips: 61.4241.
+Type : hazelnut Train [ Epoch 139/500 ], loss: 0.0866, avg_reader_cost: 1.2333 avg_batch_cost: 1.3704, avg_ips: 70.0538.
+Type : hazelnut Train [ Epoch 140/500 ], loss: 0.1243, avg_reader_cost: 1.2290 avg_batch_cost: 1.3737, avg_ips: 69.8852.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 140/500 ] max_auc: 0.9864 roc_auc : 0.953929.
+Type : hazelnut Train [ Epoch 141/500 ], loss: 0.1095, avg_reader_cost: 15.0836 avg_batch_cost: 15.4510, avg_ips: 6.2132.
+Type : hazelnut Train [ Epoch 142/500 ], loss: 0.1416, avg_reader_cost: 0.0004 avg_batch_cost: 0.3488, avg_ips: 275.2591.
+Type : hazelnut Train [ Epoch 143/500 ], loss: 0.1440, avg_reader_cost: 0.0002 avg_batch_cost: 0.3407, avg_ips: 281.7374.
+Type : hazelnut Train [ Epoch 144/500 ], loss: 0.1699, avg_reader_cost: 0.0005 avg_batch_cost: 0.3478, avg_ips: 276.0288.
+Type : hazelnut Train [ Epoch 145/500 ], loss: 0.1733, avg_reader_cost: 0.0003 avg_batch_cost: 0.3473, avg_ips: 276.4127.
+Type : hazelnut Train [ Epoch 146/500 ], loss: 0.1162, avg_reader_cost: 1.0898 avg_batch_cost: 1.2229, avg_ips: 78.4995.
+Type : hazelnut Train [ Epoch 147/500 ], loss: 0.1280, avg_reader_cost: 1.2192 avg_batch_cost: 1.5601, avg_ips: 61.5343.
+Type : hazelnut Train [ Epoch 148/500 ], loss: 0.1719, avg_reader_cost: 1.2350 avg_batch_cost: 1.3761, avg_ips: 69.7629.
+Type : hazelnut Train [ Epoch 149/500 ], loss: 0.2356, avg_reader_cost: 1.2351 avg_batch_cost: 1.3740, avg_ips: 69.8693.
+Type : hazelnut Train [ Epoch 150/500 ], loss: 0.1284, avg_reader_cost: 1.2280 avg_batch_cost: 1.3659, avg_ips: 70.2811.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 150/500 ] max_auc: 0.9864 roc_auc : 0.956429.
+Type : hazelnut Train [ Epoch 151/500 ], loss: 0.1172, avg_reader_cost: 14.1611 avg_batch_cost: 14.3620, avg_ips: 6.6843.
+Type : hazelnut Train [ Epoch 152/500 ], loss: 0.1398, avg_reader_cost: 0.0004 avg_batch_cost: 0.1071, avg_ips: 896.3106.
+Type : hazelnut Train [ Epoch 153/500 ], loss: 0.1348, avg_reader_cost: 0.0004 avg_batch_cost: 0.1076, avg_ips: 891.9366.
+Type : hazelnut Train [ Epoch 154/500 ], loss: 0.1431, avg_reader_cost: 0.0004 avg_batch_cost: 0.1069, avg_ips: 897.6453.
+Type : hazelnut Train [ Epoch 155/500 ], loss: 0.1155, avg_reader_cost: 0.0004 avg_batch_cost: 0.1063, avg_ips: 903.2837.
+Type : hazelnut Train [ Epoch 156/500 ], loss: 0.1273, avg_reader_cost: 1.2751 avg_batch_cost: 1.6123, avg_ips: 59.5430.
+Type : hazelnut Train [ Epoch 157/500 ], loss: 0.1015, avg_reader_cost: 1.2209 avg_batch_cost: 1.5661, avg_ips: 61.2995.
+Type : hazelnut Train [ Epoch 158/500 ], loss: 0.0940, avg_reader_cost: 1.2045 avg_batch_cost: 1.5448, avg_ips: 62.1444.
+Type : hazelnut Train [ Epoch 159/500 ], loss: 0.1647, avg_reader_cost: 1.2176 avg_batch_cost: 1.5596, avg_ips: 61.5535.
+Type : hazelnut Train [ Epoch 160/500 ], loss: 0.1428, avg_reader_cost: 1.2294 avg_batch_cost: 1.3761, avg_ips: 69.7625.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 160/500 ] max_auc: 0.9864 roc_auc : 0.943214.
+Type : hazelnut Train [ Epoch 161/500 ], loss: 0.1297, avg_reader_cost: 14.0894 avg_batch_cost: 14.5076, avg_ips: 6.6172.
+Type : hazelnut Train [ Epoch 162/500 ], loss: 0.1744, avg_reader_cost: 0.0003 avg_batch_cost: 0.3509, avg_ips: 273.5548.
+Type : hazelnut Train [ Epoch 163/500 ], loss: 0.2298, avg_reader_cost: 0.0003 avg_batch_cost: 0.1733, avg_ips: 553.8474.
+Type : hazelnut Train [ Epoch 164/500 ], loss: 0.1441, avg_reader_cost: 0.0004 avg_batch_cost: 0.3404, avg_ips: 282.0267.
+Type : hazelnut Train [ Epoch 165/500 ], loss: 0.1911, avg_reader_cost: 0.0003 avg_batch_cost: 0.3435, avg_ips: 279.5038.
+Type : hazelnut Train [ Epoch 166/500 ], loss: 0.1687, avg_reader_cost: 1.1760 avg_batch_cost: 1.3189, avg_ips: 72.7880.
+Type : hazelnut Train [ Epoch 167/500 ], loss: 0.1235, avg_reader_cost: 1.2673 avg_batch_cost: 1.6071, avg_ips: 59.7354.
+Type : hazelnut Train [ Epoch 168/500 ], loss: 0.1495, avg_reader_cost: 1.2689 avg_batch_cost: 1.4097, avg_ips: 68.1005.
+Type : hazelnut Train [ Epoch 169/500 ], loss: 0.1406, avg_reader_cost: 1.5867 avg_batch_cost: 1.9355, avg_ips: 49.6006.
+Type : hazelnut Train [ Epoch 170/500 ], loss: 0.1593, avg_reader_cost: 1.3148 avg_batch_cost: 1.6603, avg_ips: 57.8211.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 170/500 ] max_auc: 0.9864 roc_auc : 0.957857.
+Type : hazelnut Train [ Epoch 171/500 ], loss: 0.1421, avg_reader_cost: 14.5593 avg_batch_cost: 15.0126, avg_ips: 6.3946.
+Type : hazelnut Train [ Epoch 172/500 ], loss: 0.1863, avg_reader_cost: 0.0007 avg_batch_cost: 0.3482, avg_ips: 275.7090.
+Type : hazelnut Train [ Epoch 173/500 ], loss: 0.1224, avg_reader_cost: 0.0003 avg_batch_cost: 0.3442, avg_ips: 278.8828.
+Type : hazelnut Train [ Epoch 174/500 ], loss: 0.1441, avg_reader_cost: 0.0003 avg_batch_cost: 0.3453, avg_ips: 278.0579.
+Type : hazelnut Train [ Epoch 175/500 ], loss: 0.1242, avg_reader_cost: 0.0002 avg_batch_cost: 0.3447, avg_ips: 278.4820.
+Type : hazelnut Train [ Epoch 176/500 ], loss: 0.1376, avg_reader_cost: 1.0760 avg_batch_cost: 1.4167, avg_ips: 67.7645.
+Type : hazelnut Train [ Epoch 177/500 ], loss: 0.1285, avg_reader_cost: 1.2252 avg_batch_cost: 1.3620, avg_ips: 70.4871.
+Type : hazelnut Train [ Epoch 178/500 ], loss: 0.0876, avg_reader_cost: 1.2303 avg_batch_cost: 1.3837, avg_ips: 69.3808.
+Type : hazelnut Train [ Epoch 179/500 ], loss: 0.0893, avg_reader_cost: 1.2234 avg_batch_cost: 1.5659, avg_ips: 61.3056.
+Type : hazelnut Train [ Epoch 180/500 ], loss: 0.1585, avg_reader_cost: 1.2172 avg_batch_cost: 1.3581, avg_ips: 70.6875.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 180/500 ] max_auc: 0.9864 roc_auc : 0.971786.
+Type : hazelnut Train [ Epoch 181/500 ], loss: 0.0978, avg_reader_cost: 14.2000 avg_batch_cost: 14.6007, avg_ips: 6.5750.
+Type : hazelnut Train [ Epoch 182/500 ], loss: 0.1096, avg_reader_cost: 0.0003 avg_batch_cost: 0.3489, avg_ips: 275.1675.
+Type : hazelnut Train [ Epoch 183/500 ], loss: 0.1531, avg_reader_cost: 0.0002 avg_batch_cost: 0.1374, avg_ips: 698.7874.
+Type : hazelnut Train [ Epoch 184/500 ], loss: 0.0817, avg_reader_cost: 0.0008 avg_batch_cost: 0.3517, avg_ips: 272.9854.
+Type : hazelnut Train [ Epoch 185/500 ], loss: 0.0929, avg_reader_cost: 0.0006 avg_batch_cost: 0.3363, avg_ips: 285.4342.
+Type : hazelnut Train [ Epoch 186/500 ], loss: 0.1468, avg_reader_cost: 1.0907 avg_batch_cost: 1.1953, avg_ips: 80.3131.
+Type : hazelnut Train [ Epoch 187/500 ], loss: 0.1762, avg_reader_cost: 1.2912 avg_batch_cost: 1.6332, avg_ips: 58.7786.
+Type : hazelnut Train [ Epoch 188/500 ], loss: 0.1499, avg_reader_cost: 1.2186 avg_batch_cost: 1.5577, avg_ips: 61.6278.
+Type : hazelnut Train [ Epoch 189/500 ], loss: 0.1216, avg_reader_cost: 1.2275 avg_batch_cost: 1.5687, avg_ips: 61.1982.
+Type : hazelnut Train [ Epoch 190/500 ], loss: 0.1340, avg_reader_cost: 1.2163 avg_batch_cost: 1.5538, avg_ips: 61.7838.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 190/500 ] max_auc: 0.9864 roc_auc : 0.966786.
+Type : hazelnut Train [ Epoch 191/500 ], loss: 0.1014, avg_reader_cost: 15.1789 avg_batch_cost: 15.6175, avg_ips: 6.1470.
+Type : hazelnut Train [ Epoch 192/500 ], loss: 0.0972, avg_reader_cost: 0.0003 avg_batch_cost: 0.1470, avg_ips: 653.2463.
+Type : hazelnut Train [ Epoch 193/500 ], loss: 0.1350, avg_reader_cost: 0.0004 avg_batch_cost: 0.3531, avg_ips: 271.8532.
+Type : hazelnut Train [ Epoch 194/500 ], loss: 0.1225, avg_reader_cost: 0.0011 avg_batch_cost: 0.3435, avg_ips: 279.4702.
+Type : hazelnut Train [ Epoch 195/500 ], loss: 0.1051, avg_reader_cost: 0.0009 avg_batch_cost: 0.3560, avg_ips: 269.6341.
+Type : hazelnut Train [ Epoch 196/500 ], loss: 0.0835, avg_reader_cost: 1.1189 avg_batch_cost: 1.4634, avg_ips: 65.5988.
+Type : hazelnut Train [ Epoch 197/500 ], loss: 0.1636, avg_reader_cost: 1.2181 avg_batch_cost: 1.3587, avg_ips: 70.6534.
+Type : hazelnut Train [ Epoch 198/500 ], loss: 0.1135, avg_reader_cost: 1.2284 avg_batch_cost: 1.5737, avg_ips: 61.0021.
+Type : hazelnut Train [ Epoch 199/500 ], loss: 0.1469, avg_reader_cost: 1.2254 avg_batch_cost: 1.5697, avg_ips: 61.1564.
+Type : hazelnut Train [ Epoch 200/500 ], loss: 0.1685, avg_reader_cost: 1.2623 avg_batch_cost: 1.4037, avg_ips: 68.3908.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 200/500 ] max_auc: 0.9864 roc_auc : 0.940000.
+Type : hazelnut Train [ Epoch 201/500 ], loss: 0.0768, avg_reader_cost: 14.5005 avg_batch_cost: 14.9448, avg_ips: 6.4236.
+Type : hazelnut Train [ Epoch 202/500 ], loss: 0.0990, avg_reader_cost: 0.0003 avg_batch_cost: 0.3370, avg_ips: 284.8815.
+Type : hazelnut Train [ Epoch 203/500 ], loss: 0.1479, avg_reader_cost: 0.0004 avg_batch_cost: 0.3486, avg_ips: 275.3992.
+Type : hazelnut Train [ Epoch 204/500 ], loss: 0.1820, avg_reader_cost: 0.0002 avg_batch_cost: 0.3411, avg_ips: 281.4483.
+Type : hazelnut Train [ Epoch 205/500 ], loss: 0.1518, avg_reader_cost: 0.0003 avg_batch_cost: 0.3467, avg_ips: 276.8681.
+Type : hazelnut Train [ Epoch 206/500 ], loss: 0.0945, avg_reader_cost: 1.0925 avg_batch_cost: 1.4342, avg_ips: 66.9369.
+Type : hazelnut Train [ Epoch 207/500 ], loss: 0.1376, avg_reader_cost: 1.2153 avg_batch_cost: 1.3537, avg_ips: 70.9169.
+Type : hazelnut Train [ Epoch 208/500 ], loss: 0.1405, avg_reader_cost: 1.2271 avg_batch_cost: 1.5749, avg_ips: 60.9561.
+Type : hazelnut Train [ Epoch 209/500 ], loss: 0.1142, avg_reader_cost: 1.2156 avg_batch_cost: 1.5589, avg_ips: 61.5817.
+Type : hazelnut Train [ Epoch 210/500 ], loss: 0.1096, avg_reader_cost: 1.2209 avg_batch_cost: 1.5619, avg_ips: 61.4652.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 210/500 ] max_auc: 0.9864 roc_auc : 0.952857.
+Type : hazelnut Train [ Epoch 211/500 ], loss: 0.1240, avg_reader_cost: 13.9952 avg_batch_cost: 14.3648, avg_ips: 6.6830.
+Type : hazelnut Train [ Epoch 212/500 ], loss: 0.1101, avg_reader_cost: 0.0004 avg_batch_cost: 0.3497, avg_ips: 274.5534.
+Type : hazelnut Train [ Epoch 213/500 ], loss: 0.0991, avg_reader_cost: 0.0003 avg_batch_cost: 0.3455, avg_ips: 277.8660.
+Type : hazelnut Train [ Epoch 214/500 ], loss: 0.1252, avg_reader_cost: 0.0003 avg_batch_cost: 0.3532, avg_ips: 271.8264.
+Type : hazelnut Train [ Epoch 215/500 ], loss: 0.1342, avg_reader_cost: 0.0003 avg_batch_cost: 0.1421, avg_ips: 675.4781.
+Type : hazelnut Train [ Epoch 216/500 ], loss: 0.0982, avg_reader_cost: 1.1112 avg_batch_cost: 1.4663, avg_ips: 65.4694.
+Type : hazelnut Train [ Epoch 217/500 ], loss: 0.1006, avg_reader_cost: 1.2270 avg_batch_cost: 1.3523, avg_ips: 70.9909.
+Type : hazelnut Train [ Epoch 218/500 ], loss: 0.1756, avg_reader_cost: 1.2903 avg_batch_cost: 1.6577, avg_ips: 57.9124.
+Type : hazelnut Train [ Epoch 219/500 ], loss: 0.1110, avg_reader_cost: 1.2127 avg_batch_cost: 1.5955, avg_ips: 60.1693.
+Type : hazelnut Train [ Epoch 220/500 ], loss: 0.0790, avg_reader_cost: 1.2482 avg_batch_cost: 1.5893, avg_ips: 60.4051.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 220/500 ] max_auc: 0.9864 roc_auc : 0.959286.
+Type : hazelnut Train [ Epoch 221/500 ], loss: 0.1384, avg_reader_cost: 14.4759 avg_batch_cost: 14.6594, avg_ips: 6.5487.
+Type : hazelnut Train [ Epoch 222/500 ], loss: 0.1092, avg_reader_cost: 0.0004 avg_batch_cost: 0.3505, avg_ips: 273.9040.
+Type : hazelnut Train [ Epoch 223/500 ], loss: 0.0950, avg_reader_cost: 0.0003 avg_batch_cost: 0.3560, avg_ips: 269.6698.
+Type : hazelnut Train [ Epoch 224/500 ], loss: 0.0862, avg_reader_cost: 0.0003 avg_batch_cost: 0.3391, avg_ips: 283.0992.
+Type : hazelnut Train [ Epoch 225/500 ], loss: 0.1445, avg_reader_cost: 0.0005 avg_batch_cost: 0.3493, avg_ips: 274.8109.
+Type : hazelnut Train [ Epoch 226/500 ], loss: 0.1242, avg_reader_cost: 1.0906 avg_batch_cost: 1.4578, avg_ips: 65.8522.
+Type : hazelnut Train [ Epoch 227/500 ], loss: 0.1258, avg_reader_cost: 1.2056 avg_batch_cost: 1.5572, avg_ips: 61.6486.
+Type : hazelnut Train [ Epoch 228/500 ], loss: 0.0663, avg_reader_cost: 1.2486 avg_batch_cost: 1.5985, avg_ips: 60.0578.
+Type : hazelnut Train [ Epoch 229/500 ], loss: 0.1036, avg_reader_cost: 1.2352 avg_batch_cost: 1.5755, avg_ips: 60.9328.
+Type : hazelnut Train [ Epoch 230/500 ], loss: 0.1070, avg_reader_cost: 1.2187 avg_batch_cost: 1.3585, avg_ips: 70.6683.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 230/500 ] max_auc: 0.9864 roc_auc : 0.956071.
+Type : hazelnut Train [ Epoch 231/500 ], loss: 0.0692, avg_reader_cost: 14.2713 avg_batch_cost: 14.7276, avg_ips: 6.5184.
+Type : hazelnut Train [ Epoch 232/500 ], loss: 0.1034, avg_reader_cost: 0.0003 avg_batch_cost: 0.3508, avg_ips: 273.6985.
+Type : hazelnut Train [ Epoch 233/500 ], loss: 0.1159, avg_reader_cost: 0.0006 avg_batch_cost: 0.3561, avg_ips: 269.5664.
+Type : hazelnut Train [ Epoch 234/500 ], loss: 0.0789, avg_reader_cost: 0.0003 avg_batch_cost: 0.3436, avg_ips: 279.3626.
+Type : hazelnut Train [ Epoch 235/500 ], loss: 0.1165, avg_reader_cost: 0.0005 avg_batch_cost: 0.3482, avg_ips: 275.7421.
+Type : hazelnut Train [ Epoch 236/500 ], loss: 0.0635, avg_reader_cost: 1.0677 avg_batch_cost: 1.4130, avg_ips: 67.9382.
+Type : hazelnut Train [ Epoch 237/500 ], loss: 0.0514, avg_reader_cost: 1.2189 avg_batch_cost: 1.5648, avg_ips: 61.3515.
+Type : hazelnut Train [ Epoch 238/500 ], loss: 0.1188, avg_reader_cost: 1.2163 avg_batch_cost: 1.3546, avg_ips: 70.8681.
+Type : hazelnut Train [ Epoch 239/500 ], loss: 0.1694, avg_reader_cost: 1.2595 avg_batch_cost: 1.4024, avg_ips: 68.4555.
+Type : hazelnut Train [ Epoch 240/500 ], loss: 0.1000, avg_reader_cost: 1.2311 avg_batch_cost: 1.3753, avg_ips: 69.8012.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 240/500 ] max_auc: 0.9864 roc_auc : 0.936429.
+Type : hazelnut Train [ Epoch 241/500 ], loss: 0.0561, avg_reader_cost: 14.8451 avg_batch_cost: 15.2754, avg_ips: 6.2846.
+Type : hazelnut Train [ Epoch 242/500 ], loss: 0.0537, avg_reader_cost: 0.0003 avg_batch_cost: 0.1358, avg_ips: 707.1398.
+Type : hazelnut Train [ Epoch 243/500 ], loss: 0.1028, avg_reader_cost: 0.0003 avg_batch_cost: 0.3508, avg_ips: 273.6795.
+Type : hazelnut Train [ Epoch 244/500 ], loss: 0.1879, avg_reader_cost: 0.0003 avg_batch_cost: 0.3472, avg_ips: 276.4928.
+Type : hazelnut Train [ Epoch 245/500 ], loss: 0.1785, avg_reader_cost: 0.0005 avg_batch_cost: 0.3196, avg_ips: 300.3373.
+Type : hazelnut Train [ Epoch 246/500 ], loss: 0.1021, avg_reader_cost: 1.0889 avg_batch_cost: 1.4340, avg_ips: 66.9442.
+Type : hazelnut Train [ Epoch 247/500 ], loss: 0.1227, avg_reader_cost: 1.2217 avg_batch_cost: 1.5653, avg_ips: 61.3297.
+Type : hazelnut Train [ Epoch 248/500 ], loss: 0.0915, avg_reader_cost: 1.2201 avg_batch_cost: 1.3265, avg_ips: 72.3712.
+Type : hazelnut Train [ Epoch 249/500 ], loss: 0.1187, avg_reader_cost: 1.3100 avg_batch_cost: 1.6541, avg_ips: 58.0379.
+Type : hazelnut Train [ Epoch 250/500 ], loss: 0.0991, avg_reader_cost: 1.2641 avg_batch_cost: 1.6060, avg_ips: 59.7754.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 250/500 ] max_auc: 0.9864 roc_auc : 0.961786.
+Type : hazelnut Train [ Epoch 251/500 ], loss: 0.0952, avg_reader_cost: 15.6760 avg_batch_cost: 16.0927, avg_ips: 5.9655.
+Type : hazelnut Train [ Epoch 252/500 ], loss: 0.0693, avg_reader_cost: 0.0003 avg_batch_cost: 0.4755, avg_ips: 201.9067.
+Type : hazelnut Train [ Epoch 253/500 ], loss: 0.0993, avg_reader_cost: 0.0003 avg_batch_cost: 0.3521, avg_ips: 272.6372.
+Type : hazelnut Train [ Epoch 254/500 ], loss: 0.1070, avg_reader_cost: 0.0003 avg_batch_cost: 0.3496, avg_ips: 274.5781.
+Type : hazelnut Train [ Epoch 255/500 ], loss: 0.1118, avg_reader_cost: 0.0003 avg_batch_cost: 0.3451, avg_ips: 278.1718.
+Type : hazelnut Train [ Epoch 256/500 ], loss: 0.1243, avg_reader_cost: 0.9348 avg_batch_cost: 1.2814, avg_ips: 74.9174.
+Type : hazelnut Train [ Epoch 257/500 ], loss: 0.0939, avg_reader_cost: 1.2137 avg_batch_cost: 1.5498, avg_ips: 61.9453.
+Type : hazelnut Train [ Epoch 258/500 ], loss: 0.0809, avg_reader_cost: 1.2607 avg_batch_cost: 1.6131, avg_ips: 59.5140.
+Type : hazelnut Train [ Epoch 259/500 ], loss: 0.0803, avg_reader_cost: 1.2896 avg_batch_cost: 1.4342, avg_ips: 66.9376.
+Type : hazelnut Train [ Epoch 260/500 ], loss: 0.1035, avg_reader_cost: 1.2906 avg_batch_cost: 1.4344, avg_ips: 66.9287.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 260/500 ] max_auc: 0.9864 roc_auc : 0.968214.
+Type : hazelnut Train [ Epoch 261/500 ], loss: 0.1188, avg_reader_cost: 14.3627 avg_batch_cost: 14.8056, avg_ips: 6.4840.
+Type : hazelnut Train [ Epoch 262/500 ], loss: 0.0890, avg_reader_cost: 0.0002 avg_batch_cost: 0.3401, avg_ips: 282.2705.
+Type : hazelnut Train [ Epoch 263/500 ], loss: 0.0814, avg_reader_cost: 0.0008 avg_batch_cost: 0.3507, avg_ips: 273.7082.
+Type : hazelnut Train [ Epoch 264/500 ], loss: 0.1498, avg_reader_cost: 0.0002 avg_batch_cost: 0.3434, avg_ips: 279.5459.
+Type : hazelnut Train [ Epoch 265/500 ], loss: 0.0784, avg_reader_cost: 0.0004 avg_batch_cost: 0.3464, avg_ips: 277.1504.
+Type : hazelnut Train [ Epoch 266/500 ], loss: 0.0986, avg_reader_cost: 1.1028 avg_batch_cost: 1.4499, avg_ips: 66.2122.
+Type : hazelnut Train [ Epoch 267/500 ], loss: 0.0986, avg_reader_cost: 1.2303 avg_batch_cost: 1.5777, avg_ips: 60.8472.
+Type : hazelnut Train [ Epoch 268/500 ], loss: 0.1829, avg_reader_cost: 1.2216 avg_batch_cost: 1.5659, avg_ips: 61.3077.
+Type : hazelnut Train [ Epoch 269/500 ], loss: 0.0497, avg_reader_cost: 1.2134 avg_batch_cost: 1.5560, avg_ips: 61.6982.
+Type : hazelnut Train [ Epoch 270/500 ], loss: 0.1154, avg_reader_cost: 1.2311 avg_batch_cost: 1.3878, avg_ips: 69.1748.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 270/500 ] max_auc: 0.9864 roc_auc : 0.955357.
+Type : hazelnut Train [ Epoch 271/500 ], loss: 0.0800, avg_reader_cost: 14.7565 avg_batch_cost: 15.2083, avg_ips: 6.3123.
+Type : hazelnut Train [ Epoch 272/500 ], loss: 0.1067, avg_reader_cost: 0.0005 avg_batch_cost: 0.3546, avg_ips: 270.7515.
+Type : hazelnut Train [ Epoch 273/500 ], loss: 0.0747, avg_reader_cost: 0.0004 avg_batch_cost: 0.3523, avg_ips: 272.4875.
+Type : hazelnut Train [ Epoch 274/500 ], loss: 0.1331, avg_reader_cost: 0.0002 avg_batch_cost: 0.1558, avg_ips: 616.2807.
+Type : hazelnut Train [ Epoch 275/500 ], loss: 0.0998, avg_reader_cost: 0.0012 avg_batch_cost: 0.3528, avg_ips: 272.1441.
+Type : hazelnut Train [ Epoch 276/500 ], loss: 0.1110, avg_reader_cost: 1.0916 avg_batch_cost: 1.4397, avg_ips: 66.6800.
+Type : hazelnut Train [ Epoch 277/500 ], loss: 0.0947, avg_reader_cost: 1.2177 avg_batch_cost: 1.3668, avg_ips: 70.2374.
+Type : hazelnut Train [ Epoch 278/500 ], loss: 0.0599, avg_reader_cost: 1.2261 avg_batch_cost: 1.5750, avg_ips: 60.9539.
+Type : hazelnut Train [ Epoch 279/500 ], loss: 0.1117, avg_reader_cost: 1.2118 avg_batch_cost: 1.3163, avg_ips: 72.9345.
+Type : hazelnut Train [ Epoch 280/500 ], loss: 0.0789, avg_reader_cost: 1.2878 avg_batch_cost: 1.6409, avg_ips: 58.5059.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 280/500 ] max_auc: 0.9864 roc_auc : 0.954286.
+Type : hazelnut Train [ Epoch 281/500 ], loss: 0.0933, avg_reader_cost: 14.2719 avg_batch_cost: 14.6450, avg_ips: 6.5551.
+Type : hazelnut Train [ Epoch 282/500 ], loss: 0.1020, avg_reader_cost: 0.0014 avg_batch_cost: 0.3450, avg_ips: 278.2897.
+Type : hazelnut Train [ Epoch 283/500 ], loss: 0.1064, avg_reader_cost: 0.0002 avg_batch_cost: 0.1625, avg_ips: 590.5876.
+Type : hazelnut Train [ Epoch 284/500 ], loss: 0.0789, avg_reader_cost: 0.0005 avg_batch_cost: 0.3479, avg_ips: 275.9325.
+Type : hazelnut Train [ Epoch 285/500 ], loss: 0.1030, avg_reader_cost: 0.0003 avg_batch_cost: 0.3510, avg_ips: 273.5419.
+Type : hazelnut Train [ Epoch 286/500 ], loss: 0.1482, avg_reader_cost: 1.0820 avg_batch_cost: 1.2263, avg_ips: 78.2818.
+Type : hazelnut Train [ Epoch 287/500 ], loss: 0.1483, avg_reader_cost: 1.2390 avg_batch_cost: 1.5765, avg_ips: 60.8930.
+Type : hazelnut Train [ Epoch 288/500 ], loss: 0.1156, avg_reader_cost: 1.2304 avg_batch_cost: 1.5754, avg_ips: 60.9361.
+Type : hazelnut Train [ Epoch 289/500 ], loss: 0.0868, avg_reader_cost: 1.2328 avg_batch_cost: 1.5777, avg_ips: 60.8487.
+Type : hazelnut Train [ Epoch 290/500 ], loss: 0.1205, avg_reader_cost: 1.2327 avg_batch_cost: 1.5699, avg_ips: 61.1488.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 290/500 ] max_auc: 0.9864 roc_auc : 0.972857.
+Type : hazelnut Train [ Epoch 291/500 ], loss: 0.0928, avg_reader_cost: 14.7403 avg_batch_cost: 15.1446, avg_ips: 6.3389.
+Type : hazelnut Train [ Epoch 292/500 ], loss: 0.0928, avg_reader_cost: 0.0005 avg_batch_cost: 0.3568, avg_ips: 269.0629.
+Type : hazelnut Train [ Epoch 293/500 ], loss: 0.0415, avg_reader_cost: 0.0003 avg_batch_cost: 0.1392, avg_ips: 689.4699.
+Type : hazelnut Train [ Epoch 294/500 ], loss: 0.0749, avg_reader_cost: 0.0005 avg_batch_cost: 0.3527, avg_ips: 272.1501.
+Type : hazelnut Train [ Epoch 295/500 ], loss: 0.1123, avg_reader_cost: 0.0002 avg_batch_cost: 0.3417, avg_ips: 280.9497.
+Type : hazelnut Train [ Epoch 296/500 ], loss: 0.1096, avg_reader_cost: 1.3345 avg_batch_cost: 1.6755, avg_ips: 57.2947.
+Type : hazelnut Train [ Epoch 297/500 ], loss: 0.0803, avg_reader_cost: 1.3982 avg_batch_cost: 1.7468, avg_ips: 54.9591.
+Type : hazelnut Train [ Epoch 298/500 ], loss: 0.0619, avg_reader_cost: 2.5584 avg_batch_cost: 2.8993, avg_ips: 33.1113.
+Type : hazelnut Train [ Epoch 299/500 ], loss: 0.0664, avg_reader_cost: 2.5160 avg_batch_cost: 2.8517, avg_ips: 33.6646.
+Type : hazelnut Train [ Epoch 300/500 ], loss: 0.0771, avg_reader_cost: 2.6285 avg_batch_cost: 2.9905, avg_ips: 32.1017.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 300/500 ] max_auc: 0.9864 roc_auc : 0.950000.
+Type : hazelnut Train [ Epoch 301/500 ], loss: 0.1214, avg_reader_cost: 14.4078 avg_batch_cost: 14.8349, avg_ips: 6.4712.
+Type : hazelnut Train [ Epoch 302/500 ], loss: 0.0597, avg_reader_cost: 0.0011 avg_batch_cost: 0.3411, avg_ips: 281.4526.
+Type : hazelnut Train [ Epoch 303/500 ], loss: 0.0877, avg_reader_cost: 0.0008 avg_batch_cost: 0.3491, avg_ips: 275.0063.
+Type : hazelnut Train [ Epoch 304/500 ], loss: 0.1235, avg_reader_cost: 0.0003 avg_batch_cost: 0.3531, avg_ips: 271.9107.
+Type : hazelnut Train [ Epoch 305/500 ], loss: 0.1252, avg_reader_cost: 0.0003 avg_batch_cost: 0.3455, avg_ips: 277.8181.
+Type : hazelnut Train [ Epoch 306/500 ], loss: 0.1525, avg_reader_cost: 1.0859 avg_batch_cost: 1.4317, avg_ips: 67.0522.
+Type : hazelnut Train [ Epoch 307/500 ], loss: 0.0928, avg_reader_cost: 1.2213 avg_batch_cost: 1.5664, avg_ips: 61.2877.
+Type : hazelnut Train [ Epoch 308/500 ], loss: 0.1246, avg_reader_cost: 1.2153 avg_batch_cost: 1.3797, avg_ips: 69.5820.
+Type : hazelnut Train [ Epoch 309/500 ], loss: 0.1579, avg_reader_cost: 1.2198 avg_batch_cost: 1.3606, avg_ips: 70.5557.
+Type : hazelnut Train [ Epoch 310/500 ], loss: 0.1299, avg_reader_cost: 1.2350 avg_batch_cost: 1.3414, avg_ips: 71.5669.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 310/500 ] max_auc: 0.9864 roc_auc : 0.957500.
+Type : hazelnut Train [ Epoch 311/500 ], loss: 0.0769, avg_reader_cost: 14.0142 avg_batch_cost: 14.3730, avg_ips: 6.6792.
+Type : hazelnut Train [ Epoch 312/500 ], loss: 0.1463, avg_reader_cost: 1.2256 avg_batch_cost: 1.3708, avg_ips: 70.0325.
+Type : hazelnut Train [ Epoch 313/500 ], loss: 0.0830, avg_reader_cost: 1.2279 avg_batch_cost: 1.5708, avg_ips: 61.1150.
+Type : hazelnut Train [ Epoch 314/500 ], loss: 0.0939, avg_reader_cost: 1.2355 avg_batch_cost: 1.5880, avg_ips: 60.4521.
+Type : hazelnut Train [ Epoch 315/500 ], loss: 0.0785, avg_reader_cost: 1.2130 avg_batch_cost: 1.5593, avg_ips: 61.5643.
+Type : hazelnut Train [ Epoch 316/500 ], loss: 0.0775, avg_reader_cost: 1.2155 avg_batch_cost: 1.5586, avg_ips: 61.5942.
+Type : hazelnut Train [ Epoch 317/500 ], loss: 0.1162, avg_reader_cost: 1.2187 avg_batch_cost: 1.3591, avg_ips: 70.6362.
+Type : hazelnut Train [ Epoch 318/500 ], loss: 0.1268, avg_reader_cost: 1.2154 avg_batch_cost: 1.5611, avg_ips: 61.4961.
+Type : hazelnut Train [ Epoch 319/500 ], loss: 0.0869, avg_reader_cost: 1.2264 avg_batch_cost: 1.5654, avg_ips: 61.3265.
+Type : hazelnut Train [ Epoch 320/500 ], loss: 0.1094, avg_reader_cost: 1.2214 avg_batch_cost: 1.5744, avg_ips: 60.9738.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 320/500 ] max_auc: 0.9864 roc_auc : 0.933571.
+Type : hazelnut Train [ Epoch 321/500 ], loss: 0.0806, avg_reader_cost: 14.5289 avg_batch_cost: 14.8870, avg_ips: 6.4486.
+Type : hazelnut Train [ Epoch 322/500 ], loss: 0.0980, avg_reader_cost: 0.0003 avg_batch_cost: 0.1437, avg_ips: 668.0900.
+Type : hazelnut Train [ Epoch 323/500 ], loss: 0.0701, avg_reader_cost: 0.0005 avg_batch_cost: 0.3434, avg_ips: 279.5420.
+Type : hazelnut Train [ Epoch 324/500 ], loss: 0.1209, avg_reader_cost: 0.0013 avg_batch_cost: 0.3513, avg_ips: 273.2475.
+Type : hazelnut Train [ Epoch 325/500 ], loss: 0.1526, avg_reader_cost: 0.0003 avg_batch_cost: 0.3568, avg_ips: 269.0805.
+Type : hazelnut Train [ Epoch 326/500 ], loss: 0.1210, avg_reader_cost: 1.1016 avg_batch_cost: 1.2663, avg_ips: 75.8126.
+Type : hazelnut Train [ Epoch 327/500 ], loss: 0.1137, avg_reader_cost: 1.2417 avg_batch_cost: 1.5833, avg_ips: 60.6341.
+Type : hazelnut Train [ Epoch 328/500 ], loss: 0.1260, avg_reader_cost: 1.2511 avg_batch_cost: 1.5911, avg_ips: 60.3359.
+Type : hazelnut Train [ Epoch 329/500 ], loss: 0.1113, avg_reader_cost: 1.2388 avg_batch_cost: 1.5834, avg_ips: 60.6282.
+Type : hazelnut Train [ Epoch 330/500 ], loss: 0.1302, avg_reader_cost: 1.3017 avg_batch_cost: 1.6491, avg_ips: 58.2137.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 330/500 ] max_auc: 0.9864 roc_auc : 0.951071.
+Type : hazelnut Train [ Epoch 331/500 ], loss: 0.1045, avg_reader_cost: 14.2148 avg_batch_cost: 14.6101, avg_ips: 6.5708.
+Type : hazelnut Train [ Epoch 332/500 ], loss: 0.1051, avg_reader_cost: 0.0002 avg_batch_cost: 0.3511, avg_ips: 273.4227.
+Type : hazelnut Train [ Epoch 333/500 ], loss: 0.1023, avg_reader_cost: 0.0003 avg_batch_cost: 0.3383, avg_ips: 283.8132.
+Type : hazelnut Train [ Epoch 334/500 ], loss: 0.1173, avg_reader_cost: 0.0005 avg_batch_cost: 0.1166, avg_ips: 823.3526.
+Type : hazelnut Train [ Epoch 335/500 ], loss: 0.0876, avg_reader_cost: 0.0004 avg_batch_cost: 0.3491, avg_ips: 274.9969.
+Type : hazelnut Train [ Epoch 336/500 ], loss: 0.0632, avg_reader_cost: 1.0962 avg_batch_cost: 1.4390, avg_ips: 66.7151.
+Type : hazelnut Train [ Epoch 337/500 ], loss: 0.0695, avg_reader_cost: 1.2102 avg_batch_cost: 1.3473, avg_ips: 71.2511.
+Type : hazelnut Train [ Epoch 338/500 ], loss: 0.0929, avg_reader_cost: 1.2226 avg_batch_cost: 1.3771, avg_ips: 69.7141.
+Type : hazelnut Train [ Epoch 339/500 ], loss: 0.0876, avg_reader_cost: 1.2307 avg_batch_cost: 1.5793, avg_ips: 60.7877.
+Type : hazelnut Train [ Epoch 340/500 ], loss: 0.1081, avg_reader_cost: 1.2169 avg_batch_cost: 1.3508, avg_ips: 71.0709.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 340/500 ] max_auc: 0.9864 roc_auc : 0.949286.
+Type : hazelnut Train [ Epoch 341/500 ], loss: 0.0727, avg_reader_cost: 12.8366 avg_batch_cost: 12.9602, avg_ips: 7.4073.
+Type : hazelnut Train [ Epoch 342/500 ], loss: 0.0985, avg_reader_cost: 1.2797 avg_batch_cost: 1.4147, avg_ips: 67.8585.
+Type : hazelnut Train [ Epoch 343/500 ], loss: 0.1026, avg_reader_cost: 1.2427 avg_batch_cost: 1.5817, avg_ips: 60.6958.
+Type : hazelnut Train [ Epoch 344/500 ], loss: 0.1036, avg_reader_cost: 1.2382 avg_batch_cost: 1.3931, avg_ips: 68.9105.
+Type : hazelnut Train [ Epoch 345/500 ], loss: 0.1084, avg_reader_cost: 1.2324 avg_batch_cost: 1.3771, avg_ips: 69.7139.
+Type : hazelnut Train [ Epoch 346/500 ], loss: 0.1100, avg_reader_cost: 1.2321 avg_batch_cost: 1.5762, avg_ips: 60.9064.
+Type : hazelnut Train [ Epoch 347/500 ], loss: 0.0924, avg_reader_cost: 1.2345 avg_batch_cost: 1.5819, avg_ips: 60.6853.
+Type : hazelnut Train [ Epoch 348/500 ], loss: 0.1383, avg_reader_cost: 1.2292 avg_batch_cost: 1.5759, avg_ips: 60.9169.
+Type : hazelnut Train [ Epoch 349/500 ], loss: 0.1304, avg_reader_cost: 1.2324 avg_batch_cost: 1.3778, avg_ips: 69.6738.
+Type : hazelnut Train [ Epoch 350/500 ], loss: 0.0805, avg_reader_cost: 1.2387 avg_batch_cost: 1.5890, avg_ips: 60.4169.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 350/500 ] max_auc: 0.9864 roc_auc : 0.971429.
+Type : hazelnut Train [ Epoch 351/500 ], loss: 0.0921, avg_reader_cost: 14.7131 avg_batch_cost: 15.0894, avg_ips: 6.3621.
+Type : hazelnut Train [ Epoch 352/500 ], loss: 0.0588, avg_reader_cost: 0.0003 avg_batch_cost: 0.3553, avg_ips: 270.2107.
+Type : hazelnut Train [ Epoch 353/500 ], loss: 0.0876, avg_reader_cost: 0.0003 avg_batch_cost: 0.3465, avg_ips: 277.0224.
+Type : hazelnut Train [ Epoch 354/500 ], loss: 0.0793, avg_reader_cost: 0.0003 avg_batch_cost: 0.3446, avg_ips: 278.6215.
+Type : hazelnut Train [ Epoch 355/500 ], loss: 0.1042, avg_reader_cost: 0.0002 avg_batch_cost: 0.3458, avg_ips: 277.5869.
+Type : hazelnut Train [ Epoch 356/500 ], loss: 0.0958, avg_reader_cost: 1.1083 avg_batch_cost: 1.2527, avg_ips: 76.6346.
+Type : hazelnut Train [ Epoch 357/500 ], loss: 0.0639, avg_reader_cost: 1.2441 avg_batch_cost: 1.3787, avg_ips: 69.6299.
+Type : hazelnut Train [ Epoch 358/500 ], loss: 0.0387, avg_reader_cost: 1.2285 avg_batch_cost: 1.5680, avg_ips: 61.2243.
+Type : hazelnut Train [ Epoch 359/500 ], loss: 0.0960, avg_reader_cost: 1.2234 avg_batch_cost: 1.3685, avg_ips: 70.1508.
+Type : hazelnut Train [ Epoch 360/500 ], loss: 0.1084, avg_reader_cost: 1.2253 avg_batch_cost: 1.3797, avg_ips: 69.5783.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 360/500 ] max_auc: 0.9864 roc_auc : 0.974643.
+Type : hazelnut Train [ Epoch 361/500 ], loss: 0.0682, avg_reader_cost: 15.2038 avg_batch_cost: 15.5762, avg_ips: 6.1633.
+Type : hazelnut Train [ Epoch 362/500 ], loss: 0.1279, avg_reader_cost: 0.0003 avg_batch_cost: 0.1632, avg_ips: 588.3646.
+Type : hazelnut Train [ Epoch 363/500 ], loss: 0.0764, avg_reader_cost: 0.0003 avg_batch_cost: 0.3776, avg_ips: 254.2659.
+Type : hazelnut Train [ Epoch 364/500 ], loss: 0.0980, avg_reader_cost: 0.0002 avg_batch_cost: 0.3506, avg_ips: 273.8314.
+Type : hazelnut Train [ Epoch 365/500 ], loss: 0.1436, avg_reader_cost: 0.0003 avg_batch_cost: 0.1354, avg_ips: 708.7517.
+Type : hazelnut Train [ Epoch 366/500 ], loss: 0.0796, avg_reader_cost: 1.1172 avg_batch_cost: 1.2557, avg_ips: 76.4514.
+Type : hazelnut Train [ Epoch 367/500 ], loss: 0.1043, avg_reader_cost: 1.2405 avg_batch_cost: 1.3804, avg_ips: 69.5471.
+Type : hazelnut Train [ Epoch 368/500 ], loss: 0.1335, avg_reader_cost: 1.2856 avg_batch_cost: 1.4457, avg_ips: 66.4047.
+Type : hazelnut Train [ Epoch 369/500 ], loss: 0.0967, avg_reader_cost: 1.2897 avg_batch_cost: 1.4460, avg_ips: 66.3913.
+Type : hazelnut Train [ Epoch 370/500 ], loss: 0.1054, avg_reader_cost: 1.2704 avg_batch_cost: 1.6125, avg_ips: 59.5359.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 370/500 ] max_auc: 0.9864 roc_auc : 0.959643.
+Type : hazelnut Train [ Epoch 371/500 ], loss: 0.1490, avg_reader_cost: 13.4112 avg_batch_cost: 13.5242, avg_ips: 7.0984.
+Type : hazelnut Train [ Epoch 372/500 ], loss: 0.0934, avg_reader_cost: 0.0003 avg_batch_cost: 0.1055, avg_ips: 910.2840.
+Type : hazelnut Train [ Epoch 373/500 ], loss: 0.0697, avg_reader_cost: 1.2704 avg_batch_cost: 1.6138, avg_ips: 59.4882.
+Type : hazelnut Train [ Epoch 374/500 ], loss: 0.0832, avg_reader_cost: 1.2167 avg_batch_cost: 1.5628, avg_ips: 61.4286.
+Type : hazelnut Train [ Epoch 375/500 ], loss: 0.0913, avg_reader_cost: 1.2199 avg_batch_cost: 1.5663, avg_ips: 61.2906.
+Type : hazelnut Train [ Epoch 376/500 ], loss: 0.0900, avg_reader_cost: 1.2101 avg_batch_cost: 1.5533, avg_ips: 61.8038.
+Type : hazelnut Train [ Epoch 377/500 ], loss: 0.0989, avg_reader_cost: 1.2148 avg_batch_cost: 1.3575, avg_ips: 70.7180.
+Type : hazelnut Train [ Epoch 378/500 ], loss: 0.0763, avg_reader_cost: 1.2222 avg_batch_cost: 1.3669, avg_ips: 70.2343.
+Type : hazelnut Train [ Epoch 379/500 ], loss: 0.0735, avg_reader_cost: 1.2310 avg_batch_cost: 1.3670, avg_ips: 70.2273.
+Type : hazelnut Train [ Epoch 380/500 ], loss: 0.0950, avg_reader_cost: 1.2199 avg_batch_cost: 1.5650, avg_ips: 61.3405.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 380/500 ] max_auc: 0.9864 roc_auc : 0.926429.
+Type : hazelnut Train [ Epoch 381/500 ], loss: 0.0787, avg_reader_cost: 13.9696 avg_batch_cost: 14.3516, avg_ips: 6.6892.
+Type : hazelnut Train [ Epoch 382/500 ], loss: 0.0465, avg_reader_cost: 0.0003 avg_batch_cost: 0.3436, avg_ips: 279.4059.
+Type : hazelnut Train [ Epoch 383/500 ], loss: 0.0929, avg_reader_cost: 0.0003 avg_batch_cost: 0.2146, avg_ips: 447.2732.
+Type : hazelnut Train [ Epoch 384/500 ], loss: 0.0928, avg_reader_cost: 0.0005 avg_batch_cost: 0.3511, avg_ips: 273.4026.
+Type : hazelnut Train [ Epoch 385/500 ], loss: 0.0565, avg_reader_cost: 0.0003 avg_batch_cost: 0.3395, avg_ips: 282.7797.
+Type : hazelnut Train [ Epoch 386/500 ], loss: 0.0629, avg_reader_cost: 1.0842 avg_batch_cost: 1.4214, avg_ips: 67.5380.
+Type : hazelnut Train [ Epoch 387/500 ], loss: 0.0601, avg_reader_cost: 1.2148 avg_batch_cost: 1.5588, avg_ips: 61.5875.
+Type : hazelnut Train [ Epoch 388/500 ], loss: 0.1004, avg_reader_cost: 1.2120 avg_batch_cost: 1.5566, avg_ips: 61.6732.
+Type : hazelnut Train [ Epoch 389/500 ], loss: 0.1040, avg_reader_cost: 1.2205 avg_batch_cost: 1.5649, avg_ips: 61.3451.
+Type : hazelnut Train [ Epoch 390/500 ], loss: 0.0836, avg_reader_cost: 1.2302 avg_batch_cost: 1.5693, avg_ips: 61.1737.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 390/500 ] max_auc: 0.9864 roc_auc : 0.950714.
+Type : hazelnut Train [ Epoch 391/500 ], loss: 0.1300, avg_reader_cost: 14.0688 avg_batch_cost: 14.4689, avg_ips: 6.6349.
+Type : hazelnut Train [ Epoch 392/500 ], loss: 0.1053, avg_reader_cost: 0.0003 avg_batch_cost: 0.1682, avg_ips: 570.6512.
+Type : hazelnut Train [ Epoch 393/500 ], loss: 0.0873, avg_reader_cost: 0.0004 avg_batch_cost: 0.3525, avg_ips: 272.3165.
+Type : hazelnut Train [ Epoch 394/500 ], loss: 0.0563, avg_reader_cost: 0.0020 avg_batch_cost: 0.1427, avg_ips: 672.7492.
+Type : hazelnut Train [ Epoch 395/500 ], loss: 0.1173, avg_reader_cost: 0.0004 avg_batch_cost: 0.3513, avg_ips: 273.2991.
+Type : hazelnut Train [ Epoch 396/500 ], loss: 0.0867, avg_reader_cost: 1.1628 avg_batch_cost: 1.3080, avg_ips: 73.3950.
+Type : hazelnut Train [ Epoch 397/500 ], loss: 0.1123, avg_reader_cost: 1.2976 avg_batch_cost: 1.6386, avg_ips: 58.5856.
+Type : hazelnut Train [ Epoch 398/500 ], loss: 0.0626, avg_reader_cost: 1.2254 avg_batch_cost: 1.5643, avg_ips: 61.3684.
+Type : hazelnut Train [ Epoch 399/500 ], loss: 0.0413, avg_reader_cost: 1.2341 avg_batch_cost: 1.5778, avg_ips: 60.8433.
+Type : hazelnut Train [ Epoch 400/500 ], loss: 0.0487, avg_reader_cost: 1.2526 avg_batch_cost: 1.3913, avg_ips: 69.0026.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 400/500 ] max_auc: 0.9864 roc_auc : 0.967857.
+Type : hazelnut Train [ Epoch 401/500 ], loss: 0.0621, avg_reader_cost: 14.0563 avg_batch_cost: 14.2462, avg_ips: 6.7386.
+Type : hazelnut Train [ Epoch 402/500 ], loss: 0.0693, avg_reader_cost: 0.0004 avg_batch_cost: 0.1065, avg_ips: 901.1631.
+Type : hazelnut Train [ Epoch 403/500 ], loss: 0.0831, avg_reader_cost: 0.0004 avg_batch_cost: 0.1054, avg_ips: 910.8317.
+Type : hazelnut Train [ Epoch 404/500 ], loss: 0.0679, avg_reader_cost: 1.3268 avg_batch_cost: 1.6644, avg_ips: 57.6799.
+Type : hazelnut Train [ Epoch 405/500 ], loss: 0.1595, avg_reader_cost: 1.2445 avg_batch_cost: 1.4081, avg_ips: 68.1765.
+Type : hazelnut Train [ Epoch 406/500 ], loss: 0.0498, avg_reader_cost: 1.2998 avg_batch_cost: 1.6408, avg_ips: 58.5088.
+Type : hazelnut Train [ Epoch 407/500 ], loss: 0.0569, avg_reader_cost: 1.2694 avg_batch_cost: 1.3855, avg_ips: 69.2885.
+Type : hazelnut Train [ Epoch 408/500 ], loss: 0.1131, avg_reader_cost: 1.2623 avg_batch_cost: 1.4002, avg_ips: 68.5628.
+Type : hazelnut Train [ Epoch 409/500 ], loss: 0.0633, avg_reader_cost: 1.2795 avg_batch_cost: 1.6266, avg_ips: 59.0184.
+Type : hazelnut Train [ Epoch 410/500 ], loss: 0.0971, avg_reader_cost: 1.2672 avg_batch_cost: 1.4292, avg_ips: 67.1721.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 410/500 ] max_auc: 0.9864 roc_auc : 0.933929.
+Type : hazelnut Train [ Epoch 411/500 ], loss: 0.1120, avg_reader_cost: 14.3812 avg_batch_cost: 14.7760, avg_ips: 6.4970.
+Type : hazelnut Train [ Epoch 412/500 ], loss: 0.0718, avg_reader_cost: 0.0002 avg_batch_cost: 0.1944, avg_ips: 493.8954.
+Type : hazelnut Train [ Epoch 413/500 ], loss: 0.0841, avg_reader_cost: 0.0003 avg_batch_cost: 0.3454, avg_ips: 277.9084.
+Type : hazelnut Train [ Epoch 414/500 ], loss: 0.0763, avg_reader_cost: 0.0002 avg_batch_cost: 0.1638, avg_ips: 586.0516.
+Type : hazelnut Train [ Epoch 415/500 ], loss: 0.1043, avg_reader_cost: 0.0003 avg_batch_cost: 0.3392, avg_ips: 283.0208.
+Type : hazelnut Train [ Epoch 416/500 ], loss: 0.0355, avg_reader_cost: 1.1144 avg_batch_cost: 1.4535, avg_ips: 66.0454.
+Type : hazelnut Train [ Epoch 417/500 ], loss: 0.1130, avg_reader_cost: 1.2216 avg_batch_cost: 1.5595, avg_ips: 61.5593.
+Type : hazelnut Train [ Epoch 418/500 ], loss: 0.0547, avg_reader_cost: 1.2221 avg_batch_cost: 1.3545, avg_ips: 70.8772.
+Type : hazelnut Train [ Epoch 419/500 ], loss: 0.0909, avg_reader_cost: 1.2147 avg_batch_cost: 1.5577, avg_ips: 61.6309.
+Type : hazelnut Train [ Epoch 420/500 ], loss: 0.0689, avg_reader_cost: 1.2101 avg_batch_cost: 1.3587, avg_ips: 70.6541.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 420/500 ] max_auc: 0.9864 roc_auc : 0.953214.
+Type : hazelnut Train [ Epoch 421/500 ], loss: 0.0874, avg_reader_cost: 14.5602 avg_batch_cost: 14.8919, avg_ips: 6.4465.
+Type : hazelnut Train [ Epoch 422/500 ], loss: 0.0611, avg_reader_cost: 0.0011 avg_batch_cost: 0.3484, avg_ips: 275.5566.
+Type : hazelnut Train [ Epoch 423/500 ], loss: 0.0917, avg_reader_cost: 0.0006 avg_batch_cost: 0.3440, avg_ips: 279.1039.
+Type : hazelnut Train [ Epoch 424/500 ], loss: 0.1129, avg_reader_cost: 0.0003 avg_batch_cost: 0.1470, avg_ips: 652.9984.
+Type : hazelnut Train [ Epoch 425/500 ], loss: 0.1166, avg_reader_cost: 0.0003 avg_batch_cost: 0.3458, avg_ips: 277.5841.
+Type : hazelnut Train [ Epoch 426/500 ], loss: 0.1196, avg_reader_cost: 1.1246 avg_batch_cost: 1.3697, avg_ips: 70.0901.
+Type : hazelnut Train [ Epoch 427/500 ], loss: 0.1001, avg_reader_cost: 1.2447 avg_batch_cost: 1.5855, avg_ips: 60.5484.
+Type : hazelnut Train [ Epoch 428/500 ], loss: 0.1235, avg_reader_cost: 1.2889 avg_batch_cost: 1.6261, avg_ips: 59.0359.
+Type : hazelnut Train [ Epoch 429/500 ], loss: 0.0927, avg_reader_cost: 1.2731 avg_batch_cost: 1.6137, avg_ips: 59.4890.
+Type : hazelnut Train [ Epoch 430/500 ], loss: 0.1480, avg_reader_cost: 1.2933 avg_batch_cost: 1.6375, avg_ips: 58.6269.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 430/500 ] max_auc: 0.9864 roc_auc : 0.951071.
+Type : hazelnut Train [ Epoch 431/500 ], loss: 0.1030, avg_reader_cost: 14.4557 avg_batch_cost: 14.6434, avg_ips: 6.5559.
+Type : hazelnut Train [ Epoch 432/500 ], loss: 0.0886, avg_reader_cost: 0.0004 avg_batch_cost: 0.1068, avg_ips: 898.9440.
+Type : hazelnut Train [ Epoch 433/500 ], loss: 0.0716, avg_reader_cost: 0.0003 avg_batch_cost: 0.1104, avg_ips: 869.7571.
+Type : hazelnut Train [ Epoch 434/500 ], loss: 0.1094, avg_reader_cost: 0.0003 avg_batch_cost: 0.1043, avg_ips: 920.1672.
+Type : hazelnut Train [ Epoch 435/500 ], loss: 0.1175, avg_reader_cost: 1.2624 avg_batch_cost: 1.6073, avg_ips: 59.7259.
+Type : hazelnut Train [ Epoch 436/500 ], loss: 0.1116, avg_reader_cost: 1.2178 avg_batch_cost: 1.5645, avg_ips: 61.3625.
+Type : hazelnut Train [ Epoch 437/500 ], loss: 0.0831, avg_reader_cost: 1.2177 avg_batch_cost: 1.3579, avg_ips: 70.6948.
+Type : hazelnut Train [ Epoch 438/500 ], loss: 0.0905, avg_reader_cost: 1.2161 avg_batch_cost: 1.3553, avg_ips: 70.8352.
+Type : hazelnut Train [ Epoch 439/500 ], loss: 0.0835, avg_reader_cost: 1.2208 avg_batch_cost: 1.3744, avg_ips: 69.8492.
+Type : hazelnut Train [ Epoch 440/500 ], loss: 0.1045, avg_reader_cost: 1.2252 avg_batch_cost: 1.5632, avg_ips: 61.4125.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 440/500 ] max_auc: 0.9864 roc_auc : 0.963214.
+Type : hazelnut Train [ Epoch 441/500 ], loss: 0.0420, avg_reader_cost: 14.5459 avg_batch_cost: 14.9840, avg_ips: 6.4068.
+Type : hazelnut Train [ Epoch 442/500 ], loss: 0.1140, avg_reader_cost: 0.0003 avg_batch_cost: 0.3405, avg_ips: 281.9240.
+Type : hazelnut Train [ Epoch 443/500 ], loss: 0.0540, avg_reader_cost: 0.0007 avg_batch_cost: 0.3461, avg_ips: 277.4089.
+Type : hazelnut Train [ Epoch 444/500 ], loss: 0.0672, avg_reader_cost: 0.0002 avg_batch_cost: 0.3495, avg_ips: 274.7057.
+Type : hazelnut Train [ Epoch 445/500 ], loss: 0.0760, avg_reader_cost: 0.0004 avg_batch_cost: 0.3565, avg_ips: 269.2781.
+Type : hazelnut Train [ Epoch 446/500 ], loss: 0.0940, avg_reader_cost: 1.0699 avg_batch_cost: 1.4159, avg_ips: 67.7995.
+Type : hazelnut Train [ Epoch 447/500 ], loss: 0.1115, avg_reader_cost: 1.2469 avg_batch_cost: 1.6003, avg_ips: 59.9887.
+Type : hazelnut Train [ Epoch 448/500 ], loss: 0.0755, avg_reader_cost: 1.2058 avg_batch_cost: 1.5498, avg_ips: 61.9428.
+Type : hazelnut Train [ Epoch 449/500 ], loss: 0.0789, avg_reader_cost: 1.2410 avg_batch_cost: 1.5807, avg_ips: 60.7307.
+Type : hazelnut Train [ Epoch 450/500 ], loss: 0.1173, avg_reader_cost: 1.2316 avg_batch_cost: 1.5793, avg_ips: 60.7847.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 450/500 ] max_auc: 0.9864 roc_auc : 0.961786.
+Type : hazelnut Train [ Epoch 451/500 ], loss: 0.0881, avg_reader_cost: 14.3599 avg_batch_cost: 14.8752, avg_ips: 6.4537.
+Type : hazelnut Train [ Epoch 452/500 ], loss: 0.1536, avg_reader_cost: 0.0003 avg_batch_cost: 0.3456, avg_ips: 277.7417.
+Type : hazelnut Train [ Epoch 453/500 ], loss: 0.0733, avg_reader_cost: 0.0004 avg_batch_cost: 0.3472, avg_ips: 276.5280.
+Type : hazelnut Train [ Epoch 454/500 ], loss: 0.0508, avg_reader_cost: 0.0006 avg_batch_cost: 0.3450, avg_ips: 278.2607.
+Type : hazelnut Train [ Epoch 455/500 ], loss: 0.1184, avg_reader_cost: 0.0007 avg_batch_cost: 0.3481, avg_ips: 275.8165.
+Type : hazelnut Train [ Epoch 456/500 ], loss: 0.1302, avg_reader_cost: 1.0786 avg_batch_cost: 1.2254, avg_ips: 78.3447.
+Type : hazelnut Train [ Epoch 457/500 ], loss: 0.1013, avg_reader_cost: 1.2201 avg_batch_cost: 1.5635, avg_ips: 61.4014.
+Type : hazelnut Train [ Epoch 458/500 ], loss: 0.0869, avg_reader_cost: 1.2097 avg_batch_cost: 1.3478, avg_ips: 71.2248.
+Type : hazelnut Train [ Epoch 459/500 ], loss: 0.0940, avg_reader_cost: 1.2274 avg_batch_cost: 1.3755, avg_ips: 69.7920.
+Type : hazelnut Train [ Epoch 460/500 ], loss: 0.0754, avg_reader_cost: 1.2171 avg_batch_cost: 1.5648, avg_ips: 61.3513.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 460/500 ] max_auc: 0.9864 roc_auc : 0.979286.
+Type : hazelnut Train [ Epoch 461/500 ], loss: 0.0613, avg_reader_cost: 14.1358 avg_batch_cost: 14.3293, avg_ips: 6.6996.
+Type : hazelnut Train [ Epoch 462/500 ], loss: 0.1248, avg_reader_cost: 0.0003 avg_batch_cost: 0.1044, avg_ips: 919.7447.
+Type : hazelnut Train [ Epoch 463/500 ], loss: 0.0741, avg_reader_cost: 0.0003 avg_batch_cost: 0.1074, avg_ips: 894.0180.
+Type : hazelnut Train [ Epoch 464/500 ], loss: 0.0909, avg_reader_cost: 0.0003 avg_batch_cost: 0.1061, avg_ips: 904.7614.
+Type : hazelnut Train [ Epoch 465/500 ], loss: 0.0727, avg_reader_cost: 0.0004 avg_batch_cost: 0.1054, avg_ips: 910.7472.
+Type : hazelnut Train [ Epoch 466/500 ], loss: 0.0488, avg_reader_cost: 1.3108 avg_batch_cost: 1.6568, avg_ips: 57.9426.
+Type : hazelnut Train [ Epoch 467/500 ], loss: 0.1004, avg_reader_cost: 1.2515 avg_batch_cost: 1.5881, avg_ips: 60.4509.
+Type : hazelnut Train [ Epoch 468/500 ], loss: 0.0554, avg_reader_cost: 1.2377 avg_batch_cost: 1.3769, avg_ips: 69.7203.
+Type : hazelnut Train [ Epoch 469/500 ], loss: 0.0840, avg_reader_cost: 1.2283 avg_batch_cost: 1.5858, avg_ips: 60.5366.
+Type : hazelnut Train [ Epoch 470/500 ], loss: 0.0716, avg_reader_cost: 1.2097 avg_batch_cost: 1.5508, avg_ips: 61.9020.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 470/500 ] max_auc: 0.9864 roc_auc : 0.968214.
+Type : hazelnut Train [ Epoch 471/500 ], loss: 0.0556, avg_reader_cost: 14.1923 avg_batch_cost: 14.6299, avg_ips: 6.5619.
+Type : hazelnut Train [ Epoch 472/500 ], loss: 0.0684, avg_reader_cost: 0.0003 avg_batch_cost: 0.1432, avg_ips: 670.3825.
+Type : hazelnut Train [ Epoch 473/500 ], loss: 0.1331, avg_reader_cost: 0.0003 avg_batch_cost: 0.3468, avg_ips: 276.8205.
+Type : hazelnut Train [ Epoch 474/500 ], loss: 0.0768, avg_reader_cost: 0.0006 avg_batch_cost: 0.3447, avg_ips: 278.4791.
+Type : hazelnut Train [ Epoch 475/500 ], loss: 0.0515, avg_reader_cost: 0.0002 avg_batch_cost: 0.3402, avg_ips: 282.2056.
+Type : hazelnut Train [ Epoch 476/500 ], loss: 0.0576, avg_reader_cost: 1.1782 avg_batch_cost: 1.3235, avg_ips: 72.5352.
+Type : hazelnut Train [ Epoch 477/500 ], loss: 0.0595, avg_reader_cost: 1.2353 avg_batch_cost: 1.5777, avg_ips: 60.8477.
+Type : hazelnut Train [ Epoch 478/500 ], loss: 0.0867, avg_reader_cost: 1.2342 avg_batch_cost: 1.3973, avg_ips: 68.7041.
+Type : hazelnut Train [ Epoch 479/500 ], loss: 0.0962, avg_reader_cost: 1.2456 avg_batch_cost: 1.3913, avg_ips: 69.0013.
+Type : hazelnut Train [ Epoch 480/500 ], loss: 0.0224, avg_reader_cost: 1.2585 avg_batch_cost: 1.4004, avg_ips: 68.5539.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 480/500 ] max_auc: 0.9864 roc_auc : 0.967500.
+Type : hazelnut Train [ Epoch 481/500 ], loss: 0.0886, avg_reader_cost: 14.6408 avg_batch_cost: 15.0794, avg_ips: 6.3663.
+Type : hazelnut Train [ Epoch 482/500 ], loss: 0.0724, avg_reader_cost: 0.0003 avg_batch_cost: 0.3557, avg_ips: 269.8865.
+Type : hazelnut Train [ Epoch 483/500 ], loss: 0.0845, avg_reader_cost: 0.0004 avg_batch_cost: 0.1379, avg_ips: 695.9936.
+Type : hazelnut Train [ Epoch 484/500 ], loss: 0.1165, avg_reader_cost: 0.0003 avg_batch_cost: 0.3478, avg_ips: 276.0580.
+Type : hazelnut Train [ Epoch 485/500 ], loss: 0.0942, avg_reader_cost: 0.0003 avg_batch_cost: 0.1373, avg_ips: 699.3226.
+Type : hazelnut Train [ Epoch 486/500 ], loss: 0.0760, avg_reader_cost: 1.0697 avg_batch_cost: 1.4169, avg_ips: 67.7530.
+Type : hazelnut Train [ Epoch 487/500 ], loss: 0.0877, avg_reader_cost: 1.2228 avg_batch_cost: 1.5627, avg_ips: 61.4335.
+Type : hazelnut Train [ Epoch 488/500 ], loss: 0.0997, avg_reader_cost: 1.2344 avg_batch_cost: 1.5864, avg_ips: 60.5160.
+Type : hazelnut Train [ Epoch 489/500 ], loss: 0.0949, avg_reader_cost: 1.1976 avg_batch_cost: 1.5467, avg_ips: 62.0660.
+Type : hazelnut Train [ Epoch 490/500 ], loss: 0.0826, avg_reader_cost: 1.2110 avg_batch_cost: 1.5727, avg_ips: 61.0419.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 490/500 ] max_auc: 0.9864 roc_auc : 0.950714.
+Type : hazelnut Train [ Epoch 491/500 ], loss: 0.0534, avg_reader_cost: 14.3858 avg_batch_cost: 14.8007, avg_ips: 6.4862.
+Type : hazelnut Train [ Epoch 492/500 ], loss: 0.1465, avg_reader_cost: 0.0003 avg_batch_cost: 0.3403, avg_ips: 282.0678.
+Type : hazelnut Train [ Epoch 493/500 ], loss: 0.1042, avg_reader_cost: 0.0005 avg_batch_cost: 0.3457, avg_ips: 277.7371.
+Type : hazelnut Train [ Epoch 494/500 ], loss: 0.0672, avg_reader_cost: 0.0003 avg_batch_cost: 0.3474, avg_ips: 276.3717.
+Type : hazelnut Train [ Epoch 495/500 ], loss: 0.0998, avg_reader_cost: 0.0003 avg_batch_cost: 0.1766, avg_ips: 543.5501.
+Type : hazelnut Train [ Epoch 496/500 ], loss: 0.0664, avg_reader_cost: 1.0838 avg_batch_cost: 1.1892, avg_ips: 80.7266.
+Type : hazelnut Train [ Epoch 497/500 ], loss: 0.0575, avg_reader_cost: 1.2743 avg_batch_cost: 1.6151, avg_ips: 59.4389.
+Type : hazelnut Train [ Epoch 498/500 ], loss: 0.0579, avg_reader_cost: 1.2199 avg_batch_cost: 1.5657, avg_ips: 61.3133.
+Type : hazelnut Train [ Epoch 499/500 ], loss: 0.0696, avg_reader_cost: 1.2040 avg_batch_cost: 1.5413, avg_ips: 62.2832.
+Type : hazelnut Train [ Epoch 500/500 ], loss: 0.0877, avg_reader_cost: 1.2132 avg_batch_cost: 1.5572, avg_ips: 61.6506.
+loading images
+loaded 391 images
+using density estimation GaussianDensityPaddle
+Type : hazelnut Val [ Epoch 500/500 ] max_auc: 0.9864 roc_auc : 0.958571.

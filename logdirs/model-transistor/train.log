@@ -1,0 +1,700 @@
+Type : transistor Train [ Epoch 1/500 ], loss: 1.2964, avg_reader_cost: 1.7496 avg_batch_cost: 2.1417, avg_ips: 44.8248.
+Type : transistor Train [ Epoch 2/500 ], loss: 1.1690, avg_reader_cost: 1.3632 avg_batch_cost: 1.7019, avg_ips: 56.4062.
+Type : transistor Train [ Epoch 3/500 ], loss: 1.0324, avg_reader_cost: 1.2418 avg_batch_cost: 1.3860, avg_ips: 69.2637.
+Type : transistor Train [ Epoch 4/500 ], loss: 1.0100, avg_reader_cost: 1.2402 avg_batch_cost: 1.5887, avg_ips: 60.4272.
+Type : transistor Train [ Epoch 5/500 ], loss: 0.8454, avg_reader_cost: 1.3264 avg_batch_cost: 1.6723, avg_ips: 57.4060.
+Type : transistor Train [ Epoch 6/500 ], loss: 0.7263, avg_reader_cost: 1.3487 avg_batch_cost: 1.7095, avg_ips: 56.1553.
+Type : transistor Train [ Epoch 7/500 ], loss: 0.6976, avg_reader_cost: 1.3381 avg_batch_cost: 1.5328, avg_ips: 62.6314.
+Type : transistor Train [ Epoch 8/500 ], loss: 0.7123, avg_reader_cost: 1.3433 avg_batch_cost: 1.6927, avg_ips: 56.7125.
+Type : transistor Train [ Epoch 9/500 ], loss: 0.6443, avg_reader_cost: 1.3745 avg_batch_cost: 1.7232, avg_ips: 55.7089.
+Type : transistor Train [ Epoch 10/500 ], loss: 0.6358, avg_reader_cost: 1.3512 avg_batch_cost: 1.5638, avg_ips: 61.3891.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 10/500 ] max_auc: 0.8542 roc_auc : 0.854167.
+Type : transistor Train [ Epoch 11/500 ], loss: 0.6626, avg_reader_cost: 12.7418 avg_batch_cost: 13.1005, avg_ips: 7.3279.
+Type : transistor Train [ Epoch 12/500 ], loss: 0.6290, avg_reader_cost: 0.0007 avg_batch_cost: 0.3541, avg_ips: 271.1398.
+Type : transistor Train [ Epoch 13/500 ], loss: 0.6594, avg_reader_cost: 0.0003 avg_batch_cost: 0.3477, avg_ips: 276.1261.
+Type : transistor Train [ Epoch 14/500 ], loss: 0.6957, avg_reader_cost: 0.0003 avg_batch_cost: 0.3405, avg_ips: 281.9473.
+Type : transistor Train [ Epoch 15/500 ], loss: 0.6367, avg_reader_cost: 0.0007 avg_batch_cost: 0.3570, avg_ips: 268.9317.
+Type : transistor Train [ Epoch 16/500 ], loss: 0.6692, avg_reader_cost: 1.0913 avg_batch_cost: 1.4379, avg_ips: 66.7647.
+Type : transistor Train [ Epoch 17/500 ], loss: 0.5829, avg_reader_cost: 1.2502 avg_batch_cost: 1.5979, avg_ips: 60.0780.
+Type : transistor Train [ Epoch 18/500 ], loss: 0.5837, avg_reader_cost: 1.2369 avg_batch_cost: 1.4006, avg_ips: 68.5430.
+Type : transistor Train [ Epoch 19/500 ], loss: 0.5798, avg_reader_cost: 1.2412 avg_batch_cost: 1.5858, avg_ips: 60.5366.
+Type : transistor Train [ Epoch 20/500 ], loss: 0.5518, avg_reader_cost: 1.2385 avg_batch_cost: 1.4050, avg_ips: 68.3284.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 20/500 ] max_auc: 0.8987 roc_auc : 0.898750.
+Type : transistor Train [ Epoch 21/500 ], loss: 0.5196, avg_reader_cost: 11.9837 avg_batch_cost: 12.3496, avg_ips: 7.7735.
+Type : transistor Train [ Epoch 22/500 ], loss: 0.4829, avg_reader_cost: 0.0003 avg_batch_cost: 0.3560, avg_ips: 269.6924.
+Type : transistor Train [ Epoch 23/500 ], loss: 0.4632, avg_reader_cost: 0.0003 avg_batch_cost: 0.3475, avg_ips: 276.2908.
+Type : transistor Train [ Epoch 24/500 ], loss: 0.4847, avg_reader_cost: 0.0002 avg_batch_cost: 0.3510, avg_ips: 273.5431.
+Type : transistor Train [ Epoch 25/500 ], loss: 0.4457, avg_reader_cost: 0.0003 avg_batch_cost: 0.3882, avg_ips: 247.3157.
+Type : transistor Train [ Epoch 26/500 ], loss: 0.4346, avg_reader_cost: 1.0272 avg_batch_cost: 1.3683, avg_ips: 70.1601.
+Type : transistor Train [ Epoch 27/500 ], loss: 0.4569, avg_reader_cost: 1.2404 avg_batch_cost: 1.5827, avg_ips: 60.6566.
+Type : transistor Train [ Epoch 28/500 ], loss: 0.4693, avg_reader_cost: 1.2409 avg_batch_cost: 1.4168, avg_ips: 67.7562.
+Type : transistor Train [ Epoch 29/500 ], loss: 0.4248, avg_reader_cost: 1.2418 avg_batch_cost: 1.3966, avg_ips: 68.7387.
+Type : transistor Train [ Epoch 30/500 ], loss: 0.4163, avg_reader_cost: 1.2431 avg_batch_cost: 1.5838, avg_ips: 60.6138.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 30/500 ] max_auc: 0.9179 roc_auc : 0.917917.
+Type : transistor Train [ Epoch 31/500 ], loss: 0.4505, avg_reader_cost: 10.7090 avg_batch_cost: 10.8151, avg_ips: 8.8765.
+Type : transistor Train [ Epoch 32/500 ], loss: 0.3992, avg_reader_cost: 1.2940 avg_batch_cost: 1.6337, avg_ips: 58.7611.
+Type : transistor Train [ Epoch 33/500 ], loss: 0.4166, avg_reader_cost: 1.2485 avg_batch_cost: 1.6045, avg_ips: 59.8312.
+Type : transistor Train [ Epoch 34/500 ], loss: 0.4274, avg_reader_cost: 1.2447 avg_batch_cost: 1.5975, avg_ips: 60.0945.
+Type : transistor Train [ Epoch 35/500 ], loss: 0.3954, avg_reader_cost: 1.2436 avg_batch_cost: 1.3863, avg_ips: 69.2488.
+Type : transistor Train [ Epoch 36/500 ], loss: 0.4218, avg_reader_cost: 1.2535 avg_batch_cost: 1.6035, avg_ips: 59.8699.
+Type : transistor Train [ Epoch 37/500 ], loss: 0.3954, avg_reader_cost: 1.2434 avg_batch_cost: 1.5817, avg_ips: 60.6932.
+Type : transistor Train [ Epoch 38/500 ], loss: 0.3634, avg_reader_cost: 1.2572 avg_batch_cost: 1.3998, avg_ips: 68.5823.
+Type : transistor Train [ Epoch 39/500 ], loss: 0.3852, avg_reader_cost: 1.2516 avg_batch_cost: 1.5962, avg_ips: 60.1425.
+Type : transistor Train [ Epoch 40/500 ], loss: 0.3749, avg_reader_cost: 1.2521 avg_batch_cost: 1.3971, avg_ips: 68.7158.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 40/500 ] max_auc: 0.9179 roc_auc : 0.910000.
+Type : transistor Train [ Epoch 41/500 ], loss: 0.3517, avg_reader_cost: 11.7231 avg_batch_cost: 12.1260, avg_ips: 7.9169.
+Type : transistor Train [ Epoch 42/500 ], loss: 0.3872, avg_reader_cost: 0.0003 avg_batch_cost: 0.3494, avg_ips: 274.7753.
+Type : transistor Train [ Epoch 43/500 ], loss: 0.3200, avg_reader_cost: 0.0003 avg_batch_cost: 0.3466, avg_ips: 277.0009.
+Type : transistor Train [ Epoch 44/500 ], loss: 0.4352, avg_reader_cost: 0.0003 avg_batch_cost: 0.3482, avg_ips: 275.6837.
+Type : transistor Train [ Epoch 45/500 ], loss: 0.7286, avg_reader_cost: 0.0002 avg_batch_cost: 0.1564, avg_ips: 613.9035.
+Type : transistor Train [ Epoch 46/500 ], loss: 0.3800, avg_reader_cost: 1.1290 avg_batch_cost: 1.2849, avg_ips: 74.7141.
+Type : transistor Train [ Epoch 47/500 ], loss: 0.3826, avg_reader_cost: 1.2850 avg_batch_cost: 1.6316, avg_ips: 58.8378.
+Type : transistor Train [ Epoch 48/500 ], loss: 0.4080, avg_reader_cost: 1.2797 avg_batch_cost: 1.6225, avg_ips: 59.1683.
+Type : transistor Train [ Epoch 49/500 ], loss: 0.4214, avg_reader_cost: 1.2516 avg_batch_cost: 1.5962, avg_ips: 60.1441.
+Type : transistor Train [ Epoch 50/500 ], loss: 0.4034, avg_reader_cost: 1.2579 avg_batch_cost: 1.3948, avg_ips: 68.8285.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 50/500 ] max_auc: 0.9179 roc_auc : 0.910417.
+Type : transistor Train [ Epoch 51/500 ], loss: 0.3503, avg_reader_cost: 11.5079 avg_batch_cost: 11.9756, avg_ips: 8.0163.
+Type : transistor Train [ Epoch 52/500 ], loss: 0.4054, avg_reader_cost: 0.0006 avg_batch_cost: 0.3411, avg_ips: 281.4206.
+Type : transistor Train [ Epoch 53/500 ], loss: 0.3628, avg_reader_cost: 0.0002 avg_batch_cost: 0.3485, avg_ips: 275.4437.
+Type : transistor Train [ Epoch 54/500 ], loss: 0.3699, avg_reader_cost: 0.0003 avg_batch_cost: 0.3567, avg_ips: 269.1690.
+Type : transistor Train [ Epoch 55/500 ], loss: 0.3519, avg_reader_cost: 0.0003 avg_batch_cost: 0.3422, avg_ips: 280.5521.
+Type : transistor Train [ Epoch 56/500 ], loss: 0.3470, avg_reader_cost: 1.0820 avg_batch_cost: 1.2242, avg_ips: 78.4208.
+Type : transistor Train [ Epoch 57/500 ], loss: 0.3032, avg_reader_cost: 1.2403 avg_batch_cost: 1.5819, avg_ips: 60.6873.
+Type : transistor Train [ Epoch 58/500 ], loss: 0.2982, avg_reader_cost: 1.2487 avg_batch_cost: 1.3899, avg_ips: 69.0716.
+Type : transistor Train [ Epoch 59/500 ], loss: 0.3311, avg_reader_cost: 1.2400 avg_batch_cost: 1.5817, avg_ips: 60.6949.
+Type : transistor Train [ Epoch 60/500 ], loss: 0.3123, avg_reader_cost: 1.2429 avg_batch_cost: 1.3987, avg_ips: 68.6362.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 60/500 ] max_auc: 0.9179 roc_auc : 0.894167.
+Type : transistor Train [ Epoch 61/500 ], loss: 0.2833, avg_reader_cost: 10.4750 avg_batch_cost: 10.5956, avg_ips: 9.0604.
+Type : transistor Train [ Epoch 62/500 ], loss: 0.2622, avg_reader_cost: 0.0004 avg_batch_cost: 0.1080, avg_ips: 888.7375.
+Type : transistor Train [ Epoch 63/500 ], loss: 0.2350, avg_reader_cost: 1.2874 avg_batch_cost: 1.6383, avg_ips: 58.5976.
+Type : transistor Train [ Epoch 64/500 ], loss: 0.2662, avg_reader_cost: 1.2438 avg_batch_cost: 1.4092, avg_ips: 68.1226.
+Type : transistor Train [ Epoch 65/500 ], loss: 0.2132, avg_reader_cost: 1.2594 avg_batch_cost: 1.4026, avg_ips: 68.4461.
+Type : transistor Train [ Epoch 66/500 ], loss: 0.2904, avg_reader_cost: 1.2489 avg_batch_cost: 1.5892, avg_ips: 60.4059.
+Type : transistor Train [ Epoch 67/500 ], loss: 0.2634, avg_reader_cost: 1.2466 avg_batch_cost: 1.5880, avg_ips: 60.4543.
+Type : transistor Train [ Epoch 68/500 ], loss: 0.2193, avg_reader_cost: 1.2495 avg_batch_cost: 1.3986, avg_ips: 68.6411.
+Type : transistor Train [ Epoch 69/500 ], loss: 0.2302, avg_reader_cost: 1.2436 avg_batch_cost: 1.3843, avg_ips: 69.3475.
+Type : transistor Train [ Epoch 70/500 ], loss: 0.2063, avg_reader_cost: 1.2417 avg_batch_cost: 1.3791, avg_ips: 69.6096.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 70/500 ] max_auc: 0.9179 roc_auc : 0.916667.
+Type : transistor Train [ Epoch 71/500 ], loss: 0.1704, avg_reader_cost: 11.9487 avg_batch_cost: 12.3839, avg_ips: 7.7520.
+Type : transistor Train [ Epoch 72/500 ], loss: 0.2451, avg_reader_cost: 0.0003 avg_batch_cost: 0.1420, avg_ips: 675.9476.
+Type : transistor Train [ Epoch 73/500 ], loss: 0.2449, avg_reader_cost: 0.0006 avg_batch_cost: 0.3521, avg_ips: 272.6745.
+Type : transistor Train [ Epoch 74/500 ], loss: 0.1692, avg_reader_cost: 0.0002 avg_batch_cost: 0.1741, avg_ips: 551.4354.
+Type : transistor Train [ Epoch 75/500 ], loss: 0.2145, avg_reader_cost: 0.0004 avg_batch_cost: 0.3500, avg_ips: 274.3071.
+Type : transistor Train [ Epoch 76/500 ], loss: 0.1527, avg_reader_cost: 1.1146 avg_batch_cost: 1.4582, avg_ips: 65.8341.
+Type : transistor Train [ Epoch 77/500 ], loss: 0.1746, avg_reader_cost: 1.2607 avg_batch_cost: 1.6016, avg_ips: 59.9407.
+Type : transistor Train [ Epoch 78/500 ], loss: 0.2009, avg_reader_cost: 1.2532 avg_batch_cost: 1.3955, avg_ips: 68.7908.
+Type : transistor Train [ Epoch 79/500 ], loss: 0.1675, avg_reader_cost: 1.2438 avg_batch_cost: 1.3855, avg_ips: 69.2872.
+Type : transistor Train [ Epoch 80/500 ], loss: 0.2378, avg_reader_cost: 1.2387 avg_batch_cost: 1.5844, avg_ips: 60.5917.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 80/500 ] max_auc: 0.9179 roc_auc : 0.872917.
+Type : transistor Train [ Epoch 81/500 ], loss: 0.1809, avg_reader_cost: 11.3636 avg_batch_cost: 11.5626, avg_ips: 8.3026.
+Type : transistor Train [ Epoch 82/500 ], loss: 0.2331, avg_reader_cost: 0.0005 avg_batch_cost: 0.3561, avg_ips: 269.5819.
+Type : transistor Train [ Epoch 83/500 ], loss: 0.1694, avg_reader_cost: 0.0003 avg_batch_cost: 0.3486, avg_ips: 275.3979.
+Type : transistor Train [ Epoch 84/500 ], loss: 0.1659, avg_reader_cost: 0.0006 avg_batch_cost: 0.3509, avg_ips: 273.5836.
+Type : transistor Train [ Epoch 85/500 ], loss: 0.1726, avg_reader_cost: 0.0003 avg_batch_cost: 0.1457, avg_ips: 658.8699.
+Type : transistor Train [ Epoch 86/500 ], loss: 0.1981, avg_reader_cost: 1.1078 avg_batch_cost: 1.4588, avg_ips: 65.8078.
+Type : transistor Train [ Epoch 87/500 ], loss: 0.1210, avg_reader_cost: 1.2315 avg_batch_cost: 1.5764, avg_ips: 60.8996.
+Type : transistor Train [ Epoch 88/500 ], loss: 0.1546, avg_reader_cost: 1.2557 avg_batch_cost: 1.6044, avg_ips: 59.8371.
+Type : transistor Train [ Epoch 89/500 ], loss: 0.1710, avg_reader_cost: 1.2421 avg_batch_cost: 1.3972, avg_ips: 68.7078.
+Type : transistor Train [ Epoch 90/500 ], loss: 0.1723, avg_reader_cost: 1.2659 avg_batch_cost: 1.6133, avg_ips: 59.5057.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 90/500 ] max_auc: 0.9179 roc_auc : 0.885833.
+Type : transistor Train [ Epoch 91/500 ], loss: 0.1347, avg_reader_cost: 10.6632 avg_batch_cost: 10.7845, avg_ips: 8.9017.
+Type : transistor Train [ Epoch 92/500 ], loss: 0.2037, avg_reader_cost: 0.0004 avg_batch_cost: 0.1114, avg_ips: 861.5722.
+Type : transistor Train [ Epoch 93/500 ], loss: 0.1822, avg_reader_cost: 0.0004 avg_batch_cost: 0.1054, avg_ips: 910.6998.
+Type : transistor Train [ Epoch 94/500 ], loss: 0.1438, avg_reader_cost: 1.3081 avg_batch_cost: 1.6643, avg_ips: 57.6804.
+Type : transistor Train [ Epoch 95/500 ], loss: 0.1708, avg_reader_cost: 1.2471 avg_batch_cost: 1.3850, avg_ips: 69.3140.
+Type : transistor Train [ Epoch 96/500 ], loss: 0.2087, avg_reader_cost: 1.2489 avg_batch_cost: 1.5896, avg_ips: 60.3912.
+Type : transistor Train [ Epoch 97/500 ], loss: 0.1670, avg_reader_cost: 1.2340 avg_batch_cost: 1.4419, avg_ips: 66.5788.
+Type : transistor Train [ Epoch 98/500 ], loss: 0.1502, avg_reader_cost: 1.2436 avg_batch_cost: 1.3883, avg_ips: 69.1515.
+Type : transistor Train [ Epoch 99/500 ], loss: 0.1296, avg_reader_cost: 1.3870 avg_batch_cost: 1.5283, avg_ips: 62.8145.
+Type : transistor Train [ Epoch 100/500 ], loss: 0.1858, avg_reader_cost: 1.2418 avg_batch_cost: 1.6128, avg_ips: 59.5246.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 100/500 ] max_auc: 0.9179 roc_auc : 0.888750.
+Type : transistor Train [ Epoch 101/500 ], loss: 0.1530, avg_reader_cost: 12.3299 avg_batch_cost: 12.6853, avg_ips: 7.5678.
+Type : transistor Train [ Epoch 102/500 ], loss: 0.1259, avg_reader_cost: 0.0005 avg_batch_cost: 0.3568, avg_ips: 269.0908.
+Type : transistor Train [ Epoch 103/500 ], loss: 0.1056, avg_reader_cost: 0.0003 avg_batch_cost: 0.3541, avg_ips: 271.1363.
+Type : transistor Train [ Epoch 104/500 ], loss: 0.1245, avg_reader_cost: 0.0004 avg_batch_cost: 0.2184, avg_ips: 439.6257.
+Type : transistor Train [ Epoch 105/500 ], loss: 0.1166, avg_reader_cost: 0.0003 avg_batch_cost: 0.3579, avg_ips: 268.2593.
+Type : transistor Train [ Epoch 106/500 ], loss: 0.0750, avg_reader_cost: 1.1967 avg_batch_cost: 1.5465, avg_ips: 62.0740.
+Type : transistor Train [ Epoch 107/500 ], loss: 0.0808, avg_reader_cost: 1.3482 avg_batch_cost: 1.7001, avg_ips: 56.4663.
+Type : transistor Train [ Epoch 108/500 ], loss: 0.1970, avg_reader_cost: 1.3271 avg_batch_cost: 1.6755, avg_ips: 57.2980.
+Type : transistor Train [ Epoch 109/500 ], loss: 0.1496, avg_reader_cost: 1.3081 avg_batch_cost: 1.6522, avg_ips: 58.1026.
+Type : transistor Train [ Epoch 110/500 ], loss: 0.1272, avg_reader_cost: 1.3616 avg_batch_cost: 1.7023, avg_ips: 56.3944.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 110/500 ] max_auc: 0.9525 roc_auc : 0.952500.
+Type : transistor Train [ Epoch 111/500 ], loss: 0.1080, avg_reader_cost: 12.2637 avg_batch_cost: 12.6035, avg_ips: 7.6170.
+Type : transistor Train [ Epoch 112/500 ], loss: 0.1038, avg_reader_cost: 0.0004 avg_batch_cost: 0.3522, avg_ips: 272.5864.
+Type : transistor Train [ Epoch 113/500 ], loss: 0.1169, avg_reader_cost: 0.0002 avg_batch_cost: 0.1482, avg_ips: 647.6231.
+Type : transistor Train [ Epoch 114/500 ], loss: 0.1377, avg_reader_cost: 0.0005 avg_batch_cost: 0.3543, avg_ips: 270.9876.
+Type : transistor Train [ Epoch 115/500 ], loss: 0.0695, avg_reader_cost: 0.0003 avg_batch_cost: 0.1654, avg_ips: 580.2437.
+Type : transistor Train [ Epoch 116/500 ], loss: 0.0847, avg_reader_cost: 1.1333 avg_batch_cost: 1.4820, avg_ips: 64.7758.
+Type : transistor Train [ Epoch 117/500 ], loss: 0.1037, avg_reader_cost: 1.2952 avg_batch_cost: 1.4436, avg_ips: 66.4983.
+Type : transistor Train [ Epoch 118/500 ], loss: 0.1229, avg_reader_cost: 1.3106 avg_batch_cost: 1.6605, avg_ips: 57.8150.
+Type : transistor Train [ Epoch 119/500 ], loss: 0.1158, avg_reader_cost: 1.3229 avg_batch_cost: 1.6662, avg_ips: 57.6159.
+Type : transistor Train [ Epoch 120/500 ], loss: 0.0819, avg_reader_cost: 1.2527 avg_batch_cost: 1.5994, avg_ips: 60.0238.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 120/500 ] max_auc: 0.9525 roc_auc : 0.864583.
+Type : transistor Train [ Epoch 121/500 ], loss: 0.2219, avg_reader_cost: 11.6307 avg_batch_cost: 11.8273, avg_ips: 8.1168.
+Type : transistor Train [ Epoch 122/500 ], loss: 0.1570, avg_reader_cost: 0.0003 avg_batch_cost: 0.1085, avg_ips: 884.4991.
+Type : transistor Train [ Epoch 123/500 ], loss: 0.1484, avg_reader_cost: 0.0003 avg_batch_cost: 0.1077, avg_ips: 891.4015.
+Type : transistor Train [ Epoch 124/500 ], loss: 0.1623, avg_reader_cost: 0.0004 avg_batch_cost: 0.1083, avg_ips: 886.0621.
+Type : transistor Train [ Epoch 125/500 ], loss: 0.1926, avg_reader_cost: 1.3766 avg_batch_cost: 1.5485, avg_ips: 61.9970.
+Type : transistor Train [ Epoch 126/500 ], loss: 0.1983, avg_reader_cost: 1.2751 avg_batch_cost: 1.6198, avg_ips: 59.2659.
+Type : transistor Train [ Epoch 127/500 ], loss: 0.1881, avg_reader_cost: 1.3035 avg_batch_cost: 1.4392, avg_ips: 66.7041.
+Type : transistor Train [ Epoch 128/500 ], loss: 0.1572, avg_reader_cost: 1.2503 avg_batch_cost: 1.5905, avg_ips: 60.3565.
+Type : transistor Train [ Epoch 129/500 ], loss: 0.1774, avg_reader_cost: 1.2742 avg_batch_cost: 1.6194, avg_ips: 59.2823.
+Type : transistor Train [ Epoch 130/500 ], loss: 0.2004, avg_reader_cost: 1.2488 avg_batch_cost: 1.3826, avg_ips: 69.4340.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 130/500 ] max_auc: 0.9525 roc_auc : 0.913750.
+Type : transistor Train [ Epoch 131/500 ], loss: 0.1947, avg_reader_cost: 12.0677 avg_batch_cost: 12.3319, avg_ips: 7.7847.
+Type : transistor Train [ Epoch 132/500 ], loss: 0.2032, avg_reader_cost: 0.0005 avg_batch_cost: 0.3522, avg_ips: 272.5750.
+Type : transistor Train [ Epoch 133/500 ], loss: 0.1834, avg_reader_cost: 0.0003 avg_batch_cost: 0.1364, avg_ips: 703.7398.
+Type : transistor Train [ Epoch 134/500 ], loss: 0.2312, avg_reader_cost: 0.0004 avg_batch_cost: 0.3539, avg_ips: 271.2532.
+Type : transistor Train [ Epoch 135/500 ], loss: 0.1791, avg_reader_cost: 0.0003 avg_batch_cost: 0.3455, avg_ips: 277.8620.
+Type : transistor Train [ Epoch 136/500 ], loss: 0.1705, avg_reader_cost: 1.1001 avg_batch_cost: 1.4480, avg_ips: 66.2980.
+Type : transistor Train [ Epoch 137/500 ], loss: 0.1628, avg_reader_cost: 1.2370 avg_batch_cost: 1.3938, avg_ips: 68.8755.
+Type : transistor Train [ Epoch 138/500 ], loss: 0.1997, avg_reader_cost: 1.2524 avg_batch_cost: 1.5970, avg_ips: 60.1116.
+Type : transistor Train [ Epoch 139/500 ], loss: 0.1914, avg_reader_cost: 1.2463 avg_batch_cost: 1.5863, avg_ips: 60.5171.
+Type : transistor Train [ Epoch 140/500 ], loss: 0.1634, avg_reader_cost: 1.2495 avg_batch_cost: 1.3962, avg_ips: 68.7594.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 140/500 ] max_auc: 0.9525 roc_auc : 0.917083.
+Type : transistor Train [ Epoch 141/500 ], loss: 0.1363, avg_reader_cost: 11.4369 avg_batch_cost: 11.8017, avg_ips: 8.1344.
+Type : transistor Train [ Epoch 142/500 ], loss: 0.1166, avg_reader_cost: 0.0003 avg_batch_cost: 0.3488, avg_ips: 275.2239.
+Type : transistor Train [ Epoch 143/500 ], loss: 0.1604, avg_reader_cost: 0.0003 avg_batch_cost: 0.3590, avg_ips: 267.4280.
+Type : transistor Train [ Epoch 144/500 ], loss: 0.1261, avg_reader_cost: 0.0003 avg_batch_cost: 0.3407, avg_ips: 281.7406.
+Type : transistor Train [ Epoch 145/500 ], loss: 0.1206, avg_reader_cost: 0.0005 avg_batch_cost: 0.3521, avg_ips: 272.6612.
+Type : transistor Train [ Epoch 146/500 ], loss: 0.1757, avg_reader_cost: 1.0931 avg_batch_cost: 1.2319, avg_ips: 77.9274.
+Type : transistor Train [ Epoch 147/500 ], loss: 0.1226, avg_reader_cost: 1.2668 avg_batch_cost: 1.6074, avg_ips: 59.7221.
+Type : transistor Train [ Epoch 148/500 ], loss: 0.0754, avg_reader_cost: 1.2560 avg_batch_cost: 1.4011, avg_ips: 68.5172.
+Type : transistor Train [ Epoch 149/500 ], loss: 0.1043, avg_reader_cost: 1.2517 avg_batch_cost: 1.5918, avg_ips: 60.3097.
+Type : transistor Train [ Epoch 150/500 ], loss: 0.0838, avg_reader_cost: 1.2416 avg_batch_cost: 1.5934, avg_ips: 60.2483.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 150/500 ] max_auc: 0.9525 roc_auc : 0.923333.
+Type : transistor Train [ Epoch 151/500 ], loss: 0.1000, avg_reader_cost: 11.9211 avg_batch_cost: 12.0444, avg_ips: 7.9705.
+Type : transistor Train [ Epoch 152/500 ], loss: 0.1223, avg_reader_cost: 0.0004 avg_batch_cost: 0.1076, avg_ips: 892.2845.
+Type : transistor Train [ Epoch 153/500 ], loss: 0.1303, avg_reader_cost: 0.0004 avg_batch_cost: 0.1066, avg_ips: 900.7962.
+Type : transistor Train [ Epoch 154/500 ], loss: 0.1178, avg_reader_cost: 0.0004 avg_batch_cost: 0.1078, avg_ips: 890.3706.
+Type : transistor Train [ Epoch 155/500 ], loss: 0.1213, avg_reader_cost: 0.0004 avg_batch_cost: 0.1076, avg_ips: 892.2687.
+Type : transistor Train [ Epoch 156/500 ], loss: 0.0992, avg_reader_cost: 1.3507 avg_batch_cost: 1.6959, avg_ips: 56.6060.
+Type : transistor Train [ Epoch 157/500 ], loss: 0.1264, avg_reader_cost: 1.3074 avg_batch_cost: 1.6564, avg_ips: 57.9564.
+Type : transistor Train [ Epoch 158/500 ], loss: 0.1048, avg_reader_cost: 1.2641 avg_batch_cost: 1.6068, avg_ips: 59.7443.
+Type : transistor Train [ Epoch 159/500 ], loss: 0.0817, avg_reader_cost: 1.2426 avg_batch_cost: 1.3810, avg_ips: 69.5166.
+Type : transistor Train [ Epoch 160/500 ], loss: 0.1463, avg_reader_cost: 1.2810 avg_batch_cost: 1.6295, avg_ips: 58.9122.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 160/500 ] max_auc: 0.9525 roc_auc : 0.914167.
+Type : transistor Train [ Epoch 161/500 ], loss: 0.1439, avg_reader_cost: 11.8248 avg_batch_cost: 12.3113, avg_ips: 7.7977.
+Type : transistor Train [ Epoch 162/500 ], loss: 0.0765, avg_reader_cost: 0.0011 avg_batch_cost: 0.3506, avg_ips: 273.8198.
+Type : transistor Train [ Epoch 163/500 ], loss: 0.1115, avg_reader_cost: 0.0003 avg_batch_cost: 0.3534, avg_ips: 271.6555.
+Type : transistor Train [ Epoch 164/500 ], loss: 0.0965, avg_reader_cost: 0.0003 avg_batch_cost: 0.3569, avg_ips: 269.0122.
+Type : transistor Train [ Epoch 165/500 ], loss: 0.0779, avg_reader_cost: 0.0002 avg_batch_cost: 0.3575, avg_ips: 268.5226.
+Type : transistor Train [ Epoch 166/500 ], loss: 0.1031, avg_reader_cost: 1.0666 avg_batch_cost: 1.4100, avg_ips: 68.0867.
+Type : transistor Train [ Epoch 167/500 ], loss: 0.0927, avg_reader_cost: 1.2327 avg_batch_cost: 1.5780, avg_ips: 60.8368.
+Type : transistor Train [ Epoch 168/500 ], loss: 0.0711, avg_reader_cost: 1.2271 avg_batch_cost: 1.3722, avg_ips: 69.9616.
+Type : transistor Train [ Epoch 169/500 ], loss: 0.1154, avg_reader_cost: 1.2444 avg_batch_cost: 1.5834, avg_ips: 60.6295.
+Type : transistor Train [ Epoch 170/500 ], loss: 0.1454, avg_reader_cost: 1.2518 avg_batch_cost: 1.5993, avg_ips: 60.0280.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 170/500 ] max_auc: 0.9525 roc_auc : 0.933750.
+Type : transistor Train [ Epoch 171/500 ], loss: 0.1517, avg_reader_cost: 11.1384 avg_batch_cost: 11.5618, avg_ips: 8.3032.
+Type : transistor Train [ Epoch 172/500 ], loss: 0.1254, avg_reader_cost: 0.0003 avg_batch_cost: 0.3559, avg_ips: 269.7016.
+Type : transistor Train [ Epoch 173/500 ], loss: 0.1274, avg_reader_cost: 0.0003 avg_batch_cost: 0.3549, avg_ips: 270.5368.
+Type : transistor Train [ Epoch 174/500 ], loss: 0.1136, avg_reader_cost: 0.0022 avg_batch_cost: 0.3543, avg_ips: 270.9457.
+Type : transistor Train [ Epoch 175/500 ], loss: 0.1072, avg_reader_cost: 0.0002 avg_batch_cost: 0.3521, avg_ips: 272.6239.
+Type : transistor Train [ Epoch 176/500 ], loss: 0.0843, avg_reader_cost: 1.2430 avg_batch_cost: 1.5989, avg_ips: 60.0426.
+Type : transistor Train [ Epoch 177/500 ], loss: 0.0855, avg_reader_cost: 1.3179 avg_batch_cost: 1.4761, avg_ips: 65.0370.
+Type : transistor Train [ Epoch 178/500 ], loss: 0.1094, avg_reader_cost: 1.2715 avg_batch_cost: 1.6104, avg_ips: 59.6118.
+Type : transistor Train [ Epoch 179/500 ], loss: 0.0769, avg_reader_cost: 1.2872 avg_batch_cost: 1.6264, avg_ips: 59.0276.
+Type : transistor Train [ Epoch 180/500 ], loss: 0.1127, avg_reader_cost: 1.2715 avg_batch_cost: 1.4067, avg_ips: 68.2452.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 180/500 ] max_auc: 0.9525 roc_auc : 0.895833.
+Type : transistor Train [ Epoch 181/500 ], loss: 0.0890, avg_reader_cost: 11.6616 avg_batch_cost: 12.1064, avg_ips: 7.9297.
+Type : transistor Train [ Epoch 182/500 ], loss: 0.1289, avg_reader_cost: 0.0004 avg_batch_cost: 0.3541, avg_ips: 271.0887.
+Type : transistor Train [ Epoch 183/500 ], loss: 0.0723, avg_reader_cost: 0.0003 avg_batch_cost: 0.3399, avg_ips: 282.4073.
+Type : transistor Train [ Epoch 184/500 ], loss: 0.1056, avg_reader_cost: 0.0005 avg_batch_cost: 0.3505, avg_ips: 273.9012.
+Type : transistor Train [ Epoch 185/500 ], loss: 0.1126, avg_reader_cost: 0.0003 avg_batch_cost: 0.3681, avg_ips: 260.7663.
+Type : transistor Train [ Epoch 186/500 ], loss: 0.1327, avg_reader_cost: 1.2138 avg_batch_cost: 1.3198, avg_ips: 72.7388.
+Type : transistor Train [ Epoch 187/500 ], loss: 0.1388, avg_reader_cost: 1.3023 avg_batch_cost: 1.6516, avg_ips: 58.1244.
+Type : transistor Train [ Epoch 188/500 ], loss: 0.0554, avg_reader_cost: 1.2508 avg_batch_cost: 1.6014, avg_ips: 59.9486.
+Type : transistor Train [ Epoch 189/500 ], loss: 0.0580, avg_reader_cost: 1.2463 avg_batch_cost: 1.5932, avg_ips: 60.2561.
+Type : transistor Train [ Epoch 190/500 ], loss: 0.1191, avg_reader_cost: 1.2439 avg_batch_cost: 1.5849, avg_ips: 60.5698.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 190/500 ] max_auc: 0.9525 roc_auc : 0.932917.
+Type : transistor Train [ Epoch 191/500 ], loss: 0.1310, avg_reader_cost: 11.7467 avg_batch_cost: 12.0135, avg_ips: 7.9910.
+Type : transistor Train [ Epoch 192/500 ], loss: 0.1062, avg_reader_cost: 0.0005 avg_batch_cost: 0.3553, avg_ips: 270.2218.
+Type : transistor Train [ Epoch 193/500 ], loss: 0.0867, avg_reader_cost: 0.0003 avg_batch_cost: 0.3462, avg_ips: 277.3158.
+Type : transistor Train [ Epoch 194/500 ], loss: 0.1011, avg_reader_cost: 0.0003 avg_batch_cost: 0.1481, avg_ips: 648.0056.
+Type : transistor Train [ Epoch 195/500 ], loss: 0.1059, avg_reader_cost: 0.0005 avg_batch_cost: 0.3524, avg_ips: 272.4361.
+Type : transistor Train [ Epoch 196/500 ], loss: 0.0944, avg_reader_cost: 1.1002 avg_batch_cost: 1.4435, avg_ips: 66.5059.
+Type : transistor Train [ Epoch 197/500 ], loss: 0.1277, avg_reader_cost: 1.2475 avg_batch_cost: 1.3864, avg_ips: 69.2431.
+Type : transistor Train [ Epoch 198/500 ], loss: 0.0637, avg_reader_cost: 1.2419 avg_batch_cost: 1.5914, avg_ips: 60.3255.
+Type : transistor Train [ Epoch 199/500 ], loss: 0.0844, avg_reader_cost: 1.2390 avg_batch_cost: 1.5862, avg_ips: 60.5204.
+Type : transistor Train [ Epoch 200/500 ], loss: 0.1013, avg_reader_cost: 1.2304 avg_batch_cost: 1.5780, avg_ips: 60.8352.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 200/500 ] max_auc: 0.9525 roc_auc : 0.899167.
+Type : transistor Train [ Epoch 201/500 ], loss: 0.1408, avg_reader_cost: 11.4206 avg_batch_cost: 11.7991, avg_ips: 8.1362.
+Type : transistor Train [ Epoch 202/500 ], loss: 0.1053, avg_reader_cost: 0.0003 avg_batch_cost: 0.3444, avg_ips: 278.7496.
+Type : transistor Train [ Epoch 203/500 ], loss: 0.0950, avg_reader_cost: 0.0003 avg_batch_cost: 0.3560, avg_ips: 269.6805.
+Type : transistor Train [ Epoch 204/500 ], loss: 0.1384, avg_reader_cost: 0.0003 avg_batch_cost: 0.3549, avg_ips: 270.4926.
+Type : transistor Train [ Epoch 205/500 ], loss: 0.1182, avg_reader_cost: 0.0004 avg_batch_cost: 0.1913, avg_ips: 501.9387.
+Type : transistor Train [ Epoch 206/500 ], loss: 0.1270, avg_reader_cost: 1.4984 avg_batch_cost: 1.6341, avg_ips: 58.7497.
+Type : transistor Train [ Epoch 207/500 ], loss: 0.0816, avg_reader_cost: 1.2332 avg_batch_cost: 1.3799, avg_ips: 69.5725.
+Type : transistor Train [ Epoch 208/500 ], loss: 0.0856, avg_reader_cost: 1.2447 avg_batch_cost: 1.5929, avg_ips: 60.2677.
+Type : transistor Train [ Epoch 209/500 ], loss: 0.1001, avg_reader_cost: 1.2835 avg_batch_cost: 1.6283, avg_ips: 58.9575.
+Type : transistor Train [ Epoch 210/500 ], loss: 0.1193, avg_reader_cost: 1.2991 avg_batch_cost: 1.4397, avg_ips: 66.6812.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 210/500 ] max_auc: 0.9525 roc_auc : 0.944583.
+Type : transistor Train [ Epoch 211/500 ], loss: 0.0793, avg_reader_cost: 11.9570 avg_batch_cost: 12.1687, avg_ips: 7.8891.
+Type : transistor Train [ Epoch 212/500 ], loss: 0.1109, avg_reader_cost: 0.0004 avg_batch_cost: 0.3598, avg_ips: 266.8201.
+Type : transistor Train [ Epoch 213/500 ], loss: 0.0771, avg_reader_cost: 0.0003 avg_batch_cost: 0.3496, avg_ips: 274.6135.
+Type : transistor Train [ Epoch 214/500 ], loss: 0.1125, avg_reader_cost: 0.0002 avg_batch_cost: 0.3485, avg_ips: 275.4567.
+Type : transistor Train [ Epoch 215/500 ], loss: 0.0970, avg_reader_cost: 0.0003 avg_batch_cost: 0.3465, avg_ips: 277.0560.
+Type : transistor Train [ Epoch 216/500 ], loss: 0.0749, avg_reader_cost: 1.1381 avg_batch_cost: 1.4843, avg_ips: 64.6764.
+Type : transistor Train [ Epoch 217/500 ], loss: 0.0485, avg_reader_cost: 1.2893 avg_batch_cost: 1.3952, avg_ips: 68.8049.
+Type : transistor Train [ Epoch 218/500 ], loss: 0.1042, avg_reader_cost: 1.2915 avg_batch_cost: 1.6328, avg_ips: 58.7932.
+Type : transistor Train [ Epoch 219/500 ], loss: 0.1029, avg_reader_cost: 1.2668 avg_batch_cost: 1.4094, avg_ips: 68.1134.
+Type : transistor Train [ Epoch 220/500 ], loss: 0.0893, avg_reader_cost: 1.2696 avg_batch_cost: 1.6211, avg_ips: 59.2186.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 220/500 ] max_auc: 0.9525 roc_auc : 0.912500.
+Type : transistor Train [ Epoch 221/500 ], loss: 0.0613, avg_reader_cost: 11.6441 avg_batch_cost: 12.0839, avg_ips: 7.9445.
+Type : transistor Train [ Epoch 222/500 ], loss: 0.1195, avg_reader_cost: 0.0003 avg_batch_cost: 0.3578, avg_ips: 268.3435.
+Type : transistor Train [ Epoch 223/500 ], loss: 0.0870, avg_reader_cost: 0.0004 avg_batch_cost: 0.3543, avg_ips: 270.9814.
+Type : transistor Train [ Epoch 224/500 ], loss: 0.0525, avg_reader_cost: 0.0004 avg_batch_cost: 0.3503, avg_ips: 274.0513.
+Type : transistor Train [ Epoch 225/500 ], loss: 0.0897, avg_reader_cost: 0.0003 avg_batch_cost: 0.3484, avg_ips: 275.5494.
+Type : transistor Train [ Epoch 226/500 ], loss: 0.0744, avg_reader_cost: 1.0969 avg_batch_cost: 1.4362, avg_ips: 66.8411.
+Type : transistor Train [ Epoch 227/500 ], loss: 0.0966, avg_reader_cost: 1.2538 avg_batch_cost: 1.5989, avg_ips: 60.0406.
+Type : transistor Train [ Epoch 228/500 ], loss: 0.0809, avg_reader_cost: 1.2424 avg_batch_cost: 1.3833, avg_ips: 69.4012.
+Type : transistor Train [ Epoch 229/500 ], loss: 0.0908, avg_reader_cost: 1.2621 avg_batch_cost: 1.6245, avg_ips: 59.0937.
+Type : transistor Train [ Epoch 230/500 ], loss: 0.1312, avg_reader_cost: 1.2513 avg_batch_cost: 1.5968, avg_ips: 60.1219.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 230/500 ] max_auc: 0.9550 roc_auc : 0.955000.
+Type : transistor Train [ Epoch 231/500 ], loss: 0.1356, avg_reader_cost: 12.6069 avg_batch_cost: 12.7528, avg_ips: 7.5277.
+Type : transistor Train [ Epoch 232/500 ], loss: 0.0669, avg_reader_cost: 0.0016 avg_batch_cost: 0.3549, avg_ips: 270.4890.
+Type : transistor Train [ Epoch 233/500 ], loss: 0.0964, avg_reader_cost: 0.0002 avg_batch_cost: 0.1372, avg_ips: 699.7954.
+Type : transistor Train [ Epoch 234/500 ], loss: 0.1053, avg_reader_cost: 0.0005 avg_batch_cost: 0.3528, avg_ips: 272.1047.
+Type : transistor Train [ Epoch 235/500 ], loss: 0.0691, avg_reader_cost: 0.0003 avg_batch_cost: 0.3391, avg_ips: 283.1205.
+Type : transistor Train [ Epoch 236/500 ], loss: 0.1012, avg_reader_cost: 1.1177 avg_batch_cost: 1.2513, avg_ips: 76.7215.
+Type : transistor Train [ Epoch 237/500 ], loss: 0.0680, avg_reader_cost: 1.2509 avg_batch_cost: 1.3895, avg_ips: 69.0905.
+Type : transistor Train [ Epoch 238/500 ], loss: 0.0927, avg_reader_cost: 1.2497 avg_batch_cost: 1.5904, avg_ips: 60.3634.
+Type : transistor Train [ Epoch 239/500 ], loss: 0.0849, avg_reader_cost: 1.2539 avg_batch_cost: 1.5942, avg_ips: 60.2170.
+Type : transistor Train [ Epoch 240/500 ], loss: 0.0764, avg_reader_cost: 1.2655 avg_batch_cost: 1.6108, avg_ips: 59.5994.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 240/500 ] max_auc: 0.9550 roc_auc : 0.937917.
+Type : transistor Train [ Epoch 241/500 ], loss: 0.0671, avg_reader_cost: 11.3251 avg_batch_cost: 11.7969, avg_ips: 8.1378.
+Type : transistor Train [ Epoch 242/500 ], loss: 0.0611, avg_reader_cost: 0.0003 avg_batch_cost: 0.1670, avg_ips: 574.9150.
+Type : transistor Train [ Epoch 243/500 ], loss: 0.1006, avg_reader_cost: 0.0004 avg_batch_cost: 0.3545, avg_ips: 270.7824.
+Type : transistor Train [ Epoch 244/500 ], loss: 0.0592, avg_reader_cost: 0.0003 avg_batch_cost: 0.3430, avg_ips: 279.8772.
+Type : transistor Train [ Epoch 245/500 ], loss: 0.0910, avg_reader_cost: 0.0006 avg_batch_cost: 0.3557, avg_ips: 269.8782.
+Type : transistor Train [ Epoch 246/500 ], loss: 0.1387, avg_reader_cost: 1.1187 avg_batch_cost: 1.4670, avg_ips: 65.4415.
+Type : transistor Train [ Epoch 247/500 ], loss: 0.1076, avg_reader_cost: 1.2744 avg_batch_cost: 1.6180, avg_ips: 59.3309.
+Type : transistor Train [ Epoch 248/500 ], loss: 0.1034, avg_reader_cost: 1.3134 avg_batch_cost: 1.4199, avg_ips: 67.6097.
+Type : transistor Train [ Epoch 249/500 ], loss: 0.1173, avg_reader_cost: 1.9519 avg_batch_cost: 2.3016, avg_ips: 41.7103.
+Type : transistor Train [ Epoch 250/500 ], loss: 0.0602, avg_reader_cost: 1.2726 avg_batch_cost: 1.6249, avg_ips: 59.0789.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 250/500 ] max_auc: 0.9550 roc_auc : 0.922917.
+Type : transistor Train [ Epoch 251/500 ], loss: 0.0806, avg_reader_cost: 11.9653 avg_batch_cost: 12.4082, avg_ips: 7.7368.
+Type : transistor Train [ Epoch 252/500 ], loss: 0.0773, avg_reader_cost: 0.0003 avg_batch_cost: 0.3551, avg_ips: 270.3655.
+Type : transistor Train [ Epoch 253/500 ], loss: 0.0566, avg_reader_cost: 0.0004 avg_batch_cost: 0.2171, avg_ips: 442.2612.
+Type : transistor Train [ Epoch 254/500 ], loss: 0.0685, avg_reader_cost: 0.0005 avg_batch_cost: 0.3610, avg_ips: 265.9385.
+Type : transistor Train [ Epoch 255/500 ], loss: 0.0777, avg_reader_cost: 0.0005 avg_batch_cost: 0.3554, avg_ips: 270.0938.
+Type : transistor Train [ Epoch 256/500 ], loss: 0.0750, avg_reader_cost: 1.1103 avg_batch_cost: 1.4626, avg_ips: 65.6377.
+Type : transistor Train [ Epoch 257/500 ], loss: 0.0821, avg_reader_cost: 1.2497 avg_batch_cost: 1.6112, avg_ips: 59.5816.
+Type : transistor Train [ Epoch 258/500 ], loss: 0.0875, avg_reader_cost: 1.2518 avg_batch_cost: 1.3888, avg_ips: 69.1234.
+Type : transistor Train [ Epoch 259/500 ], loss: 0.0588, avg_reader_cost: 1.2713 avg_batch_cost: 1.4152, avg_ips: 67.8334.
+Type : transistor Train [ Epoch 260/500 ], loss: 0.0854, avg_reader_cost: 1.2792 avg_batch_cost: 1.4262, avg_ips: 67.3139.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 260/500 ] max_auc: 0.9550 roc_auc : 0.941250.
+Type : transistor Train [ Epoch 261/500 ], loss: 0.0973, avg_reader_cost: 11.5357 avg_batch_cost: 11.9461, avg_ips: 8.0361.
+Type : transistor Train [ Epoch 262/500 ], loss: 0.0793, avg_reader_cost: 0.0007 avg_batch_cost: 0.3447, avg_ips: 278.4687.
+Type : transistor Train [ Epoch 263/500 ], loss: 0.0361, avg_reader_cost: 0.0006 avg_batch_cost: 0.3577, avg_ips: 268.4068.
+Type : transistor Train [ Epoch 264/500 ], loss: 0.1117, avg_reader_cost: 0.0003 avg_batch_cost: 0.3448, avg_ips: 278.4402.
+Type : transistor Train [ Epoch 265/500 ], loss: 0.1022, avg_reader_cost: 0.0005 avg_batch_cost: 0.3528, avg_ips: 272.0876.
+Type : transistor Train [ Epoch 266/500 ], loss: 0.0722, avg_reader_cost: 1.1090 avg_batch_cost: 1.4532, avg_ips: 66.0594.
+Type : transistor Train [ Epoch 267/500 ], loss: 0.1218, avg_reader_cost: 1.2603 avg_batch_cost: 1.6056, avg_ips: 59.7911.
+Type : transistor Train [ Epoch 268/500 ], loss: 0.0712, avg_reader_cost: 1.2483 avg_batch_cost: 1.5945, avg_ips: 60.2052.
+Type : transistor Train [ Epoch 269/500 ], loss: 0.0579, avg_reader_cost: 1.2468 avg_batch_cost: 1.4129, avg_ips: 67.9437.
+Type : transistor Train [ Epoch 270/500 ], loss: 0.1017, avg_reader_cost: 1.2681 avg_batch_cost: 1.4329, avg_ips: 66.9963.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 270/500 ] max_auc: 0.9550 roc_auc : 0.922500.
+Type : transistor Train [ Epoch 271/500 ], loss: 0.0894, avg_reader_cost: 11.5426 avg_batch_cost: 11.9882, avg_ips: 8.0079.
+Type : transistor Train [ Epoch 272/500 ], loss: 0.0581, avg_reader_cost: 0.0003 avg_batch_cost: 0.3427, avg_ips: 280.1298.
+Type : transistor Train [ Epoch 273/500 ], loss: 0.0441, avg_reader_cost: 0.0003 avg_batch_cost: 0.3557, avg_ips: 269.9220.
+Type : transistor Train [ Epoch 274/500 ], loss: 0.1405, avg_reader_cost: 0.0003 avg_batch_cost: 0.3546, avg_ips: 270.7160.
+Type : transistor Train [ Epoch 275/500 ], loss: 0.0580, avg_reader_cost: 0.0004 avg_batch_cost: 0.3588, avg_ips: 267.5438.
+Type : transistor Train [ Epoch 276/500 ], loss: 0.0781, avg_reader_cost: 1.0879 avg_batch_cost: 1.2361, avg_ips: 77.6623.
+Type : transistor Train [ Epoch 277/500 ], loss: 0.0640, avg_reader_cost: 1.2687 avg_batch_cost: 1.6132, avg_ips: 59.5089.
+Type : transistor Train [ Epoch 278/500 ], loss: 0.1171, avg_reader_cost: 1.2675 avg_batch_cost: 1.6069, avg_ips: 59.7429.
+Type : transistor Train [ Epoch 279/500 ], loss: 0.0546, avg_reader_cost: 1.2579 avg_batch_cost: 1.3640, avg_ips: 70.3807.
+Type : transistor Train [ Epoch 280/500 ], loss: 0.0841, avg_reader_cost: 1.2881 avg_batch_cost: 1.6375, avg_ips: 58.6274.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 280/500 ] max_auc: 0.9550 roc_auc : 0.952083.
+Type : transistor Train [ Epoch 281/500 ], loss: 0.1149, avg_reader_cost: 11.6587 avg_batch_cost: 12.0860, avg_ips: 7.9431.
+Type : transistor Train [ Epoch 282/500 ], loss: 0.0794, avg_reader_cost: 0.0008 avg_batch_cost: 0.3624, avg_ips: 264.8731.
+Type : transistor Train [ Epoch 283/500 ], loss: 0.0715, avg_reader_cost: 0.0003 avg_batch_cost: 0.3521, avg_ips: 272.6663.
+Type : transistor Train [ Epoch 284/500 ], loss: 0.1014, avg_reader_cost: 0.0003 avg_batch_cost: 0.1800, avg_ips: 533.3762.
+Type : transistor Train [ Epoch 285/500 ], loss: 0.0901, avg_reader_cost: 0.0007 avg_batch_cost: 0.3530, avg_ips: 271.9329.
+Type : transistor Train [ Epoch 286/500 ], loss: 0.0912, avg_reader_cost: 1.1197 avg_batch_cost: 1.4613, avg_ips: 65.6964.
+Type : transistor Train [ Epoch 287/500 ], loss: 0.0507, avg_reader_cost: 1.2569 avg_batch_cost: 1.3966, avg_ips: 68.7368.
+Type : transistor Train [ Epoch 288/500 ], loss: 0.0850, avg_reader_cost: 1.2880 avg_batch_cost: 1.6409, avg_ips: 58.5051.
+Type : transistor Train [ Epoch 289/500 ], loss: 0.0823, avg_reader_cost: 1.2947 avg_batch_cost: 1.6380, avg_ips: 58.6094.
+Type : transistor Train [ Epoch 290/500 ], loss: 0.0486, avg_reader_cost: 1.2969 avg_batch_cost: 1.6384, avg_ips: 58.5946.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 290/500 ] max_auc: 0.9550 roc_auc : 0.922083.
+Type : transistor Train [ Epoch 291/500 ], loss: 0.1348, avg_reader_cost: 11.5872 avg_batch_cost: 11.9999, avg_ips: 8.0000.
+Type : transistor Train [ Epoch 292/500 ], loss: 0.0899, avg_reader_cost: 0.0007 avg_batch_cost: 0.3575, avg_ips: 268.5325.
+Type : transistor Train [ Epoch 293/500 ], loss: 0.0772, avg_reader_cost: 0.0002 avg_batch_cost: 0.3475, avg_ips: 276.2360.
+Type : transistor Train [ Epoch 294/500 ], loss: 0.1095, avg_reader_cost: 0.0006 avg_batch_cost: 0.3524, avg_ips: 272.4127.
+Type : transistor Train [ Epoch 295/500 ], loss: 0.0724, avg_reader_cost: 0.0002 avg_batch_cost: 0.3503, avg_ips: 274.0351.
+Type : transistor Train [ Epoch 296/500 ], loss: 0.0840, avg_reader_cost: 1.1129 avg_batch_cost: 1.4603, avg_ips: 65.7400.
+Type : transistor Train [ Epoch 297/500 ], loss: 0.0472, avg_reader_cost: 1.2336 avg_batch_cost: 1.3673, avg_ips: 70.2093.
+Type : transistor Train [ Epoch 298/500 ], loss: 0.0725, avg_reader_cost: 1.2431 avg_batch_cost: 1.5852, avg_ips: 60.5596.
+Type : transistor Train [ Epoch 299/500 ], loss: 0.0721, avg_reader_cost: 1.2372 avg_batch_cost: 1.5954, avg_ips: 60.1722.
+Type : transistor Train [ Epoch 300/500 ], loss: 0.0673, avg_reader_cost: 1.2318 avg_batch_cost: 1.5909, avg_ips: 60.3425.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 300/500 ] max_auc: 0.9550 roc_auc : 0.947083.
+Type : transistor Train [ Epoch 301/500 ], loss: 0.0439, avg_reader_cost: 11.5713 avg_batch_cost: 12.0769, avg_ips: 7.9491.
+Type : transistor Train [ Epoch 302/500 ], loss: 0.0942, avg_reader_cost: 0.0003 avg_batch_cost: 0.3482, avg_ips: 275.7032.
+Type : transistor Train [ Epoch 303/500 ], loss: 0.0603, avg_reader_cost: 0.0002 avg_batch_cost: 0.3441, avg_ips: 278.9790.
+Type : transistor Train [ Epoch 304/500 ], loss: 0.0730, avg_reader_cost: 0.0007 avg_batch_cost: 0.3630, avg_ips: 264.4453.
+Type : transistor Train [ Epoch 305/500 ], loss: 0.0434, avg_reader_cost: 0.0004 avg_batch_cost: 0.3540, avg_ips: 271.1794.
+Type : transistor Train [ Epoch 306/500 ], loss: 0.0698, avg_reader_cost: 1.0752 avg_batch_cost: 1.4169, avg_ips: 67.7517.
+Type : transistor Train [ Epoch 307/500 ], loss: 0.0458, avg_reader_cost: 1.2380 avg_batch_cost: 1.5924, avg_ips: 60.2882.
+Type : transistor Train [ Epoch 308/500 ], loss: 0.0517, avg_reader_cost: 1.2321 avg_batch_cost: 1.5745, avg_ips: 60.9724.
+Type : transistor Train [ Epoch 309/500 ], loss: 0.0509, avg_reader_cost: 1.2452 avg_batch_cost: 1.5984, avg_ips: 60.0588.
+Type : transistor Train [ Epoch 310/500 ], loss: 0.0505, avg_reader_cost: 1.2297 avg_batch_cost: 1.3360, avg_ips: 71.8574.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 310/500 ] max_auc: 0.9550 roc_auc : 0.953333.
+Type : transistor Train [ Epoch 311/500 ], loss: 0.0699, avg_reader_cost: 11.2106 avg_batch_cost: 11.4362, avg_ips: 8.3944.
+Type : transistor Train [ Epoch 312/500 ], loss: 0.0886, avg_reader_cost: 1.3846 avg_batch_cost: 1.7348, avg_ips: 55.3374.
+Type : transistor Train [ Epoch 313/500 ], loss: 0.1007, avg_reader_cost: 1.3744 avg_batch_cost: 1.7169, avg_ips: 55.9145.
+Type : transistor Train [ Epoch 314/500 ], loss: 0.0866, avg_reader_cost: 1.3602 avg_batch_cost: 1.7016, avg_ips: 56.4160.
+Type : transistor Train [ Epoch 315/500 ], loss: 0.0561, avg_reader_cost: 1.3565 avg_batch_cost: 1.6994, avg_ips: 56.4902.
+Type : transistor Train [ Epoch 316/500 ], loss: 0.0644, avg_reader_cost: 1.3739 avg_batch_cost: 1.5568, avg_ips: 61.6651.
+Type : transistor Train [ Epoch 317/500 ], loss: 0.0522, avg_reader_cost: 1.3123 avg_batch_cost: 1.6675, avg_ips: 57.5723.
+Type : transistor Train [ Epoch 318/500 ], loss: 0.0553, avg_reader_cost: 1.3549 avg_batch_cost: 1.7015, avg_ips: 56.4197.
+Type : transistor Train [ Epoch 319/500 ], loss: 0.0702, avg_reader_cost: 1.2634 avg_batch_cost: 1.6094, avg_ips: 59.6506.
+Type : transistor Train [ Epoch 320/500 ], loss: 0.0782, avg_reader_cost: 1.2489 avg_batch_cost: 1.5894, avg_ips: 60.4020.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 320/500 ] max_auc: 0.9679 roc_auc : 0.967917.
+Type : transistor Train [ Epoch 321/500 ], loss: 0.0536, avg_reader_cost: 12.4676 avg_batch_cost: 12.8331, avg_ips: 7.4807.
+Type : transistor Train [ Epoch 322/500 ], loss: 0.0512, avg_reader_cost: 0.0003 avg_batch_cost: 0.3481, avg_ips: 275.8182.
+Type : transistor Train [ Epoch 323/500 ], loss: 0.0963, avg_reader_cost: 0.0004 avg_batch_cost: 0.3522, avg_ips: 272.5971.
+Type : transistor Train [ Epoch 324/500 ], loss: 0.1014, avg_reader_cost: 0.0003 avg_batch_cost: 0.3398, avg_ips: 282.5188.
+Type : transistor Train [ Epoch 325/500 ], loss: 0.0455, avg_reader_cost: 0.0007 avg_batch_cost: 0.3539, avg_ips: 271.2293.
+Type : transistor Train [ Epoch 326/500 ], loss: 0.1289, avg_reader_cost: 1.0987 avg_batch_cost: 1.2519, avg_ips: 76.6862.
+Type : transistor Train [ Epoch 327/500 ], loss: 0.1009, avg_reader_cost: 1.3088 avg_batch_cost: 1.6516, avg_ips: 58.1242.
+Type : transistor Train [ Epoch 328/500 ], loss: 0.0479, avg_reader_cost: 1.3230 avg_batch_cost: 1.6732, avg_ips: 57.3747.
+Type : transistor Train [ Epoch 329/500 ], loss: 0.1364, avg_reader_cost: 1.3127 avg_batch_cost: 1.6592, avg_ips: 57.8598.
+Type : transistor Train [ Epoch 330/500 ], loss: 0.0711, avg_reader_cost: 1.2795 avg_batch_cost: 1.6310, avg_ips: 58.8613.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 330/500 ] max_auc: 0.9679 roc_auc : 0.955000.
+Type : transistor Train [ Epoch 331/500 ], loss: 0.0779, avg_reader_cost: 11.9568 avg_batch_cost: 12.3070, avg_ips: 7.8005.
+Type : transistor Train [ Epoch 332/500 ], loss: 0.0527, avg_reader_cost: 0.0003 avg_batch_cost: 0.3487, avg_ips: 275.3350.
+Type : transistor Train [ Epoch 333/500 ], loss: 0.0753, avg_reader_cost: 0.0003 avg_batch_cost: 0.1402, avg_ips: 684.8659.
+Type : transistor Train [ Epoch 334/500 ], loss: 0.0514, avg_reader_cost: 0.0004 avg_batch_cost: 0.3546, avg_ips: 270.7340.
+Type : transistor Train [ Epoch 335/500 ], loss: 0.0564, avg_reader_cost: 0.0011 avg_batch_cost: 0.3452, avg_ips: 278.1267.
+Type : transistor Train [ Epoch 336/500 ], loss: 0.1136, avg_reader_cost: 1.1235 avg_batch_cost: 1.4758, avg_ips: 65.0491.
+Type : transistor Train [ Epoch 337/500 ], loss: 0.0593, avg_reader_cost: 1.2578 avg_batch_cost: 1.5990, avg_ips: 60.0391.
+Type : transistor Train [ Epoch 338/500 ], loss: 0.0581, avg_reader_cost: 1.3333 avg_batch_cost: 1.5125, avg_ips: 63.4717.
+Type : transistor Train [ Epoch 339/500 ], loss: 0.0625, avg_reader_cost: 1.3708 avg_batch_cost: 1.5981, avg_ips: 60.0716.
+Type : transistor Train [ Epoch 340/500 ], loss: 0.0680, avg_reader_cost: 1.3655 avg_batch_cost: 1.5450, avg_ips: 62.1354.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 340/500 ] max_auc: 0.9679 roc_auc : 0.949167.
+Type : transistor Train [ Epoch 341/500 ], loss: 0.0460, avg_reader_cost: 10.6889 avg_batch_cost: 10.8826, avg_ips: 8.8215.
+Type : transistor Train [ Epoch 342/500 ], loss: 0.0697, avg_reader_cost: 1.3320 avg_batch_cost: 1.6858, avg_ips: 56.9453.
+Type : transistor Train [ Epoch 343/500 ], loss: 0.0533, avg_reader_cost: 1.2643 avg_batch_cost: 1.6112, avg_ips: 59.5816.
+Type : transistor Train [ Epoch 344/500 ], loss: 0.0408, avg_reader_cost: 1.2656 avg_batch_cost: 1.6187, avg_ips: 59.3079.
+Type : transistor Train [ Epoch 345/500 ], loss: 0.0443, avg_reader_cost: 1.2594 avg_batch_cost: 1.6029, avg_ips: 59.8902.
+Type : transistor Train [ Epoch 346/500 ], loss: 0.0608, avg_reader_cost: 1.2697 avg_batch_cost: 1.6128, avg_ips: 59.5249.
+Type : transistor Train [ Epoch 347/500 ], loss: 0.0440, avg_reader_cost: 1.3480 avg_batch_cost: 1.7008, avg_ips: 56.4436.
+Type : transistor Train [ Epoch 348/500 ], loss: 0.0596, avg_reader_cost: 1.2807 avg_batch_cost: 1.6358, avg_ips: 58.6854.
+Type : transistor Train [ Epoch 349/500 ], loss: 0.0913, avg_reader_cost: 1.2824 avg_batch_cost: 1.6344, avg_ips: 58.7373.
+Type : transistor Train [ Epoch 350/500 ], loss: 0.0991, avg_reader_cost: 1.2912 avg_batch_cost: 1.6395, avg_ips: 58.5543.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 350/500 ] max_auc: 0.9679 roc_auc : 0.960833.
+Type : transistor Train [ Epoch 351/500 ], loss: 0.0669, avg_reader_cost: 11.4178 avg_batch_cost: 11.7669, avg_ips: 8.1585.
+Type : transistor Train [ Epoch 352/500 ], loss: 0.0371, avg_reader_cost: 0.0004 avg_batch_cost: 0.1708, avg_ips: 562.0743.
+Type : transistor Train [ Epoch 353/500 ], loss: 0.0778, avg_reader_cost: 0.0006 avg_batch_cost: 0.3542, avg_ips: 271.0374.
+Type : transistor Train [ Epoch 354/500 ], loss: 0.0354, avg_reader_cost: 0.0011 avg_batch_cost: 0.1487, avg_ips: 645.7494.
+Type : transistor Train [ Epoch 355/500 ], loss: 0.0713, avg_reader_cost: 0.0004 avg_batch_cost: 0.3546, avg_ips: 270.7642.
+Type : transistor Train [ Epoch 356/500 ], loss: 0.0370, avg_reader_cost: 1.2075 avg_batch_cost: 1.5587, avg_ips: 61.5897.
+Type : transistor Train [ Epoch 357/500 ], loss: 0.0433, avg_reader_cost: 1.2972 avg_batch_cost: 1.6396, avg_ips: 58.5503.
+Type : transistor Train [ Epoch 358/500 ], loss: 0.0742, avg_reader_cost: 1.2567 avg_batch_cost: 1.3928, avg_ips: 68.9277.
+Type : transistor Train [ Epoch 359/500 ], loss: 0.0787, avg_reader_cost: 1.2671 avg_batch_cost: 1.6080, avg_ips: 59.7008.
+Type : transistor Train [ Epoch 360/500 ], loss: 0.0609, avg_reader_cost: 1.2756 avg_batch_cost: 1.6300, avg_ips: 58.8941.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 360/500 ] max_auc: 0.9846 roc_auc : 0.984583.
+Type : transistor Train [ Epoch 361/500 ], loss: 0.0660, avg_reader_cost: 12.2571 avg_batch_cost: 12.6191, avg_ips: 7.6075.
+Type : transistor Train [ Epoch 362/500 ], loss: 0.0541, avg_reader_cost: 0.0004 avg_batch_cost: 0.3490, avg_ips: 275.0948.
+Type : transistor Train [ Epoch 363/500 ], loss: 0.0771, avg_reader_cost: 0.0002 avg_batch_cost: 0.3438, avg_ips: 279.2539.
+Type : transistor Train [ Epoch 364/500 ], loss: 0.0939, avg_reader_cost: 0.0005 avg_batch_cost: 0.3571, avg_ips: 268.8398.
+Type : transistor Train [ Epoch 365/500 ], loss: 0.0925, avg_reader_cost: 0.0003 avg_batch_cost: 0.1376, avg_ips: 697.5683.
+Type : transistor Train [ Epoch 366/500 ], loss: 0.1098, avg_reader_cost: 1.1094 avg_batch_cost: 1.4545, avg_ips: 66.0010.
+Type : transistor Train [ Epoch 367/500 ], loss: 0.0483, avg_reader_cost: 1.2653 avg_batch_cost: 1.6204, avg_ips: 59.2431.
+Type : transistor Train [ Epoch 368/500 ], loss: 0.0671, avg_reader_cost: 1.2316 avg_batch_cost: 1.5831, avg_ips: 60.6409.
+Type : transistor Train [ Epoch 369/500 ], loss: 0.0783, avg_reader_cost: 1.2323 avg_batch_cost: 1.5737, avg_ips: 61.0044.
+Type : transistor Train [ Epoch 370/500 ], loss: 0.0957, avg_reader_cost: 1.2407 avg_batch_cost: 1.5849, avg_ips: 60.5712.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 370/500 ] max_auc: 0.9954 roc_auc : 0.995417.
+Type : transistor Train [ Epoch 371/500 ], loss: 0.1014, avg_reader_cost: 11.4096 avg_batch_cost: 11.5162, avg_ips: 8.3361.
+Type : transistor Train [ Epoch 372/500 ], loss: 0.0371, avg_reader_cost: 0.0003 avg_batch_cost: 0.1074, avg_ips: 894.0855.
+Type : transistor Train [ Epoch 373/500 ], loss: 0.0630, avg_reader_cost: 1.3276 avg_batch_cost: 1.6686, avg_ips: 57.5343.
+Type : transistor Train [ Epoch 374/500 ], loss: 0.0868, avg_reader_cost: 1.2820 avg_batch_cost: 1.5233, avg_ips: 63.0224.
+Type : transistor Train [ Epoch 375/500 ], loss: 0.0723, avg_reader_cost: 1.2676 avg_batch_cost: 1.4171, avg_ips: 67.7441.
+Type : transistor Train [ Epoch 376/500 ], loss: 0.0265, avg_reader_cost: 1.2631 avg_batch_cost: 1.6171, avg_ips: 59.3662.
+Type : transistor Train [ Epoch 377/500 ], loss: 0.0653, avg_reader_cost: 1.2466 avg_batch_cost: 1.5882, avg_ips: 60.4451.
+Type : transistor Train [ Epoch 378/500 ], loss: 0.0884, avg_reader_cost: 1.2328 avg_batch_cost: 1.5775, avg_ips: 60.8539.
+Type : transistor Train [ Epoch 379/500 ], loss: 0.0374, avg_reader_cost: 1.2524 avg_batch_cost: 1.6051, avg_ips: 59.8079.
+Type : transistor Train [ Epoch 380/500 ], loss: 0.0754, avg_reader_cost: 1.2515 avg_batch_cost: 1.5934, avg_ips: 60.2503.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 380/500 ] max_auc: 0.9954 roc_auc : 0.992917.
+Type : transistor Train [ Epoch 381/500 ], loss: 0.0820, avg_reader_cost: 11.5235 avg_batch_cost: 11.9802, avg_ips: 8.0132.
+Type : transistor Train [ Epoch 382/500 ], loss: 0.0501, avg_reader_cost: 0.0003 avg_batch_cost: 0.3501, avg_ips: 274.1943.
+Type : transistor Train [ Epoch 383/500 ], loss: 0.0770, avg_reader_cost: 0.0011 avg_batch_cost: 0.1405, avg_ips: 683.3004.
+Type : transistor Train [ Epoch 384/500 ], loss: 0.0756, avg_reader_cost: 0.0005 avg_batch_cost: 0.3555, avg_ips: 270.0188.
+Type : transistor Train [ Epoch 385/500 ], loss: 0.0445, avg_reader_cost: 0.0003 avg_batch_cost: 0.3402, avg_ips: 282.2048.
+Type : transistor Train [ Epoch 386/500 ], loss: 0.0683, avg_reader_cost: 1.1062 avg_batch_cost: 1.4571, avg_ips: 65.8831.
+Type : transistor Train [ Epoch 387/500 ], loss: 0.0440, avg_reader_cost: 1.2374 avg_batch_cost: 1.5880, avg_ips: 60.4551.
+Type : transistor Train [ Epoch 388/500 ], loss: 0.0351, avg_reader_cost: 1.2445 avg_batch_cost: 1.5898, avg_ips: 60.3848.
+Type : transistor Train [ Epoch 389/500 ], loss: 0.0450, avg_reader_cost: 1.2528 avg_batch_cost: 1.3984, avg_ips: 68.6513.
+Type : transistor Train [ Epoch 390/500 ], loss: 0.0545, avg_reader_cost: 1.2658 avg_batch_cost: 1.4475, avg_ips: 66.3208.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 390/500 ] max_auc: 0.9954 roc_auc : 0.975417.
+Type : transistor Train [ Epoch 391/500 ], loss: 0.0485, avg_reader_cost: 11.4076 avg_batch_cost: 11.7972, avg_ips: 8.1375.
+Type : transistor Train [ Epoch 392/500 ], loss: 0.0532, avg_reader_cost: 0.0007 avg_batch_cost: 0.3526, avg_ips: 272.2320.
+Type : transistor Train [ Epoch 393/500 ], loss: 0.1044, avg_reader_cost: 0.0003 avg_batch_cost: 0.3457, avg_ips: 277.6792.
+Type : transistor Train [ Epoch 394/500 ], loss: 0.0385, avg_reader_cost: 0.0006 avg_batch_cost: 0.3558, avg_ips: 269.8057.
+Type : transistor Train [ Epoch 395/500 ], loss: 0.0724, avg_reader_cost: 0.0003 avg_batch_cost: 0.3480, avg_ips: 275.8745.
+Type : transistor Train [ Epoch 396/500 ], loss: 0.0556, avg_reader_cost: 1.1015 avg_batch_cost: 1.4495, avg_ips: 66.2307.
+Type : transistor Train [ Epoch 397/500 ], loss: 0.0642, avg_reader_cost: 1.2392 avg_batch_cost: 1.4647, avg_ips: 65.5430.
+Type : transistor Train [ Epoch 398/500 ], loss: 0.0535, avg_reader_cost: 1.2914 avg_batch_cost: 1.4444, avg_ips: 66.4617.
+Type : transistor Train [ Epoch 399/500 ], loss: 0.0651, avg_reader_cost: 1.2948 avg_batch_cost: 1.6471, avg_ips: 58.2833.
+Type : transistor Train [ Epoch 400/500 ], loss: 0.0611, avg_reader_cost: 1.3197 avg_batch_cost: 1.6685, avg_ips: 57.5371.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 400/500 ] max_auc: 0.9954 roc_auc : 0.967500.
+Type : transistor Train [ Epoch 401/500 ], loss: 0.0705, avg_reader_cost: 11.3275 avg_batch_cost: 11.4605, avg_ips: 8.3766.
+Type : transistor Train [ Epoch 402/500 ], loss: 0.0544, avg_reader_cost: 0.0004 avg_batch_cost: 0.1093, avg_ips: 878.7141.
+Type : transistor Train [ Epoch 403/500 ], loss: 0.0305, avg_reader_cost: 0.0006 avg_batch_cost: 0.1093, avg_ips: 877.9478.
+Type : transistor Train [ Epoch 404/500 ], loss: 0.1183, avg_reader_cost: 1.3165 avg_batch_cost: 1.6607, avg_ips: 57.8086.
+Type : transistor Train [ Epoch 405/500 ], loss: 0.0917, avg_reader_cost: 1.2606 avg_batch_cost: 1.4240, avg_ips: 67.4145.
+Type : transistor Train [ Epoch 406/500 ], loss: 0.0913, avg_reader_cost: 1.2617 avg_batch_cost: 1.6091, avg_ips: 59.6621.
+Type : transistor Train [ Epoch 407/500 ], loss: 0.0314, avg_reader_cost: 1.2441 avg_batch_cost: 1.5905, avg_ips: 60.3566.
+Type : transistor Train [ Epoch 408/500 ], loss: 0.0725, avg_reader_cost: 1.2539 avg_batch_cost: 1.5985, avg_ips: 60.0576.
+Type : transistor Train [ Epoch 409/500 ], loss: 0.0937, avg_reader_cost: 1.2486 avg_batch_cost: 1.5965, avg_ips: 60.1332.
+Type : transistor Train [ Epoch 410/500 ], loss: 0.0940, avg_reader_cost: 1.2502 avg_batch_cost: 1.6030, avg_ips: 59.8878.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 410/500 ] max_auc: 0.9954 roc_auc : 0.946667.
+Type : transistor Train [ Epoch 411/500 ], loss: 0.0634, avg_reader_cost: 11.9940 avg_batch_cost: 12.4124, avg_ips: 7.7342.
+Type : transistor Train [ Epoch 412/500 ], loss: 0.0332, avg_reader_cost: 0.0003 avg_batch_cost: 0.3447, avg_ips: 278.5030.
+Type : transistor Train [ Epoch 413/500 ], loss: 0.0412, avg_reader_cost: 0.0004 avg_batch_cost: 0.3530, avg_ips: 271.9714.
+Type : transistor Train [ Epoch 414/500 ], loss: 0.0625, avg_reader_cost: 0.0003 avg_batch_cost: 0.3399, avg_ips: 282.4675.
+Type : transistor Train [ Epoch 415/500 ], loss: 0.0406, avg_reader_cost: 0.0004 avg_batch_cost: 0.3587, avg_ips: 267.6103.
+Type : transistor Train [ Epoch 416/500 ], loss: 0.0452, avg_reader_cost: 1.1198 avg_batch_cost: 1.4662, avg_ips: 65.4742.
+Type : transistor Train [ Epoch 417/500 ], loss: 0.0745, avg_reader_cost: 1.2551 avg_batch_cost: 1.6122, avg_ips: 59.5477.
+Type : transistor Train [ Epoch 418/500 ], loss: 0.0451, avg_reader_cost: 1.2503 avg_batch_cost: 1.5915, avg_ips: 60.3187.
+Type : transistor Train [ Epoch 419/500 ], loss: 0.0304, avg_reader_cost: 1.2621 avg_batch_cost: 1.4188, avg_ips: 67.6617.
+Type : transistor Train [ Epoch 420/500 ], loss: 0.0405, avg_reader_cost: 1.2633 avg_batch_cost: 1.6099, avg_ips: 59.6312.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 420/500 ] max_auc: 0.9954 roc_auc : 0.984583.
+Type : transistor Train [ Epoch 421/500 ], loss: 0.0857, avg_reader_cost: 11.5087 avg_batch_cost: 11.8978, avg_ips: 8.0687.
+Type : transistor Train [ Epoch 422/500 ], loss: 0.0444, avg_reader_cost: 0.0004 avg_batch_cost: 0.3533, avg_ips: 271.7088.
+Type : transistor Train [ Epoch 423/500 ], loss: 0.0691, avg_reader_cost: 0.0003 avg_batch_cost: 0.3493, avg_ips: 274.8242.
+Type : transistor Train [ Epoch 424/500 ], loss: 0.0274, avg_reader_cost: 0.0003 avg_batch_cost: 0.1403, avg_ips: 684.0921.
+Type : transistor Train [ Epoch 425/500 ], loss: 0.0573, avg_reader_cost: 0.0004 avg_batch_cost: 0.3501, avg_ips: 274.1741.
+Type : transistor Train [ Epoch 426/500 ], loss: 0.0689, avg_reader_cost: 1.1184 avg_batch_cost: 1.4594, avg_ips: 65.7804.
+Type : transistor Train [ Epoch 427/500 ], loss: 0.0353, avg_reader_cost: 1.2403 avg_batch_cost: 1.5852, avg_ips: 60.5587.
+Type : transistor Train [ Epoch 428/500 ], loss: 0.1074, avg_reader_cost: 1.2532 avg_batch_cost: 1.4194, avg_ips: 67.6320.
+Type : transistor Train [ Epoch 429/500 ], loss: 0.0723, avg_reader_cost: 1.2703 avg_batch_cost: 1.4150, avg_ips: 67.8426.
+Type : transistor Train [ Epoch 430/500 ], loss: 0.0522, avg_reader_cost: 1.2456 avg_batch_cost: 1.5949, avg_ips: 60.1924.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 430/500 ] max_auc: 0.9954 roc_auc : 0.976667.
+Type : transistor Train [ Epoch 431/500 ], loss: 0.0537, avg_reader_cost: 10.8862 avg_batch_cost: 11.0687, avg_ips: 8.6731.
+Type : transistor Train [ Epoch 432/500 ], loss: 0.0290, avg_reader_cost: 0.0005 avg_batch_cost: 0.1073, avg_ips: 894.6298.
+Type : transistor Train [ Epoch 433/500 ], loss: 0.0417, avg_reader_cost: 0.0004 avg_batch_cost: 0.1072, avg_ips: 895.4276.
+Type : transistor Train [ Epoch 434/500 ], loss: 0.0670, avg_reader_cost: 0.0005 avg_batch_cost: 0.1107, avg_ips: 866.9537.
+Type : transistor Train [ Epoch 435/500 ], loss: 0.0682, avg_reader_cost: 1.2929 avg_batch_cost: 1.6396, avg_ips: 58.5523.
+Type : transistor Train [ Epoch 436/500 ], loss: 0.0696, avg_reader_cost: 1.2526 avg_batch_cost: 1.3874, avg_ips: 69.1966.
+Type : transistor Train [ Epoch 437/500 ], loss: 0.0976, avg_reader_cost: 1.2533 avg_batch_cost: 1.5942, avg_ips: 60.2202.
+Type : transistor Train [ Epoch 438/500 ], loss: 0.0517, avg_reader_cost: 1.2458 avg_batch_cost: 1.5869, avg_ips: 60.4939.
+Type : transistor Train [ Epoch 439/500 ], loss: 0.0364, avg_reader_cost: 1.2421 avg_batch_cost: 1.3784, avg_ips: 69.6479.
+Type : transistor Train [ Epoch 440/500 ], loss: 0.0549, avg_reader_cost: 1.2345 avg_batch_cost: 1.5798, avg_ips: 60.7660.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 440/500 ] max_auc: 0.9954 roc_auc : 0.926667.
+Type : transistor Train [ Epoch 441/500 ], loss: 0.0816, avg_reader_cost: 11.6813 avg_batch_cost: 11.9585, avg_ips: 8.0278.
+Type : transistor Train [ Epoch 442/500 ], loss: 0.0508, avg_reader_cost: 0.0004 avg_batch_cost: 0.3514, avg_ips: 273.1812.
+Type : transistor Train [ Epoch 443/500 ], loss: 0.0545, avg_reader_cost: 0.0011 avg_batch_cost: 0.1378, avg_ips: 696.5005.
+Type : transistor Train [ Epoch 444/500 ], loss: 0.0420, avg_reader_cost: 0.0004 avg_batch_cost: 0.3523, avg_ips: 272.4625.
+Type : transistor Train [ Epoch 445/500 ], loss: 0.0316, avg_reader_cost: 0.0003 avg_batch_cost: 0.1410, avg_ips: 680.7784.
+Type : transistor Train [ Epoch 446/500 ], loss: 0.1020, avg_reader_cost: 1.1004 avg_batch_cost: 1.4447, avg_ips: 66.4512.
+Type : transistor Train [ Epoch 447/500 ], loss: 0.0450, avg_reader_cost: 1.2570 avg_batch_cost: 1.4221, avg_ips: 67.5073.
+Type : transistor Train [ Epoch 448/500 ], loss: 0.0785, avg_reader_cost: 1.2674 avg_batch_cost: 1.6180, avg_ips: 59.3332.
+Type : transistor Train [ Epoch 449/500 ], loss: 0.0539, avg_reader_cost: 1.2375 avg_batch_cost: 1.3758, avg_ips: 69.7775.
+Type : transistor Train [ Epoch 450/500 ], loss: 0.0753, avg_reader_cost: 1.2331 avg_batch_cost: 1.5738, avg_ips: 60.9973.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 450/500 ] max_auc: 0.9954 roc_auc : 0.928750.
+Type : transistor Train [ Epoch 451/500 ], loss: 0.0580, avg_reader_cost: 11.1307 avg_batch_cost: 11.5616, avg_ips: 8.3033.
+Type : transistor Train [ Epoch 452/500 ], loss: 0.0343, avg_reader_cost: 0.0003 avg_batch_cost: 0.3553, avg_ips: 270.1961.
+Type : transistor Train [ Epoch 453/500 ], loss: 0.1027, avg_reader_cost: 0.0003 avg_batch_cost: 0.3512, avg_ips: 273.3219.
+Type : transistor Train [ Epoch 454/500 ], loss: 0.0272, avg_reader_cost: 0.0003 avg_batch_cost: 0.3508, avg_ips: 273.6747.
+Type : transistor Train [ Epoch 455/500 ], loss: 0.0458, avg_reader_cost: 0.0003 avg_batch_cost: 0.3434, avg_ips: 279.5970.
+Type : transistor Train [ Epoch 456/500 ], loss: 0.0526, avg_reader_cost: 1.0977 avg_batch_cost: 1.2361, avg_ips: 77.6653.
+Type : transistor Train [ Epoch 457/500 ], loss: 0.0581, avg_reader_cost: 1.2427 avg_batch_cost: 1.5911, avg_ips: 60.3365.
+Type : transistor Train [ Epoch 458/500 ], loss: 0.0881, avg_reader_cost: 1.2442 avg_batch_cost: 1.5954, avg_ips: 60.1718.
+Type : transistor Train [ Epoch 459/500 ], loss: 0.0390, avg_reader_cost: 1.2448 avg_batch_cost: 1.5888, avg_ips: 60.4219.
+Type : transistor Train [ Epoch 460/500 ], loss: 0.0347, avg_reader_cost: 1.2469 avg_batch_cost: 1.4232, avg_ips: 67.4520.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 460/500 ] max_auc: 0.9954 roc_auc : 0.976250.
+Type : transistor Train [ Epoch 461/500 ], loss: 0.0957, avg_reader_cost: 11.3546 avg_batch_cost: 11.4729, avg_ips: 8.3676.
+Type : transistor Train [ Epoch 462/500 ], loss: 0.0298, avg_reader_cost: 0.0003 avg_batch_cost: 0.1060, avg_ips: 905.8524.
+Type : transistor Train [ Epoch 463/500 ], loss: 0.0599, avg_reader_cost: 0.0003 avg_batch_cost: 0.1063, avg_ips: 903.0224.
+Type : transistor Train [ Epoch 464/500 ], loss: 0.0472, avg_reader_cost: 0.0003 avg_batch_cost: 0.1054, avg_ips: 911.1512.
+Type : transistor Train [ Epoch 465/500 ], loss: 0.0411, avg_reader_cost: 0.0003 avg_batch_cost: 0.1057, avg_ips: 907.8580.
+Type : transistor Train [ Epoch 466/500 ], loss: 0.0364, avg_reader_cost: 1.3205 avg_batch_cost: 1.6688, avg_ips: 57.5261.
+Type : transistor Train [ Epoch 467/500 ], loss: 0.0308, avg_reader_cost: 1.2464 avg_batch_cost: 1.5968, avg_ips: 60.1193.
+Type : transistor Train [ Epoch 468/500 ], loss: 0.0672, avg_reader_cost: 1.2544 avg_batch_cost: 1.4018, avg_ips: 68.4818.
+Type : transistor Train [ Epoch 469/500 ], loss: 0.0349, avg_reader_cost: 1.2794 avg_batch_cost: 1.4218, avg_ips: 67.5216.
+Type : transistor Train [ Epoch 470/500 ], loss: 0.0828, avg_reader_cost: 1.2559 avg_batch_cost: 1.5999, avg_ips: 60.0042.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 470/500 ] max_auc: 0.9954 roc_auc : 0.966250.
+Type : transistor Train [ Epoch 471/500 ], loss: 0.0836, avg_reader_cost: 11.8428 avg_batch_cost: 12.2503, avg_ips: 7.8365.
+Type : transistor Train [ Epoch 472/500 ], loss: 0.0423, avg_reader_cost: 0.0004 avg_batch_cost: 0.1453, avg_ips: 660.6742.
+Type : transistor Train [ Epoch 473/500 ], loss: 0.0168, avg_reader_cost: 0.0003 avg_batch_cost: 0.3533, avg_ips: 271.7130.
+Type : transistor Train [ Epoch 474/500 ], loss: 0.0150, avg_reader_cost: 0.0003 avg_batch_cost: 0.3523, avg_ips: 272.4849.
+Type : transistor Train [ Epoch 475/500 ], loss: 0.0259, avg_reader_cost: 0.0011 avg_batch_cost: 0.3420, avg_ips: 280.6904.
+Type : transistor Train [ Epoch 476/500 ], loss: 0.0567, avg_reader_cost: 1.1162 avg_batch_cost: 1.4627, avg_ips: 65.6326.
+Type : transistor Train [ Epoch 477/500 ], loss: 0.0270, avg_reader_cost: 1.2937 avg_batch_cost: 1.6452, avg_ips: 58.3509.
+Type : transistor Train [ Epoch 478/500 ], loss: 0.0734, avg_reader_cost: 1.2629 avg_batch_cost: 1.6122, avg_ips: 59.5465.
+Type : transistor Train [ Epoch 479/500 ], loss: 0.0187, avg_reader_cost: 1.2693 avg_batch_cost: 1.6107, avg_ips: 59.5997.
+Type : transistor Train [ Epoch 480/500 ], loss: 0.0448, avg_reader_cost: 1.2557 avg_batch_cost: 1.5981, avg_ips: 60.0721.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 480/500 ] max_auc: 0.9954 roc_auc : 0.979167.
+Type : transistor Train [ Epoch 481/500 ], loss: 0.0477, avg_reader_cost: 11.2607 avg_batch_cost: 11.4343, avg_ips: 8.3958.
+Type : transistor Train [ Epoch 482/500 ], loss: 0.0233, avg_reader_cost: 0.0005 avg_batch_cost: 0.3507, avg_ips: 273.7513.
+Type : transistor Train [ Epoch 483/500 ], loss: 0.0599, avg_reader_cost: 0.0011 avg_batch_cost: 0.3539, avg_ips: 271.2697.
+Type : transistor Train [ Epoch 484/500 ], loss: 0.0552, avg_reader_cost: 0.0004 avg_batch_cost: 0.3189, avg_ips: 301.0253.
+Type : transistor Train [ Epoch 485/500 ], loss: 0.0339, avg_reader_cost: 0.0003 avg_batch_cost: 0.3518, avg_ips: 272.8585.
+Type : transistor Train [ Epoch 486/500 ], loss: 0.0078, avg_reader_cost: 1.0972 avg_batch_cost: 1.2404, avg_ips: 77.3969.
+Type : transistor Train [ Epoch 487/500 ], loss: 0.0203, avg_reader_cost: 1.2443 avg_batch_cost: 1.5848, avg_ips: 60.5771.
+Type : transistor Train [ Epoch 488/500 ], loss: 0.0083, avg_reader_cost: 1.2569 avg_batch_cost: 1.6051, avg_ips: 59.8078.
+Type : transistor Train [ Epoch 489/500 ], loss: 0.0758, avg_reader_cost: 1.2594 avg_batch_cost: 1.4286, avg_ips: 67.1974.
+Type : transistor Train [ Epoch 490/500 ], loss: 0.0593, avg_reader_cost: 1.2460 avg_batch_cost: 1.3851, avg_ips: 69.3097.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 490/500 ] max_auc: 0.9954 roc_auc : 0.973750.
+Type : transistor Train [ Epoch 491/500 ], loss: 0.0775, avg_reader_cost: 11.6324 avg_batch_cost: 12.1019, avg_ips: 7.9326.
+Type : transistor Train [ Epoch 492/500 ], loss: 0.0652, avg_reader_cost: 0.0004 avg_batch_cost: 0.3457, avg_ips: 277.7032.
+Type : transistor Train [ Epoch 493/500 ], loss: 0.0660, avg_reader_cost: 0.0002 avg_batch_cost: 0.3490, avg_ips: 275.0722.
+Type : transistor Train [ Epoch 494/500 ], loss: 0.0490, avg_reader_cost: 0.0002 avg_batch_cost: 0.1435, avg_ips: 669.0236.
+Type : transistor Train [ Epoch 495/500 ], loss: 0.0622, avg_reader_cost: 0.0004 avg_batch_cost: 0.3527, avg_ips: 272.2224.
+Type : transistor Train [ Epoch 496/500 ], loss: 0.0426, avg_reader_cost: 1.1226 avg_batch_cost: 1.2303, avg_ips: 78.0306.
+Type : transistor Train [ Epoch 497/500 ], loss: 0.0457, avg_reader_cost: 1.3124 avg_batch_cost: 1.6567, avg_ips: 57.9472.
+Type : transistor Train [ Epoch 498/500 ], loss: 0.0508, avg_reader_cost: 1.2703 avg_batch_cost: 1.6124, avg_ips: 59.5374.
+Type : transistor Train [ Epoch 499/500 ], loss: 0.0247, avg_reader_cost: 1.2544 avg_batch_cost: 1.3983, avg_ips: 68.6559.
+Type : transistor Train [ Epoch 500/500 ], loss: 0.0457, avg_reader_cost: 1.2566 avg_batch_cost: 1.6017, avg_ips: 59.9368.
+loading images
+loaded 213 images
+using density estimation GaussianDensityPaddle
+Type : transistor Val [ Epoch 500/500 ] max_auc: 0.9954 roc_auc : 0.943333.

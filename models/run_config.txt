@@ -1,0 +1,1 @@
+Namespace(batch_size=96, cuda=True, epochs=500, freeze_resnet=20, head_layer=1, logs_dir='logdirs', lr=0.03, model_dir='models', optim='sgd', pretrained=True, test_epochs=10, type='all', variant='3way', workers=0)

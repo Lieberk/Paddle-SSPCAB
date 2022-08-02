@@ -1,0 +1,700 @@
+Type : tile Train [ Epoch 1/500 ], loss: 1.3119, avg_reader_cost: 1.3467 avg_batch_cost: 1.7070, avg_ips: 56.2405.
+Type : tile Train [ Epoch 2/500 ], loss: 1.2976, avg_reader_cost: 1.2808 avg_batch_cost: 1.4196, avg_ips: 67.6268.
+Type : tile Train [ Epoch 3/500 ], loss: 1.2435, avg_reader_cost: 1.2955 avg_batch_cost: 1.4413, avg_ips: 66.6078.
+Type : tile Train [ Epoch 4/500 ], loss: 1.1716, avg_reader_cost: 1.3163 avg_batch_cost: 1.6600, avg_ips: 57.8327.
+Type : tile Train [ Epoch 5/500 ], loss: 1.1684, avg_reader_cost: 1.3194 avg_batch_cost: 1.6635, avg_ips: 57.7103.
+Type : tile Train [ Epoch 6/500 ], loss: 1.2015, avg_reader_cost: 1.3034 avg_batch_cost: 1.4485, avg_ips: 66.2735.
+Type : tile Train [ Epoch 7/500 ], loss: 1.1236, avg_reader_cost: 1.3164 avg_batch_cost: 1.4738, avg_ips: 65.1374.
+Type : tile Train [ Epoch 8/500 ], loss: 1.1163, avg_reader_cost: 1.2980 avg_batch_cost: 1.4394, avg_ips: 66.6964.
+Type : tile Train [ Epoch 9/500 ], loss: 1.0089, avg_reader_cost: 1.2784 avg_batch_cost: 1.6275, avg_ips: 58.9856.
+Type : tile Train [ Epoch 10/500 ], loss: 1.0751, avg_reader_cost: 1.2760 avg_batch_cost: 1.4221, avg_ips: 67.5042.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 10/500 ] max_auc: 0.8589 roc_auc : 0.858947.
+Type : tile Train [ Epoch 11/500 ], loss: 1.0718, avg_reader_cost: 10.0421 avg_batch_cost: 10.4140, avg_ips: 9.2184.
+Type : tile Train [ Epoch 12/500 ], loss: 1.0949, avg_reader_cost: 0.0003 avg_batch_cost: 0.3542, avg_ips: 271.0703.
+Type : tile Train [ Epoch 13/500 ], loss: 1.0984, avg_reader_cost: 0.0004 avg_batch_cost: 0.1378, avg_ips: 696.7162.
+Type : tile Train [ Epoch 14/500 ], loss: 1.0663, avg_reader_cost: 0.0004 avg_batch_cost: 0.3515, avg_ips: 273.1187.
+Type : tile Train [ Epoch 15/500 ], loss: 1.0358, avg_reader_cost: 0.0003 avg_batch_cost: 0.3425, avg_ips: 280.2559.
+Type : tile Train [ Epoch 16/500 ], loss: 0.9736, avg_reader_cost: 1.1634 avg_batch_cost: 1.5108, avg_ips: 63.5436.
+Type : tile Train [ Epoch 17/500 ], loss: 0.9555, avg_reader_cost: 1.3987 avg_batch_cost: 1.5575, avg_ips: 61.6384.
+Type : tile Train [ Epoch 18/500 ], loss: 0.8600, avg_reader_cost: 1.4325 avg_batch_cost: 1.6015, avg_ips: 59.9452.
+Type : tile Train [ Epoch 19/500 ], loss: 0.8941, avg_reader_cost: 1.3284 avg_batch_cost: 1.6831, avg_ips: 57.0363.
+Type : tile Train [ Epoch 20/500 ], loss: 0.8397, avg_reader_cost: 1.3462 avg_batch_cost: 1.5852, avg_ips: 60.5617.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 20/500 ] max_auc: 0.8589 roc_auc : 0.746032.
+Type : tile Train [ Epoch 21/500 ], loss: 0.7847, avg_reader_cost: 9.8239 avg_batch_cost: 10.1914, avg_ips: 9.4197.
+Type : tile Train [ Epoch 22/500 ], loss: 0.7811, avg_reader_cost: 0.0003 avg_batch_cost: 0.3415, avg_ips: 281.1096.
+Type : tile Train [ Epoch 23/500 ], loss: 0.5932, avg_reader_cost: 0.0003 avg_batch_cost: 0.3537, avg_ips: 271.4484.
+Type : tile Train [ Epoch 24/500 ], loss: 0.6422, avg_reader_cost: 0.0002 avg_batch_cost: 0.3455, avg_ips: 277.8724.
+Type : tile Train [ Epoch 25/500 ], loss: 0.6139, avg_reader_cost: 0.0003 avg_batch_cost: 0.3526, avg_ips: 272.2935.
+Type : tile Train [ Epoch 26/500 ], loss: 0.5251, avg_reader_cost: 1.1482 avg_batch_cost: 1.2913, avg_ips: 74.3460.
+Type : tile Train [ Epoch 27/500 ], loss: 0.5822, avg_reader_cost: 1.2784 avg_batch_cost: 1.4425, avg_ips: 66.5517.
+Type : tile Train [ Epoch 28/500 ], loss: 0.5380, avg_reader_cost: 1.2763 avg_batch_cost: 1.4215, avg_ips: 67.5334.
+Type : tile Train [ Epoch 29/500 ], loss: 0.5266, avg_reader_cost: 1.2862 avg_batch_cost: 1.6310, avg_ips: 58.8586.
+Type : tile Train [ Epoch 30/500 ], loss: 0.5183, avg_reader_cost: 1.2776 avg_batch_cost: 1.5017, avg_ips: 63.9273.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 30/500 ] max_auc: 0.8589 roc_auc : 0.730880.
+Type : tile Train [ Epoch 31/500 ], loss: 0.5055, avg_reader_cost: 8.6622 avg_batch_cost: 8.7916, avg_ips: 10.9195.
+Type : tile Train [ Epoch 32/500 ], loss: 0.5053, avg_reader_cost: 1.3505 avg_batch_cost: 1.6951, avg_ips: 56.6346.
+Type : tile Train [ Epoch 33/500 ], loss: 0.5391, avg_reader_cost: 1.3100 avg_batch_cost: 1.4984, avg_ips: 64.0682.
+Type : tile Train [ Epoch 34/500 ], loss: 0.5050, avg_reader_cost: 1.3445 avg_batch_cost: 1.6869, avg_ips: 56.9090.
+Type : tile Train [ Epoch 35/500 ], loss: 0.5045, avg_reader_cost: 1.3401 avg_batch_cost: 1.5277, avg_ips: 62.8386.
+Type : tile Train [ Epoch 36/500 ], loss: 0.5030, avg_reader_cost: 1.3520 avg_batch_cost: 1.5083, avg_ips: 63.6474.
+Type : tile Train [ Epoch 37/500 ], loss: 0.5040, avg_reader_cost: 1.3527 avg_batch_cost: 1.6990, avg_ips: 56.5045.
+Type : tile Train [ Epoch 38/500 ], loss: 0.4740, avg_reader_cost: 1.3475 avg_batch_cost: 1.5126, avg_ips: 63.4666.
+Type : tile Train [ Epoch 39/500 ], loss: 0.4915, avg_reader_cost: 1.3297 avg_batch_cost: 1.4734, avg_ips: 65.1574.
+Type : tile Train [ Epoch 40/500 ], loss: 0.4829, avg_reader_cost: 1.3977 avg_batch_cost: 1.5991, avg_ips: 60.0322.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 40/500 ] max_auc: 0.8914 roc_auc : 0.891414.
+Type : tile Train [ Epoch 41/500 ], loss: 0.4699, avg_reader_cost: 10.8985 avg_batch_cost: 11.0517, avg_ips: 8.6864.
+Type : tile Train [ Epoch 42/500 ], loss: 0.4538, avg_reader_cost: 0.0004 avg_batch_cost: 0.3523, avg_ips: 272.5014.
+Type : tile Train [ Epoch 43/500 ], loss: 0.4564, avg_reader_cost: 0.0006 avg_batch_cost: 0.3524, avg_ips: 272.4540.
+Type : tile Train [ Epoch 44/500 ], loss: 0.4251, avg_reader_cost: 0.0003 avg_batch_cost: 0.1344, avg_ips: 714.3357.
+Type : tile Train [ Epoch 45/500 ], loss: 0.4468, avg_reader_cost: 0.0003 avg_batch_cost: 0.3481, avg_ips: 275.7523.
+Type : tile Train [ Epoch 46/500 ], loss: 0.3846, avg_reader_cost: 1.2230 avg_batch_cost: 1.3617, avg_ips: 70.5017.
+Type : tile Train [ Epoch 47/500 ], loss: 0.3824, avg_reader_cost: 1.3154 avg_batch_cost: 1.5114, avg_ips: 63.5156.
+Type : tile Train [ Epoch 48/500 ], loss: 0.3873, avg_reader_cost: 1.3000 avg_batch_cost: 1.6404, avg_ips: 58.5212.
+Type : tile Train [ Epoch 49/500 ], loss: 0.3896, avg_reader_cost: 1.3533 avg_batch_cost: 1.5834, avg_ips: 60.6283.
+Type : tile Train [ Epoch 50/500 ], loss: 0.3595, avg_reader_cost: 1.2876 avg_batch_cost: 1.6344, avg_ips: 58.7363.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 50/500 ] max_auc: 0.9300 roc_auc : 0.930014.
+Type : tile Train [ Epoch 51/500 ], loss: 0.3926, avg_reader_cost: 10.5599 avg_batch_cost: 10.7744, avg_ips: 8.9100.
+Type : tile Train [ Epoch 52/500 ], loss: 0.3585, avg_reader_cost: 0.0004 avg_batch_cost: 0.3471, avg_ips: 276.6043.
+Type : tile Train [ Epoch 53/500 ], loss: 0.3958, avg_reader_cost: 0.0003 avg_batch_cost: 0.3496, avg_ips: 274.5720.
+Type : tile Train [ Epoch 54/500 ], loss: 0.3643, avg_reader_cost: 0.0002 avg_batch_cost: 0.1431, avg_ips: 670.8337.
+Type : tile Train [ Epoch 55/500 ], loss: 0.3553, avg_reader_cost: 0.0021 avg_batch_cost: 0.3552, avg_ips: 270.3033.
+Type : tile Train [ Epoch 56/500 ], loss: 0.3629, avg_reader_cost: 1.1519 avg_batch_cost: 1.2877, avg_ips: 74.5531.
+Type : tile Train [ Epoch 57/500 ], loss: 0.3441, avg_reader_cost: 1.4288 avg_batch_cost: 1.5688, avg_ips: 61.1924.
+Type : tile Train [ Epoch 58/500 ], loss: 0.3020, avg_reader_cost: 1.2868 avg_batch_cost: 1.6321, avg_ips: 58.8182.
+Type : tile Train [ Epoch 59/500 ], loss: 0.2746, avg_reader_cost: 1.2739 avg_batch_cost: 1.4849, avg_ips: 64.6528.
+Type : tile Train [ Epoch 60/500 ], loss: 0.2572, avg_reader_cost: 1.2818 avg_batch_cost: 1.6238, avg_ips: 59.1194.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 60/500 ] max_auc: 0.9665 roc_auc : 0.966450.
+Type : tile Train [ Epoch 61/500 ], loss: 0.2557, avg_reader_cost: 9.6291 avg_batch_cost: 9.7427, avg_ips: 9.8536.
+Type : tile Train [ Epoch 62/500 ], loss: 0.2640, avg_reader_cost: 0.0003 avg_batch_cost: 0.1059, avg_ips: 906.6785.
+Type : tile Train [ Epoch 63/500 ], loss: 0.2453, avg_reader_cost: 1.3365 avg_batch_cost: 1.4745, avg_ips: 65.1057.
+Type : tile Train [ Epoch 64/500 ], loss: 0.1634, avg_reader_cost: 1.2909 avg_batch_cost: 1.6380, avg_ips: 58.6080.
+Type : tile Train [ Epoch 65/500 ], loss: 0.2109, avg_reader_cost: 1.2875 avg_batch_cost: 1.6396, avg_ips: 58.5491.
+Type : tile Train [ Epoch 66/500 ], loss: 0.2127, avg_reader_cost: 1.2834 avg_batch_cost: 1.6332, avg_ips: 58.7808.
+Type : tile Train [ Epoch 67/500 ], loss: 0.1777, avg_reader_cost: 1.2811 avg_batch_cost: 1.4418, avg_ips: 66.5819.
+Type : tile Train [ Epoch 68/500 ], loss: 0.1916, avg_reader_cost: 1.2864 avg_batch_cost: 1.4310, avg_ips: 67.0867.
+Type : tile Train [ Epoch 69/500 ], loss: 0.1515, avg_reader_cost: 1.2823 avg_batch_cost: 1.4684, avg_ips: 65.3780.
+Type : tile Train [ Epoch 70/500 ], loss: 0.1696, avg_reader_cost: 1.2910 avg_batch_cost: 1.6356, avg_ips: 58.6924.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 70/500 ] max_auc: 0.9773 roc_auc : 0.977273.
+Type : tile Train [ Epoch 71/500 ], loss: 0.1246, avg_reader_cost: 10.7170 avg_batch_cost: 11.0701, avg_ips: 8.6720.
+Type : tile Train [ Epoch 72/500 ], loss: 0.1708, avg_reader_cost: 0.0003 avg_batch_cost: 0.1431, avg_ips: 670.7812.
+Type : tile Train [ Epoch 73/500 ], loss: 0.1016, avg_reader_cost: 0.0012 avg_batch_cost: 0.3538, avg_ips: 271.3432.
+Type : tile Train [ Epoch 74/500 ], loss: 0.1699, avg_reader_cost: 0.0003 avg_batch_cost: 0.2454, avg_ips: 391.1715.
+Type : tile Train [ Epoch 75/500 ], loss: 0.1380, avg_reader_cost: 0.0003 avg_batch_cost: 0.3484, avg_ips: 275.5747.
+Type : tile Train [ Epoch 76/500 ], loss: 0.1209, avg_reader_cost: 1.1358 avg_batch_cost: 1.3630, avg_ips: 70.4331.
+Type : tile Train [ Epoch 77/500 ], loss: 0.1313, avg_reader_cost: 1.2900 avg_batch_cost: 1.6361, avg_ips: 58.6778.
+Type : tile Train [ Epoch 78/500 ], loss: 0.1586, avg_reader_cost: 1.2705 avg_batch_cost: 1.6143, avg_ips: 59.4699.
+Type : tile Train [ Epoch 79/500 ], loss: 0.1589, avg_reader_cost: 1.2692 avg_batch_cost: 1.6181, avg_ips: 59.3274.
+Type : tile Train [ Epoch 80/500 ], loss: 0.1425, avg_reader_cost: 1.2731 avg_batch_cost: 1.4158, avg_ips: 67.8058.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 80/500 ] max_auc: 0.9805 roc_auc : 0.980519.
+Type : tile Train [ Epoch 81/500 ], loss: 0.1023, avg_reader_cost: 10.3728 avg_batch_cost: 10.7190, avg_ips: 8.9561.
+Type : tile Train [ Epoch 82/500 ], loss: 0.1840, avg_reader_cost: 0.0004 avg_batch_cost: 0.3297, avg_ips: 291.1496.
+Type : tile Train [ Epoch 83/500 ], loss: 0.1847, avg_reader_cost: 0.0011 avg_batch_cost: 0.3545, avg_ips: 270.7928.
+Type : tile Train [ Epoch 84/500 ], loss: 0.0903, avg_reader_cost: 0.0004 avg_batch_cost: 0.3447, avg_ips: 278.5215.
+Type : tile Train [ Epoch 85/500 ], loss: 0.0947, avg_reader_cost: 0.0010 avg_batch_cost: 0.3552, avg_ips: 270.2744.
+Type : tile Train [ Epoch 86/500 ], loss: 0.1267, avg_reader_cost: 1.1820 avg_batch_cost: 1.5295, avg_ips: 62.7653.
+Type : tile Train [ Epoch 87/500 ], loss: 0.1073, avg_reader_cost: 1.3600 avg_batch_cost: 1.7082, avg_ips: 56.1982.
+Type : tile Train [ Epoch 88/500 ], loss: 0.0705, avg_reader_cost: 1.3014 avg_batch_cost: 1.6480, avg_ips: 58.2516.
+Type : tile Train [ Epoch 89/500 ], loss: 0.0985, avg_reader_cost: 1.3222 avg_batch_cost: 1.6640, avg_ips: 57.6919.
+Type : tile Train [ Epoch 90/500 ], loss: 0.0661, avg_reader_cost: 1.3448 avg_batch_cost: 1.6871, avg_ips: 56.9027.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 90/500 ] max_auc: 0.9964 roc_auc : 0.996392.
+Type : tile Train [ Epoch 91/500 ], loss: 0.0783, avg_reader_cost: 10.2642 avg_batch_cost: 10.3786, avg_ips: 9.2498.
+Type : tile Train [ Epoch 92/500 ], loss: 0.1314, avg_reader_cost: 0.0003 avg_batch_cost: 0.1062, avg_ips: 904.2006.
+Type : tile Train [ Epoch 93/500 ], loss: 0.1026, avg_reader_cost: 0.0004 avg_batch_cost: 0.1063, avg_ips: 903.4722.
+Type : tile Train [ Epoch 94/500 ], loss: 0.1169, avg_reader_cost: 1.3228 avg_batch_cost: 1.4629, avg_ips: 65.6249.
+Type : tile Train [ Epoch 95/500 ], loss: 0.1093, avg_reader_cost: 1.2951 avg_batch_cost: 1.4613, avg_ips: 65.6934.
+Type : tile Train [ Epoch 96/500 ], loss: 0.0755, avg_reader_cost: 1.3078 avg_batch_cost: 1.6291, avg_ips: 58.9266.
+Type : tile Train [ Epoch 97/500 ], loss: 0.0966, avg_reader_cost: 1.2892 avg_batch_cost: 1.4297, avg_ips: 67.1463.
+Type : tile Train [ Epoch 98/500 ], loss: 0.0877, avg_reader_cost: 1.2857 avg_batch_cost: 1.4512, avg_ips: 66.1508.
+Type : tile Train [ Epoch 99/500 ], loss: 0.0556, avg_reader_cost: 1.2770 avg_batch_cost: 1.6210, avg_ips: 59.2234.
+Type : tile Train [ Epoch 100/500 ], loss: 0.0773, avg_reader_cost: 1.2878 avg_batch_cost: 1.6332, avg_ips: 58.7790.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 100/500 ] max_auc: 0.9964 roc_auc : 0.985931.
+Type : tile Train [ Epoch 101/500 ], loss: 0.0824, avg_reader_cost: 10.3083 avg_batch_cost: 10.6366, avg_ips: 9.0255.
+Type : tile Train [ Epoch 102/500 ], loss: 0.0976, avg_reader_cost: 0.0007 avg_batch_cost: 0.3522, avg_ips: 272.6001.
+Type : tile Train [ Epoch 103/500 ], loss: 0.1164, avg_reader_cost: 0.0010 avg_batch_cost: 0.3618, avg_ips: 265.3206.
+Type : tile Train [ Epoch 104/500 ], loss: 0.0943, avg_reader_cost: 0.0004 avg_batch_cost: 0.3536, avg_ips: 271.4709.
+Type : tile Train [ Epoch 105/500 ], loss: 0.0385, avg_reader_cost: 0.0003 avg_batch_cost: 0.3579, avg_ips: 268.2064.
+Type : tile Train [ Epoch 106/500 ], loss: 0.1192, avg_reader_cost: 1.0903 avg_batch_cost: 1.4390, avg_ips: 66.7153.
+Type : tile Train [ Epoch 107/500 ], loss: 0.1039, avg_reader_cost: 1.2901 avg_batch_cost: 1.4320, avg_ips: 67.0380.
+Type : tile Train [ Epoch 108/500 ], loss: 0.0702, avg_reader_cost: 1.2997 avg_batch_cost: 1.6424, avg_ips: 58.4512.
+Type : tile Train [ Epoch 109/500 ], loss: 0.0715, avg_reader_cost: 1.2832 avg_batch_cost: 1.4180, avg_ips: 67.7011.
+Type : tile Train [ Epoch 110/500 ], loss: 0.0563, avg_reader_cost: 1.2858 avg_batch_cost: 1.6258, avg_ips: 59.0471.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 110/500 ] max_auc: 0.9964 roc_auc : 0.955628.
+Type : tile Train [ Epoch 111/500 ], loss: 0.0667, avg_reader_cost: 10.0795 avg_batch_cost: 10.3109, avg_ips: 9.3106.
+Type : tile Train [ Epoch 112/500 ], loss: 0.0692, avg_reader_cost: 0.0013 avg_batch_cost: 0.3498, avg_ips: 274.4108.
+Type : tile Train [ Epoch 113/500 ], loss: 0.0898, avg_reader_cost: 0.0002 avg_batch_cost: 0.3496, avg_ips: 274.5997.
+Type : tile Train [ Epoch 114/500 ], loss: 0.0905, avg_reader_cost: 0.0003 avg_batch_cost: 0.1421, avg_ips: 675.7831.
+Type : tile Train [ Epoch 115/500 ], loss: 0.0626, avg_reader_cost: 0.0004 avg_batch_cost: 0.3505, avg_ips: 273.8940.
+Type : tile Train [ Epoch 116/500 ], loss: 0.0667, avg_reader_cost: 1.1536 avg_batch_cost: 1.4282, avg_ips: 67.2177.
+Type : tile Train [ Epoch 117/500 ], loss: 0.0582, avg_reader_cost: 1.2790 avg_batch_cost: 1.6228, avg_ips: 59.1564.
+Type : tile Train [ Epoch 118/500 ], loss: 0.0848, avg_reader_cost: 1.2807 avg_batch_cost: 1.6337, avg_ips: 58.7636.
+Type : tile Train [ Epoch 119/500 ], loss: 0.0989, avg_reader_cost: 1.2795 avg_batch_cost: 1.4191, avg_ips: 67.6465.
+Type : tile Train [ Epoch 120/500 ], loss: 0.0579, avg_reader_cost: 1.2913 avg_batch_cost: 1.4371, avg_ips: 66.7991.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 120/500 ] max_auc: 0.9964 roc_auc : 0.946609.
+Type : tile Train [ Epoch 121/500 ], loss: 0.0888, avg_reader_cost: 9.9211 avg_batch_cost: 10.1099, avg_ips: 9.4956.
+Type : tile Train [ Epoch 122/500 ], loss: 0.1395, avg_reader_cost: 0.0003 avg_batch_cost: 0.1067, avg_ips: 899.3696.
+Type : tile Train [ Epoch 123/500 ], loss: 0.0728, avg_reader_cost: 0.0003 avg_batch_cost: 0.1067, avg_ips: 899.5043.
+Type : tile Train [ Epoch 124/500 ], loss: 0.0879, avg_reader_cost: 0.0003 avg_batch_cost: 0.1054, avg_ips: 910.4692.
+Type : tile Train [ Epoch 125/500 ], loss: 0.0979, avg_reader_cost: 1.3334 avg_batch_cost: 1.4749, avg_ips: 65.0885.
+Type : tile Train [ Epoch 126/500 ], loss: 0.0767, avg_reader_cost: 1.3011 avg_batch_cost: 1.6434, avg_ips: 58.4170.
+Type : tile Train [ Epoch 127/500 ], loss: 0.0857, avg_reader_cost: 1.2947 avg_batch_cost: 1.6435, avg_ips: 58.4103.
+Type : tile Train [ Epoch 128/500 ], loss: 0.0597, avg_reader_cost: 1.2825 avg_batch_cost: 1.6257, avg_ips: 59.0513.
+Type : tile Train [ Epoch 129/500 ], loss: 0.0782, avg_reader_cost: 1.2775 avg_batch_cost: 1.4222, avg_ips: 67.5007.
+Type : tile Train [ Epoch 130/500 ], loss: 0.0462, avg_reader_cost: 1.2858 avg_batch_cost: 1.4305, avg_ips: 67.1081.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 130/500 ] max_auc: 0.9964 roc_auc : 0.972583.
+Type : tile Train [ Epoch 131/500 ], loss: 0.1093, avg_reader_cost: 10.0283 avg_batch_cost: 10.2603, avg_ips: 9.3564.
+Type : tile Train [ Epoch 132/500 ], loss: 0.1066, avg_reader_cost: 0.0007 avg_batch_cost: 0.3517, avg_ips: 272.9806.
+Type : tile Train [ Epoch 133/500 ], loss: 0.0883, avg_reader_cost: 0.0003 avg_batch_cost: 0.2673, avg_ips: 359.1536.
+Type : tile Train [ Epoch 134/500 ], loss: 0.0877, avg_reader_cost: 0.0003 avg_batch_cost: 0.2113, avg_ips: 454.3229.
+Type : tile Train [ Epoch 135/500 ], loss: 0.0719, avg_reader_cost: 0.0003 avg_batch_cost: 0.3546, avg_ips: 270.7056.
+Type : tile Train [ Epoch 136/500 ], loss: 0.0574, avg_reader_cost: 1.2307 avg_batch_cost: 1.3952, avg_ips: 68.8071.
+Type : tile Train [ Epoch 137/500 ], loss: 0.0633, avg_reader_cost: 1.3248 avg_batch_cost: 1.4818, avg_ips: 64.7873.
+Type : tile Train [ Epoch 138/500 ], loss: 0.0715, avg_reader_cost: 1.2865 avg_batch_cost: 1.6338, avg_ips: 58.7591.
+Type : tile Train [ Epoch 139/500 ], loss: 0.0491, avg_reader_cost: 1.2818 avg_batch_cost: 1.4266, avg_ips: 67.2930.
+Type : tile Train [ Epoch 140/500 ], loss: 0.0515, avg_reader_cost: 1.3072 avg_batch_cost: 1.4494, avg_ips: 66.2358.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 140/500 ] max_auc: 0.9964 roc_auc : 0.988456.
+Type : tile Train [ Epoch 141/500 ], loss: 0.1235, avg_reader_cost: 10.1080 avg_batch_cost: 10.4713, avg_ips: 9.1680.
+Type : tile Train [ Epoch 142/500 ], loss: 0.0692, avg_reader_cost: 0.0002 avg_batch_cost: 0.1410, avg_ips: 681.0110.
+Type : tile Train [ Epoch 143/500 ], loss: 0.0642, avg_reader_cost: 0.0003 avg_batch_cost: 0.3480, avg_ips: 275.8454.
+Type : tile Train [ Epoch 144/500 ], loss: 0.0424, avg_reader_cost: 0.0002 avg_batch_cost: 0.3455, avg_ips: 277.8444.
+Type : tile Train [ Epoch 145/500 ], loss: 0.0880, avg_reader_cost: 0.0003 avg_batch_cost: 0.3392, avg_ips: 283.0417.
+Type : tile Train [ Epoch 146/500 ], loss: 0.0710, avg_reader_cost: 1.1452 avg_batch_cost: 1.2918, avg_ips: 74.3138.
+Type : tile Train [ Epoch 147/500 ], loss: 0.0717, avg_reader_cost: 1.2705 avg_batch_cost: 1.4134, avg_ips: 67.9228.
+Type : tile Train [ Epoch 148/500 ], loss: 0.0224, avg_reader_cost: 1.2841 avg_batch_cost: 1.6306, avg_ips: 58.8740.
+Type : tile Train [ Epoch 149/500 ], loss: 0.0593, avg_reader_cost: 1.2710 avg_batch_cost: 1.4122, avg_ips: 67.9775.
+Type : tile Train [ Epoch 150/500 ], loss: 0.0701, avg_reader_cost: 1.2605 avg_batch_cost: 1.6059, avg_ips: 59.7808.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 150/500 ] max_auc: 0.9964 roc_auc : 0.965729.
+Type : tile Train [ Epoch 151/500 ], loss: 0.0383, avg_reader_cost: 10.0161 avg_batch_cost: 10.1240, avg_ips: 9.4824.
+Type : tile Train [ Epoch 152/500 ], loss: 0.0508, avg_reader_cost: 0.0003 avg_batch_cost: 0.1068, avg_ips: 898.9781.
+Type : tile Train [ Epoch 153/500 ], loss: 0.0575, avg_reader_cost: 0.0003 avg_batch_cost: 0.1064, avg_ips: 902.2212.
+Type : tile Train [ Epoch 154/500 ], loss: 0.0482, avg_reader_cost: 0.0003 avg_batch_cost: 0.1044, avg_ips: 919.1295.
+Type : tile Train [ Epoch 155/500 ], loss: 0.0289, avg_reader_cost: 0.0003 avg_batch_cost: 0.1053, avg_ips: 911.5699.
+Type : tile Train [ Epoch 156/500 ], loss: 0.0472, avg_reader_cost: 1.3391 avg_batch_cost: 1.4757, avg_ips: 65.0552.
+Type : tile Train [ Epoch 157/500 ], loss: 0.0526, avg_reader_cost: 1.2977 avg_batch_cost: 1.6450, avg_ips: 58.3585.
+Type : tile Train [ Epoch 158/500 ], loss: 0.0894, avg_reader_cost: 1.2937 avg_batch_cost: 1.5426, avg_ips: 62.2309.
+Type : tile Train [ Epoch 159/500 ], loss: 0.0499, avg_reader_cost: 1.3034 avg_batch_cost: 1.6432, avg_ips: 58.4240.
+Type : tile Train [ Epoch 160/500 ], loss: 0.0663, avg_reader_cost: 1.2965 avg_batch_cost: 1.6362, avg_ips: 58.6717.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 160/500 ] max_auc: 0.9964 roc_auc : 0.968615.
+Type : tile Train [ Epoch 161/500 ], loss: 0.0522, avg_reader_cost: 9.8874 avg_batch_cost: 10.2600, avg_ips: 9.3567.
+Type : tile Train [ Epoch 162/500 ], loss: 0.0563, avg_reader_cost: 0.0002 avg_batch_cost: 0.1450, avg_ips: 661.8427.
+Type : tile Train [ Epoch 163/500 ], loss: 0.1047, avg_reader_cost: 0.0003 avg_batch_cost: 0.3432, avg_ips: 279.6974.
+Type : tile Train [ Epoch 164/500 ], loss: 0.0461, avg_reader_cost: 0.0006 avg_batch_cost: 0.3502, avg_ips: 274.1274.
+Type : tile Train [ Epoch 165/500 ], loss: 0.0915, avg_reader_cost: 0.0002 avg_batch_cost: 0.1475, avg_ips: 650.6906.
+Type : tile Train [ Epoch 166/500 ], loss: 0.0751, avg_reader_cost: 1.2056 avg_batch_cost: 1.5507, avg_ips: 61.9058.
+Type : tile Train [ Epoch 167/500 ], loss: 0.0289, avg_reader_cost: 1.3223 avg_batch_cost: 1.6695, avg_ips: 57.5009.
+Type : tile Train [ Epoch 168/500 ], loss: 0.1083, avg_reader_cost: 1.2878 avg_batch_cost: 1.4678, avg_ips: 65.4048.
+Type : tile Train [ Epoch 169/500 ], loss: 0.0252, avg_reader_cost: 1.2726 avg_batch_cost: 1.4111, avg_ips: 68.0306.
+Type : tile Train [ Epoch 170/500 ], loss: 0.0404, avg_reader_cost: 1.2782 avg_batch_cost: 1.6252, avg_ips: 59.0712.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 170/500 ] max_auc: 0.9964 roc_auc : 0.927850.
+Type : tile Train [ Epoch 171/500 ], loss: 0.0543, avg_reader_cost: 9.8681 avg_batch_cost: 10.1353, avg_ips: 9.4718.
+Type : tile Train [ Epoch 172/500 ], loss: 0.1135, avg_reader_cost: 0.0005 avg_batch_cost: 0.3487, avg_ips: 275.2721.
+Type : tile Train [ Epoch 173/500 ], loss: 0.0835, avg_reader_cost: 0.0004 avg_batch_cost: 0.3586, avg_ips: 267.7377.
+Type : tile Train [ Epoch 174/500 ], loss: 0.0761, avg_reader_cost: 0.0007 avg_batch_cost: 0.3440, avg_ips: 279.0968.
+Type : tile Train [ Epoch 175/500 ], loss: 0.0372, avg_reader_cost: 0.0004 avg_batch_cost: 0.3536, avg_ips: 271.4970.
+Type : tile Train [ Epoch 176/500 ], loss: 0.0436, avg_reader_cost: 1.1614 avg_batch_cost: 1.5043, avg_ips: 63.8185.
+Type : tile Train [ Epoch 177/500 ], loss: 0.0854, avg_reader_cost: 1.2681 avg_batch_cost: 1.6081, avg_ips: 59.6967.
+Type : tile Train [ Epoch 178/500 ], loss: 0.0609, avg_reader_cost: 1.2713 avg_batch_cost: 1.4168, avg_ips: 67.7577.
+Type : tile Train [ Epoch 179/500 ], loss: 0.0328, avg_reader_cost: 1.2744 avg_batch_cost: 1.6186, avg_ips: 59.3119.
+Type : tile Train [ Epoch 180/500 ], loss: 0.0405, avg_reader_cost: 1.2702 avg_batch_cost: 1.6134, avg_ips: 59.5003.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 180/500 ] max_auc: 0.9964 roc_auc : 0.959235.
+Type : tile Train [ Epoch 181/500 ], loss: 0.0493, avg_reader_cost: 9.7553 avg_batch_cost: 9.9293, avg_ips: 9.6684.
+Type : tile Train [ Epoch 182/500 ], loss: 0.0563, avg_reader_cost: 0.0005 avg_batch_cost: 0.1133, avg_ips: 847.3930.
+Type : tile Train [ Epoch 183/500 ], loss: 0.0625, avg_reader_cost: 0.0004 avg_batch_cost: 0.3470, avg_ips: 276.6627.
+Type : tile Train [ Epoch 184/500 ], loss: 0.0498, avg_reader_cost: 0.0006 avg_batch_cost: 0.3462, avg_ips: 277.2792.
+Type : tile Train [ Epoch 185/500 ], loss: 0.1177, avg_reader_cost: 0.0003 avg_batch_cost: 0.3450, avg_ips: 278.2528.
+Type : tile Train [ Epoch 186/500 ], loss: 0.0219, avg_reader_cost: 1.1854 avg_batch_cost: 1.2922, avg_ips: 74.2943.
+Type : tile Train [ Epoch 187/500 ], loss: 0.0525, avg_reader_cost: 1.4041 avg_batch_cost: 1.7464, avg_ips: 54.9696.
+Type : tile Train [ Epoch 188/500 ], loss: 0.0180, avg_reader_cost: 1.3204 avg_batch_cost: 1.6724, avg_ips: 57.4013.
+Type : tile Train [ Epoch 189/500 ], loss: 0.0625, avg_reader_cost: 1.2983 avg_batch_cost: 1.6451, avg_ips: 58.3536.
+Type : tile Train [ Epoch 190/500 ], loss: 0.0279, avg_reader_cost: 1.2753 avg_batch_cost: 1.4114, avg_ips: 68.0185.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 190/500 ] max_auc: 0.9964 roc_auc : 0.975108.
+Type : tile Train [ Epoch 191/500 ], loss: 0.0621, avg_reader_cost: 9.8582 avg_batch_cost: 10.0812, avg_ips: 9.5227.
+Type : tile Train [ Epoch 192/500 ], loss: 0.0326, avg_reader_cost: 0.0003 avg_batch_cost: 0.1399, avg_ips: 686.4093.
+Type : tile Train [ Epoch 193/500 ], loss: 0.0544, avg_reader_cost: 0.0004 avg_batch_cost: 0.1379, avg_ips: 696.2223.
+Type : tile Train [ Epoch 194/500 ], loss: 0.0306, avg_reader_cost: 0.0003 avg_batch_cost: 0.3448, avg_ips: 278.4196.
+Type : tile Train [ Epoch 195/500 ], loss: 0.0548, avg_reader_cost: 0.0005 avg_batch_cost: 0.3495, avg_ips: 274.6525.
+Type : tile Train [ Epoch 196/500 ], loss: 0.0172, avg_reader_cost: 1.1875 avg_batch_cost: 1.3268, avg_ips: 72.3553.
+Type : tile Train [ Epoch 197/500 ], loss: 0.0195, avg_reader_cost: 1.3136 avg_batch_cost: 1.5743, avg_ips: 60.9776.
+Type : tile Train [ Epoch 198/500 ], loss: 0.0281, avg_reader_cost: 1.2982 avg_batch_cost: 1.4333, avg_ips: 66.9787.
+Type : tile Train [ Epoch 199/500 ], loss: 0.0973, avg_reader_cost: 1.2830 avg_batch_cost: 1.6335, avg_ips: 58.7694.
+Type : tile Train [ Epoch 200/500 ], loss: 0.0379, avg_reader_cost: 1.2831 avg_batch_cost: 1.4278, avg_ips: 67.2371.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 200/500 ] max_auc: 0.9964 roc_auc : 0.971501.
+Type : tile Train [ Epoch 201/500 ], loss: 0.0278, avg_reader_cost: 9.8490 avg_batch_cost: 10.2787, avg_ips: 9.3397.
+Type : tile Train [ Epoch 202/500 ], loss: 0.0420, avg_reader_cost: 0.0011 avg_batch_cost: 0.1396, avg_ips: 687.4499.
+Type : tile Train [ Epoch 203/500 ], loss: 0.0418, avg_reader_cost: 0.0005 avg_batch_cost: 0.3467, avg_ips: 276.8582.
+Type : tile Train [ Epoch 204/500 ], loss: 0.0455, avg_reader_cost: 0.0003 avg_batch_cost: 0.3543, avg_ips: 270.9595.
+Type : tile Train [ Epoch 205/500 ], loss: 0.0438, avg_reader_cost: 0.0003 avg_batch_cost: 0.1447, avg_ips: 663.3561.
+Type : tile Train [ Epoch 206/500 ], loss: 0.0383, avg_reader_cost: 1.1426 avg_batch_cost: 1.3109, avg_ips: 73.2332.
+Type : tile Train [ Epoch 207/500 ], loss: 0.0131, avg_reader_cost: 1.2816 avg_batch_cost: 1.6255, avg_ips: 59.0592.
+Type : tile Train [ Epoch 208/500 ], loss: 0.0412, avg_reader_cost: 1.2793 avg_batch_cost: 1.4199, avg_ips: 67.6104.
+Type : tile Train [ Epoch 209/500 ], loss: 0.0853, avg_reader_cost: 1.2851 avg_batch_cost: 1.4487, avg_ips: 66.2648.
+Type : tile Train [ Epoch 210/500 ], loss: 0.0816, avg_reader_cost: 1.2800 avg_batch_cost: 1.6268, avg_ips: 59.0106.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 210/500 ] max_auc: 0.9964 roc_auc : 0.974387.
+Type : tile Train [ Epoch 211/500 ], loss: 0.0210, avg_reader_cost: 9.9106 avg_batch_cost: 10.1524, avg_ips: 9.4559.
+Type : tile Train [ Epoch 212/500 ], loss: 0.0415, avg_reader_cost: 0.0012 avg_batch_cost: 0.3515, avg_ips: 273.1007.
+Type : tile Train [ Epoch 213/500 ], loss: 0.0263, avg_reader_cost: 0.0003 avg_batch_cost: 0.3463, avg_ips: 277.2003.
+Type : tile Train [ Epoch 214/500 ], loss: 0.0583, avg_reader_cost: 0.0002 avg_batch_cost: 0.1534, avg_ips: 625.8812.
+Type : tile Train [ Epoch 215/500 ], loss: 0.0429, avg_reader_cost: 0.0013 avg_batch_cost: 0.3507, avg_ips: 273.7720.
+Type : tile Train [ Epoch 216/500 ], loss: 0.0475, avg_reader_cost: 1.1581 avg_batch_cost: 1.5055, avg_ips: 63.7680.
+Type : tile Train [ Epoch 217/500 ], loss: 0.0234, avg_reader_cost: 1.2735 avg_batch_cost: 1.3785, avg_ips: 69.6393.
+Type : tile Train [ Epoch 218/500 ], loss: 0.0419, avg_reader_cost: 1.3314 avg_batch_cost: 1.6712, avg_ips: 57.4435.
+Type : tile Train [ Epoch 219/500 ], loss: 0.0394, avg_reader_cost: 1.2827 avg_batch_cost: 1.4196, avg_ips: 67.6230.
+Type : tile Train [ Epoch 220/500 ], loss: 0.0528, avg_reader_cost: 1.2981 avg_batch_cost: 1.6433, avg_ips: 58.4207.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 220/500 ] max_auc: 0.9964 roc_auc : 0.980880.
+Type : tile Train [ Epoch 221/500 ], loss: 0.0615, avg_reader_cost: 10.2336 avg_batch_cost: 10.5252, avg_ips: 9.1210.
+Type : tile Train [ Epoch 222/500 ], loss: 0.0855, avg_reader_cost: 0.0006 avg_batch_cost: 0.3559, avg_ips: 269.7038.
+Type : tile Train [ Epoch 223/500 ], loss: 0.0569, avg_reader_cost: 0.0003 avg_batch_cost: 0.3435, avg_ips: 279.4778.
+Type : tile Train [ Epoch 224/500 ], loss: 0.0686, avg_reader_cost: 0.0003 avg_batch_cost: 0.3536, avg_ips: 271.4657.
+Type : tile Train [ Epoch 225/500 ], loss: 0.0572, avg_reader_cost: 0.0002 avg_batch_cost: 0.3392, avg_ips: 282.9797.
+Type : tile Train [ Epoch 226/500 ], loss: 0.0795, avg_reader_cost: 1.1492 avg_batch_cost: 1.4936, avg_ips: 64.2736.
+Type : tile Train [ Epoch 227/500 ], loss: 0.0737, avg_reader_cost: 1.2720 avg_batch_cost: 1.6120, avg_ips: 59.5527.
+Type : tile Train [ Epoch 228/500 ], loss: 0.0726, avg_reader_cost: 1.3277 avg_batch_cost: 1.6705, avg_ips: 57.4670.
+Type : tile Train [ Epoch 229/500 ], loss: 0.0907, avg_reader_cost: 1.3070 avg_batch_cost: 1.4596, avg_ips: 65.7693.
+Type : tile Train [ Epoch 230/500 ], loss: 0.0673, avg_reader_cost: 1.2940 avg_batch_cost: 1.6365, avg_ips: 58.6616.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 230/500 ] max_auc: 0.9964 roc_auc : 0.941198.
+Type : tile Train [ Epoch 231/500 ], loss: 0.0719, avg_reader_cost: 10.0936 avg_batch_cost: 10.3140, avg_ips: 9.3077.
+Type : tile Train [ Epoch 232/500 ], loss: 0.0378, avg_reader_cost: 0.0016 avg_batch_cost: 0.3437, avg_ips: 279.2851.
+Type : tile Train [ Epoch 233/500 ], loss: 0.0620, avg_reader_cost: 0.0006 avg_batch_cost: 0.3496, avg_ips: 274.6053.
+Type : tile Train [ Epoch 234/500 ], loss: 0.0303, avg_reader_cost: 0.0004 avg_batch_cost: 0.1382, avg_ips: 694.7926.
+Type : tile Train [ Epoch 235/500 ], loss: 0.0557, avg_reader_cost: 0.0005 avg_batch_cost: 0.3487, avg_ips: 275.2943.
+Type : tile Train [ Epoch 236/500 ], loss: 0.0378, avg_reader_cost: 1.1428 avg_batch_cost: 1.2846, avg_ips: 74.7306.
+Type : tile Train [ Epoch 237/500 ], loss: 0.0489, avg_reader_cost: 1.2701 avg_batch_cost: 1.4066, avg_ips: 68.2513.
+Type : tile Train [ Epoch 238/500 ], loss: 0.0312, avg_reader_cost: 1.2747 avg_batch_cost: 1.6211, avg_ips: 59.2207.
+Type : tile Train [ Epoch 239/500 ], loss: 0.0926, avg_reader_cost: 1.3011 avg_batch_cost: 1.4519, avg_ips: 66.1216.
+Type : tile Train [ Epoch 240/500 ], loss: 0.0715, avg_reader_cost: 1.2862 avg_batch_cost: 1.6302, avg_ips: 58.8877.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 240/500 ] max_auc: 0.9964 roc_auc : 0.988456.
+Type : tile Train [ Epoch 241/500 ], loss: 0.1046, avg_reader_cost: 10.0894 avg_batch_cost: 10.5451, avg_ips: 9.1038.
+Type : tile Train [ Epoch 242/500 ], loss: 0.0312, avg_reader_cost: 0.0003 avg_batch_cost: 0.1384, avg_ips: 693.3976.
+Type : tile Train [ Epoch 243/500 ], loss: 0.0513, avg_reader_cost: 0.0012 avg_batch_cost: 0.3515, avg_ips: 273.0857.
+Type : tile Train [ Epoch 244/500 ], loss: 0.0482, avg_reader_cost: 0.0003 avg_batch_cost: 0.3470, avg_ips: 276.6248.
+Type : tile Train [ Epoch 245/500 ], loss: 0.0787, avg_reader_cost: 0.0003 avg_batch_cost: 0.3462, avg_ips: 277.3267.
+Type : tile Train [ Epoch 246/500 ], loss: 0.0567, avg_reader_cost: 1.1516 avg_batch_cost: 1.2910, avg_ips: 74.3626.
+Type : tile Train [ Epoch 247/500 ], loss: 0.0342, avg_reader_cost: 1.2833 avg_batch_cost: 1.4236, avg_ips: 67.4334.
+Type : tile Train [ Epoch 248/500 ], loss: 0.0446, avg_reader_cost: 1.3047 avg_batch_cost: 1.4111, avg_ips: 68.0338.
+Type : tile Train [ Epoch 249/500 ], loss: 0.0335, avg_reader_cost: 1.3420 avg_batch_cost: 1.6860, avg_ips: 56.9386.
+Type : tile Train [ Epoch 250/500 ], loss: 0.0899, avg_reader_cost: 1.3016 avg_batch_cost: 1.6454, avg_ips: 58.3450.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 250/500 ] max_auc: 0.9964 roc_auc : 0.936508.
+Type : tile Train [ Epoch 251/500 ], loss: 0.0648, avg_reader_cost: 9.9801 avg_batch_cost: 10.2535, avg_ips: 9.3626.
+Type : tile Train [ Epoch 252/500 ], loss: 0.0264, avg_reader_cost: 0.0005 avg_batch_cost: 0.3558, avg_ips: 269.8312.
+Type : tile Train [ Epoch 253/500 ], loss: 0.0718, avg_reader_cost: 0.0003 avg_batch_cost: 0.1433, avg_ips: 670.0300.
+Type : tile Train [ Epoch 254/500 ], loss: 0.0762, avg_reader_cost: 0.0003 avg_batch_cost: 0.1403, avg_ips: 684.3816.
+Type : tile Train [ Epoch 255/500 ], loss: 0.0513, avg_reader_cost: 0.0003 avg_batch_cost: 0.3500, avg_ips: 274.3142.
+Type : tile Train [ Epoch 256/500 ], loss: 0.0245, avg_reader_cost: 1.1385 avg_batch_cost: 1.4841, avg_ips: 64.6874.
+Type : tile Train [ Epoch 257/500 ], loss: 0.0314, avg_reader_cost: 1.2944 avg_batch_cost: 1.6393, avg_ips: 58.5616.
+Type : tile Train [ Epoch 258/500 ], loss: 0.0647, avg_reader_cost: 1.2751 avg_batch_cost: 1.4198, avg_ips: 67.6153.
+Type : tile Train [ Epoch 259/500 ], loss: 0.0141, avg_reader_cost: 1.2792 avg_batch_cost: 1.6296, avg_ips: 58.9119.
+Type : tile Train [ Epoch 260/500 ], loss: 0.0490, avg_reader_cost: 1.2675 avg_batch_cost: 1.4139, avg_ips: 67.8989.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 260/500 ] max_auc: 0.9964 roc_auc : 0.968254.
+Type : tile Train [ Epoch 261/500 ], loss: 0.0473, avg_reader_cost: 9.8646 avg_batch_cost: 10.2552, avg_ips: 9.3611.
+Type : tile Train [ Epoch 262/500 ], loss: 0.0507, avg_reader_cost: 0.0006 avg_batch_cost: 0.2504, avg_ips: 383.3697.
+Type : tile Train [ Epoch 263/500 ], loss: 0.0398, avg_reader_cost: 0.0012 avg_batch_cost: 0.3548, avg_ips: 270.5737.
+Type : tile Train [ Epoch 264/500 ], loss: 0.0440, avg_reader_cost: 0.0003 avg_batch_cost: 0.3510, avg_ips: 273.4944.
+Type : tile Train [ Epoch 265/500 ], loss: 0.0502, avg_reader_cost: 0.0003 avg_batch_cost: 0.3470, avg_ips: 276.6562.
+Type : tile Train [ Epoch 266/500 ], loss: 0.1033, avg_reader_cost: 1.1363 avg_batch_cost: 1.2832, avg_ips: 74.8108.
+Type : tile Train [ Epoch 267/500 ], loss: 0.0530, avg_reader_cost: 1.2792 avg_batch_cost: 1.4378, avg_ips: 66.7696.
+Type : tile Train [ Epoch 268/500 ], loss: 0.0173, avg_reader_cost: 1.2797 avg_batch_cost: 1.4668, avg_ips: 65.4494.
+Type : tile Train [ Epoch 269/500 ], loss: 0.0827, avg_reader_cost: 1.3121 avg_batch_cost: 1.4546, avg_ips: 65.9993.
+Type : tile Train [ Epoch 270/500 ], loss: 0.0348, avg_reader_cost: 1.3002 avg_batch_cost: 1.4370, avg_ips: 66.8079.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 270/500 ] max_auc: 0.9964 roc_auc : 0.962482.
+Type : tile Train [ Epoch 271/500 ], loss: 0.0312, avg_reader_cost: 9.8924 avg_batch_cost: 10.2640, avg_ips: 9.3531.
+Type : tile Train [ Epoch 272/500 ], loss: 0.0412, avg_reader_cost: 0.0002 avg_batch_cost: 0.1638, avg_ips: 586.0055.
+Type : tile Train [ Epoch 273/500 ], loss: 0.0434, avg_reader_cost: 0.0004 avg_batch_cost: 0.3553, avg_ips: 270.2198.
+Type : tile Train [ Epoch 274/500 ], loss: 0.0490, avg_reader_cost: 0.0002 avg_batch_cost: 0.1559, avg_ips: 615.8236.
+Type : tile Train [ Epoch 275/500 ], loss: 0.0252, avg_reader_cost: 0.0005 avg_batch_cost: 0.3549, avg_ips: 270.5350.
+Type : tile Train [ Epoch 276/500 ], loss: 0.0524, avg_reader_cost: 1.1475 avg_batch_cost: 1.2871, avg_ips: 74.5845.
+Type : tile Train [ Epoch 277/500 ], loss: 0.0246, avg_reader_cost: 1.2788 avg_batch_cost: 1.4181, avg_ips: 67.6963.
+Type : tile Train [ Epoch 278/500 ], loss: 0.0703, avg_reader_cost: 1.2678 avg_batch_cost: 1.4117, avg_ips: 68.0028.
+Type : tile Train [ Epoch 279/500 ], loss: 0.0635, avg_reader_cost: 1.2738 avg_batch_cost: 1.3793, avg_ips: 69.5995.
+Type : tile Train [ Epoch 280/500 ], loss: 0.0600, avg_reader_cost: 1.3223 avg_batch_cost: 1.5049, avg_ips: 63.7897.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 280/500 ] max_auc: 0.9964 roc_auc : 0.911616.
+Type : tile Train [ Epoch 281/500 ], loss: 0.0886, avg_reader_cost: 10.0503 avg_batch_cost: 10.4889, avg_ips: 9.1525.
+Type : tile Train [ Epoch 282/500 ], loss: 0.1031, avg_reader_cost: 0.0003 avg_batch_cost: 0.3477, avg_ips: 276.1062.
+Type : tile Train [ Epoch 283/500 ], loss: 0.0165, avg_reader_cost: 0.0004 avg_batch_cost: 0.3510, avg_ips: 273.4704.
+Type : tile Train [ Epoch 284/500 ], loss: 0.0403, avg_reader_cost: 0.0004 avg_batch_cost: 0.1430, avg_ips: 671.3852.
+Type : tile Train [ Epoch 285/500 ], loss: 0.0636, avg_reader_cost: 0.0012 avg_batch_cost: 0.3523, avg_ips: 272.4684.
+Type : tile Train [ Epoch 286/500 ], loss: 0.0402, avg_reader_cost: 1.1171 avg_batch_cost: 1.2815, avg_ips: 74.9129.
+Type : tile Train [ Epoch 287/500 ], loss: 0.0760, avg_reader_cost: 1.2796 avg_batch_cost: 1.4197, avg_ips: 67.6187.
+Type : tile Train [ Epoch 288/500 ], loss: 0.0634, avg_reader_cost: 1.2968 avg_batch_cost: 1.6439, avg_ips: 58.3984.
+Type : tile Train [ Epoch 289/500 ], loss: 0.0535, avg_reader_cost: 1.3189 avg_batch_cost: 1.6624, avg_ips: 57.7491.
+Type : tile Train [ Epoch 290/500 ], loss: 0.0585, avg_reader_cost: 1.2997 avg_batch_cost: 1.4443, avg_ips: 66.4702.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 290/500 ] max_auc: 0.9964 roc_auc : 0.995671.
+Type : tile Train [ Epoch 291/500 ], loss: 0.0536, avg_reader_cost: 10.0491 avg_batch_cost: 10.4090, avg_ips: 9.2228.
+Type : tile Train [ Epoch 292/500 ], loss: 0.0325, avg_reader_cost: 0.0007 avg_batch_cost: 0.3541, avg_ips: 271.0728.
+Type : tile Train [ Epoch 293/500 ], loss: 0.0533, avg_reader_cost: 0.0003 avg_batch_cost: 0.3512, avg_ips: 273.3321.
+Type : tile Train [ Epoch 294/500 ], loss: 0.0388, avg_reader_cost: 0.0003 avg_batch_cost: 0.3453, avg_ips: 278.0533.
+Type : tile Train [ Epoch 295/500 ], loss: 0.1086, avg_reader_cost: 0.0006 avg_batch_cost: 0.3483, avg_ips: 275.6486.
+Type : tile Train [ Epoch 296/500 ], loss: 0.0501, avg_reader_cost: 1.1423 avg_batch_cost: 1.2822, avg_ips: 74.8688.
+Type : tile Train [ Epoch 297/500 ], loss: 0.0448, avg_reader_cost: 1.2760 avg_batch_cost: 1.4127, avg_ips: 67.9527.
+Type : tile Train [ Epoch 298/500 ], loss: 0.0196, avg_reader_cost: 1.2675 avg_batch_cost: 1.6116, avg_ips: 59.5678.
+Type : tile Train [ Epoch 299/500 ], loss: 0.0429, avg_reader_cost: 1.2735 avg_batch_cost: 1.4147, avg_ips: 67.8576.
+Type : tile Train [ Epoch 300/500 ], loss: 0.0742, avg_reader_cost: 1.2727 avg_batch_cost: 1.4260, avg_ips: 67.3191.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 300/500 ] max_auc: 0.9964 roc_auc : 0.954545.
+Type : tile Train [ Epoch 301/500 ], loss: 0.0343, avg_reader_cost: 9.7948 avg_batch_cost: 10.2232, avg_ips: 9.3904.
+Type : tile Train [ Epoch 302/500 ], loss: 0.0408, avg_reader_cost: 0.0003 avg_batch_cost: 0.3523, avg_ips: 272.4671.
+Type : tile Train [ Epoch 303/500 ], loss: 0.0408, avg_reader_cost: 0.0002 avg_batch_cost: 0.3418, avg_ips: 280.8492.
+Type : tile Train [ Epoch 304/500 ], loss: 0.0548, avg_reader_cost: 0.0007 avg_batch_cost: 0.3510, avg_ips: 273.5012.
+Type : tile Train [ Epoch 305/500 ], loss: 0.0267, avg_reader_cost: 0.0003 avg_batch_cost: 0.3387, avg_ips: 283.4304.
+Type : tile Train [ Epoch 306/500 ], loss: 0.0399, avg_reader_cost: 1.1419 avg_batch_cost: 1.2794, avg_ips: 75.0328.
+Type : tile Train [ Epoch 307/500 ], loss: 0.0676, avg_reader_cost: 1.2779 avg_batch_cost: 1.6188, avg_ips: 59.3048.
+Type : tile Train [ Epoch 308/500 ], loss: 0.0540, avg_reader_cost: 1.2703 avg_batch_cost: 1.4256, avg_ips: 67.3417.
+Type : tile Train [ Epoch 309/500 ], loss: 0.0323, avg_reader_cost: 1.2775 avg_batch_cost: 1.4445, avg_ips: 66.4574.
+Type : tile Train [ Epoch 310/500 ], loss: 0.0640, avg_reader_cost: 1.2947 avg_batch_cost: 1.4017, avg_ips: 68.4863.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 310/500 ] max_auc: 0.9964 roc_auc : 0.942280.
+Type : tile Train [ Epoch 311/500 ], loss: 0.0573, avg_reader_cost: 9.1904 avg_batch_cost: 9.5358, avg_ips: 10.0673.
+Type : tile Train [ Epoch 312/500 ], loss: 0.0403, avg_reader_cost: 1.2624 avg_batch_cost: 1.4037, avg_ips: 68.3883.
+Type : tile Train [ Epoch 313/500 ], loss: 0.0276, avg_reader_cost: 1.2686 avg_batch_cost: 1.6158, avg_ips: 59.4127.
+Type : tile Train [ Epoch 314/500 ], loss: 0.0264, avg_reader_cost: 1.2827 avg_batch_cost: 1.4259, avg_ips: 67.3273.
+Type : tile Train [ Epoch 315/500 ], loss: 0.0202, avg_reader_cost: 1.2740 avg_batch_cost: 1.6198, avg_ips: 59.2669.
+Type : tile Train [ Epoch 316/500 ], loss: 0.0283, avg_reader_cost: 1.2720 avg_batch_cost: 1.6118, avg_ips: 59.5605.
+Type : tile Train [ Epoch 317/500 ], loss: 0.0506, avg_reader_cost: 1.2962 avg_batch_cost: 1.6488, avg_ips: 58.2228.
+Type : tile Train [ Epoch 318/500 ], loss: 0.0392, avg_reader_cost: 1.2797 avg_batch_cost: 1.6355, avg_ips: 58.6968.
+Type : tile Train [ Epoch 319/500 ], loss: 0.0414, avg_reader_cost: 1.2773 avg_batch_cost: 1.6201, avg_ips: 59.2569.
+Type : tile Train [ Epoch 320/500 ], loss: 0.0216, avg_reader_cost: 1.3039 avg_batch_cost: 1.6550, avg_ips: 58.0065.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 320/500 ] max_auc: 0.9964 roc_auc : 0.986652.
+Type : tile Train [ Epoch 321/500 ], loss: 0.0286, avg_reader_cost: 10.0613 avg_batch_cost: 10.4324, avg_ips: 9.2021.
+Type : tile Train [ Epoch 322/500 ], loss: 0.0192, avg_reader_cost: 0.0003 avg_batch_cost: 0.1477, avg_ips: 650.0110.
+Type : tile Train [ Epoch 323/500 ], loss: 0.0602, avg_reader_cost: 0.0005 avg_batch_cost: 0.3513, avg_ips: 273.3008.
+Type : tile Train [ Epoch 324/500 ], loss: 0.0497, avg_reader_cost: 0.0002 avg_batch_cost: 0.1434, avg_ips: 669.6645.
+Type : tile Train [ Epoch 325/500 ], loss: 0.0350, avg_reader_cost: 0.0003 avg_batch_cost: 0.3408, avg_ips: 281.6661.
+Type : tile Train [ Epoch 326/500 ], loss: 0.1234, avg_reader_cost: 1.1559 avg_batch_cost: 1.3126, avg_ips: 73.1387.
+Type : tile Train [ Epoch 327/500 ], loss: 0.1116, avg_reader_cost: 1.2859 avg_batch_cost: 1.6310, avg_ips: 58.8583.
+Type : tile Train [ Epoch 328/500 ], loss: 0.0328, avg_reader_cost: 1.2870 avg_batch_cost: 1.6274, avg_ips: 58.9908.
+Type : tile Train [ Epoch 329/500 ], loss: 0.0456, avg_reader_cost: 1.2792 avg_batch_cost: 1.4453, avg_ips: 66.4234.
+Type : tile Train [ Epoch 330/500 ], loss: 0.0544, avg_reader_cost: 1.2710 avg_batch_cost: 1.6149, avg_ips: 59.4471.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 330/500 ] max_auc: 0.9964 roc_auc : 0.922078.
+Type : tile Train [ Epoch 331/500 ], loss: 0.0941, avg_reader_cost: 9.9702 avg_batch_cost: 10.4158, avg_ips: 9.2167.
+Type : tile Train [ Epoch 332/500 ], loss: 0.0645, avg_reader_cost: 0.0003 avg_batch_cost: 0.1658, avg_ips: 579.1829.
+Type : tile Train [ Epoch 333/500 ], loss: 0.0371, avg_reader_cost: 0.0004 avg_batch_cost: 0.3454, avg_ips: 277.9752.
+Type : tile Train [ Epoch 334/500 ], loss: 0.0832, avg_reader_cost: 0.0007 avg_batch_cost: 0.3501, avg_ips: 274.2292.
+Type : tile Train [ Epoch 335/500 ], loss: 0.0607, avg_reader_cost: 0.0003 avg_batch_cost: 0.1446, avg_ips: 663.8603.
+Type : tile Train [ Epoch 336/500 ], loss: 0.0480, avg_reader_cost: 1.1576 avg_batch_cost: 1.5015, avg_ips: 63.9347.
+Type : tile Train [ Epoch 337/500 ], loss: 0.0790, avg_reader_cost: 1.2890 avg_batch_cost: 1.6277, avg_ips: 58.9791.
+Type : tile Train [ Epoch 338/500 ], loss: 0.0688, avg_reader_cost: 1.2795 avg_batch_cost: 1.6185, avg_ips: 59.3157.
+Type : tile Train [ Epoch 339/500 ], loss: 0.0166, avg_reader_cost: 1.2942 avg_batch_cost: 1.6391, avg_ips: 58.5698.
+Type : tile Train [ Epoch 340/500 ], loss: 0.0620, avg_reader_cost: 1.2722 avg_batch_cost: 1.4563, avg_ips: 65.9191.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 340/500 ] max_auc: 0.9964 roc_auc : 0.982323.
+Type : tile Train [ Epoch 341/500 ], loss: 0.0580, avg_reader_cost: 8.2704 avg_batch_cost: 8.3980, avg_ips: 11.4313.
+Type : tile Train [ Epoch 342/500 ], loss: 0.0896, avg_reader_cost: 1.3250 avg_batch_cost: 1.6692, avg_ips: 57.5112.
+Type : tile Train [ Epoch 343/500 ], loss: 0.0620, avg_reader_cost: 1.2970 avg_batch_cost: 1.6422, avg_ips: 58.4592.
+Type : tile Train [ Epoch 344/500 ], loss: 0.0635, avg_reader_cost: 1.2861 avg_batch_cost: 1.5081, avg_ips: 63.6554.
+Type : tile Train [ Epoch 345/500 ], loss: 0.0517, avg_reader_cost: 1.3006 avg_batch_cost: 1.4466, avg_ips: 66.3643.
+Type : tile Train [ Epoch 346/500 ], loss: 0.0731, avg_reader_cost: 1.2921 avg_batch_cost: 1.6408, avg_ips: 58.5091.
+Type : tile Train [ Epoch 347/500 ], loss: 0.0276, avg_reader_cost: 1.2562 avg_batch_cost: 1.3964, avg_ips: 68.7485.
+Type : tile Train [ Epoch 348/500 ], loss: 0.0105, avg_reader_cost: 1.2974 avg_batch_cost: 1.4542, avg_ips: 66.0169.
+Type : tile Train [ Epoch 349/500 ], loss: 0.0694, avg_reader_cost: 1.3183 avg_batch_cost: 1.6588, avg_ips: 57.8731.
+Type : tile Train [ Epoch 350/500 ], loss: 0.0926, avg_reader_cost: 1.2838 avg_batch_cost: 1.6282, avg_ips: 58.9623.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 350/500 ] max_auc: 0.9964 roc_auc : 0.945166.
+Type : tile Train [ Epoch 351/500 ], loss: 0.0652, avg_reader_cost: 9.7893 avg_batch_cost: 10.1943, avg_ips: 9.4170.
+Type : tile Train [ Epoch 352/500 ], loss: 0.0380, avg_reader_cost: 0.0006 avg_batch_cost: 0.1644, avg_ips: 584.0971.
+Type : tile Train [ Epoch 353/500 ], loss: 0.0420, avg_reader_cost: 0.0003 avg_batch_cost: 0.3426, avg_ips: 280.2473.
+Type : tile Train [ Epoch 354/500 ], loss: 0.0459, avg_reader_cost: 0.0006 avg_batch_cost: 0.3558, avg_ips: 269.8135.
+Type : tile Train [ Epoch 355/500 ], loss: 0.0466, avg_reader_cost: 0.0002 avg_batch_cost: 0.1564, avg_ips: 613.8483.
+Type : tile Train [ Epoch 356/500 ], loss: 0.0426, avg_reader_cost: 1.2018 avg_batch_cost: 1.5442, avg_ips: 62.1693.
+Type : tile Train [ Epoch 357/500 ], loss: 0.0490, avg_reader_cost: 1.3420 avg_batch_cost: 1.4855, avg_ips: 64.6235.
+Type : tile Train [ Epoch 358/500 ], loss: 0.0278, avg_reader_cost: 1.2862 avg_batch_cost: 1.6325, avg_ips: 58.8039.
+Type : tile Train [ Epoch 359/500 ], loss: 0.0483, avg_reader_cost: 1.2801 avg_batch_cost: 1.4461, avg_ips: 66.3837.
+Type : tile Train [ Epoch 360/500 ], loss: 0.0436, avg_reader_cost: 1.2810 avg_batch_cost: 1.4799, avg_ips: 64.8700.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 360/500 ] max_auc: 0.9964 roc_auc : 0.956710.
+Type : tile Train [ Epoch 361/500 ], loss: 0.0435, avg_reader_cost: 9.8228 avg_batch_cost: 10.2072, avg_ips: 9.4051.
+Type : tile Train [ Epoch 362/500 ], loss: 0.0350, avg_reader_cost: 0.0003 avg_batch_cost: 0.1577, avg_ips: 608.8730.
+Type : tile Train [ Epoch 363/500 ], loss: 0.0471, avg_reader_cost: 0.0005 avg_batch_cost: 0.3535, avg_ips: 271.5705.
+Type : tile Train [ Epoch 364/500 ], loss: 0.0281, avg_reader_cost: 0.0003 avg_batch_cost: 0.3476, avg_ips: 276.2072.
+Type : tile Train [ Epoch 365/500 ], loss: 0.0565, avg_reader_cost: 0.0003 avg_batch_cost: 0.3535, avg_ips: 271.5474.
+Type : tile Train [ Epoch 366/500 ], loss: 0.0930, avg_reader_cost: 1.1315 avg_batch_cost: 1.4735, avg_ips: 65.1530.
+Type : tile Train [ Epoch 367/500 ], loss: 0.0570, avg_reader_cost: 1.2845 avg_batch_cost: 1.4282, avg_ips: 67.2178.
+Type : tile Train [ Epoch 368/500 ], loss: 0.0156, avg_reader_cost: 1.2953 avg_batch_cost: 1.6425, avg_ips: 58.4474.
+Type : tile Train [ Epoch 369/500 ], loss: 0.0618, avg_reader_cost: 1.2893 avg_batch_cost: 1.4766, avg_ips: 65.0148.
+Type : tile Train [ Epoch 370/500 ], loss: 0.0332, avg_reader_cost: 1.2828 avg_batch_cost: 1.6243, avg_ips: 59.1017.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 370/500 ] max_auc: 0.9964 roc_auc : 0.975108.
+Type : tile Train [ Epoch 371/500 ], loss: 0.0457, avg_reader_cost: 8.8126 avg_batch_cost: 8.9319, avg_ips: 10.7480.
+Type : tile Train [ Epoch 372/500 ], loss: 0.0058, avg_reader_cost: 0.0002 avg_batch_cost: 0.1043, avg_ips: 920.5690.
+Type : tile Train [ Epoch 373/500 ], loss: 0.0362, avg_reader_cost: 1.3362 avg_batch_cost: 1.6816, avg_ips: 57.0879.
+Type : tile Train [ Epoch 374/500 ], loss: 0.0265, avg_reader_cost: 1.2873 avg_batch_cost: 1.4312, avg_ips: 67.0763.
+Type : tile Train [ Epoch 375/500 ], loss: 0.0306, avg_reader_cost: 1.2859 avg_batch_cost: 1.4234, avg_ips: 67.4419.
+Type : tile Train [ Epoch 376/500 ], loss: 0.0232, avg_reader_cost: 1.3019 avg_batch_cost: 1.5494, avg_ips: 61.9590.
+Type : tile Train [ Epoch 377/500 ], loss: 0.0522, avg_reader_cost: 1.2910 avg_batch_cost: 1.6400, avg_ips: 58.5369.
+Type : tile Train [ Epoch 378/500 ], loss: 0.0164, avg_reader_cost: 1.2687 avg_batch_cost: 1.6118, avg_ips: 59.5606.
+Type : tile Train [ Epoch 379/500 ], loss: 0.0380, avg_reader_cost: 1.2725 avg_batch_cost: 1.4302, avg_ips: 67.1246.
+Type : tile Train [ Epoch 380/500 ], loss: 0.0243, avg_reader_cost: 1.2913 avg_batch_cost: 1.6359, avg_ips: 58.6845.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 380/500 ] max_auc: 0.9964 roc_auc : 0.919553.
+Type : tile Train [ Epoch 381/500 ], loss: 0.0530, avg_reader_cost: 9.9363 avg_batch_cost: 10.3337, avg_ips: 9.2900.
+Type : tile Train [ Epoch 382/500 ], loss: 0.0490, avg_reader_cost: 0.0003 avg_batch_cost: 0.3415, avg_ips: 281.1482.
+Type : tile Train [ Epoch 383/500 ], loss: 0.0533, avg_reader_cost: 0.0005 avg_batch_cost: 0.3524, avg_ips: 272.4066.
+Type : tile Train [ Epoch 384/500 ], loss: 0.0157, avg_reader_cost: 0.0002 avg_batch_cost: 0.1570, avg_ips: 611.4675.
+Type : tile Train [ Epoch 385/500 ], loss: 0.0143, avg_reader_cost: 0.0003 avg_batch_cost: 0.1129, avg_ips: 850.2704.
+Type : tile Train [ Epoch 386/500 ], loss: 0.0292, avg_reader_cost: 1.2011 avg_batch_cost: 1.5452, avg_ips: 62.1271.
+Type : tile Train [ Epoch 387/500 ], loss: 0.0313, avg_reader_cost: 1.3633 avg_batch_cost: 1.5489, avg_ips: 61.9801.
+Type : tile Train [ Epoch 388/500 ], loss: 0.0209, avg_reader_cost: 1.3206 avg_batch_cost: 1.4638, avg_ips: 65.5840.
+Type : tile Train [ Epoch 389/500 ], loss: 0.0196, avg_reader_cost: 1.2964 avg_batch_cost: 1.5221, avg_ips: 63.0704.
+Type : tile Train [ Epoch 390/500 ], loss: 0.0455, avg_reader_cost: 1.3131 avg_batch_cost: 1.4549, avg_ips: 65.9824.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 390/500 ] max_auc: 0.9964 roc_auc : 0.967532.
+Type : tile Train [ Epoch 391/500 ], loss: 0.0238, avg_reader_cost: 10.0300 avg_batch_cost: 10.4358, avg_ips: 9.1991.
+Type : tile Train [ Epoch 392/500 ], loss: 0.0375, avg_reader_cost: 0.0003 avg_batch_cost: 0.3521, avg_ips: 272.6630.
+Type : tile Train [ Epoch 393/500 ], loss: 0.0622, avg_reader_cost: 0.0003 avg_batch_cost: 0.1490, avg_ips: 644.2884.
+Type : tile Train [ Epoch 394/500 ], loss: 0.0568, avg_reader_cost: 0.0024 avg_batch_cost: 0.3480, avg_ips: 275.8429.
+Type : tile Train [ Epoch 395/500 ], loss: 0.0061, avg_reader_cost: 0.0003 avg_batch_cost: 0.3553, avg_ips: 270.2278.
+Type : tile Train [ Epoch 396/500 ], loss: 0.0249, avg_reader_cost: 1.1664 avg_batch_cost: 1.5141, avg_ips: 63.4046.
+Type : tile Train [ Epoch 397/500 ], loss: 0.0472, avg_reader_cost: 1.2876 avg_batch_cost: 1.6332, avg_ips: 58.7807.
+Type : tile Train [ Epoch 398/500 ], loss: 0.0436, avg_reader_cost: 1.2966 avg_batch_cost: 1.6406, avg_ips: 58.5150.
+Type : tile Train [ Epoch 399/500 ], loss: 0.0350, avg_reader_cost: 1.2867 avg_batch_cost: 1.6327, avg_ips: 58.7980.
+Type : tile Train [ Epoch 400/500 ], loss: 0.0204, avg_reader_cost: 1.2823 avg_batch_cost: 1.6324, avg_ips: 58.8100.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 400/500 ] max_auc: 0.9964 roc_auc : 0.928932.
+Type : tile Train [ Epoch 401/500 ], loss: 0.0246, avg_reader_cost: 9.3426 avg_batch_cost: 9.5003, avg_ips: 10.1050.
+Type : tile Train [ Epoch 402/500 ], loss: 0.0336, avg_reader_cost: 0.0003 avg_batch_cost: 0.1076, avg_ips: 892.0967.
+Type : tile Train [ Epoch 403/500 ], loss: 0.0271, avg_reader_cost: 0.0005 avg_batch_cost: 0.1079, avg_ips: 889.9042.
+Type : tile Train [ Epoch 404/500 ], loss: 0.0132, avg_reader_cost: 1.3347 avg_batch_cost: 1.4769, avg_ips: 65.0032.
+Type : tile Train [ Epoch 405/500 ], loss: 0.0237, avg_reader_cost: 1.2887 avg_batch_cost: 1.6386, avg_ips: 58.5871.
+Type : tile Train [ Epoch 406/500 ], loss: 0.0214, avg_reader_cost: 1.2745 avg_batch_cost: 1.6255, avg_ips: 59.0585.
+Type : tile Train [ Epoch 407/500 ], loss: 0.0195, avg_reader_cost: 1.2817 avg_batch_cost: 1.6211, avg_ips: 59.2193.
+Type : tile Train [ Epoch 408/500 ], loss: 0.0659, avg_reader_cost: 1.3026 avg_batch_cost: 1.6428, avg_ips: 58.4372.
+Type : tile Train [ Epoch 409/500 ], loss: 0.0058, avg_reader_cost: 1.3062 avg_batch_cost: 1.6532, avg_ips: 58.0702.
+Type : tile Train [ Epoch 410/500 ], loss: 0.0172, avg_reader_cost: 1.3199 avg_batch_cost: 1.6634, avg_ips: 57.7116.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 410/500 ] max_auc: 0.9964 roc_auc : 0.965368.
+Type : tile Train [ Epoch 411/500 ], loss: 0.0266, avg_reader_cost: 10.0126 avg_batch_cost: 10.2522, avg_ips: 9.3639.
+Type : tile Train [ Epoch 412/500 ], loss: 0.0533, avg_reader_cost: 0.0005 avg_batch_cost: 0.3510, avg_ips: 273.4860.
+Type : tile Train [ Epoch 413/500 ], loss: 0.0728, avg_reader_cost: 0.0003 avg_batch_cost: 0.3426, avg_ips: 280.2479.
+Type : tile Train [ Epoch 414/500 ], loss: 0.0264, avg_reader_cost: 0.0006 avg_batch_cost: 0.3493, avg_ips: 274.8385.
+Type : tile Train [ Epoch 415/500 ], loss: 0.0077, avg_reader_cost: 0.0002 avg_batch_cost: 0.3473, avg_ips: 276.3846.
+Type : tile Train [ Epoch 416/500 ], loss: 0.0129, avg_reader_cost: 1.1293 avg_batch_cost: 1.4700, avg_ips: 65.3044.
+Type : tile Train [ Epoch 417/500 ], loss: 0.0459, avg_reader_cost: 1.2658 avg_batch_cost: 1.6101, avg_ips: 59.6228.
+Type : tile Train [ Epoch 418/500 ], loss: 0.0506, avg_reader_cost: 1.2729 avg_batch_cost: 1.4140, avg_ips: 67.8904.
+Type : tile Train [ Epoch 419/500 ], loss: 0.0090, avg_reader_cost: 1.2743 avg_batch_cost: 1.6146, avg_ips: 59.4574.
+Type : tile Train [ Epoch 420/500 ], loss: 0.0362, avg_reader_cost: 1.2764 avg_batch_cost: 1.6200, avg_ips: 59.2600.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 420/500 ] max_auc: 0.9964 roc_auc : 0.979798.
+Type : tile Train [ Epoch 421/500 ], loss: 0.0095, avg_reader_cost: 9.8934 avg_batch_cost: 10.3456, avg_ips: 9.2793.
+Type : tile Train [ Epoch 422/500 ], loss: 0.0630, avg_reader_cost: 0.0003 avg_batch_cost: 0.1426, avg_ips: 673.0675.
+Type : tile Train [ Epoch 423/500 ], loss: 0.0151, avg_reader_cost: 0.0005 avg_batch_cost: 0.3496, avg_ips: 274.5794.
+Type : tile Train [ Epoch 424/500 ], loss: 0.0205, avg_reader_cost: 0.0003 avg_batch_cost: 0.3535, avg_ips: 271.5857.
+Type : tile Train [ Epoch 425/500 ], loss: 0.0067, avg_reader_cost: 0.0003 avg_batch_cost: 0.1390, avg_ips: 690.4879.
+Type : tile Train [ Epoch 426/500 ], loss: 0.0243, avg_reader_cost: 1.1508 avg_batch_cost: 1.2989, avg_ips: 73.9112.
+Type : tile Train [ Epoch 427/500 ], loss: 0.0271, avg_reader_cost: 1.3052 avg_batch_cost: 1.4478, avg_ips: 66.3079.
+Type : tile Train [ Epoch 428/500 ], loss: 0.0729, avg_reader_cost: 1.3207 avg_batch_cost: 1.6625, avg_ips: 57.7432.
+Type : tile Train [ Epoch 429/500 ], loss: 0.0519, avg_reader_cost: 1.2803 avg_batch_cost: 1.6215, avg_ips: 59.2062.
+Type : tile Train [ Epoch 430/500 ], loss: 0.0373, avg_reader_cost: 1.3057 avg_batch_cost: 1.6513, avg_ips: 58.1346.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 430/500 ] max_auc: 0.9964 roc_auc : 0.935065.
+Type : tile Train [ Epoch 431/500 ], loss: 0.0248, avg_reader_cost: 9.6796 avg_batch_cost: 9.7880, avg_ips: 9.8080.
+Type : tile Train [ Epoch 432/500 ], loss: 0.0536, avg_reader_cost: 0.0004 avg_batch_cost: 0.1070, avg_ips: 897.0494.
+Type : tile Train [ Epoch 433/500 ], loss: 0.0535, avg_reader_cost: 0.0004 avg_batch_cost: 0.1068, avg_ips: 898.6972.
+Type : tile Train [ Epoch 434/500 ], loss: 0.0200, avg_reader_cost: 0.0004 avg_batch_cost: 0.1067, avg_ips: 899.3194.
+Type : tile Train [ Epoch 435/500 ], loss: 0.0787, avg_reader_cost: 1.3232 avg_batch_cost: 1.4602, avg_ips: 65.7453.
+Type : tile Train [ Epoch 436/500 ], loss: 0.0086, avg_reader_cost: 1.2959 avg_batch_cost: 1.6378, avg_ips: 58.6156.
+Type : tile Train [ Epoch 437/500 ], loss: 0.0234, avg_reader_cost: 1.2742 avg_batch_cost: 1.4820, avg_ips: 64.7782.
+Type : tile Train [ Epoch 438/500 ], loss: 0.0394, avg_reader_cost: 1.2844 avg_batch_cost: 1.6278, avg_ips: 58.9745.
+Type : tile Train [ Epoch 439/500 ], loss: 0.0793, avg_reader_cost: 1.3069 avg_batch_cost: 1.6493, avg_ips: 58.2070.
+Type : tile Train [ Epoch 440/500 ], loss: 0.0625, avg_reader_cost: 1.3061 avg_batch_cost: 1.6485, avg_ips: 58.2343.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 440/500 ] max_auc: 0.9964 roc_auc : 0.980880.
+Type : tile Train [ Epoch 441/500 ], loss: 0.0331, avg_reader_cost: 10.3175 avg_batch_cost: 10.7718, avg_ips: 8.9122.
+Type : tile Train [ Epoch 442/500 ], loss: 0.0431, avg_reader_cost: 0.0003 avg_batch_cost: 0.3435, avg_ips: 279.4706.
+Type : tile Train [ Epoch 443/500 ], loss: 0.0238, avg_reader_cost: 0.0003 avg_batch_cost: 0.3475, avg_ips: 276.2455.
+Type : tile Train [ Epoch 444/500 ], loss: 0.0339, avg_reader_cost: 0.0006 avg_batch_cost: 0.3530, avg_ips: 271.9283.
+Type : tile Train [ Epoch 445/500 ], loss: 0.0384, avg_reader_cost: 0.0002 avg_batch_cost: 0.3445, avg_ips: 278.7015.
+Type : tile Train [ Epoch 446/500 ], loss: 0.0315, avg_reader_cost: 1.1459 avg_batch_cost: 1.4991, avg_ips: 64.0364.
+Type : tile Train [ Epoch 447/500 ], loss: 0.0101, avg_reader_cost: 1.2816 avg_batch_cost: 1.4278, avg_ips: 67.2385.
+Type : tile Train [ Epoch 448/500 ], loss: 0.0166, avg_reader_cost: 1.2882 avg_batch_cost: 1.6360, avg_ips: 58.6801.
+Type : tile Train [ Epoch 449/500 ], loss: 0.0169, avg_reader_cost: 1.2880 avg_batch_cost: 1.6349, avg_ips: 58.7186.
+Type : tile Train [ Epoch 450/500 ], loss: 0.0094, avg_reader_cost: 1.2857 avg_batch_cost: 1.6379, avg_ips: 58.6128.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 450/500 ] max_auc: 0.9964 roc_auc : 0.972944.
+Type : tile Train [ Epoch 451/500 ], loss: 0.0437, avg_reader_cost: 10.1237 avg_batch_cost: 10.5901, avg_ips: 9.0650.
+Type : tile Train [ Epoch 452/500 ], loss: 0.0447, avg_reader_cost: 0.0003 avg_batch_cost: 0.3493, avg_ips: 274.8666.
+Type : tile Train [ Epoch 453/500 ], loss: 0.0252, avg_reader_cost: 0.0004 avg_batch_cost: 0.3547, avg_ips: 270.6190.
+Type : tile Train [ Epoch 454/500 ], loss: 0.0082, avg_reader_cost: 0.0003 avg_batch_cost: 0.3478, avg_ips: 276.0379.
+Type : tile Train [ Epoch 455/500 ], loss: 0.0551, avg_reader_cost: 0.0004 avg_batch_cost: 0.3671, avg_ips: 261.5059.
+Type : tile Train [ Epoch 456/500 ], loss: 0.0313, avg_reader_cost: 1.1234 avg_batch_cost: 1.4814, avg_ips: 64.8016.
+Type : tile Train [ Epoch 457/500 ], loss: 0.0194, avg_reader_cost: 1.2916 avg_batch_cost: 1.6468, avg_ips: 58.2966.
+Type : tile Train [ Epoch 458/500 ], loss: 0.0276, avg_reader_cost: 1.3011 avg_batch_cost: 1.6585, avg_ips: 57.8828.
+Type : tile Train [ Epoch 459/500 ], loss: 0.0318, avg_reader_cost: 1.3056 avg_batch_cost: 1.6652, avg_ips: 57.6507.
+Type : tile Train [ Epoch 460/500 ], loss: 0.0164, avg_reader_cost: 1.2850 avg_batch_cost: 1.4262, avg_ips: 67.3098.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 460/500 ] max_auc: 0.9964 roc_auc : 0.950938.
+Type : tile Train [ Epoch 461/500 ], loss: 0.0282, avg_reader_cost: 10.5261 avg_batch_cost: 10.6382, avg_ips: 9.0241.
+Type : tile Train [ Epoch 462/500 ], loss: 0.0406, avg_reader_cost: 0.0004 avg_batch_cost: 0.1094, avg_ips: 877.4369.
+Type : tile Train [ Epoch 463/500 ], loss: 0.0381, avg_reader_cost: 0.0005 avg_batch_cost: 0.1093, avg_ips: 878.4707.
+Type : tile Train [ Epoch 464/500 ], loss: 0.0418, avg_reader_cost: 0.0004 avg_batch_cost: 0.1107, avg_ips: 867.5421.
+Type : tile Train [ Epoch 465/500 ], loss: 0.0584, avg_reader_cost: 0.0005 avg_batch_cost: 0.1119, avg_ips: 857.6889.
+Type : tile Train [ Epoch 466/500 ], loss: 0.0243, avg_reader_cost: 1.3332 avg_batch_cost: 1.6770, avg_ips: 57.2452.
+Type : tile Train [ Epoch 467/500 ], loss: 0.0614, avg_reader_cost: 1.2872 avg_batch_cost: 1.6321, avg_ips: 58.8182.
+Type : tile Train [ Epoch 468/500 ], loss: 0.0212, avg_reader_cost: 1.2715 avg_batch_cost: 1.4109, avg_ips: 68.0415.
+Type : tile Train [ Epoch 469/500 ], loss: 0.0826, avg_reader_cost: 1.3731 avg_batch_cost: 1.7213, avg_ips: 55.7706.
+Type : tile Train [ Epoch 470/500 ], loss: 0.0225, avg_reader_cost: 1.4347 avg_batch_cost: 1.7934, avg_ips: 53.5300.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 470/500 ] max_auc: 0.9964 roc_auc : 0.949495.
+Type : tile Train [ Epoch 471/500 ], loss: 0.0437, avg_reader_cost: 10.5836 avg_batch_cost: 10.9895, avg_ips: 8.7356.
+Type : tile Train [ Epoch 472/500 ], loss: 0.0413, avg_reader_cost: 0.0010 avg_batch_cost: 0.3528, avg_ips: 272.1056.
+Type : tile Train [ Epoch 473/500 ], loss: 0.0223, avg_reader_cost: 0.0003 avg_batch_cost: 0.3551, avg_ips: 270.3414.
+Type : tile Train [ Epoch 474/500 ], loss: 0.0690, avg_reader_cost: 0.0003 avg_batch_cost: 0.3487, avg_ips: 275.3088.
+Type : tile Train [ Epoch 475/500 ], loss: 0.0534, avg_reader_cost: 0.0008 avg_batch_cost: 0.3575, avg_ips: 268.5334.
+Type : tile Train [ Epoch 476/500 ], loss: 0.0065, avg_reader_cost: 1.1381 avg_batch_cost: 1.4991, avg_ips: 64.0390.
+Type : tile Train [ Epoch 477/500 ], loss: 0.0143, avg_reader_cost: 1.2845 avg_batch_cost: 1.4956, avg_ips: 64.1896.
+Type : tile Train [ Epoch 478/500 ], loss: 0.0186, avg_reader_cost: 1.2886 avg_batch_cost: 1.6376, avg_ips: 58.6218.
+Type : tile Train [ Epoch 479/500 ], loss: 0.0303, avg_reader_cost: 1.2777 avg_batch_cost: 1.6284, avg_ips: 58.9529.
+Type : tile Train [ Epoch 480/500 ], loss: 0.0323, avg_reader_cost: 1.2838 avg_batch_cost: 1.4230, avg_ips: 67.4624.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 480/500 ] max_auc: 0.9964 roc_auc : 0.945527.
+Type : tile Train [ Epoch 481/500 ], loss: 0.0399, avg_reader_cost: 10.3581 avg_batch_cost: 10.7768, avg_ips: 8.9081.
+Type : tile Train [ Epoch 482/500 ], loss: 0.0247, avg_reader_cost: 0.0004 avg_batch_cost: 0.3496, avg_ips: 274.5742.
+Type : tile Train [ Epoch 483/500 ], loss: 0.0293, avg_reader_cost: 0.0012 avg_batch_cost: 0.1389, avg_ips: 691.3557.
+Type : tile Train [ Epoch 484/500 ], loss: 0.0541, avg_reader_cost: 0.0005 avg_batch_cost: 0.3601, avg_ips: 266.6049.
+Type : tile Train [ Epoch 485/500 ], loss: 0.1020, avg_reader_cost: 0.0005 avg_batch_cost: 0.3564, avg_ips: 269.3233.
+Type : tile Train [ Epoch 486/500 ], loss: 0.0467, avg_reader_cost: 1.1684 avg_batch_cost: 1.3240, avg_ips: 72.5082.
+Type : tile Train [ Epoch 487/500 ], loss: 0.0298, avg_reader_cost: 1.3298 avg_batch_cost: 1.4751, avg_ips: 65.0804.
+Type : tile Train [ Epoch 488/500 ], loss: 0.0209, avg_reader_cost: 1.2909 avg_batch_cost: 1.6263, avg_ips: 59.0296.
+Type : tile Train [ Epoch 489/500 ], loss: 0.0316, avg_reader_cost: 1.2796 avg_batch_cost: 1.4242, avg_ips: 67.4039.
+Type : tile Train [ Epoch 490/500 ], loss: 0.0568, avg_reader_cost: 1.2933 avg_batch_cost: 1.6369, avg_ips: 58.6462.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 490/500 ] max_auc: 0.9964 roc_auc : 0.972583.
+Type : tile Train [ Epoch 491/500 ], loss: 0.0363, avg_reader_cost: 10.3110 avg_batch_cost: 10.7479, avg_ips: 8.9319.
+Type : tile Train [ Epoch 492/500 ], loss: 0.0600, avg_reader_cost: 0.0003 avg_batch_cost: 0.3547, avg_ips: 270.6474.
+Type : tile Train [ Epoch 493/500 ], loss: 0.0151, avg_reader_cost: 0.0002 avg_batch_cost: 0.1681, avg_ips: 571.2341.
+Type : tile Train [ Epoch 494/500 ], loss: 0.0265, avg_reader_cost: 0.0005 avg_batch_cost: 0.3508, avg_ips: 273.6351.
+Type : tile Train [ Epoch 495/500 ], loss: 0.0572, avg_reader_cost: 0.0003 avg_batch_cost: 0.3458, avg_ips: 277.6225.
+Type : tile Train [ Epoch 496/500 ], loss: 0.0164, avg_reader_cost: 1.1396 avg_batch_cost: 1.2453, avg_ips: 77.0874.
+Type : tile Train [ Epoch 497/500 ], loss: 0.0187, avg_reader_cost: 1.4262 avg_batch_cost: 1.5933, avg_ips: 60.2506.
+Type : tile Train [ Epoch 498/500 ], loss: 0.0319, avg_reader_cost: 1.2903 avg_batch_cost: 1.5173, avg_ips: 63.2706.
+Type : tile Train [ Epoch 499/500 ], loss: 0.0293, avg_reader_cost: 1.2830 avg_batch_cost: 1.6254, avg_ips: 59.0639.
+Type : tile Train [ Epoch 500/500 ], loss: 0.0472, avg_reader_cost: 1.2787 avg_batch_cost: 1.4276, avg_ips: 67.2468.
+loading images
+loaded 230 images
+using density estimation GaussianDensityPaddle
+Type : tile Val [ Epoch 500/500 ] max_auc: 0.9964 roc_auc : 0.932179.

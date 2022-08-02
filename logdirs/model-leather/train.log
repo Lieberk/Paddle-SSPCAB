@@ -1,0 +1,700 @@
+Type : leather Train [ Epoch 1/500 ], loss: 1.2981, avg_reader_cost: 1.2729 avg_batch_cost: 1.6283, avg_ips: 58.9589.
+Type : leather Train [ Epoch 2/500 ], loss: 1.1615, avg_reader_cost: 1.2148 avg_batch_cost: 1.5610, avg_ips: 61.5006.
+Type : leather Train [ Epoch 3/500 ], loss: 1.1126, avg_reader_cost: 1.2320 avg_batch_cost: 1.5730, avg_ips: 61.0310.
+Type : leather Train [ Epoch 4/500 ], loss: 1.0097, avg_reader_cost: 1.2411 avg_batch_cost: 1.5880, avg_ips: 60.4553.
+Type : leather Train [ Epoch 5/500 ], loss: 0.9418, avg_reader_cost: 1.2264 avg_batch_cost: 1.5704, avg_ips: 61.1322.
+Type : leather Train [ Epoch 6/500 ], loss: 0.9044, avg_reader_cost: 1.2236 avg_batch_cost: 1.5735, avg_ips: 61.0092.
+Type : leather Train [ Epoch 7/500 ], loss: 0.8678, avg_reader_cost: 1.2175 avg_batch_cost: 1.5630, avg_ips: 61.4208.
+Type : leather Train [ Epoch 8/500 ], loss: 0.7504, avg_reader_cost: 1.2249 avg_batch_cost: 1.5631, avg_ips: 61.4167.
+Type : leather Train [ Epoch 9/500 ], loss: 0.7745, avg_reader_cost: 1.2293 avg_batch_cost: 1.3646, avg_ips: 70.3484.
+Type : leather Train [ Epoch 10/500 ], loss: 0.7139, avg_reader_cost: 1.2339 avg_batch_cost: 1.5761, avg_ips: 60.9106.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 10/500 ] max_auc: 0.5591 roc_auc : 0.559103.
+Type : leather Train [ Epoch 11/500 ], loss: 0.7326, avg_reader_cost: 12.6096 avg_batch_cost: 12.7653, avg_ips: 7.5204.
+Type : leather Train [ Epoch 12/500 ], loss: 0.6755, avg_reader_cost: 0.0004 avg_batch_cost: 0.3507, avg_ips: 273.7484.
+Type : leather Train [ Epoch 13/500 ], loss: 0.7588, avg_reader_cost: 0.0003 avg_batch_cost: 0.1364, avg_ips: 703.7546.
+Type : leather Train [ Epoch 14/500 ], loss: 0.7738, avg_reader_cost: 0.0004 avg_batch_cost: 0.3511, avg_ips: 273.4318.
+Type : leather Train [ Epoch 15/500 ], loss: 0.6920, avg_reader_cost: 0.0003 avg_batch_cost: 0.3393, avg_ips: 282.9490.
+Type : leather Train [ Epoch 16/500 ], loss: 0.6921, avg_reader_cost: 1.0883 avg_batch_cost: 1.2311, avg_ips: 77.9775.
+Type : leather Train [ Epoch 17/500 ], loss: 0.6964, avg_reader_cost: 1.2246 avg_batch_cost: 1.3805, avg_ips: 69.5402.
+Type : leather Train [ Epoch 18/500 ], loss: 0.7019, avg_reader_cost: 1.2427 avg_batch_cost: 1.5898, avg_ips: 60.3833.
+Type : leather Train [ Epoch 19/500 ], loss: 0.5895, avg_reader_cost: 1.2258 avg_batch_cost: 1.3624, avg_ips: 70.4639.
+Type : leather Train [ Epoch 20/500 ], loss: 0.5767, avg_reader_cost: 1.2645 avg_batch_cost: 1.6080, avg_ips: 59.7033.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 20/500 ] max_auc: 0.5591 roc_auc : 0.221467.
+Type : leather Train [ Epoch 21/500 ], loss: 0.5881, avg_reader_cost: 12.0111 avg_batch_cost: 12.3928, avg_ips: 7.7464.
+Type : leather Train [ Epoch 22/500 ], loss: 0.5380, avg_reader_cost: 0.0003 avg_batch_cost: 0.3486, avg_ips: 275.4054.
+Type : leather Train [ Epoch 23/500 ], loss: 0.4888, avg_reader_cost: 0.0002 avg_batch_cost: 0.1731, avg_ips: 554.5355.
+Type : leather Train [ Epoch 24/500 ], loss: 0.4859, avg_reader_cost: 0.0010 avg_batch_cost: 0.3498, avg_ips: 274.4700.
+Type : leather Train [ Epoch 25/500 ], loss: 0.4067, avg_reader_cost: 0.0003 avg_batch_cost: 0.1648, avg_ips: 582.4040.
+Type : leather Train [ Epoch 26/500 ], loss: 0.4028, avg_reader_cost: 1.1015 avg_batch_cost: 1.4425, avg_ips: 66.5531.
+Type : leather Train [ Epoch 27/500 ], loss: 0.3384, avg_reader_cost: 1.2425 avg_batch_cost: 1.3777, avg_ips: 69.6813.
+Type : leather Train [ Epoch 28/500 ], loss: 0.3206, avg_reader_cost: 1.2352 avg_batch_cost: 1.5793, avg_ips: 60.7862.
+Type : leather Train [ Epoch 29/500 ], loss: 0.2992, avg_reader_cost: 1.2230 avg_batch_cost: 1.5642, avg_ips: 61.3748.
+Type : leather Train [ Epoch 30/500 ], loss: 0.2633, avg_reader_cost: 1.2303 avg_batch_cost: 1.5819, avg_ips: 60.6848.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 30/500 ] max_auc: 0.6029 roc_auc : 0.602921.
+Type : leather Train [ Epoch 31/500 ], loss: 0.2607, avg_reader_cost: 11.6460 avg_batch_cost: 11.7613, avg_ips: 8.1624.
+Type : leather Train [ Epoch 32/500 ], loss: 0.2557, avg_reader_cost: 1.2798 avg_batch_cost: 1.6183, avg_ips: 59.3225.
+Type : leather Train [ Epoch 33/500 ], loss: 0.3015, avg_reader_cost: 1.2356 avg_batch_cost: 1.5825, avg_ips: 60.6620.
+Type : leather Train [ Epoch 34/500 ], loss: 0.2738, avg_reader_cost: 1.2232 avg_batch_cost: 1.3669, avg_ips: 70.2320.
+Type : leather Train [ Epoch 35/500 ], loss: 0.3218, avg_reader_cost: 1.2357 avg_batch_cost: 1.3741, avg_ips: 69.8656.
+Type : leather Train [ Epoch 36/500 ], loss: 0.2447, avg_reader_cost: 1.2353 avg_batch_cost: 1.5661, avg_ips: 61.2983.
+Type : leather Train [ Epoch 37/500 ], loss: 0.1943, avg_reader_cost: 1.2504 avg_batch_cost: 1.5896, avg_ips: 60.3945.
+Type : leather Train [ Epoch 38/500 ], loss: 0.2098, avg_reader_cost: 1.2664 avg_batch_cost: 1.6048, avg_ips: 59.8210.
+Type : leather Train [ Epoch 39/500 ], loss: 0.1695, avg_reader_cost: 1.2387 avg_batch_cost: 1.3718, avg_ips: 69.9791.
+Type : leather Train [ Epoch 40/500 ], loss: 0.1257, avg_reader_cost: 1.2320 avg_batch_cost: 1.3733, avg_ips: 69.9051.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 40/500 ] max_auc: 0.6029 roc_auc : 0.586957.
+Type : leather Train [ Epoch 41/500 ], loss: 0.1511, avg_reader_cost: 12.3456 avg_batch_cost: 12.5836, avg_ips: 7.6290.
+Type : leather Train [ Epoch 42/500 ], loss: 0.1472, avg_reader_cost: 0.0004 avg_batch_cost: 0.1385, avg_ips: 693.1373.
+Type : leather Train [ Epoch 43/500 ], loss: 0.2162, avg_reader_cost: 0.0003 avg_batch_cost: 0.3482, avg_ips: 275.7368.
+Type : leather Train [ Epoch 44/500 ], loss: 0.1432, avg_reader_cost: 0.0003 avg_batch_cost: 0.3477, avg_ips: 276.0983.
+Type : leather Train [ Epoch 45/500 ], loss: 0.1762, avg_reader_cost: 0.0002 avg_batch_cost: 0.1420, avg_ips: 676.1882.
+Type : leather Train [ Epoch 46/500 ], loss: 0.2303, avg_reader_cost: 1.0926 avg_batch_cost: 1.4305, avg_ips: 67.1086.
+Type : leather Train [ Epoch 47/500 ], loss: 0.1221, avg_reader_cost: 1.2228 avg_batch_cost: 1.3665, avg_ips: 70.2518.
+Type : leather Train [ Epoch 48/500 ], loss: 0.0960, avg_reader_cost: 1.2285 avg_batch_cost: 1.5656, avg_ips: 61.3177.
+Type : leather Train [ Epoch 49/500 ], loss: 0.1797, avg_reader_cost: 1.2209 avg_batch_cost: 1.3758, avg_ips: 69.7783.
+Type : leather Train [ Epoch 50/500 ], loss: 0.1209, avg_reader_cost: 1.2259 avg_batch_cost: 1.5623, avg_ips: 61.4474.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 50/500 ] max_auc: 0.7191 roc_auc : 0.719090.
+Type : leather Train [ Epoch 51/500 ], loss: 0.0954, avg_reader_cost: 13.0976 avg_batch_cost: 13.4689, avg_ips: 7.1275.
+Type : leather Train [ Epoch 52/500 ], loss: 0.1275, avg_reader_cost: 0.0003 avg_batch_cost: 0.3410, avg_ips: 281.4888.
+Type : leather Train [ Epoch 53/500 ], loss: 0.1368, avg_reader_cost: 0.0008 avg_batch_cost: 0.3494, avg_ips: 274.7494.
+Type : leather Train [ Epoch 54/500 ], loss: 0.1382, avg_reader_cost: 0.0004 avg_batch_cost: 0.3537, avg_ips: 271.4365.
+Type : leather Train [ Epoch 55/500 ], loss: 0.0861, avg_reader_cost: 0.0002 avg_batch_cost: 0.3464, avg_ips: 277.1208.
+Type : leather Train [ Epoch 56/500 ], loss: 0.1389, avg_reader_cost: 1.1242 avg_batch_cost: 1.2625, avg_ips: 76.0405.
+Type : leather Train [ Epoch 57/500 ], loss: 0.1555, avg_reader_cost: 1.2890 avg_batch_cost: 1.6434, avg_ips: 58.4166.
+Type : leather Train [ Epoch 58/500 ], loss: 0.0961, avg_reader_cost: 1.2850 avg_batch_cost: 1.4251, avg_ips: 67.3631.
+Type : leather Train [ Epoch 59/500 ], loss: 0.0872, avg_reader_cost: 1.2366 avg_batch_cost: 1.3715, avg_ips: 69.9972.
+Type : leather Train [ Epoch 60/500 ], loss: 0.1182, avg_reader_cost: 1.3179 avg_batch_cost: 1.4609, avg_ips: 65.7114.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 60/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 61/500 ], loss: 0.0938, avg_reader_cost: 11.8987 avg_batch_cost: 12.0059, avg_ips: 7.9961.
+Type : leather Train [ Epoch 62/500 ], loss: 0.1249, avg_reader_cost: 0.0005 avg_batch_cost: 0.1096, avg_ips: 876.0701.
+Type : leather Train [ Epoch 63/500 ], loss: 0.0420, avg_reader_cost: 1.3025 avg_batch_cost: 1.4469, avg_ips: 66.3465.
+Type : leather Train [ Epoch 64/500 ], loss: 0.0912, avg_reader_cost: 1.2571 avg_batch_cost: 1.4017, avg_ips: 68.4881.
+Type : leather Train [ Epoch 65/500 ], loss: 0.0830, avg_reader_cost: 1.2416 avg_batch_cost: 1.5001, avg_ips: 63.9953.
+Type : leather Train [ Epoch 66/500 ], loss: 0.0610, avg_reader_cost: 1.2422 avg_batch_cost: 1.3830, avg_ips: 69.4135.
+Type : leather Train [ Epoch 67/500 ], loss: 0.0817, avg_reader_cost: 1.2319 avg_batch_cost: 1.3763, avg_ips: 69.7521.
+Type : leather Train [ Epoch 68/500 ], loss: 0.0894, avg_reader_cost: 1.2469 avg_batch_cost: 1.5853, avg_ips: 60.5553.
+Type : leather Train [ Epoch 69/500 ], loss: 0.0867, avg_reader_cost: 1.2459 avg_batch_cost: 1.5977, avg_ips: 60.0861.
+Type : leather Train [ Epoch 70/500 ], loss: 0.0804, avg_reader_cost: 1.2251 avg_batch_cost: 1.5747, avg_ips: 60.9633.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 70/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 71/500 ], loss: 0.0900, avg_reader_cost: 13.0658 avg_batch_cost: 13.4436, avg_ips: 7.1409.
+Type : leather Train [ Epoch 72/500 ], loss: 0.0378, avg_reader_cost: 0.0004 avg_batch_cost: 0.3550, avg_ips: 270.4458.
+Type : leather Train [ Epoch 73/500 ], loss: 0.0827, avg_reader_cost: 0.0004 avg_batch_cost: 0.3413, avg_ips: 281.2965.
+Type : leather Train [ Epoch 74/500 ], loss: 0.1317, avg_reader_cost: 0.0003 avg_batch_cost: 0.3519, avg_ips: 272.7827.
+Type : leather Train [ Epoch 75/500 ], loss: 0.0880, avg_reader_cost: 0.0003 avg_batch_cost: 0.3555, avg_ips: 270.0279.
+Type : leather Train [ Epoch 76/500 ], loss: 0.0610, avg_reader_cost: 1.0699 avg_batch_cost: 1.2061, avg_ips: 79.5937.
+Type : leather Train [ Epoch 77/500 ], loss: 0.0550, avg_reader_cost: 1.2384 avg_batch_cost: 1.5866, avg_ips: 60.5051.
+Type : leather Train [ Epoch 78/500 ], loss: 0.0460, avg_reader_cost: 1.2266 avg_batch_cost: 1.5655, avg_ips: 61.3224.
+Type : leather Train [ Epoch 79/500 ], loss: 0.0587, avg_reader_cost: 1.2268 avg_batch_cost: 1.5710, avg_ips: 61.1061.
+Type : leather Train [ Epoch 80/500 ], loss: 0.1306, avg_reader_cost: 1.2225 avg_batch_cost: 1.5699, avg_ips: 61.1499.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 80/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 81/500 ], loss: 0.0285, avg_reader_cost: 13.3198 avg_batch_cost: 13.6622, avg_ips: 7.0267.
+Type : leather Train [ Epoch 82/500 ], loss: 0.0883, avg_reader_cost: 0.0004 avg_batch_cost: 0.3531, avg_ips: 271.8593.
+Type : leather Train [ Epoch 83/500 ], loss: 0.1303, avg_reader_cost: 0.0003 avg_batch_cost: 0.3435, avg_ips: 279.4929.
+Type : leather Train [ Epoch 84/500 ], loss: 0.1066, avg_reader_cost: 0.0005 avg_batch_cost: 0.3576, avg_ips: 268.4228.
+Type : leather Train [ Epoch 85/500 ], loss: 0.0841, avg_reader_cost: 0.0003 avg_batch_cost: 0.1367, avg_ips: 702.0245.
+Type : leather Train [ Epoch 86/500 ], loss: 0.0834, avg_reader_cost: 1.0918 avg_batch_cost: 1.2330, avg_ips: 77.8573.
+Type : leather Train [ Epoch 87/500 ], loss: 0.0908, avg_reader_cost: 1.2454 avg_batch_cost: 1.3853, avg_ips: 69.2998.
+Type : leather Train [ Epoch 88/500 ], loss: 0.0803, avg_reader_cost: 1.2435 avg_batch_cost: 1.5931, avg_ips: 60.2583.
+Type : leather Train [ Epoch 89/500 ], loss: 0.0647, avg_reader_cost: 1.2403 avg_batch_cost: 1.4024, avg_ips: 68.4541.
+Type : leather Train [ Epoch 90/500 ], loss: 0.0916, avg_reader_cost: 1.2176 avg_batch_cost: 1.5563, avg_ips: 61.6831.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 90/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 91/500 ], loss: 0.0673, avg_reader_cost: 12.5161 avg_batch_cost: 12.6301, avg_ips: 7.6009.
+Type : leather Train [ Epoch 92/500 ], loss: 0.1064, avg_reader_cost: 0.0003 avg_batch_cost: 0.1049, avg_ips: 914.7903.
+Type : leather Train [ Epoch 93/500 ], loss: 0.0706, avg_reader_cost: 0.0008 avg_batch_cost: 0.1045, avg_ips: 918.4544.
+Type : leather Train [ Epoch 94/500 ], loss: 0.0768, avg_reader_cost: 1.2840 avg_batch_cost: 1.6253, avg_ips: 59.0645.
+Type : leather Train [ Epoch 95/500 ], loss: 0.0576, avg_reader_cost: 1.2638 avg_batch_cost: 1.6090, avg_ips: 59.6658.
+Type : leather Train [ Epoch 96/500 ], loss: 0.0962, avg_reader_cost: 1.2357 avg_batch_cost: 1.5784, avg_ips: 60.8224.
+Type : leather Train [ Epoch 97/500 ], loss: 0.0867, avg_reader_cost: 1.2309 avg_batch_cost: 1.5691, avg_ips: 61.1824.
+Type : leather Train [ Epoch 98/500 ], loss: 0.0764, avg_reader_cost: 1.2351 avg_batch_cost: 1.5825, avg_ips: 60.6648.
+Type : leather Train [ Epoch 99/500 ], loss: 0.0821, avg_reader_cost: 1.2270 avg_batch_cost: 1.5630, avg_ips: 61.4218.
+Type : leather Train [ Epoch 100/500 ], loss: 0.0596, avg_reader_cost: 1.2614 avg_batch_cost: 1.4270, avg_ips: 67.2757.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 100/500 ] max_auc: 1.0000 roc_auc : 0.999660.
+Type : leather Train [ Epoch 101/500 ], loss: 0.1029, avg_reader_cost: 12.5912 avg_batch_cost: 12.9885, avg_ips: 7.3912.
+Type : leather Train [ Epoch 102/500 ], loss: 0.0642, avg_reader_cost: 0.0003 avg_batch_cost: 0.1515, avg_ips: 633.6993.
+Type : leather Train [ Epoch 103/500 ], loss: 0.0665, avg_reader_cost: 0.0003 avg_batch_cost: 0.3530, avg_ips: 271.9893.
+Type : leather Train [ Epoch 104/500 ], loss: 0.0422, avg_reader_cost: 0.0003 avg_batch_cost: 0.1765, avg_ips: 543.9914.
+Type : leather Train [ Epoch 105/500 ], loss: 0.0935, avg_reader_cost: 0.0003 avg_batch_cost: 0.3512, avg_ips: 273.3304.
+Type : leather Train [ Epoch 106/500 ], loss: 0.0727, avg_reader_cost: 1.1564 avg_batch_cost: 1.3009, avg_ips: 73.7927.
+Type : leather Train [ Epoch 107/500 ], loss: 0.0879, avg_reader_cost: 1.2828 avg_batch_cost: 1.6232, avg_ips: 59.1441.
+Type : leather Train [ Epoch 108/500 ], loss: 0.0636, avg_reader_cost: 1.2867 avg_batch_cost: 1.4637, avg_ips: 65.5882.
+Type : leather Train [ Epoch 109/500 ], loss: 0.0639, avg_reader_cost: 1.2938 avg_batch_cost: 1.4312, avg_ips: 67.0786.
+Type : leather Train [ Epoch 110/500 ], loss: 0.0621, avg_reader_cost: 1.2608 avg_batch_cost: 1.4578, avg_ips: 65.8526.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 110/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 111/500 ], loss: 0.0497, avg_reader_cost: 13.3031 avg_batch_cost: 13.6703, avg_ips: 7.0225.
+Type : leather Train [ Epoch 112/500 ], loss: 0.0674, avg_reader_cost: 0.0003 avg_batch_cost: 0.3385, avg_ips: 283.6123.
+Type : leather Train [ Epoch 113/500 ], loss: 0.0700, avg_reader_cost: 0.0006 avg_batch_cost: 0.3525, avg_ips: 272.3769.
+Type : leather Train [ Epoch 114/500 ], loss: 0.0599, avg_reader_cost: 0.0003 avg_batch_cost: 0.4231, avg_ips: 226.9041.
+Type : leather Train [ Epoch 115/500 ], loss: 0.0524, avg_reader_cost: 0.0004 avg_batch_cost: 0.3490, avg_ips: 275.0842.
+Type : leather Train [ Epoch 116/500 ], loss: 0.0666, avg_reader_cost: 1.0347 avg_batch_cost: 1.1748, avg_ips: 81.7173.
+Type : leather Train [ Epoch 117/500 ], loss: 0.0576, avg_reader_cost: 1.2459 avg_batch_cost: 1.5866, avg_ips: 60.5071.
+Type : leather Train [ Epoch 118/500 ], loss: 0.0502, avg_reader_cost: 1.2379 avg_batch_cost: 1.5810, avg_ips: 60.7199.
+Type : leather Train [ Epoch 119/500 ], loss: 0.0338, avg_reader_cost: 1.2313 avg_batch_cost: 1.3715, avg_ips: 69.9946.
+Type : leather Train [ Epoch 120/500 ], loss: 0.0489, avg_reader_cost: 1.2322 avg_batch_cost: 1.5774, avg_ips: 60.8593.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 120/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 121/500 ], loss: 0.0315, avg_reader_cost: 12.9902 avg_batch_cost: 13.0950, avg_ips: 7.3310.
+Type : leather Train [ Epoch 122/500 ], loss: 0.0262, avg_reader_cost: 0.0003 avg_batch_cost: 0.1051, avg_ips: 913.7876.
+Type : leather Train [ Epoch 123/500 ], loss: 0.0480, avg_reader_cost: 0.0003 avg_batch_cost: 0.1052, avg_ips: 912.2287.
+Type : leather Train [ Epoch 124/500 ], loss: 0.0471, avg_reader_cost: 0.0003 avg_batch_cost: 0.1036, avg_ips: 926.4851.
+Type : leather Train [ Epoch 125/500 ], loss: 0.0939, avg_reader_cost: 1.2728 avg_batch_cost: 1.6223, avg_ips: 59.1766.
+Type : leather Train [ Epoch 126/500 ], loss: 0.0619, avg_reader_cost: 1.2202 avg_batch_cost: 1.5582, avg_ips: 61.6109.
+Type : leather Train [ Epoch 127/500 ], loss: 0.0112, avg_reader_cost: 1.2342 avg_batch_cost: 1.5762, avg_ips: 60.9069.
+Type : leather Train [ Epoch 128/500 ], loss: 0.0431, avg_reader_cost: 1.2256 avg_batch_cost: 1.5701, avg_ips: 61.1418.
+Type : leather Train [ Epoch 129/500 ], loss: 0.0410, avg_reader_cost: 1.2288 avg_batch_cost: 1.5702, avg_ips: 61.1388.
+Type : leather Train [ Epoch 130/500 ], loss: 0.0411, avg_reader_cost: 1.2301 avg_batch_cost: 1.5813, avg_ips: 60.7082.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 130/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 131/500 ], loss: 0.0529, avg_reader_cost: 12.9848 avg_batch_cost: 13.3539, avg_ips: 7.1889.
+Type : leather Train [ Epoch 132/500 ], loss: 0.0345, avg_reader_cost: 0.0003 avg_batch_cost: 0.3516, avg_ips: 273.0689.
+Type : leather Train [ Epoch 133/500 ], loss: 0.0475, avg_reader_cost: 0.0004 avg_batch_cost: 0.3569, avg_ips: 268.9500.
+Type : leather Train [ Epoch 134/500 ], loss: 0.0623, avg_reader_cost: 0.0002 avg_batch_cost: 0.3491, avg_ips: 275.0125.
+Type : leather Train [ Epoch 135/500 ], loss: 0.0267, avg_reader_cost: 0.0003 avg_batch_cost: 0.1421, avg_ips: 675.6459.
+Type : leather Train [ Epoch 136/500 ], loss: 0.0509, avg_reader_cost: 1.0525 avg_batch_cost: 1.3915, avg_ips: 68.9888.
+Type : leather Train [ Epoch 137/500 ], loss: 0.0656, avg_reader_cost: 1.2339 avg_batch_cost: 1.3739, avg_ips: 69.8735.
+Type : leather Train [ Epoch 138/500 ], loss: 0.0101, avg_reader_cost: 1.2330 avg_batch_cost: 1.5793, avg_ips: 60.7849.
+Type : leather Train [ Epoch 139/500 ], loss: 0.0755, avg_reader_cost: 1.2167 avg_batch_cost: 1.3512, avg_ips: 71.0462.
+Type : leather Train [ Epoch 140/500 ], loss: 0.0371, avg_reader_cost: 1.2337 avg_batch_cost: 1.5789, avg_ips: 60.8028.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 140/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 141/500 ], loss: 0.0208, avg_reader_cost: 13.5416 avg_batch_cost: 13.8879, avg_ips: 6.9125.
+Type : leather Train [ Epoch 142/500 ], loss: 0.0339, avg_reader_cost: 0.0005 avg_batch_cost: 0.3401, avg_ips: 282.2604.
+Type : leather Train [ Epoch 143/500 ], loss: 0.0449, avg_reader_cost: 0.0003 avg_batch_cost: 0.3528, avg_ips: 272.0810.
+Type : leather Train [ Epoch 144/500 ], loss: 0.0456, avg_reader_cost: 0.0002 avg_batch_cost: 0.1399, avg_ips: 686.1297.
+Type : leather Train [ Epoch 145/500 ], loss: 0.0597, avg_reader_cost: 0.0004 avg_batch_cost: 0.3511, avg_ips: 273.4054.
+Type : leather Train [ Epoch 146/500 ], loss: 0.0540, avg_reader_cost: 1.1047 avg_batch_cost: 1.2424, avg_ips: 77.2711.
+Type : leather Train [ Epoch 147/500 ], loss: 0.0768, avg_reader_cost: 1.2465 avg_batch_cost: 1.3883, avg_ips: 69.1487.
+Type : leather Train [ Epoch 148/500 ], loss: 0.0459, avg_reader_cost: 1.2489 avg_batch_cost: 1.5919, avg_ips: 60.3057.
+Type : leather Train [ Epoch 149/500 ], loss: 0.0401, avg_reader_cost: 1.2764 avg_batch_cost: 1.6310, avg_ips: 58.8603.
+Type : leather Train [ Epoch 150/500 ], loss: 0.0608, avg_reader_cost: 1.2679 avg_batch_cost: 1.6200, avg_ips: 59.2607.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 150/500 ] max_auc: 1.0000 roc_auc : 0.999660.
+Type : leather Train [ Epoch 151/500 ], loss: 0.0643, avg_reader_cost: 12.3369 avg_batch_cost: 12.4793, avg_ips: 7.6927.
+Type : leather Train [ Epoch 152/500 ], loss: 0.0252, avg_reader_cost: 0.0002 avg_batch_cost: 0.1056, avg_ips: 908.8252.
+Type : leather Train [ Epoch 153/500 ], loss: 0.0767, avg_reader_cost: 0.0004 avg_batch_cost: 0.1062, avg_ips: 904.3103.
+Type : leather Train [ Epoch 154/500 ], loss: 0.0969, avg_reader_cost: 0.0003 avg_batch_cost: 0.1064, avg_ips: 902.1969.
+Type : leather Train [ Epoch 155/500 ], loss: 0.0572, avg_reader_cost: 0.0004 avg_batch_cost: 0.1057, avg_ips: 907.8785.
+Type : leather Train [ Epoch 156/500 ], loss: 0.0249, avg_reader_cost: 1.2935 avg_batch_cost: 1.4402, avg_ips: 66.6552.
+Type : leather Train [ Epoch 157/500 ], loss: 0.0471, avg_reader_cost: 1.2602 avg_batch_cost: 1.5992, avg_ips: 60.0296.
+Type : leather Train [ Epoch 158/500 ], loss: 0.0319, avg_reader_cost: 1.3408 avg_batch_cost: 1.5523, avg_ips: 61.8427.
+Type : leather Train [ Epoch 159/500 ], loss: 0.0738, avg_reader_cost: 1.3120 avg_batch_cost: 1.5121, avg_ips: 63.4871.
+Type : leather Train [ Epoch 160/500 ], loss: 0.0754, avg_reader_cost: 1.4532 avg_batch_cost: 1.7938, avg_ips: 53.5178.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 160/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 161/500 ], loss: 0.0284, avg_reader_cost: 13.4102 avg_batch_cost: 13.7441, avg_ips: 6.9848.
+Type : leather Train [ Epoch 162/500 ], loss: 0.0449, avg_reader_cost: 0.0011 avg_batch_cost: 0.1173, avg_ips: 818.4923.
+Type : leather Train [ Epoch 163/500 ], loss: 0.0808, avg_reader_cost: 0.0004 avg_batch_cost: 0.3521, avg_ips: 272.6641.
+Type : leather Train [ Epoch 164/500 ], loss: 0.0376, avg_reader_cost: 0.0003 avg_batch_cost: 0.3407, avg_ips: 281.7938.
+Type : leather Train [ Epoch 165/500 ], loss: 0.0229, avg_reader_cost: 0.0007 avg_batch_cost: 0.3524, avg_ips: 272.4022.
+Type : leather Train [ Epoch 166/500 ], loss: 0.0491, avg_reader_cost: 1.1267 avg_batch_cost: 1.2736, avg_ips: 75.3780.
+Type : leather Train [ Epoch 167/500 ], loss: 0.0597, avg_reader_cost: 1.2782 avg_batch_cost: 1.6191, avg_ips: 59.2921.
+Type : leather Train [ Epoch 168/500 ], loss: 0.0310, avg_reader_cost: 1.2559 avg_batch_cost: 1.4046, avg_ips: 68.3482.
+Type : leather Train [ Epoch 169/500 ], loss: 0.0289, avg_reader_cost: 1.2887 avg_batch_cost: 1.6317, avg_ips: 58.8338.
+Type : leather Train [ Epoch 170/500 ], loss: 0.0577, avg_reader_cost: 1.2582 avg_batch_cost: 1.4010, avg_ips: 68.5234.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 170/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 171/500 ], loss: 0.0455, avg_reader_cost: 13.2424 avg_batch_cost: 13.6024, avg_ips: 7.0576.
+Type : leather Train [ Epoch 172/500 ], loss: 0.0717, avg_reader_cost: 0.0004 avg_batch_cost: 0.3532, avg_ips: 271.8361.
+Type : leather Train [ Epoch 173/500 ], loss: 0.0429, avg_reader_cost: 0.0002 avg_batch_cost: 0.1386, avg_ips: 692.8249.
+Type : leather Train [ Epoch 174/500 ], loss: 0.0187, avg_reader_cost: 0.0005 avg_batch_cost: 0.3537, avg_ips: 271.4118.
+Type : leather Train [ Epoch 175/500 ], loss: 0.0234, avg_reader_cost: 0.0002 avg_batch_cost: 0.3501, avg_ips: 274.1890.
+Type : leather Train [ Epoch 176/500 ], loss: 0.0362, avg_reader_cost: 1.1205 avg_batch_cost: 1.4600, avg_ips: 65.7525.
+Type : leather Train [ Epoch 177/500 ], loss: 0.0337, avg_reader_cost: 1.2579 avg_batch_cost: 1.6017, avg_ips: 59.9376.
+Type : leather Train [ Epoch 178/500 ], loss: 0.0463, avg_reader_cost: 1.2533 avg_batch_cost: 1.3926, avg_ips: 68.9360.
+Type : leather Train [ Epoch 179/500 ], loss: 0.0303, avg_reader_cost: 1.2581 avg_batch_cost: 1.3969, avg_ips: 68.7239.
+Type : leather Train [ Epoch 180/500 ], loss: 0.0333, avg_reader_cost: 1.2396 avg_batch_cost: 1.5779, avg_ips: 60.8419.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 180/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 181/500 ], loss: 0.0102, avg_reader_cost: 13.1589 avg_batch_cost: 13.5018, avg_ips: 7.1101.
+Type : leather Train [ Epoch 182/500 ], loss: 0.0587, avg_reader_cost: 0.0006 avg_batch_cost: 0.3465, avg_ips: 277.0868.
+Type : leather Train [ Epoch 183/500 ], loss: 0.0398, avg_reader_cost: 0.0002 avg_batch_cost: 0.3468, avg_ips: 276.8533.
+Type : leather Train [ Epoch 184/500 ], loss: 0.0127, avg_reader_cost: 0.0003 avg_batch_cost: 0.1668, avg_ips: 575.5897.
+Type : leather Train [ Epoch 185/500 ], loss: 0.0386, avg_reader_cost: 0.0003 avg_batch_cost: 0.3543, avg_ips: 270.9907.
+Type : leather Train [ Epoch 186/500 ], loss: 0.0459, avg_reader_cost: 1.1207 avg_batch_cost: 1.2257, avg_ips: 78.3255.
+Type : leather Train [ Epoch 187/500 ], loss: 0.0246, avg_reader_cost: 1.2867 avg_batch_cost: 1.6253, avg_ips: 59.0655.
+Type : leather Train [ Epoch 188/500 ], loss: 0.0233, avg_reader_cost: 1.2560 avg_batch_cost: 1.3988, avg_ips: 68.6298.
+Type : leather Train [ Epoch 189/500 ], loss: 0.0381, avg_reader_cost: 1.2546 avg_batch_cost: 1.3935, avg_ips: 68.8907.
+Type : leather Train [ Epoch 190/500 ], loss: 0.0243, avg_reader_cost: 1.2798 avg_batch_cost: 1.6183, avg_ips: 59.3226.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 190/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 191/500 ], loss: 0.0549, avg_reader_cost: 13.2331 avg_batch_cost: 13.5820, avg_ips: 7.0682.
+Type : leather Train [ Epoch 192/500 ], loss: 0.0203, avg_reader_cost: 0.0040 avg_batch_cost: 0.3551, avg_ips: 270.3628.
+Type : leather Train [ Epoch 193/500 ], loss: 0.0041, avg_reader_cost: 0.0002 avg_batch_cost: 0.1335, avg_ips: 719.0248.
+Type : leather Train [ Epoch 194/500 ], loss: 0.0057, avg_reader_cost: 0.0005 avg_batch_cost: 0.1178, avg_ips: 814.9406.
+Type : leather Train [ Epoch 195/500 ], loss: 0.0454, avg_reader_cost: 0.0006 avg_batch_cost: 0.3529, avg_ips: 272.0586.
+Type : leather Train [ Epoch 196/500 ], loss: 0.0237, avg_reader_cost: 1.1725 avg_batch_cost: 1.3444, avg_ips: 71.4094.
+Type : leather Train [ Epoch 197/500 ], loss: 0.0217, avg_reader_cost: 1.3033 avg_batch_cost: 1.5279, avg_ips: 62.8325.
+Type : leather Train [ Epoch 198/500 ], loss: 0.0051, avg_reader_cost: 1.2917 avg_batch_cost: 1.6306, avg_ips: 58.8731.
+Type : leather Train [ Epoch 199/500 ], loss: 0.0046, avg_reader_cost: 1.3019 avg_batch_cost: 1.6483, avg_ips: 58.2427.
+Type : leather Train [ Epoch 200/500 ], loss: 0.0376, avg_reader_cost: 1.5412 avg_batch_cost: 1.8796, avg_ips: 51.0735.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 200/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 201/500 ], loss: 0.0327, avg_reader_cost: 13.8665 avg_batch_cost: 14.2124, avg_ips: 6.7547.
+Type : leather Train [ Epoch 202/500 ], loss: 0.0048, avg_reader_cost: 0.0003 avg_batch_cost: 0.3446, avg_ips: 278.5885.
+Type : leather Train [ Epoch 203/500 ], loss: 0.0144, avg_reader_cost: 0.0003 avg_batch_cost: 0.3454, avg_ips: 277.9502.
+Type : leather Train [ Epoch 204/500 ], loss: 0.0140, avg_reader_cost: 0.0007 avg_batch_cost: 0.3563, avg_ips: 269.4129.
+Type : leather Train [ Epoch 205/500 ], loss: 0.0515, avg_reader_cost: 0.0003 avg_batch_cost: 0.3505, avg_ips: 273.8802.
+Type : leather Train [ Epoch 206/500 ], loss: 0.0181, avg_reader_cost: 1.1262 avg_batch_cost: 1.2704, avg_ips: 75.5661.
+Type : leather Train [ Epoch 207/500 ], loss: 0.0069, avg_reader_cost: 1.2725 avg_batch_cost: 1.6135, avg_ips: 59.4975.
+Type : leather Train [ Epoch 208/500 ], loss: 0.0278, avg_reader_cost: 1.5170 avg_batch_cost: 1.8611, avg_ips: 51.5816.
+Type : leather Train [ Epoch 209/500 ], loss: 0.0275, avg_reader_cost: 1.2928 avg_batch_cost: 1.6352, avg_ips: 58.7092.
+Type : leather Train [ Epoch 210/500 ], loss: 0.0314, avg_reader_cost: 1.2471 avg_batch_cost: 1.5881, avg_ips: 60.4514.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 210/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 211/500 ], loss: 0.0114, avg_reader_cost: 13.3846 avg_batch_cost: 13.7436, avg_ips: 6.9850.
+Type : leather Train [ Epoch 212/500 ], loss: 0.0073, avg_reader_cost: 0.0004 avg_batch_cost: 0.3476, avg_ips: 276.1574.
+Type : leather Train [ Epoch 213/500 ], loss: 0.0581, avg_reader_cost: 0.0006 avg_batch_cost: 0.3470, avg_ips: 276.6792.
+Type : leather Train [ Epoch 214/500 ], loss: 0.0211, avg_reader_cost: 0.0002 avg_batch_cost: 0.3542, avg_ips: 271.0670.
+Type : leather Train [ Epoch 215/500 ], loss: 0.0242, avg_reader_cost: 0.0003 avg_batch_cost: 0.1489, avg_ips: 644.8569.
+Type : leather Train [ Epoch 216/500 ], loss: 0.0163, avg_reader_cost: 1.1636 avg_batch_cost: 1.5089, avg_ips: 63.6227.
+Type : leather Train [ Epoch 217/500 ], loss: 0.0434, avg_reader_cost: 1.2464 avg_batch_cost: 1.3518, avg_ips: 71.0162.
+Type : leather Train [ Epoch 218/500 ], loss: 0.0193, avg_reader_cost: 1.3038 avg_batch_cost: 1.6421, avg_ips: 58.4630.
+Type : leather Train [ Epoch 219/500 ], loss: 0.0273, avg_reader_cost: 1.2692 avg_batch_cost: 1.6119, avg_ips: 59.5553.
+Type : leather Train [ Epoch 220/500 ], loss: 0.0291, avg_reader_cost: 1.2661 avg_batch_cost: 1.4105, avg_ips: 68.0590.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 220/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 221/500 ], loss: 0.0712, avg_reader_cost: 13.3128 avg_batch_cost: 13.6609, avg_ips: 7.0274.
+Type : leather Train [ Epoch 222/500 ], loss: 0.0172, avg_reader_cost: 0.0003 avg_batch_cost: 0.3449, avg_ips: 278.3261.
+Type : leather Train [ Epoch 223/500 ], loss: 0.0396, avg_reader_cost: 0.0003 avg_batch_cost: 0.3469, avg_ips: 276.7330.
+Type : leather Train [ Epoch 224/500 ], loss: 0.0425, avg_reader_cost: 0.0003 avg_batch_cost: 0.1381, avg_ips: 695.1201.
+Type : leather Train [ Epoch 225/500 ], loss: 0.0459, avg_reader_cost: 0.0005 avg_batch_cost: 0.2592, avg_ips: 370.3443.
+Type : leather Train [ Epoch 226/500 ], loss: 0.0044, avg_reader_cost: 1.1381 avg_batch_cost: 1.2848, avg_ips: 74.7173.
+Type : leather Train [ Epoch 227/500 ], loss: 0.0498, avg_reader_cost: 1.2605 avg_batch_cost: 1.6054, avg_ips: 59.7963.
+Type : leather Train [ Epoch 228/500 ], loss: 0.0414, avg_reader_cost: 1.2403 avg_batch_cost: 1.5819, avg_ips: 60.6872.
+Type : leather Train [ Epoch 229/500 ], loss: 0.0198, avg_reader_cost: 1.2364 avg_batch_cost: 1.5802, avg_ips: 60.7529.
+Type : leather Train [ Epoch 230/500 ], loss: 0.0250, avg_reader_cost: 1.2458 avg_batch_cost: 1.5894, avg_ips: 60.3994.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 230/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 231/500 ], loss: 0.0283, avg_reader_cost: 13.3343 avg_batch_cost: 13.6982, avg_ips: 7.0082.
+Type : leather Train [ Epoch 232/500 ], loss: 0.0400, avg_reader_cost: 0.0003 avg_batch_cost: 0.3480, avg_ips: 275.8758.
+Type : leather Train [ Epoch 233/500 ], loss: 0.0153, avg_reader_cost: 0.0003 avg_batch_cost: 0.3482, avg_ips: 275.7394.
+Type : leather Train [ Epoch 234/500 ], loss: 0.0760, avg_reader_cost: 0.0003 avg_batch_cost: 0.1378, avg_ips: 696.5197.
+Type : leather Train [ Epoch 235/500 ], loss: 0.0283, avg_reader_cost: 0.0003 avg_batch_cost: 0.3514, avg_ips: 273.1954.
+Type : leather Train [ Epoch 236/500 ], loss: 0.0404, avg_reader_cost: 1.2206 avg_batch_cost: 1.3827, avg_ips: 69.4288.
+Type : leather Train [ Epoch 237/500 ], loss: 0.0225, avg_reader_cost: 1.2222 avg_batch_cost: 1.5576, avg_ips: 61.6331.
+Type : leather Train [ Epoch 238/500 ], loss: 0.0162, avg_reader_cost: 1.2299 avg_batch_cost: 1.4131, avg_ips: 67.9369.
+Type : leather Train [ Epoch 239/500 ], loss: 0.0380, avg_reader_cost: 1.2294 avg_batch_cost: 1.5720, avg_ips: 61.0699.
+Type : leather Train [ Epoch 240/500 ], loss: 0.0502, avg_reader_cost: 1.2282 avg_batch_cost: 1.5652, avg_ips: 61.3358.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 240/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 241/500 ], loss: 0.0565, avg_reader_cost: 13.4307 avg_batch_cost: 13.7830, avg_ips: 6.9651.
+Type : leather Train [ Epoch 242/500 ], loss: 0.0445, avg_reader_cost: 0.0003 avg_batch_cost: 0.3543, avg_ips: 270.9935.
+Type : leather Train [ Epoch 243/500 ], loss: 0.0412, avg_reader_cost: 0.0003 avg_batch_cost: 0.3491, avg_ips: 274.9706.
+Type : leather Train [ Epoch 244/500 ], loss: 0.0191, avg_reader_cost: 0.0004 avg_batch_cost: 0.3501, avg_ips: 274.1805.
+Type : leather Train [ Epoch 245/500 ], loss: 0.0246, avg_reader_cost: 0.0002 avg_batch_cost: 0.1552, avg_ips: 618.6403.
+Type : leather Train [ Epoch 246/500 ], loss: 0.0219, avg_reader_cost: 1.1315 avg_batch_cost: 1.2740, avg_ips: 75.3517.
+Type : leather Train [ Epoch 247/500 ], loss: 0.0216, avg_reader_cost: 1.3484 avg_batch_cost: 1.5143, avg_ips: 63.3944.
+Type : leather Train [ Epoch 248/500 ], loss: 0.0360, avg_reader_cost: 1.4272 avg_batch_cost: 1.5329, avg_ips: 62.6249.
+Type : leather Train [ Epoch 249/500 ], loss: 0.0242, avg_reader_cost: 1.2795 avg_batch_cost: 1.4182, avg_ips: 67.6937.
+Type : leather Train [ Epoch 250/500 ], loss: 0.0402, avg_reader_cost: 1.2236 avg_batch_cost: 1.3651, avg_ips: 70.3270.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 250/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 251/500 ], loss: 0.0061, avg_reader_cost: 13.5652 avg_batch_cost: 13.9353, avg_ips: 6.8890.
+Type : leather Train [ Epoch 252/500 ], loss: 0.0433, avg_reader_cost: 0.0003 avg_batch_cost: 0.3457, avg_ips: 277.7131.
+Type : leather Train [ Epoch 253/500 ], loss: 0.0241, avg_reader_cost: 0.0004 avg_batch_cost: 0.3531, avg_ips: 271.8646.
+Type : leather Train [ Epoch 254/500 ], loss: 0.0069, avg_reader_cost: 0.0003 avg_batch_cost: 0.1362, avg_ips: 705.0534.
+Type : leather Train [ Epoch 255/500 ], loss: 0.0139, avg_reader_cost: 0.0006 avg_batch_cost: 0.3489, avg_ips: 275.1750.
+Type : leather Train [ Epoch 256/500 ], loss: 0.0487, avg_reader_cost: 1.1518 avg_batch_cost: 1.4914, avg_ips: 64.3696.
+Type : leather Train [ Epoch 257/500 ], loss: 0.1158, avg_reader_cost: 1.2587 avg_batch_cost: 1.6033, avg_ips: 59.8777.
+Type : leather Train [ Epoch 258/500 ], loss: 0.0137, avg_reader_cost: 1.2412 avg_batch_cost: 1.5878, avg_ips: 60.4627.
+Type : leather Train [ Epoch 259/500 ], loss: 0.0059, avg_reader_cost: 1.2599 avg_batch_cost: 1.4087, avg_ips: 68.1459.
+Type : leather Train [ Epoch 260/500 ], loss: 0.0422, avg_reader_cost: 1.2755 avg_batch_cost: 1.6200, avg_ips: 59.2603.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 260/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 261/500 ], loss: 0.0067, avg_reader_cost: 13.1463 avg_batch_cost: 13.5005, avg_ips: 7.1108.
+Type : leather Train [ Epoch 262/500 ], loss: 0.0212, avg_reader_cost: 0.0003 avg_batch_cost: 0.3484, avg_ips: 275.5581.
+Type : leather Train [ Epoch 263/500 ], loss: 0.0296, avg_reader_cost: 0.0004 avg_batch_cost: 0.3489, avg_ips: 275.1138.
+Type : leather Train [ Epoch 264/500 ], loss: 0.0541, avg_reader_cost: 0.0002 avg_batch_cost: 0.1653, avg_ips: 580.6579.
+Type : leather Train [ Epoch 265/500 ], loss: 0.0337, avg_reader_cost: 0.0003 avg_batch_cost: 0.3461, avg_ips: 277.3905.
+Type : leather Train [ Epoch 266/500 ], loss: 0.0211, avg_reader_cost: 1.0692 avg_batch_cost: 1.4193, avg_ips: 67.6370.
+Type : leather Train [ Epoch 267/500 ], loss: 0.0075, avg_reader_cost: 1.2104 avg_batch_cost: 1.5556, avg_ips: 61.7122.
+Type : leather Train [ Epoch 268/500 ], loss: 0.0380, avg_reader_cost: 1.2227 avg_batch_cost: 1.5708, avg_ips: 61.1147.
+Type : leather Train [ Epoch 269/500 ], loss: 0.0222, avg_reader_cost: 1.2195 avg_batch_cost: 1.5645, avg_ips: 61.3609.
+Type : leather Train [ Epoch 270/500 ], loss: 0.0363, avg_reader_cost: 1.2181 avg_batch_cost: 1.5567, avg_ips: 61.6699.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 270/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 271/500 ], loss: 0.0241, avg_reader_cost: 13.2832 avg_batch_cost: 13.4435, avg_ips: 7.1410.
+Type : leather Train [ Epoch 272/500 ], loss: 0.0281, avg_reader_cost: 0.0005 avg_batch_cost: 0.3423, avg_ips: 280.4648.
+Type : leather Train [ Epoch 273/500 ], loss: 0.0075, avg_reader_cost: 0.0003 avg_batch_cost: 0.3500, avg_ips: 274.2645.
+Type : leather Train [ Epoch 274/500 ], loss: 0.0081, avg_reader_cost: 0.0002 avg_batch_cost: 0.3370, avg_ips: 284.8940.
+Type : leather Train [ Epoch 275/500 ], loss: 0.0394, avg_reader_cost: 0.0005 avg_batch_cost: 0.3472, avg_ips: 276.4668.
+Type : leather Train [ Epoch 276/500 ], loss: 0.0244, avg_reader_cost: 1.1053 avg_batch_cost: 1.2469, avg_ips: 76.9886.
+Type : leather Train [ Epoch 277/500 ], loss: 0.0465, avg_reader_cost: 1.2222 avg_batch_cost: 1.3598, avg_ips: 70.5983.
+Type : leather Train [ Epoch 278/500 ], loss: 0.0536, avg_reader_cost: 1.2353 avg_batch_cost: 1.5741, avg_ips: 60.9865.
+Type : leather Train [ Epoch 279/500 ], loss: 0.0068, avg_reader_cost: 1.2525 avg_batch_cost: 1.3573, avg_ips: 70.7304.
+Type : leather Train [ Epoch 280/500 ], loss: 0.0617, avg_reader_cost: 1.2843 avg_batch_cost: 1.6324, avg_ips: 58.8092.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 280/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 281/500 ], loss: 0.0256, avg_reader_cost: 13.5912 avg_batch_cost: 13.9333, avg_ips: 6.8900.
+Type : leather Train [ Epoch 282/500 ], loss: 0.0131, avg_reader_cost: 0.0007 avg_batch_cost: 0.3526, avg_ips: 272.2274.
+Type : leather Train [ Epoch 283/500 ], loss: 0.0180, avg_reader_cost: 0.0007 avg_batch_cost: 0.3467, avg_ips: 276.9043.
+Type : leather Train [ Epoch 284/500 ], loss: 0.0168, avg_reader_cost: 0.0003 avg_batch_cost: 0.3467, avg_ips: 276.8969.
+Type : leather Train [ Epoch 285/500 ], loss: 0.0376, avg_reader_cost: 0.0003 avg_batch_cost: 0.3486, avg_ips: 275.3525.
+Type : leather Train [ Epoch 286/500 ], loss: 0.0223, avg_reader_cost: 1.0871 avg_batch_cost: 1.4308, avg_ips: 67.0965.
+Type : leather Train [ Epoch 287/500 ], loss: 0.0574, avg_reader_cost: 1.2301 avg_batch_cost: 1.5823, avg_ips: 60.6716.
+Type : leather Train [ Epoch 288/500 ], loss: 0.0225, avg_reader_cost: 1.2290 avg_batch_cost: 1.3684, avg_ips: 70.1528.
+Type : leather Train [ Epoch 289/500 ], loss: 0.0159, avg_reader_cost: 1.2452 avg_batch_cost: 1.3835, avg_ips: 69.3896.
+Type : leather Train [ Epoch 290/500 ], loss: 0.0288, avg_reader_cost: 1.2625 avg_batch_cost: 1.6041, avg_ips: 59.8481.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 290/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 291/500 ], loss: 0.0162, avg_reader_cost: 13.4956 avg_batch_cost: 13.8596, avg_ips: 6.9266.
+Type : leather Train [ Epoch 292/500 ], loss: 0.0074, avg_reader_cost: 0.0003 avg_batch_cost: 0.1349, avg_ips: 711.9007.
+Type : leather Train [ Epoch 293/500 ], loss: 0.0345, avg_reader_cost: 0.0004 avg_batch_cost: 0.3469, avg_ips: 276.7669.
+Type : leather Train [ Epoch 294/500 ], loss: 0.0131, avg_reader_cost: 0.0007 avg_batch_cost: 0.3467, avg_ips: 276.9001.
+Type : leather Train [ Epoch 295/500 ], loss: 0.0081, avg_reader_cost: 0.0003 avg_batch_cost: 0.1857, avg_ips: 516.8927.
+Type : leather Train [ Epoch 296/500 ], loss: 0.0062, avg_reader_cost: 1.1206 avg_batch_cost: 1.2579, avg_ips: 76.3168.
+Type : leather Train [ Epoch 297/500 ], loss: 0.0059, avg_reader_cost: 1.2862 avg_batch_cost: 1.4746, avg_ips: 65.1024.
+Type : leather Train [ Epoch 298/500 ], loss: 0.0255, avg_reader_cost: 1.3042 avg_batch_cost: 1.6436, avg_ips: 58.4088.
+Type : leather Train [ Epoch 299/500 ], loss: 0.0054, avg_reader_cost: 1.3060 avg_batch_cost: 1.6529, avg_ips: 58.0797.
+Type : leather Train [ Epoch 300/500 ], loss: 0.0327, avg_reader_cost: 1.2673 avg_batch_cost: 1.6056, avg_ips: 59.7905.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 300/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 301/500 ], loss: 0.0384, avg_reader_cost: 13.3478 avg_batch_cost: 13.6906, avg_ips: 7.0121.
+Type : leather Train [ Epoch 302/500 ], loss: 0.0070, avg_reader_cost: 0.0004 avg_batch_cost: 0.3525, avg_ips: 272.3064.
+Type : leather Train [ Epoch 303/500 ], loss: 0.0336, avg_reader_cost: 0.0003 avg_batch_cost: 0.1375, avg_ips: 698.1876.
+Type : leather Train [ Epoch 304/500 ], loss: 0.0403, avg_reader_cost: 0.0005 avg_batch_cost: 0.3527, avg_ips: 272.1856.
+Type : leather Train [ Epoch 305/500 ], loss: 0.0153, avg_reader_cost: 0.0002 avg_batch_cost: 0.3450, avg_ips: 278.2228.
+Type : leather Train [ Epoch 306/500 ], loss: 0.0180, avg_reader_cost: 1.0971 avg_batch_cost: 1.2367, avg_ips: 77.6287.
+Type : leather Train [ Epoch 307/500 ], loss: 0.0068, avg_reader_cost: 1.2345 avg_batch_cost: 1.5806, avg_ips: 60.7360.
+Type : leather Train [ Epoch 308/500 ], loss: 0.0518, avg_reader_cost: 1.2353 avg_batch_cost: 1.5812, avg_ips: 60.7144.
+Type : leather Train [ Epoch 309/500 ], loss: 0.0395, avg_reader_cost: 1.2232 avg_batch_cost: 1.5614, avg_ips: 61.4822.
+Type : leather Train [ Epoch 310/500 ], loss: 0.0584, avg_reader_cost: 1.2347 avg_batch_cost: 1.3401, avg_ips: 71.6346.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 310/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 311/500 ], loss: 0.0191, avg_reader_cost: 12.7542 avg_batch_cost: 13.1287, avg_ips: 7.3122.
+Type : leather Train [ Epoch 312/500 ], loss: 0.0190, avg_reader_cost: 1.2711 avg_batch_cost: 1.4139, avg_ips: 67.8967.
+Type : leather Train [ Epoch 313/500 ], loss: 0.0758, avg_reader_cost: 1.3135 avg_batch_cost: 1.6660, avg_ips: 57.6220.
+Type : leather Train [ Epoch 314/500 ], loss: 0.0304, avg_reader_cost: 1.2584 avg_batch_cost: 1.6007, avg_ips: 59.9742.
+Type : leather Train [ Epoch 315/500 ], loss: 0.0054, avg_reader_cost: 1.2297 avg_batch_cost: 1.5749, avg_ips: 60.9544.
+Type : leather Train [ Epoch 316/500 ], loss: 0.0363, avg_reader_cost: 1.2214 avg_batch_cost: 1.5602, avg_ips: 61.5288.
+Type : leather Train [ Epoch 317/500 ], loss: 0.0253, avg_reader_cost: 1.2359 avg_batch_cost: 1.5756, avg_ips: 60.9276.
+Type : leather Train [ Epoch 318/500 ], loss: 0.0116, avg_reader_cost: 1.2245 avg_batch_cost: 1.5651, avg_ips: 61.3383.
+Type : leather Train [ Epoch 319/500 ], loss: 0.0178, avg_reader_cost: 1.2197 avg_batch_cost: 1.5635, avg_ips: 61.3988.
+Type : leather Train [ Epoch 320/500 ], loss: 0.0205, avg_reader_cost: 1.2303 avg_batch_cost: 1.3712, avg_ips: 70.0100.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 320/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 321/500 ], loss: 0.0082, avg_reader_cost: 13.2916 avg_batch_cost: 13.6375, avg_ips: 7.0394.
+Type : leather Train [ Epoch 322/500 ], loss: 0.0115, avg_reader_cost: 0.0003 avg_batch_cost: 0.3461, avg_ips: 277.3663.
+Type : leather Train [ Epoch 323/500 ], loss: 0.0367, avg_reader_cost: 0.0006 avg_batch_cost: 0.3488, avg_ips: 275.1970.
+Type : leather Train [ Epoch 324/500 ], loss: 0.0574, avg_reader_cost: 0.0002 avg_batch_cost: 0.3375, avg_ips: 284.4807.
+Type : leather Train [ Epoch 325/500 ], loss: 0.0166, avg_reader_cost: 0.0004 avg_batch_cost: 0.3470, avg_ips: 276.6228.
+Type : leather Train [ Epoch 326/500 ], loss: 0.0096, avg_reader_cost: 1.0889 avg_batch_cost: 1.2297, avg_ips: 78.0669.
+Type : leather Train [ Epoch 327/500 ], loss: 0.0406, avg_reader_cost: 1.2287 avg_batch_cost: 1.3837, avg_ips: 69.3780.
+Type : leather Train [ Epoch 328/500 ], loss: 0.0552, avg_reader_cost: 1.2363 avg_batch_cost: 1.5793, avg_ips: 60.7865.
+Type : leather Train [ Epoch 329/500 ], loss: 0.0301, avg_reader_cost: 1.2239 avg_batch_cost: 1.5672, avg_ips: 61.2574.
+Type : leather Train [ Epoch 330/500 ], loss: 0.0304, avg_reader_cost: 1.2344 avg_batch_cost: 1.5835, avg_ips: 60.6259.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 330/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 331/500 ], loss: 0.0080, avg_reader_cost: 13.2834 avg_batch_cost: 13.6432, avg_ips: 7.0365.
+Type : leather Train [ Epoch 332/500 ], loss: 0.0488, avg_reader_cost: 0.0004 avg_batch_cost: 0.3412, avg_ips: 281.3736.
+Type : leather Train [ Epoch 333/500 ], loss: 0.0241, avg_reader_cost: 0.0003 avg_batch_cost: 0.3499, avg_ips: 274.3572.
+Type : leather Train [ Epoch 334/500 ], loss: 0.0127, avg_reader_cost: 0.0002 avg_batch_cost: 0.3463, avg_ips: 277.1914.
+Type : leather Train [ Epoch 335/500 ], loss: 0.0285, avg_reader_cost: 0.0003 avg_batch_cost: 0.3401, avg_ips: 282.2978.
+Type : leather Train [ Epoch 336/500 ], loss: 0.0280, avg_reader_cost: 1.0875 avg_batch_cost: 1.4323, avg_ips: 67.0273.
+Type : leather Train [ Epoch 337/500 ], loss: 0.0397, avg_reader_cost: 1.2239 avg_batch_cost: 1.3624, avg_ips: 70.4647.
+Type : leather Train [ Epoch 338/500 ], loss: 0.0055, avg_reader_cost: 1.2328 avg_batch_cost: 1.5816, avg_ips: 60.6970.
+Type : leather Train [ Epoch 339/500 ], loss: 0.0267, avg_reader_cost: 1.2325 avg_batch_cost: 1.4706, avg_ips: 65.2796.
+Type : leather Train [ Epoch 340/500 ], loss: 0.0259, avg_reader_cost: 1.2226 avg_batch_cost: 1.5703, avg_ips: 61.1364.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 340/500 ] max_auc: 1.0000 roc_auc : 0.999660.
+Type : leather Train [ Epoch 341/500 ], loss: 0.0129, avg_reader_cost: 11.1474 avg_batch_cost: 11.2861, avg_ips: 8.5060.
+Type : leather Train [ Epoch 342/500 ], loss: 0.0109, avg_reader_cost: 1.2801 avg_batch_cost: 1.6347, avg_ips: 58.7249.
+Type : leather Train [ Epoch 343/500 ], loss: 0.0326, avg_reader_cost: 1.2267 avg_batch_cost: 1.5723, avg_ips: 61.0563.
+Type : leather Train [ Epoch 344/500 ], loss: 0.0309, avg_reader_cost: 1.2181 avg_batch_cost: 1.3609, avg_ips: 70.5391.
+Type : leather Train [ Epoch 345/500 ], loss: 0.0241, avg_reader_cost: 1.2239 avg_batch_cost: 1.3696, avg_ips: 70.0956.
+Type : leather Train [ Epoch 346/500 ], loss: 0.0357, avg_reader_cost: 1.2283 avg_batch_cost: 1.3642, avg_ips: 70.3696.
+Type : leather Train [ Epoch 347/500 ], loss: 0.0133, avg_reader_cost: 1.2207 avg_batch_cost: 1.3639, avg_ips: 70.3842.
+Type : leather Train [ Epoch 348/500 ], loss: 0.0034, avg_reader_cost: 1.2282 avg_batch_cost: 1.5851, avg_ips: 60.5640.
+Type : leather Train [ Epoch 349/500 ], loss: 0.0228, avg_reader_cost: 1.2185 avg_batch_cost: 1.3562, avg_ips: 70.7885.
+Type : leather Train [ Epoch 350/500 ], loss: 0.0435, avg_reader_cost: 1.2284 avg_batch_cost: 1.3692, avg_ips: 70.1161.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 350/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 351/500 ], loss: 0.0487, avg_reader_cost: 13.4467 avg_batch_cost: 13.8005, avg_ips: 6.9563.
+Type : leather Train [ Epoch 352/500 ], loss: 0.0095, avg_reader_cost: 0.0004 avg_batch_cost: 0.3475, avg_ips: 276.2656.
+Type : leather Train [ Epoch 353/500 ], loss: 0.0261, avg_reader_cost: 0.0002 avg_batch_cost: 0.3404, avg_ips: 282.0409.
+Type : leather Train [ Epoch 354/500 ], loss: 0.0189, avg_reader_cost: 0.0003 avg_batch_cost: 0.3497, avg_ips: 274.5600.
+Type : leather Train [ Epoch 355/500 ], loss: 0.0702, avg_reader_cost: 0.0003 avg_batch_cost: 0.3520, avg_ips: 272.7291.
+Type : leather Train [ Epoch 356/500 ], loss: 0.0239, avg_reader_cost: 1.0961 avg_batch_cost: 1.4468, avg_ips: 66.3520.
+Type : leather Train [ Epoch 357/500 ], loss: 0.0220, avg_reader_cost: 1.2299 avg_batch_cost: 1.5711, avg_ips: 61.1049.
+Type : leather Train [ Epoch 358/500 ], loss: 0.0091, avg_reader_cost: 1.2276 avg_batch_cost: 1.5642, avg_ips: 61.3729.
+Type : leather Train [ Epoch 359/500 ], loss: 0.0238, avg_reader_cost: 1.2286 avg_batch_cost: 1.3656, avg_ips: 70.2967.
+Type : leather Train [ Epoch 360/500 ], loss: 0.0192, avg_reader_cost: 1.2310 avg_batch_cost: 1.5746, avg_ips: 60.9676.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 360/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 361/500 ], loss: 0.0383, avg_reader_cost: 13.4249 avg_batch_cost: 13.7744, avg_ips: 6.9695.
+Type : leather Train [ Epoch 362/500 ], loss: 0.0258, avg_reader_cost: 0.0004 avg_batch_cost: 0.3510, avg_ips: 273.4660.
+Type : leather Train [ Epoch 363/500 ], loss: 0.0377, avg_reader_cost: 0.0003 avg_batch_cost: 0.3452, avg_ips: 278.1157.
+Type : leather Train [ Epoch 364/500 ], loss: 0.0127, avg_reader_cost: 0.0004 avg_batch_cost: 0.3536, avg_ips: 271.4738.
+Type : leather Train [ Epoch 365/500 ], loss: 0.0104, avg_reader_cost: 0.0003 avg_batch_cost: 0.3514, avg_ips: 273.2093.
+Type : leather Train [ Epoch 366/500 ], loss: 0.0232, avg_reader_cost: 1.2025 avg_batch_cost: 1.5482, avg_ips: 62.0090.
+Type : leather Train [ Epoch 367/500 ], loss: 0.0544, avg_reader_cost: 1.2922 avg_batch_cost: 1.4617, avg_ips: 65.6784.
+Type : leather Train [ Epoch 368/500 ], loss: 0.0289, avg_reader_cost: 1.3097 avg_batch_cost: 1.4567, avg_ips: 65.9003.
+Type : leather Train [ Epoch 369/500 ], loss: 0.0196, avg_reader_cost: 1.2464 avg_batch_cost: 1.3849, avg_ips: 69.3172.
+Type : leather Train [ Epoch 370/500 ], loss: 0.0242, avg_reader_cost: 1.3420 avg_batch_cost: 1.5122, avg_ips: 63.4837.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 370/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 371/500 ], loss: 0.0254, avg_reader_cost: 12.0945 avg_batch_cost: 12.2081, avg_ips: 7.8636.
+Type : leather Train [ Epoch 372/500 ], loss: 0.0196, avg_reader_cost: 0.0006 avg_batch_cost: 0.1073, avg_ips: 894.6835.
+Type : leather Train [ Epoch 373/500 ], loss: 0.0360, avg_reader_cost: 1.2786 avg_batch_cost: 1.4260, avg_ips: 67.3216.
+Type : leather Train [ Epoch 374/500 ], loss: 0.0189, avg_reader_cost: 1.2393 avg_batch_cost: 1.5920, avg_ips: 60.3011.
+Type : leather Train [ Epoch 375/500 ], loss: 0.0293, avg_reader_cost: 1.2248 avg_batch_cost: 1.3644, avg_ips: 70.3588.
+Type : leather Train [ Epoch 376/500 ], loss: 0.0186, avg_reader_cost: 1.2241 avg_batch_cost: 1.5692, avg_ips: 61.1781.
+Type : leather Train [ Epoch 377/500 ], loss: 0.0160, avg_reader_cost: 1.2351 avg_batch_cost: 1.5900, avg_ips: 60.3759.
+Type : leather Train [ Epoch 378/500 ], loss: 0.0086, avg_reader_cost: 1.2248 avg_batch_cost: 1.5783, avg_ips: 60.8254.
+Type : leather Train [ Epoch 379/500 ], loss: 0.0080, avg_reader_cost: 1.2272 avg_batch_cost: 1.5758, avg_ips: 60.9220.
+Type : leather Train [ Epoch 380/500 ], loss: 0.0204, avg_reader_cost: 1.2244 avg_batch_cost: 1.3681, avg_ips: 70.1694.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 380/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 381/500 ], loss: 0.0479, avg_reader_cost: 13.3697 avg_batch_cost: 13.7219, avg_ips: 6.9961.
+Type : leather Train [ Epoch 382/500 ], loss: 0.0043, avg_reader_cost: 0.0003 avg_batch_cost: 0.3486, avg_ips: 275.4081.
+Type : leather Train [ Epoch 383/500 ], loss: 0.0129, avg_reader_cost: 0.0011 avg_batch_cost: 0.1451, avg_ips: 661.8046.
+Type : leather Train [ Epoch 384/500 ], loss: 0.0247, avg_reader_cost: 0.0003 avg_batch_cost: 0.3424, avg_ips: 280.3541.
+Type : leather Train [ Epoch 385/500 ], loss: 0.0230, avg_reader_cost: 0.0004 avg_batch_cost: 0.3498, avg_ips: 274.4344.
+Type : leather Train [ Epoch 386/500 ], loss: 0.0153, avg_reader_cost: 1.0984 avg_batch_cost: 1.2436, avg_ips: 77.1982.
+Type : leather Train [ Epoch 387/500 ], loss: 0.0070, avg_reader_cost: 1.2358 avg_batch_cost: 1.5800, avg_ips: 60.7589.
+Type : leather Train [ Epoch 388/500 ], loss: 0.0149, avg_reader_cost: 1.2245 avg_batch_cost: 1.5629, avg_ips: 61.4233.
+Type : leather Train [ Epoch 389/500 ], loss: 0.0280, avg_reader_cost: 1.2292 avg_batch_cost: 1.5710, avg_ips: 61.1071.
+Type : leather Train [ Epoch 390/500 ], loss: 0.0370, avg_reader_cost: 1.2324 avg_batch_cost: 1.5704, avg_ips: 61.1325.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 390/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 391/500 ], loss: 0.0100, avg_reader_cost: 13.3127 avg_batch_cost: 13.6754, avg_ips: 7.0199.
+Type : leather Train [ Epoch 392/500 ], loss: 0.0392, avg_reader_cost: 0.0008 avg_batch_cost: 0.3515, avg_ips: 273.0772.
+Type : leather Train [ Epoch 393/500 ], loss: 0.0134, avg_reader_cost: 0.0003 avg_batch_cost: 0.3558, avg_ips: 269.7846.
+Type : leather Train [ Epoch 394/500 ], loss: 0.0048, avg_reader_cost: 0.0003 avg_batch_cost: 0.3553, avg_ips: 270.2214.
+Type : leather Train [ Epoch 395/500 ], loss: 0.0127, avg_reader_cost: 0.0003 avg_batch_cost: 0.3404, avg_ips: 282.0224.
+Type : leather Train [ Epoch 396/500 ], loss: 0.0610, avg_reader_cost: 1.0989 avg_batch_cost: 1.4468, avg_ips: 66.3548.
+Type : leather Train [ Epoch 397/500 ], loss: 0.0134, avg_reader_cost: 1.2353 avg_batch_cost: 1.3734, avg_ips: 69.8997.
+Type : leather Train [ Epoch 398/500 ], loss: 0.0498, avg_reader_cost: 1.2256 avg_batch_cost: 1.5639, avg_ips: 61.3850.
+Type : leather Train [ Epoch 399/500 ], loss: 0.0200, avg_reader_cost: 1.2356 avg_batch_cost: 1.3994, avg_ips: 68.6004.
+Type : leather Train [ Epoch 400/500 ], loss: 0.0368, avg_reader_cost: 1.2383 avg_batch_cost: 1.3931, avg_ips: 68.9109.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 400/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 401/500 ], loss: 0.0243, avg_reader_cost: 12.2958 avg_batch_cost: 12.4055, avg_ips: 7.7385.
+Type : leather Train [ Epoch 402/500 ], loss: 0.0379, avg_reader_cost: 0.0004 avg_batch_cost: 0.1062, avg_ips: 904.2006.
+Type : leather Train [ Epoch 403/500 ], loss: 0.0090, avg_reader_cost: 0.0004 avg_batch_cost: 0.1103, avg_ips: 870.3173.
+Type : leather Train [ Epoch 404/500 ], loss: 0.0155, avg_reader_cost: 1.2807 avg_batch_cost: 1.4260, avg_ips: 67.3216.
+Type : leather Train [ Epoch 405/500 ], loss: 0.0037, avg_reader_cost: 1.2378 avg_batch_cost: 1.5825, avg_ips: 60.6636.
+Type : leather Train [ Epoch 406/500 ], loss: 0.0163, avg_reader_cost: 1.2204 avg_batch_cost: 1.5699, avg_ips: 61.1519.
+Type : leather Train [ Epoch 407/500 ], loss: 0.0034, avg_reader_cost: 1.2208 avg_batch_cost: 1.5626, avg_ips: 61.4353.
+Type : leather Train [ Epoch 408/500 ], loss: 0.0381, avg_reader_cost: 1.2351 avg_batch_cost: 1.5751, avg_ips: 60.9484.
+Type : leather Train [ Epoch 409/500 ], loss: 0.0783, avg_reader_cost: 1.2266 avg_batch_cost: 1.5723, avg_ips: 61.0573.
+Type : leather Train [ Epoch 410/500 ], loss: 0.0266, avg_reader_cost: 1.2217 avg_batch_cost: 1.3644, avg_ips: 70.3626.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 410/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 411/500 ], loss: 0.0404, avg_reader_cost: 12.9364 avg_batch_cost: 13.2950, avg_ips: 7.2208.
+Type : leather Train [ Epoch 412/500 ], loss: 0.0473, avg_reader_cost: 0.0004 avg_batch_cost: 0.3536, avg_ips: 271.4727.
+Type : leather Train [ Epoch 413/500 ], loss: 0.0055, avg_reader_cost: 0.0003 avg_batch_cost: 0.3461, avg_ips: 277.4129.
+Type : leather Train [ Epoch 414/500 ], loss: 0.0261, avg_reader_cost: 0.0006 avg_batch_cost: 0.3463, avg_ips: 277.2391.
+Type : leather Train [ Epoch 415/500 ], loss: 0.0418, avg_reader_cost: 0.0007 avg_batch_cost: 0.3576, avg_ips: 268.4201.
+Type : leather Train [ Epoch 416/500 ], loss: 0.0143, avg_reader_cost: 1.0797 avg_batch_cost: 1.4281, avg_ips: 67.2240.
+Type : leather Train [ Epoch 417/500 ], loss: 0.0168, avg_reader_cost: 1.2255 avg_batch_cost: 1.5772, avg_ips: 60.8667.
+Type : leather Train [ Epoch 418/500 ], loss: 0.0030, avg_reader_cost: 1.2293 avg_batch_cost: 1.5853, avg_ips: 60.5553.
+Type : leather Train [ Epoch 419/500 ], loss: 0.0102, avg_reader_cost: 1.2148 avg_batch_cost: 1.5599, avg_ips: 61.5440.
+Type : leather Train [ Epoch 420/500 ], loss: 0.0277, avg_reader_cost: 1.2532 avg_batch_cost: 1.6057, avg_ips: 59.7866.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 420/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 421/500 ], loss: 0.0123, avg_reader_cost: 13.7529 avg_batch_cost: 14.0982, avg_ips: 6.8094.
+Type : leather Train [ Epoch 422/500 ], loss: 0.0150, avg_reader_cost: 0.0007 avg_batch_cost: 0.3511, avg_ips: 273.4585.
+Type : leather Train [ Epoch 423/500 ], loss: 0.0158, avg_reader_cost: 0.0003 avg_batch_cost: 0.3536, avg_ips: 271.5016.
+Type : leather Train [ Epoch 424/500 ], loss: 0.0077, avg_reader_cost: 0.0006 avg_batch_cost: 0.3517, avg_ips: 272.9645.
+Type : leather Train [ Epoch 425/500 ], loss: 0.0246, avg_reader_cost: 0.0003 avg_batch_cost: 0.3516, avg_ips: 273.0330.
+Type : leather Train [ Epoch 426/500 ], loss: 0.0221, avg_reader_cost: 1.0798 avg_batch_cost: 1.4350, avg_ips: 66.9005.
+Type : leather Train [ Epoch 427/500 ], loss: 0.0356, avg_reader_cost: 1.2206 avg_batch_cost: 1.5719, avg_ips: 61.0744.
+Type : leather Train [ Epoch 428/500 ], loss: 0.0421, avg_reader_cost: 1.2174 avg_batch_cost: 1.3555, avg_ips: 70.8224.
+Type : leather Train [ Epoch 429/500 ], loss: 0.0041, avg_reader_cost: 1.2255 avg_batch_cost: 1.3664, avg_ips: 70.2573.
+Type : leather Train [ Epoch 430/500 ], loss: 0.0243, avg_reader_cost: 1.2260 avg_batch_cost: 1.3693, avg_ips: 70.1090.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 430/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 431/500 ], loss: 0.0094, avg_reader_cost: 12.8855 avg_batch_cost: 13.0001, avg_ips: 7.3846.
+Type : leather Train [ Epoch 432/500 ], loss: 0.0279, avg_reader_cost: 0.0004 avg_batch_cost: 0.1066, avg_ips: 900.2222.
+Type : leather Train [ Epoch 433/500 ], loss: 0.0215, avg_reader_cost: 0.0004 avg_batch_cost: 0.1065, avg_ips: 901.1954.
+Type : leather Train [ Epoch 434/500 ], loss: 0.0153, avg_reader_cost: 0.0004 avg_batch_cost: 0.1073, avg_ips: 894.7988.
+Type : leather Train [ Epoch 435/500 ], loss: 0.0073, avg_reader_cost: 1.2800 avg_batch_cost: 1.6299, avg_ips: 58.8990.
+Type : leather Train [ Epoch 436/500 ], loss: 0.0303, avg_reader_cost: 1.2337 avg_batch_cost: 1.5880, avg_ips: 60.4521.
+Type : leather Train [ Epoch 437/500 ], loss: 0.0254, avg_reader_cost: 1.2345 avg_batch_cost: 1.3779, avg_ips: 69.6735.
+Type : leather Train [ Epoch 438/500 ], loss: 0.0248, avg_reader_cost: 1.2480 avg_batch_cost: 1.5881, avg_ips: 60.4505.
+Type : leather Train [ Epoch 439/500 ], loss: 0.0177, avg_reader_cost: 1.2328 avg_batch_cost: 1.5710, avg_ips: 61.1073.
+Type : leather Train [ Epoch 440/500 ], loss: 0.0062, avg_reader_cost: 1.2339 avg_batch_cost: 1.3762, avg_ips: 69.7549.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 440/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 441/500 ], loss: 0.0431, avg_reader_cost: 13.7284 avg_batch_cost: 14.0827, avg_ips: 6.8169.
+Type : leather Train [ Epoch 442/500 ], loss: 0.0156, avg_reader_cost: 0.0003 avg_batch_cost: 0.3520, avg_ips: 272.7299.
+Type : leather Train [ Epoch 443/500 ], loss: 0.0095, avg_reader_cost: 0.0003 avg_batch_cost: 0.3518, avg_ips: 272.8463.
+Type : leather Train [ Epoch 444/500 ], loss: 0.0176, avg_reader_cost: 0.0003 avg_batch_cost: 0.1274, avg_ips: 753.5891.
+Type : leather Train [ Epoch 445/500 ], loss: 0.0465, avg_reader_cost: 0.0007 avg_batch_cost: 0.3573, avg_ips: 268.6635.
+Type : leather Train [ Epoch 446/500 ], loss: 0.0351, avg_reader_cost: 1.0795 avg_batch_cost: 1.4265, avg_ips: 67.2961.
+Type : leather Train [ Epoch 447/500 ], loss: 0.0311, avg_reader_cost: 1.3758 avg_batch_cost: 1.5415, avg_ips: 62.2760.
+Type : leather Train [ Epoch 448/500 ], loss: 0.0219, avg_reader_cost: 1.2953 avg_batch_cost: 1.4610, avg_ips: 65.7070.
+Type : leather Train [ Epoch 449/500 ], loss: 0.0364, avg_reader_cost: 1.4550 avg_batch_cost: 1.8031, avg_ips: 53.2421.
+Type : leather Train [ Epoch 450/500 ], loss: 0.0167, avg_reader_cost: 1.3420 avg_batch_cost: 1.6797, avg_ips: 57.1540.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 450/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 451/500 ], loss: 0.0087, avg_reader_cost: 13.3999 avg_batch_cost: 13.7597, avg_ips: 6.9769.
+Type : leather Train [ Epoch 452/500 ], loss: 0.0216, avg_reader_cost: 0.0003 avg_batch_cost: 0.2524, avg_ips: 380.3279.
+Type : leather Train [ Epoch 453/500 ], loss: 0.0147, avg_reader_cost: 0.0005 avg_batch_cost: 0.3519, avg_ips: 272.8008.
+Type : leather Train [ Epoch 454/500 ], loss: 0.0167, avg_reader_cost: 0.0003 avg_batch_cost: 0.3521, avg_ips: 272.6265.
+Type : leather Train [ Epoch 455/500 ], loss: 0.0184, avg_reader_cost: 0.0003 avg_batch_cost: 0.3533, avg_ips: 271.7549.
+Type : leather Train [ Epoch 456/500 ], loss: 0.0119, avg_reader_cost: 1.0777 avg_batch_cost: 1.4203, avg_ips: 67.5904.
+Type : leather Train [ Epoch 457/500 ], loss: 0.0121, avg_reader_cost: 1.2347 avg_batch_cost: 1.5881, avg_ips: 60.4510.
+Type : leather Train [ Epoch 458/500 ], loss: 0.0172, avg_reader_cost: 1.2303 avg_batch_cost: 1.5691, avg_ips: 61.1817.
+Type : leather Train [ Epoch 459/500 ], loss: 0.0447, avg_reader_cost: 1.2296 avg_batch_cost: 1.3704, avg_ips: 70.0530.
+Type : leather Train [ Epoch 460/500 ], loss: 0.0033, avg_reader_cost: 1.2350 avg_batch_cost: 1.5801, avg_ips: 60.7552.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 460/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 461/500 ], loss: 0.0146, avg_reader_cost: 13.3925 avg_batch_cost: 13.5004, avg_ips: 7.1109.
+Type : leather Train [ Epoch 462/500 ], loss: 0.0133, avg_reader_cost: 0.0004 avg_batch_cost: 0.1078, avg_ips: 890.5537.
+Type : leather Train [ Epoch 463/500 ], loss: 0.0149, avg_reader_cost: 0.0004 avg_batch_cost: 0.1079, avg_ips: 889.9200.
+Type : leather Train [ Epoch 464/500 ], loss: 0.0292, avg_reader_cost: 0.0004 avg_batch_cost: 0.1116, avg_ips: 860.4068.
+Type : leather Train [ Epoch 465/500 ], loss: 0.0403, avg_reader_cost: 0.0005 avg_batch_cost: 0.1147, avg_ips: 837.0228.
+Type : leather Train [ Epoch 466/500 ], loss: 0.0159, avg_reader_cost: 1.2870 avg_batch_cost: 1.6354, avg_ips: 58.7000.
+Type : leather Train [ Epoch 467/500 ], loss: 0.0208, avg_reader_cost: 1.2227 avg_batch_cost: 1.5638, avg_ips: 61.3878.
+Type : leather Train [ Epoch 468/500 ], loss: 0.0313, avg_reader_cost: 1.2247 avg_batch_cost: 1.3611, avg_ips: 70.5314.
+Type : leather Train [ Epoch 469/500 ], loss: 0.0358, avg_reader_cost: 1.2275 avg_batch_cost: 1.5802, avg_ips: 60.7528.
+Type : leather Train [ Epoch 470/500 ], loss: 0.0378, avg_reader_cost: 1.2419 avg_batch_cost: 1.5871, avg_ips: 60.4890.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 470/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 471/500 ], loss: 0.0042, avg_reader_cost: 13.6757 avg_batch_cost: 13.8649, avg_ips: 6.9239.
+Type : leather Train [ Epoch 472/500 ], loss: 0.0142, avg_reader_cost: 0.0006 avg_batch_cost: 0.3555, avg_ips: 270.0706.
+Type : leather Train [ Epoch 473/500 ], loss: 0.0192, avg_reader_cost: 0.0004 avg_batch_cost: 0.3554, avg_ips: 270.0855.
+Type : leather Train [ Epoch 474/500 ], loss: 0.0127, avg_reader_cost: 0.0003 avg_batch_cost: 0.1367, avg_ips: 702.1347.
+Type : leather Train [ Epoch 475/500 ], loss: 0.0037, avg_reader_cost: 0.0004 avg_batch_cost: 0.3491, avg_ips: 275.0262.
+Type : leather Train [ Epoch 476/500 ], loss: 0.0273, avg_reader_cost: 1.0974 avg_batch_cost: 1.4405, avg_ips: 66.6422.
+Type : leather Train [ Epoch 477/500 ], loss: 0.0494, avg_reader_cost: 1.2442 avg_batch_cost: 1.5836, avg_ips: 60.6197.
+Type : leather Train [ Epoch 478/500 ], loss: 0.0068, avg_reader_cost: 1.2340 avg_batch_cost: 1.5800, avg_ips: 60.7597.
+Type : leather Train [ Epoch 479/500 ], loss: 0.0043, avg_reader_cost: 1.2395 avg_batch_cost: 1.3855, avg_ips: 69.2909.
+Type : leather Train [ Epoch 480/500 ], loss: 0.0060, avg_reader_cost: 1.2349 avg_batch_cost: 1.5908, avg_ips: 60.3456.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 480/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 481/500 ], loss: 0.0207, avg_reader_cost: 13.5615 avg_batch_cost: 13.9141, avg_ips: 6.8995.
+Type : leather Train [ Epoch 482/500 ], loss: 0.0133, avg_reader_cost: 0.0007 avg_batch_cost: 0.3524, avg_ips: 272.4007.
+Type : leather Train [ Epoch 483/500 ], loss: 0.0047, avg_reader_cost: 0.0003 avg_batch_cost: 0.3529, avg_ips: 272.0484.
+Type : leather Train [ Epoch 484/500 ], loss: 0.0243, avg_reader_cost: 0.0007 avg_batch_cost: 0.3535, avg_ips: 271.5459.
+Type : leather Train [ Epoch 485/500 ], loss: 0.0289, avg_reader_cost: 0.0002 avg_batch_cost: 0.3491, avg_ips: 275.0031.
+Type : leather Train [ Epoch 486/500 ], loss: 0.0234, avg_reader_cost: 1.0632 avg_batch_cost: 1.2191, avg_ips: 78.7484.
+Type : leather Train [ Epoch 487/500 ], loss: 0.0269, avg_reader_cost: 1.2401 avg_batch_cost: 1.5789, avg_ips: 60.8008.
+Type : leather Train [ Epoch 488/500 ], loss: 0.0091, avg_reader_cost: 1.2390 avg_batch_cost: 1.3739, avg_ips: 69.8732.
+Type : leather Train [ Epoch 489/500 ], loss: 0.0101, avg_reader_cost: 1.2473 avg_batch_cost: 1.4012, avg_ips: 68.5103.
+Type : leather Train [ Epoch 490/500 ], loss: 0.0254, avg_reader_cost: 1.2366 avg_batch_cost: 1.3806, avg_ips: 69.5374.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 490/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : leather Train [ Epoch 491/500 ], loss: 0.0120, avg_reader_cost: 13.5500 avg_batch_cost: 13.9077, avg_ips: 6.9027.
+Type : leather Train [ Epoch 492/500 ], loss: 0.0428, avg_reader_cost: 0.0005 avg_batch_cost: 0.3533, avg_ips: 271.7112.
+Type : leather Train [ Epoch 493/500 ], loss: 0.0334, avg_reader_cost: 0.0004 avg_batch_cost: 0.1884, avg_ips: 509.4490.
+Type : leather Train [ Epoch 494/500 ], loss: 0.0145, avg_reader_cost: 0.0005 avg_batch_cost: 0.3422, avg_ips: 280.5353.
+Type : leather Train [ Epoch 495/500 ], loss: 0.0031, avg_reader_cost: 0.0004 avg_batch_cost: 0.3557, avg_ips: 269.8806.
+Type : leather Train [ Epoch 496/500 ], loss: 0.0100, avg_reader_cost: 1.1016 avg_batch_cost: 1.2068, avg_ips: 79.5487.
+Type : leather Train [ Epoch 497/500 ], loss: 0.0034, avg_reader_cost: 1.7147 avg_batch_cost: 1.8811, avg_ips: 51.0344.
+Type : leather Train [ Epoch 498/500 ], loss: 0.0848, avg_reader_cost: 1.2870 avg_batch_cost: 1.6300, avg_ips: 58.8955.
+Type : leather Train [ Epoch 499/500 ], loss: 0.0097, avg_reader_cost: 1.2664 avg_batch_cost: 1.6175, avg_ips: 59.3518.
+Type : leather Train [ Epoch 500/500 ], loss: 0.0242, avg_reader_cost: 1.2526 avg_batch_cost: 1.3945, avg_ips: 68.8432.
+loading images
+loaded 245 images
+using density estimation GaussianDensityPaddle
+Type : leather Val [ Epoch 500/500 ] max_auc: 1.0000 roc_auc : 1.000000.

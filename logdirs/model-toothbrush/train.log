@@ -1,0 +1,700 @@
+Type : toothbrush Train [ Epoch 1/500 ], loss: 1.4594, avg_reader_cost: 1.4611 avg_batch_cost: 1.8399, avg_ips: 52.1757.
+Type : toothbrush Train [ Epoch 2/500 ], loss: 1.0877, avg_reader_cost: 1.3701 avg_batch_cost: 1.7207, avg_ips: 55.7908.
+Type : toothbrush Train [ Epoch 3/500 ], loss: 0.9409, avg_reader_cost: 1.3333 avg_batch_cost: 1.4934, avg_ips: 64.2842.
+Type : toothbrush Train [ Epoch 4/500 ], loss: 0.8236, avg_reader_cost: 1.3449 avg_batch_cost: 1.5577, avg_ips: 61.6289.
+Type : toothbrush Train [ Epoch 5/500 ], loss: 0.6800, avg_reader_cost: 1.3851 avg_batch_cost: 1.5989, avg_ips: 60.0411.
+Type : toothbrush Train [ Epoch 6/500 ], loss: 0.6735, avg_reader_cost: 1.3717 avg_batch_cost: 1.7139, avg_ips: 56.0117.
+Type : toothbrush Train [ Epoch 7/500 ], loss: 0.6112, avg_reader_cost: 1.3258 avg_batch_cost: 1.6695, avg_ips: 57.5031.
+Type : toothbrush Train [ Epoch 8/500 ], loss: 0.6384, avg_reader_cost: 1.3151 avg_batch_cost: 1.5447, avg_ips: 62.1484.
+Type : toothbrush Train [ Epoch 9/500 ], loss: 0.6783, avg_reader_cost: 1.3446 avg_batch_cost: 1.5318, avg_ips: 62.6715.
+Type : toothbrush Train [ Epoch 10/500 ], loss: 0.5623, avg_reader_cost: 1.3958 avg_batch_cost: 1.6556, avg_ips: 57.9838.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 10/500 ] max_auc: 0.9694 roc_auc : 0.969444.
+Type : toothbrush Train [ Epoch 11/500 ], loss: 0.5829, avg_reader_cost: 5.1154 avg_batch_cost: 5.4650, avg_ips: 17.5663.
+Type : toothbrush Train [ Epoch 12/500 ], loss: 0.6204, avg_reader_cost: 0.0003 avg_batch_cost: 0.3488, avg_ips: 275.2298.
+Type : toothbrush Train [ Epoch 13/500 ], loss: 0.5789, avg_reader_cost: 0.1451 avg_batch_cost: 0.4994, avg_ips: 192.2209.
+Type : toothbrush Train [ Epoch 14/500 ], loss: 0.5791, avg_reader_cost: 1.2260 avg_batch_cost: 1.5817, avg_ips: 60.6937.
+Type : toothbrush Train [ Epoch 15/500 ], loss: 0.5498, avg_reader_cost: 1.2327 avg_batch_cost: 1.4708, avg_ips: 65.2728.
+Type : toothbrush Train [ Epoch 16/500 ], loss: 0.6711, avg_reader_cost: 1.2257 avg_batch_cost: 1.5853, avg_ips: 60.5559.
+Type : toothbrush Train [ Epoch 17/500 ], loss: 0.5346, avg_reader_cost: 1.2168 avg_batch_cost: 1.5625, avg_ips: 61.4391.
+Type : toothbrush Train [ Epoch 18/500 ], loss: 0.6047, avg_reader_cost: 1.2372 avg_batch_cost: 1.5763, avg_ips: 60.9005.
+Type : toothbrush Train [ Epoch 19/500 ], loss: 0.5604, avg_reader_cost: 1.2279 avg_batch_cost: 1.5655, avg_ips: 61.3216.
+Type : toothbrush Train [ Epoch 20/500 ], loss: 0.5421, avg_reader_cost: 1.2326 avg_batch_cost: 1.5901, avg_ips: 60.3747.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 20/500 ] max_auc: 0.9750 roc_auc : 0.975000.
+Type : toothbrush Train [ Epoch 21/500 ], loss: 0.5572, avg_reader_cost: 5.0616 avg_batch_cost: 5.4355, avg_ips: 17.6617.
+Type : toothbrush Train [ Epoch 22/500 ], loss: 0.4804, avg_reader_cost: 0.0003 avg_batch_cost: 0.3593, avg_ips: 267.2224.
+Type : toothbrush Train [ Epoch 23/500 ], loss: 0.4891, avg_reader_cost: 0.0003 avg_batch_cost: 0.3420, avg_ips: 280.6908.
+Type : toothbrush Train [ Epoch 24/500 ], loss: 0.5264, avg_reader_cost: 1.0312 avg_batch_cost: 1.1666, avg_ips: 82.2886.
+Type : toothbrush Train [ Epoch 25/500 ], loss: 0.4460, avg_reader_cost: 1.2166 avg_batch_cost: 1.5687, avg_ips: 61.1984.
+Type : toothbrush Train [ Epoch 26/500 ], loss: 0.4329, avg_reader_cost: 1.2139 avg_batch_cost: 1.5581, avg_ips: 61.6116.
+Type : toothbrush Train [ Epoch 27/500 ], loss: 0.4115, avg_reader_cost: 1.2333 avg_batch_cost: 1.5733, avg_ips: 61.0168.
+Type : toothbrush Train [ Epoch 28/500 ], loss: 0.4386, avg_reader_cost: 1.2219 avg_batch_cost: 1.5594, avg_ips: 61.5630.
+Type : toothbrush Train [ Epoch 29/500 ], loss: 0.4205, avg_reader_cost: 1.2244 avg_batch_cost: 1.3698, avg_ips: 70.0807.
+Type : toothbrush Train [ Epoch 30/500 ], loss: 0.4456, avg_reader_cost: 1.2181 avg_batch_cost: 1.5655, avg_ips: 61.3224.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 30/500 ] max_auc: 0.9750 roc_auc : 0.919444.
+Type : toothbrush Train [ Epoch 31/500 ], loss: 0.3955, avg_reader_cost: 4.0261 avg_batch_cost: 4.1507, avg_ips: 23.1285.
+Type : toothbrush Train [ Epoch 32/500 ], loss: 0.4433, avg_reader_cost: 1.2574 avg_batch_cost: 1.3980, avg_ips: 68.6705.
+Type : toothbrush Train [ Epoch 33/500 ], loss: 0.4181, avg_reader_cost: 1.2460 avg_batch_cost: 1.5923, avg_ips: 60.2907.
+Type : toothbrush Train [ Epoch 34/500 ], loss: 0.3748, avg_reader_cost: 1.2280 avg_batch_cost: 1.5672, avg_ips: 61.2575.
+Type : toothbrush Train [ Epoch 35/500 ], loss: 0.3723, avg_reader_cost: 1.2299 avg_batch_cost: 1.5831, avg_ips: 60.6424.
+Type : toothbrush Train [ Epoch 36/500 ], loss: 0.3362, avg_reader_cost: 1.2093 avg_batch_cost: 1.5492, avg_ips: 61.9687.
+Type : toothbrush Train [ Epoch 37/500 ], loss: 0.4375, avg_reader_cost: 1.2146 avg_batch_cost: 1.5749, avg_ips: 60.9546.
+Type : toothbrush Train [ Epoch 38/500 ], loss: 0.4212, avg_reader_cost: 1.2277 avg_batch_cost: 1.5896, avg_ips: 60.3932.
+Type : toothbrush Train [ Epoch 39/500 ], loss: 0.3535, avg_reader_cost: 1.2022 avg_batch_cost: 1.5556, avg_ips: 61.7143.
+Type : toothbrush Train [ Epoch 40/500 ], loss: 0.3665, avg_reader_cost: 1.2058 avg_batch_cost: 1.5535, avg_ips: 61.7960.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 40/500 ] max_auc: 0.9750 roc_auc : 0.972222.
+Type : toothbrush Train [ Epoch 41/500 ], loss: 0.3346, avg_reader_cost: 4.9783 avg_batch_cost: 5.3302, avg_ips: 18.0107.
+Type : toothbrush Train [ Epoch 42/500 ], loss: 0.3137, avg_reader_cost: 0.0003 avg_batch_cost: 0.3511, avg_ips: 273.4227.
+Type : toothbrush Train [ Epoch 43/500 ], loss: 0.4024, avg_reader_cost: 0.0005 avg_batch_cost: 0.3544, avg_ips: 270.8595.
+Type : toothbrush Train [ Epoch 44/500 ], loss: 0.3097, avg_reader_cost: 1.3559 avg_batch_cost: 1.5060, avg_ips: 63.7448.
+Type : toothbrush Train [ Epoch 45/500 ], loss: 0.3550, avg_reader_cost: 1.3153 avg_batch_cost: 1.4747, avg_ips: 65.0984.
+Type : toothbrush Train [ Epoch 46/500 ], loss: 0.3657, avg_reader_cost: 1.3035 avg_batch_cost: 1.5114, avg_ips: 63.5159.
+Type : toothbrush Train [ Epoch 47/500 ], loss: 0.3764, avg_reader_cost: 1.3454 avg_batch_cost: 1.5135, avg_ips: 63.4307.
+Type : toothbrush Train [ Epoch 48/500 ], loss: 0.3232, avg_reader_cost: 1.3479 avg_batch_cost: 1.5782, avg_ips: 60.8280.
+Type : toothbrush Train [ Epoch 49/500 ], loss: 0.2628, avg_reader_cost: 1.3495 avg_batch_cost: 1.5529, avg_ips: 61.8209.
+Type : toothbrush Train [ Epoch 50/500 ], loss: 0.3246, avg_reader_cost: 1.3481 avg_batch_cost: 1.6609, avg_ips: 57.7985.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 50/500 ] max_auc: 0.9889 roc_auc : 0.988889.
+Type : toothbrush Train [ Epoch 51/500 ], loss: 0.2984, avg_reader_cost: 5.3468 avg_batch_cost: 5.7167, avg_ips: 16.7928.
+Type : toothbrush Train [ Epoch 52/500 ], loss: 0.2809, avg_reader_cost: 0.0006 avg_batch_cost: 0.3554, avg_ips: 270.1288.
+Type : toothbrush Train [ Epoch 53/500 ], loss: 0.2962, avg_reader_cost: 0.0002 avg_batch_cost: 0.3508, avg_ips: 273.6671.
+Type : toothbrush Train [ Epoch 54/500 ], loss: 0.2511, avg_reader_cost: 1.1063 avg_batch_cost: 1.2541, avg_ips: 76.5517.
+Type : toothbrush Train [ Epoch 55/500 ], loss: 0.3427, avg_reader_cost: 1.2231 avg_batch_cost: 1.5681, avg_ips: 61.2209.
+Type : toothbrush Train [ Epoch 56/500 ], loss: 0.3255, avg_reader_cost: 1.2257 avg_batch_cost: 1.5655, avg_ips: 61.3231.
+Type : toothbrush Train [ Epoch 57/500 ], loss: 0.3289, avg_reader_cost: 1.2169 avg_batch_cost: 1.5751, avg_ips: 60.9483.
+Type : toothbrush Train [ Epoch 58/500 ], loss: 0.3094, avg_reader_cost: 1.2111 avg_batch_cost: 1.5583, avg_ips: 61.6054.
+Type : toothbrush Train [ Epoch 59/500 ], loss: 0.3025, avg_reader_cost: 1.2188 avg_batch_cost: 1.5821, avg_ips: 60.6783.
+Type : toothbrush Train [ Epoch 60/500 ], loss: 0.2812, avg_reader_cost: 1.2059 avg_batch_cost: 1.5514, avg_ips: 61.8812.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 60/500 ] max_auc: 0.9889 roc_auc : 0.930556.
+Type : toothbrush Train [ Epoch 61/500 ], loss: 0.2583, avg_reader_cost: 4.4065 avg_batch_cost: 4.5132, avg_ips: 21.2708.
+Type : toothbrush Train [ Epoch 62/500 ], loss: 0.2784, avg_reader_cost: 0.0004 avg_batch_cost: 0.1050, avg_ips: 914.1008.
+Type : toothbrush Train [ Epoch 63/500 ], loss: 0.2220, avg_reader_cost: 1.4037 avg_batch_cost: 1.7519, avg_ips: 54.7971.
+Type : toothbrush Train [ Epoch 64/500 ], loss: 0.2453, avg_reader_cost: 1.2967 avg_batch_cost: 1.4470, avg_ips: 66.3434.
+Type : toothbrush Train [ Epoch 65/500 ], loss: 0.3023, avg_reader_cost: 1.3108 avg_batch_cost: 1.6671, avg_ips: 57.5851.
+Type : toothbrush Train [ Epoch 66/500 ], loss: 0.2969, avg_reader_cost: 1.3296 avg_batch_cost: 1.6793, avg_ips: 57.1673.
+Type : toothbrush Train [ Epoch 67/500 ], loss: 0.3517, avg_reader_cost: 1.2771 avg_batch_cost: 1.6394, avg_ips: 58.5563.
+Type : toothbrush Train [ Epoch 68/500 ], loss: 0.2720, avg_reader_cost: 1.3355 avg_batch_cost: 1.6795, avg_ips: 57.1582.
+Type : toothbrush Train [ Epoch 69/500 ], loss: 0.2432, avg_reader_cost: 1.3707 avg_batch_cost: 1.5102, avg_ips: 63.5657.
+Type : toothbrush Train [ Epoch 70/500 ], loss: 0.2255, avg_reader_cost: 1.3235 avg_batch_cost: 1.4921, avg_ips: 64.3407.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 70/500 ] max_auc: 0.9889 roc_auc : 0.908333.
+Type : toothbrush Train [ Epoch 71/500 ], loss: 0.2631, avg_reader_cost: 4.4141 avg_batch_cost: 4.8591, avg_ips: 19.7567.
+Type : toothbrush Train [ Epoch 72/500 ], loss: 0.2387, avg_reader_cost: 0.0004 avg_batch_cost: 0.3513, avg_ips: 273.3093.
+Type : toothbrush Train [ Epoch 73/500 ], loss: 0.2211, avg_reader_cost: 0.6423 avg_batch_cost: 1.0134, avg_ips: 94.7294.
+Type : toothbrush Train [ Epoch 74/500 ], loss: 0.2695, avg_reader_cost: 1.1986 avg_batch_cost: 1.5530, avg_ips: 61.8139.
+Type : toothbrush Train [ Epoch 75/500 ], loss: 0.2384, avg_reader_cost: 1.2140 avg_batch_cost: 1.5656, avg_ips: 61.3185.
+Type : toothbrush Train [ Epoch 76/500 ], loss: 0.2182, avg_reader_cost: 1.2198 avg_batch_cost: 1.4187, avg_ips: 67.6685.
+Type : toothbrush Train [ Epoch 77/500 ], loss: 0.1758, avg_reader_cost: 1.2112 avg_batch_cost: 1.5657, avg_ips: 61.3131.
+Type : toothbrush Train [ Epoch 78/500 ], loss: 0.1663, avg_reader_cost: 1.2109 avg_batch_cost: 1.5521, avg_ips: 61.8535.
+Type : toothbrush Train [ Epoch 79/500 ], loss: 0.2561, avg_reader_cost: 1.2171 avg_batch_cost: 1.5611, avg_ips: 61.4958.
+Type : toothbrush Train [ Epoch 80/500 ], loss: 0.2234, avg_reader_cost: 1.2176 avg_batch_cost: 1.5665, avg_ips: 61.2845.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 80/500 ] max_auc: 0.9889 roc_auc : 0.966667.
+Type : toothbrush Train [ Epoch 81/500 ], loss: 0.2145, avg_reader_cost: 4.6984 avg_batch_cost: 5.1429, avg_ips: 18.6667.
+Type : toothbrush Train [ Epoch 82/500 ], loss: 0.2433, avg_reader_cost: 0.0003 avg_batch_cost: 0.3563, avg_ips: 269.4023.
+Type : toothbrush Train [ Epoch 83/500 ], loss: 0.2851, avg_reader_cost: 0.0778 avg_batch_cost: 0.4351, avg_ips: 220.6590.
+Type : toothbrush Train [ Epoch 84/500 ], loss: 0.2557, avg_reader_cost: 1.2145 avg_batch_cost: 1.5592, avg_ips: 61.5695.
+Type : toothbrush Train [ Epoch 85/500 ], loss: 0.1997, avg_reader_cost: 1.2113 avg_batch_cost: 1.3645, avg_ips: 70.3554.
+Type : toothbrush Train [ Epoch 86/500 ], loss: 0.2029, avg_reader_cost: 1.2210 avg_batch_cost: 1.5602, avg_ips: 61.5319.
+Type : toothbrush Train [ Epoch 87/500 ], loss: 0.2576, avg_reader_cost: 1.2202 avg_batch_cost: 1.5677, avg_ips: 61.2365.
+Type : toothbrush Train [ Epoch 88/500 ], loss: 0.2023, avg_reader_cost: 1.2202 avg_batch_cost: 1.5824, avg_ips: 60.6656.
+Type : toothbrush Train [ Epoch 89/500 ], loss: 0.1882, avg_reader_cost: 1.2155 avg_batch_cost: 1.5635, avg_ips: 61.4013.
+Type : toothbrush Train [ Epoch 90/500 ], loss: 0.2309, avg_reader_cost: 1.2038 avg_batch_cost: 1.5587, avg_ips: 61.5904.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 90/500 ] max_auc: 0.9889 roc_auc : 0.933333.
+Type : toothbrush Train [ Epoch 91/500 ], loss: 0.2030, avg_reader_cost: 4.2188 avg_batch_cost: 4.6078, avg_ips: 20.8341.
+Type : toothbrush Train [ Epoch 92/500 ], loss: 0.1979, avg_reader_cost: 0.0002 avg_batch_cost: 0.3383, avg_ips: 283.7774.
+Type : toothbrush Train [ Epoch 93/500 ], loss: 0.1757, avg_reader_cost: 0.3719 avg_batch_cost: 0.4785, avg_ips: 200.6456.
+Type : toothbrush Train [ Epoch 94/500 ], loss: 0.2138, avg_reader_cost: 1.3742 avg_batch_cost: 1.6850, avg_ips: 56.9742.
+Type : toothbrush Train [ Epoch 95/500 ], loss: 0.1856, avg_reader_cost: 1.3071 avg_batch_cost: 1.4985, avg_ips: 64.0621.
+Type : toothbrush Train [ Epoch 96/500 ], loss: 0.2194, avg_reader_cost: 1.3393 avg_batch_cost: 1.6860, avg_ips: 56.9385.
+Type : toothbrush Train [ Epoch 97/500 ], loss: 0.1835, avg_reader_cost: 1.2927 avg_batch_cost: 1.4821, avg_ips: 64.7722.
+Type : toothbrush Train [ Epoch 98/500 ], loss: 0.1696, avg_reader_cost: 1.3063 avg_batch_cost: 1.4758, avg_ips: 65.0500.
+Type : toothbrush Train [ Epoch 99/500 ], loss: 0.1631, avg_reader_cost: 1.3654 avg_batch_cost: 1.7180, avg_ips: 55.8801.
+Type : toothbrush Train [ Epoch 100/500 ], loss: 0.2588, avg_reader_cost: 1.3429 avg_batch_cost: 1.6898, avg_ips: 56.8101.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 100/500 ] max_auc: 0.9889 roc_auc : 0.897222.
+Type : toothbrush Train [ Epoch 101/500 ], loss: 0.2788, avg_reader_cost: 4.4347 avg_batch_cost: 4.9013, avg_ips: 19.5865.
+Type : toothbrush Train [ Epoch 102/500 ], loss: 0.2220, avg_reader_cost: 0.0004 avg_batch_cost: 0.3595, avg_ips: 267.0302.
+Type : toothbrush Train [ Epoch 103/500 ], loss: 0.2401, avg_reader_cost: 0.0636 avg_batch_cost: 0.4160, avg_ips: 230.7864.
+Type : toothbrush Train [ Epoch 104/500 ], loss: 0.1332, avg_reader_cost: 1.2059 avg_batch_cost: 1.5581, avg_ips: 61.6145.
+Type : toothbrush Train [ Epoch 105/500 ], loss: 0.2227, avg_reader_cost: 1.2173 avg_batch_cost: 1.3558, avg_ips: 70.8043.
+Type : toothbrush Train [ Epoch 106/500 ], loss: 0.1999, avg_reader_cost: 1.3800 avg_batch_cost: 1.7244, avg_ips: 55.6705.
+Type : toothbrush Train [ Epoch 107/500 ], loss: 0.1991, avg_reader_cost: 1.3274 avg_batch_cost: 1.5399, avg_ips: 62.3405.
+Type : toothbrush Train [ Epoch 108/500 ], loss: 0.1729, avg_reader_cost: 1.3922 avg_batch_cost: 1.6893, avg_ips: 56.8266.
+Type : toothbrush Train [ Epoch 109/500 ], loss: 0.2585, avg_reader_cost: 1.4096 avg_batch_cost: 1.7617, avg_ips: 54.4923.
+Type : toothbrush Train [ Epoch 110/500 ], loss: 0.1843, avg_reader_cost: 1.3374 avg_batch_cost: 1.6809, avg_ips: 57.1131.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 110/500 ] max_auc: 0.9889 roc_auc : 0.913889.
+Type : toothbrush Train [ Epoch 111/500 ], loss: 0.2003, avg_reader_cost: 4.8563 avg_batch_cost: 5.3008, avg_ips: 18.1105.
+Type : toothbrush Train [ Epoch 112/500 ], loss: 0.2534, avg_reader_cost: 0.0003 avg_batch_cost: 0.3576, avg_ips: 268.4870.
+Type : toothbrush Train [ Epoch 113/500 ], loss: 0.1872, avg_reader_cost: 0.6366 avg_batch_cost: 0.7851, avg_ips: 122.2838.
+Type : toothbrush Train [ Epoch 114/500 ], loss: 0.2225, avg_reader_cost: 1.2517 avg_batch_cost: 1.6002, avg_ips: 59.9913.
+Type : toothbrush Train [ Epoch 115/500 ], loss: 0.1807, avg_reader_cost: 1.2589 avg_batch_cost: 1.6094, avg_ips: 59.6477.
+Type : toothbrush Train [ Epoch 116/500 ], loss: 0.1890, avg_reader_cost: 1.2659 avg_batch_cost: 1.6090, avg_ips: 59.6653.
+Type : toothbrush Train [ Epoch 117/500 ], loss: 0.1787, avg_reader_cost: 1.2797 avg_batch_cost: 1.6349, avg_ips: 58.7203.
+Type : toothbrush Train [ Epoch 118/500 ], loss: 0.2245, avg_reader_cost: 1.2644 avg_batch_cost: 1.6185, avg_ips: 59.3155.
+Type : toothbrush Train [ Epoch 119/500 ], loss: 0.1936, avg_reader_cost: 1.2507 avg_batch_cost: 1.6090, avg_ips: 59.6630.
+Type : toothbrush Train [ Epoch 120/500 ], loss: 0.1755, avg_reader_cost: 1.2760 avg_batch_cost: 1.4272, avg_ips: 67.2627.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 120/500 ] max_auc: 0.9889 roc_auc : 0.988889.
+Type : toothbrush Train [ Epoch 121/500 ], loss: 0.1855, avg_reader_cost: 5.4738 avg_batch_cost: 5.8390, avg_ips: 16.4412.
+Type : toothbrush Train [ Epoch 122/500 ], loss: 0.1857, avg_reader_cost: 0.0003 avg_batch_cost: 0.3599, avg_ips: 266.7395.
+Type : toothbrush Train [ Epoch 123/500 ], loss: 0.1437, avg_reader_cost: 0.0002 avg_batch_cost: 0.3497, avg_ips: 274.5429.
+Type : toothbrush Train [ Epoch 124/500 ], loss: 0.1693, avg_reader_cost: 1.1113 avg_batch_cost: 1.2196, avg_ips: 78.7147.
+Type : toothbrush Train [ Epoch 125/500 ], loss: 0.2049, avg_reader_cost: 1.3015 avg_batch_cost: 1.6535, avg_ips: 58.0602.
+Type : toothbrush Train [ Epoch 126/500 ], loss: 0.2354, avg_reader_cost: 1.2595 avg_batch_cost: 1.6120, avg_ips: 59.5516.
+Type : toothbrush Train [ Epoch 127/500 ], loss: 0.2128, avg_reader_cost: 1.3074 avg_batch_cost: 1.6617, avg_ips: 57.7714.
+Type : toothbrush Train [ Epoch 128/500 ], loss: 0.1460, avg_reader_cost: 1.2941 avg_batch_cost: 1.6404, avg_ips: 58.5216.
+Type : toothbrush Train [ Epoch 129/500 ], loss: 0.1724, avg_reader_cost: 1.2658 avg_batch_cost: 1.4342, avg_ips: 66.9358.
+Type : toothbrush Train [ Epoch 130/500 ], loss: 0.2140, avg_reader_cost: 1.2968 avg_batch_cost: 1.4454, avg_ips: 66.4175.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 130/500 ] max_auc: 0.9889 roc_auc : 0.925000.
+Type : toothbrush Train [ Epoch 131/500 ], loss: 0.1458, avg_reader_cost: 4.4061 avg_batch_cost: 4.6248, avg_ips: 20.7576.
+Type : toothbrush Train [ Epoch 132/500 ], loss: 0.2105, avg_reader_cost: 0.0012 avg_batch_cost: 0.3550, avg_ips: 270.4232.
+Type : toothbrush Train [ Epoch 133/500 ], loss: 0.1640, avg_reader_cost: 0.3240 avg_batch_cost: 0.4894, avg_ips: 196.1752.
+Type : toothbrush Train [ Epoch 134/500 ], loss: 0.1922, avg_reader_cost: 1.2214 avg_batch_cost: 1.5680, avg_ips: 61.2232.
+Type : toothbrush Train [ Epoch 135/500 ], loss: 0.1770, avg_reader_cost: 1.2064 avg_batch_cost: 1.3447, avg_ips: 71.3925.
+Type : toothbrush Train [ Epoch 136/500 ], loss: 0.1870, avg_reader_cost: 1.2162 avg_batch_cost: 1.5656, avg_ips: 61.3173.
+Type : toothbrush Train [ Epoch 137/500 ], loss: 0.1665, avg_reader_cost: 1.2072 avg_batch_cost: 1.3518, avg_ips: 71.0140.
+Type : toothbrush Train [ Epoch 138/500 ], loss: 0.1368, avg_reader_cost: 1.2327 avg_batch_cost: 1.4731, avg_ips: 65.1689.
+Type : toothbrush Train [ Epoch 139/500 ], loss: 0.1595, avg_reader_cost: 1.2178 avg_batch_cost: 1.5585, avg_ips: 61.5969.
+Type : toothbrush Train [ Epoch 140/500 ], loss: 0.1612, avg_reader_cost: 1.2191 avg_batch_cost: 1.3600, avg_ips: 70.5894.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 140/500 ] max_auc: 0.9889 roc_auc : 0.936111.
+Type : toothbrush Train [ Epoch 141/500 ], loss: 0.1189, avg_reader_cost: 4.7487 avg_batch_cost: 5.1094, avg_ips: 18.7888.
+Type : toothbrush Train [ Epoch 142/500 ], loss: 0.1863, avg_reader_cost: 0.0004 avg_batch_cost: 0.3492, avg_ips: 274.9054.
+Type : toothbrush Train [ Epoch 143/500 ], loss: 0.1794, avg_reader_cost: 0.2543 avg_batch_cost: 0.3918, avg_ips: 245.0388.
+Type : toothbrush Train [ Epoch 144/500 ], loss: 0.1680, avg_reader_cost: 1.2175 avg_batch_cost: 1.3612, avg_ips: 70.5276.
+Type : toothbrush Train [ Epoch 145/500 ], loss: 0.1371, avg_reader_cost: 1.2192 avg_batch_cost: 1.3559, avg_ips: 70.8022.
+Type : toothbrush Train [ Epoch 146/500 ], loss: 0.0968, avg_reader_cost: 1.2151 avg_batch_cost: 1.5692, avg_ips: 61.1765.
+Type : toothbrush Train [ Epoch 147/500 ], loss: 0.1121, avg_reader_cost: 1.2191 avg_batch_cost: 1.5655, avg_ips: 61.3233.
+Type : toothbrush Train [ Epoch 148/500 ], loss: 0.1517, avg_reader_cost: 1.2140 avg_batch_cost: 1.3532, avg_ips: 70.9408.
+Type : toothbrush Train [ Epoch 149/500 ], loss: 0.1588, avg_reader_cost: 1.2155 avg_batch_cost: 1.5684, avg_ips: 61.2087.
+Type : toothbrush Train [ Epoch 150/500 ], loss: 0.1184, avg_reader_cost: 1.2285 avg_batch_cost: 1.5668, avg_ips: 61.2705.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 150/500 ] max_auc: 0.9889 roc_auc : 0.902778.
+Type : toothbrush Train [ Epoch 151/500 ], loss: 0.1218, avg_reader_cost: 4.3554 avg_batch_cost: 4.7815, avg_ips: 20.0773.
+Type : toothbrush Train [ Epoch 152/500 ], loss: 0.1040, avg_reader_cost: 0.0003 avg_batch_cost: 0.3536, avg_ips: 271.4610.
+Type : toothbrush Train [ Epoch 153/500 ], loss: 0.1282, avg_reader_cost: 0.4725 avg_batch_cost: 0.6196, avg_ips: 154.9383.
+Type : toothbrush Train [ Epoch 154/500 ], loss: 0.1540, avg_reader_cost: 1.2613 avg_batch_cost: 1.6093, avg_ips: 59.6537.
+Type : toothbrush Train [ Epoch 155/500 ], loss: 0.1258, avg_reader_cost: 1.2613 avg_batch_cost: 1.3696, avg_ips: 70.0937.
+Type : toothbrush Train [ Epoch 156/500 ], loss: 0.1567, avg_reader_cost: 1.2716 avg_batch_cost: 1.6190, avg_ips: 59.2965.
+Type : toothbrush Train [ Epoch 157/500 ], loss: 0.1826, avg_reader_cost: 1.2275 avg_batch_cost: 1.5782, avg_ips: 60.8296.
+Type : toothbrush Train [ Epoch 158/500 ], loss: 0.1237, avg_reader_cost: 1.2198 avg_batch_cost: 1.5655, avg_ips: 61.3235.
+Type : toothbrush Train [ Epoch 159/500 ], loss: 0.1278, avg_reader_cost: 1.2216 avg_batch_cost: 1.5752, avg_ips: 60.9464.
+Type : toothbrush Train [ Epoch 160/500 ], loss: 0.1914, avg_reader_cost: 1.2220 avg_batch_cost: 1.5711, avg_ips: 61.1048.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 160/500 ] max_auc: 0.9889 roc_auc : 0.894444.
+Type : toothbrush Train [ Epoch 161/500 ], loss: 0.1561, avg_reader_cost: 4.2859 avg_batch_cost: 4.7208, avg_ips: 20.3357.
+Type : toothbrush Train [ Epoch 162/500 ], loss: 0.1789, avg_reader_cost: 0.0004 avg_batch_cost: 0.1447, avg_ips: 663.2501.
+Type : toothbrush Train [ Epoch 163/500 ], loss: 0.1415, avg_reader_cost: 0.4461 avg_batch_cost: 0.6018, avg_ips: 159.5345.
+Type : toothbrush Train [ Epoch 164/500 ], loss: 0.1589, avg_reader_cost: 1.2510 avg_batch_cost: 1.3900, avg_ips: 69.0671.
+Type : toothbrush Train [ Epoch 165/500 ], loss: 0.1760, avg_reader_cost: 1.2529 avg_batch_cost: 1.4018, avg_ips: 68.4830.
+Type : toothbrush Train [ Epoch 166/500 ], loss: 0.1920, avg_reader_cost: 1.2432 avg_batch_cost: 1.3904, avg_ips: 69.0431.
+Type : toothbrush Train [ Epoch 167/500 ], loss: 0.1395, avg_reader_cost: 1.2311 avg_batch_cost: 1.5746, avg_ips: 60.9673.
+Type : toothbrush Train [ Epoch 168/500 ], loss: 0.1566, avg_reader_cost: 1.2291 avg_batch_cost: 1.5755, avg_ips: 60.9323.
+Type : toothbrush Train [ Epoch 169/500 ], loss: 0.1535, avg_reader_cost: 1.2348 avg_batch_cost: 1.5855, avg_ips: 60.5501.
+Type : toothbrush Train [ Epoch 170/500 ], loss: 0.1066, avg_reader_cost: 1.2202 avg_batch_cost: 1.5705, avg_ips: 61.1283.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 170/500 ] max_auc: 0.9889 roc_auc : 0.905556.
+Type : toothbrush Train [ Epoch 171/500 ], loss: 0.1701, avg_reader_cost: 4.5576 avg_batch_cost: 4.9236, avg_ips: 19.4981.
+Type : toothbrush Train [ Epoch 172/500 ], loss: 0.1598, avg_reader_cost: 0.0003 avg_batch_cost: 0.3453, avg_ips: 278.0209.
+Type : toothbrush Train [ Epoch 173/500 ], loss: 0.1159, avg_reader_cost: 0.4174 avg_batch_cost: 0.7690, avg_ips: 124.8365.
+Type : toothbrush Train [ Epoch 174/500 ], loss: 0.1428, avg_reader_cost: 1.2260 avg_batch_cost: 1.5745, avg_ips: 60.9700.
+Type : toothbrush Train [ Epoch 175/500 ], loss: 0.1608, avg_reader_cost: 1.2157 avg_batch_cost: 1.5636, avg_ips: 61.3963.
+Type : toothbrush Train [ Epoch 176/500 ], loss: 0.1351, avg_reader_cost: 1.2330 avg_batch_cost: 1.3700, avg_ips: 70.0726.
+Type : toothbrush Train [ Epoch 177/500 ], loss: 0.1312, avg_reader_cost: 1.2293 avg_batch_cost: 1.5859, avg_ips: 60.5344.
+Type : toothbrush Train [ Epoch 178/500 ], loss: 0.1807, avg_reader_cost: 1.2278 avg_batch_cost: 1.5784, avg_ips: 60.8207.
+Type : toothbrush Train [ Epoch 179/500 ], loss: 0.1540, avg_reader_cost: 1.2116 avg_batch_cost: 1.5591, avg_ips: 61.5722.
+Type : toothbrush Train [ Epoch 180/500 ], loss: 0.1684, avg_reader_cost: 1.2280 avg_batch_cost: 1.5716, avg_ips: 61.0859.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 180/500 ] max_auc: 0.9889 roc_auc : 0.977778.
+Type : toothbrush Train [ Epoch 181/500 ], loss: 0.1499, avg_reader_cost: 4.3181 avg_batch_cost: 4.6995, avg_ips: 20.4276.
+Type : toothbrush Train [ Epoch 182/500 ], loss: 0.1220, avg_reader_cost: 0.0003 avg_batch_cost: 0.1990, avg_ips: 482.4800.
+Type : toothbrush Train [ Epoch 183/500 ], loss: 0.1132, avg_reader_cost: 0.3740 avg_batch_cost: 0.7173, avg_ips: 133.8292.
+Type : toothbrush Train [ Epoch 184/500 ], loss: 0.1839, avg_reader_cost: 1.2169 avg_batch_cost: 1.3510, avg_ips: 71.0605.
+Type : toothbrush Train [ Epoch 185/500 ], loss: 0.1301, avg_reader_cost: 1.2253 avg_batch_cost: 1.5658, avg_ips: 61.3092.
+Type : toothbrush Train [ Epoch 186/500 ], loss: 0.1511, avg_reader_cost: 1.2371 avg_batch_cost: 1.3426, avg_ips: 71.5018.
+Type : toothbrush Train [ Epoch 187/500 ], loss: 0.1370, avg_reader_cost: 1.3316 avg_batch_cost: 1.6747, avg_ips: 57.3241.
+Type : toothbrush Train [ Epoch 188/500 ], loss: 0.1683, avg_reader_cost: 1.2329 avg_batch_cost: 1.3739, avg_ips: 69.8757.
+Type : toothbrush Train [ Epoch 189/500 ], loss: 0.1133, avg_reader_cost: 1.2535 avg_batch_cost: 1.5971, avg_ips: 60.1098.
+Type : toothbrush Train [ Epoch 190/500 ], loss: 0.1273, avg_reader_cost: 1.2285 avg_batch_cost: 1.5715, avg_ips: 61.0873.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 190/500 ] max_auc: 0.9889 roc_auc : 0.950000.
+Type : toothbrush Train [ Epoch 191/500 ], loss: 0.1030, avg_reader_cost: 4.3578 avg_batch_cost: 4.8708, avg_ips: 19.7095.
+Type : toothbrush Train [ Epoch 192/500 ], loss: 0.1590, avg_reader_cost: 0.0003 avg_batch_cost: 0.3485, avg_ips: 275.4514.
+Type : toothbrush Train [ Epoch 193/500 ], loss: 0.1556, avg_reader_cost: 0.5613 avg_batch_cost: 0.9025, avg_ips: 106.3751.
+Type : toothbrush Train [ Epoch 194/500 ], loss: 0.1216, avg_reader_cost: 1.2442 avg_batch_cost: 1.5931, avg_ips: 60.2584.
+Type : toothbrush Train [ Epoch 195/500 ], loss: 0.1620, avg_reader_cost: 1.2405 avg_batch_cost: 1.5877, avg_ips: 60.4634.
+Type : toothbrush Train [ Epoch 196/500 ], loss: 0.1171, avg_reader_cost: 1.2503 avg_batch_cost: 1.5919, avg_ips: 60.3044.
+Type : toothbrush Train [ Epoch 197/500 ], loss: 0.0946, avg_reader_cost: 1.2599 avg_batch_cost: 1.6070, avg_ips: 59.7386.
+Type : toothbrush Train [ Epoch 198/500 ], loss: 0.1428, avg_reader_cost: 1.3264 avg_batch_cost: 1.5536, avg_ips: 61.7938.
+Type : toothbrush Train [ Epoch 199/500 ], loss: 0.0987, avg_reader_cost: 1.3321 avg_batch_cost: 1.6827, avg_ips: 57.0495.
+Type : toothbrush Train [ Epoch 200/500 ], loss: 0.1695, avg_reader_cost: 1.3510 avg_batch_cost: 1.5123, avg_ips: 63.4813.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 200/500 ] max_auc: 0.9889 roc_auc : 0.941667.
+Type : toothbrush Train [ Epoch 201/500 ], loss: 0.0884, avg_reader_cost: 4.5016 avg_batch_cost: 4.9587, avg_ips: 19.3597.
+Type : toothbrush Train [ Epoch 202/500 ], loss: 0.1503, avg_reader_cost: 0.0003 avg_batch_cost: 0.3551, avg_ips: 270.3374.
+Type : toothbrush Train [ Epoch 203/500 ], loss: 0.0816, avg_reader_cost: 0.5475 avg_batch_cost: 0.8954, avg_ips: 107.2189.
+Type : toothbrush Train [ Epoch 204/500 ], loss: 0.1058, avg_reader_cost: 1.3049 avg_batch_cost: 1.6516, avg_ips: 58.1260.
+Type : toothbrush Train [ Epoch 205/500 ], loss: 0.1765, avg_reader_cost: 1.3049 avg_batch_cost: 1.6586, avg_ips: 57.8806.
+Type : toothbrush Train [ Epoch 206/500 ], loss: 0.1617, avg_reader_cost: 1.2786 avg_batch_cost: 1.6308, avg_ips: 58.8677.
+Type : toothbrush Train [ Epoch 207/500 ], loss: 0.1650, avg_reader_cost: 1.2669 avg_batch_cost: 1.4088, avg_ips: 68.1408.
+Type : toothbrush Train [ Epoch 208/500 ], loss: 0.1162, avg_reader_cost: 1.3060 avg_batch_cost: 1.6476, avg_ips: 58.2676.
+Type : toothbrush Train [ Epoch 209/500 ], loss: 0.1186, avg_reader_cost: 1.2268 avg_batch_cost: 1.3633, avg_ips: 70.4191.
+Type : toothbrush Train [ Epoch 210/500 ], loss: 0.1194, avg_reader_cost: 1.2253 avg_batch_cost: 1.5676, avg_ips: 61.2398.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 210/500 ] max_auc: 0.9889 roc_auc : 0.897222.
+Type : toothbrush Train [ Epoch 211/500 ], loss: 0.1435, avg_reader_cost: 4.4455 avg_batch_cost: 4.7874, avg_ips: 20.0527.
+Type : toothbrush Train [ Epoch 212/500 ], loss: 0.1723, avg_reader_cost: 0.0011 avg_batch_cost: 0.3576, avg_ips: 268.4668.
+Type : toothbrush Train [ Epoch 213/500 ], loss: 0.0670, avg_reader_cost: 0.3450 avg_batch_cost: 0.6973, avg_ips: 137.6737.
+Type : toothbrush Train [ Epoch 214/500 ], loss: 0.1763, avg_reader_cost: 1.2088 avg_batch_cost: 1.5628, avg_ips: 61.4269.
+Type : toothbrush Train [ Epoch 215/500 ], loss: 0.1305, avg_reader_cost: 1.2119 avg_batch_cost: 1.5523, avg_ips: 61.8457.
+Type : toothbrush Train [ Epoch 216/500 ], loss: 0.0897, avg_reader_cost: 1.2228 avg_batch_cost: 1.5635, avg_ips: 61.3989.
+Type : toothbrush Train [ Epoch 217/500 ], loss: 0.0860, avg_reader_cost: 1.2629 avg_batch_cost: 1.3700, avg_ips: 70.0729.
+Type : toothbrush Train [ Epoch 218/500 ], loss: 0.0677, avg_reader_cost: 1.2790 avg_batch_cost: 1.6272, avg_ips: 58.9988.
+Type : toothbrush Train [ Epoch 219/500 ], loss: 0.1430, avg_reader_cost: 1.2203 avg_batch_cost: 1.5681, avg_ips: 61.2189.
+Type : toothbrush Train [ Epoch 220/500 ], loss: 0.0610, avg_reader_cost: 1.2212 avg_batch_cost: 1.5703, avg_ips: 61.1339.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 220/500 ] max_auc: 0.9889 roc_auc : 0.900000.
+Type : toothbrush Train [ Epoch 221/500 ], loss: 0.0814, avg_reader_cost: 4.4710 avg_batch_cost: 4.6948, avg_ips: 20.4483.
+Type : toothbrush Train [ Epoch 222/500 ], loss: 0.1427, avg_reader_cost: 0.0005 avg_batch_cost: 0.3586, avg_ips: 267.7427.
+Type : toothbrush Train [ Epoch 223/500 ], loss: 0.0680, avg_reader_cost: 0.3521 avg_batch_cost: 0.6955, avg_ips: 138.0213.
+Type : toothbrush Train [ Epoch 224/500 ], loss: 0.1399, avg_reader_cost: 1.2650 avg_batch_cost: 1.6125, avg_ips: 59.5360.
+Type : toothbrush Train [ Epoch 225/500 ], loss: 0.1208, avg_reader_cost: 1.2489 avg_batch_cost: 1.5909, avg_ips: 60.3437.
+Type : toothbrush Train [ Epoch 226/500 ], loss: 0.2048, avg_reader_cost: 1.2772 avg_batch_cost: 1.4259, avg_ips: 67.3282.
+Type : toothbrush Train [ Epoch 227/500 ], loss: 0.1737, avg_reader_cost: 1.2313 avg_batch_cost: 1.3774, avg_ips: 69.6970.
+Type : toothbrush Train [ Epoch 228/500 ], loss: 0.1156, avg_reader_cost: 1.2257 avg_batch_cost: 1.5744, avg_ips: 60.9746.
+Type : toothbrush Train [ Epoch 229/500 ], loss: 0.1520, avg_reader_cost: 1.2232 avg_batch_cost: 1.3697, avg_ips: 70.0876.
+Type : toothbrush Train [ Epoch 230/500 ], loss: 0.1489, avg_reader_cost: 1.2200 avg_batch_cost: 1.5608, avg_ips: 61.5067.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 230/500 ] max_auc: 0.9889 roc_auc : 0.908333.
+Type : toothbrush Train [ Epoch 231/500 ], loss: 0.1324, avg_reader_cost: 4.2505 avg_batch_cost: 4.6393, avg_ips: 20.6928.
+Type : toothbrush Train [ Epoch 232/500 ], loss: 0.1620, avg_reader_cost: 0.0004 avg_batch_cost: 0.1434, avg_ips: 669.6222.
+Type : toothbrush Train [ Epoch 233/500 ], loss: 0.1300, avg_reader_cost: 0.4156 avg_batch_cost: 0.7578, avg_ips: 126.6822.
+Type : toothbrush Train [ Epoch 234/500 ], loss: 0.1203, avg_reader_cost: 1.2335 avg_batch_cost: 1.5838, avg_ips: 60.6120.
+Type : toothbrush Train [ Epoch 235/500 ], loss: 0.1274, avg_reader_cost: 1.2245 avg_batch_cost: 1.5643, avg_ips: 61.3709.
+Type : toothbrush Train [ Epoch 236/500 ], loss: 0.1564, avg_reader_cost: 1.2208 avg_batch_cost: 1.5607, avg_ips: 61.5095.
+Type : toothbrush Train [ Epoch 237/500 ], loss: 0.0732, avg_reader_cost: 1.2231 avg_batch_cost: 1.5736, avg_ips: 61.0050.
+Type : toothbrush Train [ Epoch 238/500 ], loss: 0.1419, avg_reader_cost: 1.2147 avg_batch_cost: 1.5668, avg_ips: 61.2703.
+Type : toothbrush Train [ Epoch 239/500 ], loss: 0.1152, avg_reader_cost: 1.2211 avg_batch_cost: 1.5688, avg_ips: 61.1919.
+Type : toothbrush Train [ Epoch 240/500 ], loss: 0.1590, avg_reader_cost: 1.2205 avg_batch_cost: 1.3638, avg_ips: 70.3902.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 240/500 ] max_auc: 0.9889 roc_auc : 0.913889.
+Type : toothbrush Train [ Epoch 241/500 ], loss: 0.1223, avg_reader_cost: 4.4326 avg_batch_cost: 4.5993, avg_ips: 20.8725.
+Type : toothbrush Train [ Epoch 242/500 ], loss: 0.0916, avg_reader_cost: 0.0006 avg_batch_cost: 0.3481, avg_ips: 275.7819.
+Type : toothbrush Train [ Epoch 243/500 ], loss: 0.1355, avg_reader_cost: 0.4772 avg_batch_cost: 0.8182, avg_ips: 117.3351.
+Type : toothbrush Train [ Epoch 244/500 ], loss: 0.2089, avg_reader_cost: 1.3074 avg_batch_cost: 1.4560, avg_ips: 65.9342.
+Type : toothbrush Train [ Epoch 245/500 ], loss: 0.1961, avg_reader_cost: 1.2775 avg_batch_cost: 1.4252, avg_ips: 67.3566.
+Type : toothbrush Train [ Epoch 246/500 ], loss: 0.1166, avg_reader_cost: 1.2790 avg_batch_cost: 1.6235, avg_ips: 59.1326.
+Type : toothbrush Train [ Epoch 247/500 ], loss: 0.1515, avg_reader_cost: 1.2903 avg_batch_cost: 1.6325, avg_ips: 58.8043.
+Type : toothbrush Train [ Epoch 248/500 ], loss: 0.1704, avg_reader_cost: 1.2764 avg_batch_cost: 1.3814, avg_ips: 69.4951.
+Type : toothbrush Train [ Epoch 249/500 ], loss: 0.1485, avg_reader_cost: 1.2798 avg_batch_cost: 1.6212, avg_ips: 59.2157.
+Type : toothbrush Train [ Epoch 250/500 ], loss: 0.1473, avg_reader_cost: 1.2191 avg_batch_cost: 1.4921, avg_ips: 64.3406.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 250/500 ] max_auc: 0.9889 roc_auc : 0.880556.
+Type : toothbrush Train [ Epoch 251/500 ], loss: 0.1368, avg_reader_cost: 4.3736 avg_batch_cost: 4.7337, avg_ips: 20.2800.
+Type : toothbrush Train [ Epoch 252/500 ], loss: 0.1448, avg_reader_cost: 0.0006 avg_batch_cost: 0.3556, avg_ips: 269.9613.
+Type : toothbrush Train [ Epoch 253/500 ], loss: 0.1553, avg_reader_cost: 0.3754 avg_batch_cost: 0.5133, avg_ips: 187.0206.
+Type : toothbrush Train [ Epoch 254/500 ], loss: 0.1645, avg_reader_cost: 1.2542 avg_batch_cost: 1.6051, avg_ips: 59.8109.
+Type : toothbrush Train [ Epoch 255/500 ], loss: 0.1732, avg_reader_cost: 1.2253 avg_batch_cost: 1.5796, avg_ips: 60.7761.
+Type : toothbrush Train [ Epoch 256/500 ], loss: 0.1344, avg_reader_cost: 1.2123 avg_batch_cost: 1.5611, avg_ips: 61.4943.
+Type : toothbrush Train [ Epoch 257/500 ], loss: 0.1369, avg_reader_cost: 1.2166 avg_batch_cost: 1.5552, avg_ips: 61.7294.
+Type : toothbrush Train [ Epoch 258/500 ], loss: 0.1816, avg_reader_cost: 1.2185 avg_batch_cost: 1.5594, avg_ips: 61.5610.
+Type : toothbrush Train [ Epoch 259/500 ], loss: 0.1608, avg_reader_cost: 1.2176 avg_batch_cost: 1.5615, avg_ips: 61.4809.
+Type : toothbrush Train [ Epoch 260/500 ], loss: 0.1209, avg_reader_cost: 1.2095 avg_batch_cost: 1.5540, avg_ips: 61.7773.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 260/500 ] max_auc: 0.9889 roc_auc : 0.986111.
+Type : toothbrush Train [ Epoch 261/500 ], loss: 0.1533, avg_reader_cost: 4.5936 avg_batch_cost: 5.0352, avg_ips: 19.0657.
+Type : toothbrush Train [ Epoch 262/500 ], loss: 0.1507, avg_reader_cost: 0.0002 avg_batch_cost: 0.3422, avg_ips: 280.5721.
+Type : toothbrush Train [ Epoch 263/500 ], loss: 0.1443, avg_reader_cost: 0.2988 avg_batch_cost: 0.6464, avg_ips: 148.5108.
+Type : toothbrush Train [ Epoch 264/500 ], loss: 0.0971, avg_reader_cost: 1.2200 avg_batch_cost: 1.3855, avg_ips: 69.2909.
+Type : toothbrush Train [ Epoch 265/500 ], loss: 0.1102, avg_reader_cost: 1.2259 avg_batch_cost: 1.5684, avg_ips: 61.2070.
+Type : toothbrush Train [ Epoch 266/500 ], loss: 0.0957, avg_reader_cost: 1.2279 avg_batch_cost: 1.5678, avg_ips: 61.2312.
+Type : toothbrush Train [ Epoch 267/500 ], loss: 0.0974, avg_reader_cost: 1.2230 avg_batch_cost: 1.5700, avg_ips: 61.1461.
+Type : toothbrush Train [ Epoch 268/500 ], loss: 0.1137, avg_reader_cost: 1.2179 avg_batch_cost: 1.5597, avg_ips: 61.5508.
+Type : toothbrush Train [ Epoch 269/500 ], loss: 0.1297, avg_reader_cost: 1.2172 avg_batch_cost: 1.5572, avg_ips: 61.6478.
+Type : toothbrush Train [ Epoch 270/500 ], loss: 0.1184, avg_reader_cost: 1.2523 avg_batch_cost: 1.6033, avg_ips: 59.8755.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 270/500 ] max_auc: 0.9889 roc_auc : 0.927778.
+Type : toothbrush Train [ Epoch 271/500 ], loss: 0.1306, avg_reader_cost: 4.5799 avg_batch_cost: 5.0055, avg_ips: 19.1788.
+Type : toothbrush Train [ Epoch 272/500 ], loss: 0.1243, avg_reader_cost: 0.0003 avg_batch_cost: 0.1457, avg_ips: 658.8106.
+Type : toothbrush Train [ Epoch 273/500 ], loss: 0.1197, avg_reader_cost: 0.1560 avg_batch_cost: 0.3046, avg_ips: 315.1914.
+Type : toothbrush Train [ Epoch 274/500 ], loss: 0.1106, avg_reader_cost: 1.2488 avg_batch_cost: 1.5917, avg_ips: 60.3118.
+Type : toothbrush Train [ Epoch 275/500 ], loss: 0.0932, avg_reader_cost: 1.2414 avg_batch_cost: 1.3805, avg_ips: 69.5419.
+Type : toothbrush Train [ Epoch 276/500 ], loss: 0.0979, avg_reader_cost: 1.2551 avg_batch_cost: 1.4314, avg_ips: 67.0663.
+Type : toothbrush Train [ Epoch 277/500 ], loss: 0.0937, avg_reader_cost: 1.2421 avg_batch_cost: 1.5858, avg_ips: 60.5380.
+Type : toothbrush Train [ Epoch 278/500 ], loss: 0.0612, avg_reader_cost: 1.2561 avg_batch_cost: 1.4015, avg_ips: 68.4969.
+Type : toothbrush Train [ Epoch 279/500 ], loss: 0.1368, avg_reader_cost: 1.2486 avg_batch_cost: 1.3535, avg_ips: 70.9270.
+Type : toothbrush Train [ Epoch 280/500 ], loss: 0.1110, avg_reader_cost: 1.2806 avg_batch_cost: 1.6326, avg_ips: 58.8018.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 280/500 ] max_auc: 0.9889 roc_auc : 0.958333.
+Type : toothbrush Train [ Epoch 281/500 ], loss: 0.1128, avg_reader_cost: 4.4824 avg_batch_cost: 4.9141, avg_ips: 19.5357.
+Type : toothbrush Train [ Epoch 282/500 ], loss: 0.1180, avg_reader_cost: 0.0003 avg_batch_cost: 0.3408, avg_ips: 281.6615.
+Type : toothbrush Train [ Epoch 283/500 ], loss: 0.0672, avg_reader_cost: 0.3035 avg_batch_cost: 0.6469, avg_ips: 148.4058.
+Type : toothbrush Train [ Epoch 284/500 ], loss: 0.1700, avg_reader_cost: 1.2206 avg_batch_cost: 1.5658, avg_ips: 61.3108.
+Type : toothbrush Train [ Epoch 285/500 ], loss: 0.0776, avg_reader_cost: 1.2238 avg_batch_cost: 1.5729, avg_ips: 61.0350.
+Type : toothbrush Train [ Epoch 286/500 ], loss: 0.1078, avg_reader_cost: 1.2240 avg_batch_cost: 1.5712, avg_ips: 61.0985.
+Type : toothbrush Train [ Epoch 287/500 ], loss: 0.1529, avg_reader_cost: 1.2151 avg_batch_cost: 1.5598, avg_ips: 61.5465.
+Type : toothbrush Train [ Epoch 288/500 ], loss: 0.1352, avg_reader_cost: 1.2328 avg_batch_cost: 1.3975, avg_ips: 68.6937.
+Type : toothbrush Train [ Epoch 289/500 ], loss: 0.1142, avg_reader_cost: 1.2264 avg_batch_cost: 1.3649, avg_ips: 70.3335.
+Type : toothbrush Train [ Epoch 290/500 ], loss: 0.1181, avg_reader_cost: 1.2290 avg_batch_cost: 1.3736, avg_ips: 69.8907.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 290/500 ] max_auc: 0.9889 roc_auc : 0.902778.
+Type : toothbrush Train [ Epoch 291/500 ], loss: 0.1566, avg_reader_cost: 4.6925 avg_batch_cost: 5.0936, avg_ips: 18.8471.
+Type : toothbrush Train [ Epoch 292/500 ], loss: 0.1493, avg_reader_cost: 0.0003 avg_batch_cost: 0.3497, avg_ips: 274.5592.
+Type : toothbrush Train [ Epoch 293/500 ], loss: 0.1008, avg_reader_cost: 0.2481 avg_batch_cost: 0.6009, avg_ips: 159.7629.
+Type : toothbrush Train [ Epoch 294/500 ], loss: 0.1225, avg_reader_cost: 1.2182 avg_batch_cost: 1.5635, avg_ips: 61.4009.
+Type : toothbrush Train [ Epoch 295/500 ], loss: 0.1123, avg_reader_cost: 1.2151 avg_batch_cost: 1.3618, avg_ips: 70.4943.
+Type : toothbrush Train [ Epoch 296/500 ], loss: 0.0893, avg_reader_cost: 1.2485 avg_batch_cost: 1.3912, avg_ips: 69.0060.
+Type : toothbrush Train [ Epoch 297/500 ], loss: 0.1620, avg_reader_cost: 1.2152 avg_batch_cost: 1.5574, avg_ips: 61.6393.
+Type : toothbrush Train [ Epoch 298/500 ], loss: 0.1188, avg_reader_cost: 1.2246 avg_batch_cost: 1.5697, avg_ips: 61.1563.
+Type : toothbrush Train [ Epoch 299/500 ], loss: 0.1231, avg_reader_cost: 1.2239 avg_batch_cost: 1.5670, avg_ips: 61.2620.
+Type : toothbrush Train [ Epoch 300/500 ], loss: 0.1039, avg_reader_cost: 1.2311 avg_batch_cost: 1.5718, avg_ips: 61.0779.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 300/500 ] max_auc: 0.9889 roc_auc : 0.972222.
+Type : toothbrush Train [ Epoch 301/500 ], loss: 0.1245, avg_reader_cost: 4.1768 avg_batch_cost: 4.4604, avg_ips: 21.5228.
+Type : toothbrush Train [ Epoch 302/500 ], loss: 0.1410, avg_reader_cost: 0.0003 avg_batch_cost: 0.3481, avg_ips: 275.8116.
+Type : toothbrush Train [ Epoch 303/500 ], loss: 0.1784, avg_reader_cost: 0.4118 avg_batch_cost: 0.7645, avg_ips: 125.5775.
+Type : toothbrush Train [ Epoch 304/500 ], loss: 0.1313, avg_reader_cost: 1.2260 avg_batch_cost: 1.5666, avg_ips: 61.2777.
+Type : toothbrush Train [ Epoch 305/500 ], loss: 0.1113, avg_reader_cost: 1.2414 avg_batch_cost: 1.5820, avg_ips: 60.6832.
+Type : toothbrush Train [ Epoch 306/500 ], loss: 0.1372, avg_reader_cost: 1.2591 avg_batch_cost: 1.4009, avg_ips: 68.5295.
+Type : toothbrush Train [ Epoch 307/500 ], loss: 0.1143, avg_reader_cost: 1.2599 avg_batch_cost: 1.4000, avg_ips: 68.5692.
+Type : toothbrush Train [ Epoch 308/500 ], loss: 0.1320, avg_reader_cost: 1.2327 avg_batch_cost: 1.5817, avg_ips: 60.6955.
+Type : toothbrush Train [ Epoch 309/500 ], loss: 0.0974, avg_reader_cost: 1.2202 avg_batch_cost: 1.5637, avg_ips: 61.3927.
+Type : toothbrush Train [ Epoch 310/500 ], loss: 0.0685, avg_reader_cost: 1.2292 avg_batch_cost: 1.3358, avg_ips: 71.8687.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 310/500 ] max_auc: 0.9889 roc_auc : 0.869444.
+Type : toothbrush Train [ Epoch 311/500 ], loss: 0.1681, avg_reader_cost: 4.7519 avg_batch_cost: 5.0917, avg_ips: 18.8543.
+Type : toothbrush Train [ Epoch 312/500 ], loss: 0.1222, avg_reader_cost: 1.2198 avg_batch_cost: 1.3603, avg_ips: 70.5725.
+Type : toothbrush Train [ Epoch 313/500 ], loss: 0.0884, avg_reader_cost: 1.2458 avg_batch_cost: 1.4012, avg_ips: 68.5148.
+Type : toothbrush Train [ Epoch 314/500 ], loss: 0.0931, avg_reader_cost: 1.2384 avg_batch_cost: 1.3863, avg_ips: 69.2469.
+Type : toothbrush Train [ Epoch 315/500 ], loss: 0.1098, avg_reader_cost: 1.5810 avg_batch_cost: 1.9276, avg_ips: 49.8038.
+Type : toothbrush Train [ Epoch 316/500 ], loss: 0.0719, avg_reader_cost: 1.2663 avg_batch_cost: 1.6085, avg_ips: 59.6819.
+Type : toothbrush Train [ Epoch 317/500 ], loss: 0.0904, avg_reader_cost: 1.2533 avg_batch_cost: 1.6005, avg_ips: 59.9804.
+Type : toothbrush Train [ Epoch 318/500 ], loss: 0.0854, avg_reader_cost: 1.2267 avg_batch_cost: 1.5745, avg_ips: 60.9699.
+Type : toothbrush Train [ Epoch 319/500 ], loss: 0.0776, avg_reader_cost: 1.2631 avg_batch_cost: 1.6078, avg_ips: 59.7073.
+Type : toothbrush Train [ Epoch 320/500 ], loss: 0.0915, avg_reader_cost: 1.2644 avg_batch_cost: 1.4017, avg_ips: 68.4876.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 320/500 ] max_auc: 0.9889 roc_auc : 0.938889.
+Type : toothbrush Train [ Epoch 321/500 ], loss: 0.0950, avg_reader_cost: 4.5566 avg_batch_cost: 4.9376, avg_ips: 19.4428.
+Type : toothbrush Train [ Epoch 322/500 ], loss: 0.1459, avg_reader_cost: 0.0003 avg_batch_cost: 0.3496, avg_ips: 274.6186.
+Type : toothbrush Train [ Epoch 323/500 ], loss: 0.1725, avg_reader_cost: 0.3418 avg_batch_cost: 0.6820, avg_ips: 140.7534.
+Type : toothbrush Train [ Epoch 324/500 ], loss: 0.1049, avg_reader_cost: 1.2494 avg_batch_cost: 1.5981, avg_ips: 60.0726.
+Type : toothbrush Train [ Epoch 325/500 ], loss: 0.0549, avg_reader_cost: 1.2342 avg_batch_cost: 1.5815, avg_ips: 60.7031.
+Type : toothbrush Train [ Epoch 326/500 ], loss: 0.1225, avg_reader_cost: 1.2379 avg_batch_cost: 1.3844, avg_ips: 69.3452.
+Type : toothbrush Train [ Epoch 327/500 ], loss: 0.0969, avg_reader_cost: 1.2457 avg_batch_cost: 1.5939, avg_ips: 60.2307.
+Type : toothbrush Train [ Epoch 328/500 ], loss: 0.1286, avg_reader_cost: 1.2251 avg_batch_cost: 1.5732, avg_ips: 61.0204.
+Type : toothbrush Train [ Epoch 329/500 ], loss: 0.1605, avg_reader_cost: 1.2447 avg_batch_cost: 1.5946, avg_ips: 60.2042.
+Type : toothbrush Train [ Epoch 330/500 ], loss: 0.1299, avg_reader_cost: 1.2474 avg_batch_cost: 1.5896, avg_ips: 60.3916.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 330/500 ] max_auc: 0.9889 roc_auc : 0.952778.
+Type : toothbrush Train [ Epoch 331/500 ], loss: 0.1201, avg_reader_cost: 4.2787 avg_batch_cost: 4.6433, avg_ips: 20.6748.
+Type : toothbrush Train [ Epoch 332/500 ], loss: 0.1759, avg_reader_cost: 0.0003 avg_batch_cost: 0.3532, avg_ips: 271.7917.
+Type : toothbrush Train [ Epoch 333/500 ], loss: 0.1536, avg_reader_cost: 0.4260 avg_batch_cost: 0.7746, avg_ips: 123.9284.
+Type : toothbrush Train [ Epoch 334/500 ], loss: 0.0975, avg_reader_cost: 1.2810 avg_batch_cost: 1.6214, avg_ips: 59.2070.
+Type : toothbrush Train [ Epoch 335/500 ], loss: 0.0905, avg_reader_cost: 1.2800 avg_batch_cost: 1.6218, avg_ips: 59.1923.
+Type : toothbrush Train [ Epoch 336/500 ], loss: 0.0888, avg_reader_cost: 1.2607 avg_batch_cost: 1.5999, avg_ips: 60.0042.
+Type : toothbrush Train [ Epoch 337/500 ], loss: 0.0970, avg_reader_cost: 1.2229 avg_batch_cost: 1.5659, avg_ips: 61.3050.
+Type : toothbrush Train [ Epoch 338/500 ], loss: 0.1261, avg_reader_cost: 1.2333 avg_batch_cost: 1.5827, avg_ips: 60.6570.
+Type : toothbrush Train [ Epoch 339/500 ], loss: 0.1049, avg_reader_cost: 1.2342 avg_batch_cost: 1.5777, avg_ips: 60.8497.
+Type : toothbrush Train [ Epoch 340/500 ], loss: 0.1089, avg_reader_cost: 1.2238 avg_batch_cost: 1.5670, avg_ips: 61.2646.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 340/500 ] max_auc: 0.9889 roc_auc : 0.897222.
+Type : toothbrush Train [ Epoch 341/500 ], loss: 0.1391, avg_reader_cost: 3.7642 avg_batch_cost: 3.8879, avg_ips: 24.6921.
+Type : toothbrush Train [ Epoch 342/500 ], loss: 0.0917, avg_reader_cost: 1.2887 avg_batch_cost: 1.6306, avg_ips: 58.8742.
+Type : toothbrush Train [ Epoch 343/500 ], loss: 0.0873, avg_reader_cost: 1.2206 avg_batch_cost: 1.5605, avg_ips: 61.5183.
+Type : toothbrush Train [ Epoch 344/500 ], loss: 0.0979, avg_reader_cost: 1.2214 avg_batch_cost: 1.5768, avg_ips: 60.8839.
+Type : toothbrush Train [ Epoch 345/500 ], loss: 0.1024, avg_reader_cost: 1.2280 avg_batch_cost: 1.5798, avg_ips: 60.7677.
+Type : toothbrush Train [ Epoch 346/500 ], loss: 0.1372, avg_reader_cost: 1.2148 avg_batch_cost: 1.5634, avg_ips: 61.4035.
+Type : toothbrush Train [ Epoch 347/500 ], loss: 0.1173, avg_reader_cost: 1.2112 avg_batch_cost: 1.5505, avg_ips: 61.9159.
+Type : toothbrush Train [ Epoch 348/500 ], loss: 0.0997, avg_reader_cost: 1.2234 avg_batch_cost: 1.5685, avg_ips: 61.2046.
+Type : toothbrush Train [ Epoch 349/500 ], loss: 0.0921, avg_reader_cost: 1.2213 avg_batch_cost: 1.5692, avg_ips: 61.1763.
+Type : toothbrush Train [ Epoch 350/500 ], loss: 0.1158, avg_reader_cost: 1.2116 avg_batch_cost: 1.5530, avg_ips: 61.8173.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 350/500 ] max_auc: 0.9889 roc_auc : 0.922222.
+Type : toothbrush Train [ Epoch 351/500 ], loss: 0.0979, avg_reader_cost: 4.3876 avg_batch_cost: 4.7474, avg_ips: 20.2216.
+Type : toothbrush Train [ Epoch 352/500 ], loss: 0.0929, avg_reader_cost: 0.0007 avg_batch_cost: 0.3503, avg_ips: 274.0191.
+Type : toothbrush Train [ Epoch 353/500 ], loss: 0.0768, avg_reader_cost: 0.4197 avg_batch_cost: 0.7648, avg_ips: 125.5262.
+Type : toothbrush Train [ Epoch 354/500 ], loss: 0.1242, avg_reader_cost: 1.2172 avg_batch_cost: 1.5711, avg_ips: 61.1036.
+Type : toothbrush Train [ Epoch 355/500 ], loss: 0.1204, avg_reader_cost: 1.2104 avg_batch_cost: 1.5606, avg_ips: 61.5153.
+Type : toothbrush Train [ Epoch 356/500 ], loss: 0.0736, avg_reader_cost: 1.2312 avg_batch_cost: 1.5857, avg_ips: 60.5414.
+Type : toothbrush Train [ Epoch 357/500 ], loss: 0.1247, avg_reader_cost: 1.2156 avg_batch_cost: 1.5670, avg_ips: 61.2653.
+Type : toothbrush Train [ Epoch 358/500 ], loss: 0.0697, avg_reader_cost: 1.2142 avg_batch_cost: 1.5560, avg_ips: 61.6949.
+Type : toothbrush Train [ Epoch 359/500 ], loss: 0.0768, avg_reader_cost: 1.2296 avg_batch_cost: 1.5692, avg_ips: 61.1791.
+Type : toothbrush Train [ Epoch 360/500 ], loss: 0.0872, avg_reader_cost: 1.2126 avg_batch_cost: 1.5549, avg_ips: 61.7383.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 360/500 ] max_auc: 0.9889 roc_auc : 0.911111.
+Type : toothbrush Train [ Epoch 361/500 ], loss: 0.1092, avg_reader_cost: 4.3730 avg_batch_cost: 4.8080, avg_ips: 19.9667.
+Type : toothbrush Train [ Epoch 362/500 ], loss: 0.1017, avg_reader_cost: 0.0003 avg_batch_cost: 0.3419, avg_ips: 280.7652.
+Type : toothbrush Train [ Epoch 363/500 ], loss: 0.1237, avg_reader_cost: 0.3205 avg_batch_cost: 0.6661, avg_ips: 144.1145.
+Type : toothbrush Train [ Epoch 364/500 ], loss: 0.0708, avg_reader_cost: 1.2092 avg_batch_cost: 1.3478, avg_ips: 71.2292.
+Type : toothbrush Train [ Epoch 365/500 ], loss: 0.1029, avg_reader_cost: 1.2182 avg_batch_cost: 1.3595, avg_ips: 70.6134.
+Type : toothbrush Train [ Epoch 366/500 ], loss: 0.0604, avg_reader_cost: 1.2793 avg_batch_cost: 1.6319, avg_ips: 58.8254.
+Type : toothbrush Train [ Epoch 367/500 ], loss: 0.0758, avg_reader_cost: 1.2652 avg_batch_cost: 1.6090, avg_ips: 59.6647.
+Type : toothbrush Train [ Epoch 368/500 ], loss: 0.1613, avg_reader_cost: 1.2430 avg_batch_cost: 1.5871, avg_ips: 60.4861.
+Type : toothbrush Train [ Epoch 369/500 ], loss: 0.0686, avg_reader_cost: 1.3039 avg_batch_cost: 1.6506, avg_ips: 58.1624.
+Type : toothbrush Train [ Epoch 370/500 ], loss: 0.1502, avg_reader_cost: 1.2705 avg_batch_cost: 1.6097, avg_ips: 59.6371.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 370/500 ] max_auc: 0.9889 roc_auc : 0.933333.
+Type : toothbrush Train [ Epoch 371/500 ], loss: 0.0715, avg_reader_cost: 4.7559 avg_batch_cost: 4.9451, avg_ips: 19.4130.
+Type : toothbrush Train [ Epoch 372/500 ], loss: 0.1154, avg_reader_cost: 0.0007 avg_batch_cost: 0.1093, avg_ips: 878.6164.
+Type : toothbrush Train [ Epoch 373/500 ], loss: 0.0712, avg_reader_cost: 1.2898 avg_batch_cost: 1.6362, avg_ips: 58.6735.
+Type : toothbrush Train [ Epoch 374/500 ], loss: 0.0948, avg_reader_cost: 1.2306 avg_batch_cost: 1.3691, avg_ips: 70.1184.
+Type : toothbrush Train [ Epoch 375/500 ], loss: 0.0855, avg_reader_cost: 1.2425 avg_batch_cost: 1.5885, avg_ips: 60.4349.
+Type : toothbrush Train [ Epoch 376/500 ], loss: 0.1212, avg_reader_cost: 1.2371 avg_batch_cost: 1.5874, avg_ips: 60.4751.
+Type : toothbrush Train [ Epoch 377/500 ], loss: 0.0944, avg_reader_cost: 1.2638 avg_batch_cost: 1.4103, avg_ips: 68.0687.
+Type : toothbrush Train [ Epoch 378/500 ], loss: 0.1018, avg_reader_cost: 1.3232 avg_batch_cost: 1.5505, avg_ips: 61.9171.
+Type : toothbrush Train [ Epoch 379/500 ], loss: 0.1276, avg_reader_cost: 1.3235 avg_batch_cost: 1.6762, avg_ips: 57.2723.
+Type : toothbrush Train [ Epoch 380/500 ], loss: 0.0542, avg_reader_cost: 1.2858 avg_batch_cost: 1.6254, avg_ips: 59.0638.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 380/500 ] max_auc: 0.9889 roc_auc : 0.988889.
+Type : toothbrush Train [ Epoch 381/500 ], loss: 0.0557, avg_reader_cost: 5.1084 avg_batch_cost: 5.4805, avg_ips: 17.5166.
+Type : toothbrush Train [ Epoch 382/500 ], loss: 0.0814, avg_reader_cost: 0.0003 avg_batch_cost: 0.3504, avg_ips: 273.9473.
+Type : toothbrush Train [ Epoch 383/500 ], loss: 0.1441, avg_reader_cost: 0.0003 avg_batch_cost: 0.3419, avg_ips: 280.7460.
+Type : toothbrush Train [ Epoch 384/500 ], loss: 0.0778, avg_reader_cost: 1.1798 avg_batch_cost: 1.5184, avg_ips: 63.2246.
+Type : toothbrush Train [ Epoch 385/500 ], loss: 0.0616, avg_reader_cost: 1.2569 avg_batch_cost: 1.4054, avg_ips: 68.3062.
+Type : toothbrush Train [ Epoch 386/500 ], loss: 0.1114, avg_reader_cost: 1.2611 avg_batch_cost: 1.4040, avg_ips: 68.3784.
+Type : toothbrush Train [ Epoch 387/500 ], loss: 0.1307, avg_reader_cost: 1.2669 avg_batch_cost: 1.4362, avg_ips: 66.8438.
+Type : toothbrush Train [ Epoch 388/500 ], loss: 0.1029, avg_reader_cost: 1.2553 avg_batch_cost: 1.3989, avg_ips: 68.6252.
+Type : toothbrush Train [ Epoch 389/500 ], loss: 0.1546, avg_reader_cost: 1.2971 avg_batch_cost: 1.4983, avg_ips: 64.0713.
+Type : toothbrush Train [ Epoch 390/500 ], loss: 0.1219, avg_reader_cost: 1.2709 avg_batch_cost: 1.6223, avg_ips: 59.1768.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 390/500 ] max_auc: 0.9889 roc_auc : 0.961111.
+Type : toothbrush Train [ Epoch 391/500 ], loss: 0.1069, avg_reader_cost: 4.3476 avg_batch_cost: 4.5847, avg_ips: 20.9390.
+Type : toothbrush Train [ Epoch 392/500 ], loss: 0.0937, avg_reader_cost: 0.0003 avg_batch_cost: 0.3488, avg_ips: 275.2322.
+Type : toothbrush Train [ Epoch 393/500 ], loss: 0.1588, avg_reader_cost: 0.4695 avg_batch_cost: 0.8156, avg_ips: 117.7005.
+Type : toothbrush Train [ Epoch 394/500 ], loss: 0.1146, avg_reader_cost: 1.2165 avg_batch_cost: 1.5689, avg_ips: 61.1881.
+Type : toothbrush Train [ Epoch 395/500 ], loss: 0.0745, avg_reader_cost: 1.2137 avg_batch_cost: 1.5658, avg_ips: 61.3114.
+Type : toothbrush Train [ Epoch 396/500 ], loss: 0.0738, avg_reader_cost: 1.2155 avg_batch_cost: 1.5635, avg_ips: 61.3996.
+Type : toothbrush Train [ Epoch 397/500 ], loss: 0.0989, avg_reader_cost: 1.2102 avg_batch_cost: 1.5556, avg_ips: 61.7136.
+Type : toothbrush Train [ Epoch 398/500 ], loss: 0.1290, avg_reader_cost: 1.2164 avg_batch_cost: 1.5614, avg_ips: 61.4826.
+Type : toothbrush Train [ Epoch 399/500 ], loss: 0.1047, avg_reader_cost: 1.2181 avg_batch_cost: 1.5716, avg_ips: 61.0855.
+Type : toothbrush Train [ Epoch 400/500 ], loss: 0.1692, avg_reader_cost: 1.2123 avg_batch_cost: 1.5531, avg_ips: 61.8125.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 400/500 ] max_auc: 0.9889 roc_auc : 0.916667.
+Type : toothbrush Train [ Epoch 401/500 ], loss: 0.0552, avg_reader_cost: 4.4786 avg_batch_cost: 4.9037, avg_ips: 19.5771.
+Type : toothbrush Train [ Epoch 402/500 ], loss: 0.0812, avg_reader_cost: 0.0011 avg_batch_cost: 0.3526, avg_ips: 272.2714.
+Type : toothbrush Train [ Epoch 403/500 ], loss: 0.1144, avg_reader_cost: 0.3562 avg_batch_cost: 0.4654, avg_ips: 206.2935.
+Type : toothbrush Train [ Epoch 404/500 ], loss: 0.1133, avg_reader_cost: 1.3273 avg_batch_cost: 1.6712, avg_ips: 57.4446.
+Type : toothbrush Train [ Epoch 405/500 ], loss: 0.1504, avg_reader_cost: 1.2656 avg_batch_cost: 1.6104, avg_ips: 59.6107.
+Type : toothbrush Train [ Epoch 406/500 ], loss: 0.1024, avg_reader_cost: 1.2713 avg_batch_cost: 1.6198, avg_ips: 59.2673.
+Type : toothbrush Train [ Epoch 407/500 ], loss: 0.0686, avg_reader_cost: 1.2959 avg_batch_cost: 1.4376, avg_ips: 66.7766.
+Type : toothbrush Train [ Epoch 408/500 ], loss: 0.0813, avg_reader_cost: 1.2601 avg_batch_cost: 1.6189, avg_ips: 59.2994.
+Type : toothbrush Train [ Epoch 409/500 ], loss: 0.1168, avg_reader_cost: 1.2203 avg_batch_cost: 1.5768, avg_ips: 60.8836.
+Type : toothbrush Train [ Epoch 410/500 ], loss: 0.1078, avg_reader_cost: 1.2326 avg_batch_cost: 1.5784, avg_ips: 60.8225.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 410/500 ] max_auc: 0.9889 roc_auc : 0.900000.
+Type : toothbrush Train [ Epoch 411/500 ], loss: 0.1523, avg_reader_cost: 4.4478 avg_batch_cost: 4.8874, avg_ips: 19.6423.
+Type : toothbrush Train [ Epoch 412/500 ], loss: 0.1124, avg_reader_cost: 0.0003 avg_batch_cost: 0.1450, avg_ips: 662.1910.
+Type : toothbrush Train [ Epoch 413/500 ], loss: 0.0831, avg_reader_cost: 0.4086 avg_batch_cost: 0.7530, avg_ips: 127.4890.
+Type : toothbrush Train [ Epoch 414/500 ], loss: 0.0926, avg_reader_cost: 1.3565 avg_batch_cost: 1.6973, avg_ips: 56.5606.
+Type : toothbrush Train [ Epoch 415/500 ], loss: 0.0925, avg_reader_cost: 1.2923 avg_batch_cost: 1.4314, avg_ips: 67.0660.
+Type : toothbrush Train [ Epoch 416/500 ], loss: 0.0887, avg_reader_cost: 1.3268 avg_batch_cost: 1.6412, avg_ips: 58.4936.
+Type : toothbrush Train [ Epoch 417/500 ], loss: 0.0828, avg_reader_cost: 1.3102 avg_batch_cost: 1.5155, avg_ips: 63.3442.
+Type : toothbrush Train [ Epoch 418/500 ], loss: 0.1196, avg_reader_cost: 1.2955 avg_batch_cost: 1.6416, avg_ips: 58.4791.
+Type : toothbrush Train [ Epoch 419/500 ], loss: 0.0676, avg_reader_cost: 1.3380 avg_batch_cost: 1.6905, avg_ips: 56.7866.
+Type : toothbrush Train [ Epoch 420/500 ], loss: 0.0575, avg_reader_cost: 1.2711 avg_batch_cost: 1.4145, avg_ips: 67.8675.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 420/500 ] max_auc: 0.9889 roc_auc : 0.905556.
+Type : toothbrush Train [ Epoch 421/500 ], loss: 0.0863, avg_reader_cost: 4.4680 avg_batch_cost: 4.9002, avg_ips: 19.5911.
+Type : toothbrush Train [ Epoch 422/500 ], loss: 0.0553, avg_reader_cost: 0.0003 avg_batch_cost: 0.3517, avg_ips: 272.9835.
+Type : toothbrush Train [ Epoch 423/500 ], loss: 0.1395, avg_reader_cost: 0.5024 avg_batch_cost: 0.8546, avg_ips: 112.3340.
+Type : toothbrush Train [ Epoch 424/500 ], loss: 0.0738, avg_reader_cost: 1.7158 avg_batch_cost: 2.0731, avg_ips: 46.3071.
+Type : toothbrush Train [ Epoch 425/500 ], loss: 0.1025, avg_reader_cost: 1.4216 avg_batch_cost: 1.7625, avg_ips: 54.4666.
+Type : toothbrush Train [ Epoch 426/500 ], loss: 0.1060, avg_reader_cost: 1.2626 avg_batch_cost: 1.6066, avg_ips: 59.7525.
+Type : toothbrush Train [ Epoch 427/500 ], loss: 0.1028, avg_reader_cost: 1.2496 avg_batch_cost: 1.5954, avg_ips: 60.1742.
+Type : toothbrush Train [ Epoch 428/500 ], loss: 0.1312, avg_reader_cost: 1.2731 avg_batch_cost: 1.6178, avg_ips: 59.3409.
+Type : toothbrush Train [ Epoch 429/500 ], loss: 0.0609, avg_reader_cost: 1.2473 avg_batch_cost: 1.5922, avg_ips: 60.2933.
+Type : toothbrush Train [ Epoch 430/500 ], loss: 0.0829, avg_reader_cost: 1.2452 avg_batch_cost: 1.4058, avg_ips: 68.2871.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 430/500 ] max_auc: 0.9889 roc_auc : 0.894444.
+Type : toothbrush Train [ Epoch 431/500 ], loss: 0.1251, avg_reader_cost: 4.3208 avg_batch_cost: 4.6747, avg_ips: 20.5362.
+Type : toothbrush Train [ Epoch 432/500 ], loss: 0.1468, avg_reader_cost: 0.0006 avg_batch_cost: 0.3527, avg_ips: 272.2125.
+Type : toothbrush Train [ Epoch 433/500 ], loss: 0.0764, avg_reader_cost: 0.5006 avg_batch_cost: 0.6663, avg_ips: 144.0807.
+Type : toothbrush Train [ Epoch 434/500 ], loss: 0.0736, avg_reader_cost: 1.2767 avg_batch_cost: 1.3834, avg_ips: 69.3923.
+Type : toothbrush Train [ Epoch 435/500 ], loss: 0.0949, avg_reader_cost: 1.2757 avg_batch_cost: 1.6275, avg_ips: 58.9861.
+Type : toothbrush Train [ Epoch 436/500 ], loss: 0.0591, avg_reader_cost: 1.2099 avg_batch_cost: 1.5562, avg_ips: 61.6875.
+Type : toothbrush Train [ Epoch 437/500 ], loss: 0.0650, avg_reader_cost: 1.2180 avg_batch_cost: 1.5580, avg_ips: 61.6176.
+Type : toothbrush Train [ Epoch 438/500 ], loss: 0.0714, avg_reader_cost: 1.2227 avg_batch_cost: 1.3570, avg_ips: 70.7431.
+Type : toothbrush Train [ Epoch 439/500 ], loss: 0.1090, avg_reader_cost: 1.2224 avg_batch_cost: 1.5645, avg_ips: 61.3628.
+Type : toothbrush Train [ Epoch 440/500 ], loss: 0.1089, avg_reader_cost: 1.2203 avg_batch_cost: 1.5683, avg_ips: 61.2122.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 440/500 ] max_auc: 0.9889 roc_auc : 0.941667.
+Type : toothbrush Train [ Epoch 441/500 ], loss: 0.1002, avg_reader_cost: 4.2969 avg_batch_cost: 4.6751, avg_ips: 20.5343.
+Type : toothbrush Train [ Epoch 442/500 ], loss: 0.0902, avg_reader_cost: 0.0004 avg_batch_cost: 0.3497, avg_ips: 274.5049.
+Type : toothbrush Train [ Epoch 443/500 ], loss: 0.0580, avg_reader_cost: 0.5644 avg_batch_cost: 0.9106, avg_ips: 105.4285.
+Type : toothbrush Train [ Epoch 444/500 ], loss: 0.0994, avg_reader_cost: 1.2427 avg_batch_cost: 1.5873, avg_ips: 60.4787.
+Type : toothbrush Train [ Epoch 445/500 ], loss: 0.0870, avg_reader_cost: 1.2470 avg_batch_cost: 1.3811, avg_ips: 69.5091.
+Type : toothbrush Train [ Epoch 446/500 ], loss: 0.0904, avg_reader_cost: 1.2574 avg_batch_cost: 1.6084, avg_ips: 59.6862.
+Type : toothbrush Train [ Epoch 447/500 ], loss: 0.0521, avg_reader_cost: 1.2583 avg_batch_cost: 1.6079, avg_ips: 59.7045.
+Type : toothbrush Train [ Epoch 448/500 ], loss: 0.0704, avg_reader_cost: 1.2235 avg_batch_cost: 1.5783, avg_ips: 60.8247.
+Type : toothbrush Train [ Epoch 449/500 ], loss: 0.1002, avg_reader_cost: 1.2282 avg_batch_cost: 1.5693, avg_ips: 61.1720.
+Type : toothbrush Train [ Epoch 450/500 ], loss: 0.0588, avg_reader_cost: 1.3225 avg_batch_cost: 1.6705, avg_ips: 57.4680.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 450/500 ] max_auc: 0.9889 roc_auc : 0.933333.
+Type : toothbrush Train [ Epoch 451/500 ], loss: 0.0713, avg_reader_cost: 4.4488 avg_batch_cost: 4.8907, avg_ips: 19.6291.
+Type : toothbrush Train [ Epoch 452/500 ], loss: 0.0542, avg_reader_cost: 0.0004 avg_batch_cost: 0.1485, avg_ips: 646.2957.
+Type : toothbrush Train [ Epoch 453/500 ], loss: 0.0705, avg_reader_cost: 0.4364 avg_batch_cost: 0.7753, avg_ips: 123.8186.
+Type : toothbrush Train [ Epoch 454/500 ], loss: 0.0873, avg_reader_cost: 1.2482 avg_batch_cost: 1.5965, avg_ips: 60.1333.
+Type : toothbrush Train [ Epoch 455/500 ], loss: 0.0927, avg_reader_cost: 1.2426 avg_batch_cost: 1.3902, avg_ips: 69.0558.
+Type : toothbrush Train [ Epoch 456/500 ], loss: 0.0765, avg_reader_cost: 1.2321 avg_batch_cost: 1.3794, avg_ips: 69.5974.
+Type : toothbrush Train [ Epoch 457/500 ], loss: 0.0580, avg_reader_cost: 1.2240 avg_batch_cost: 1.3685, avg_ips: 70.1502.
+Type : toothbrush Train [ Epoch 458/500 ], loss: 0.0779, avg_reader_cost: 1.2302 avg_batch_cost: 1.5793, avg_ips: 60.7879.
+Type : toothbrush Train [ Epoch 459/500 ], loss: 0.0983, avg_reader_cost: 1.2268 avg_batch_cost: 1.5733, avg_ips: 61.0178.
+Type : toothbrush Train [ Epoch 460/500 ], loss: 0.0641, avg_reader_cost: 1.2386 avg_batch_cost: 1.3770, avg_ips: 69.7158.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 460/500 ] max_auc: 0.9889 roc_auc : 0.925000.
+Type : toothbrush Train [ Epoch 461/500 ], loss: 0.1094, avg_reader_cost: 4.4123 avg_batch_cost: 4.8470, avg_ips: 19.8062.
+Type : toothbrush Train [ Epoch 462/500 ], loss: 0.1481, avg_reader_cost: 0.0007 avg_batch_cost: 0.3534, avg_ips: 271.6236.
+Type : toothbrush Train [ Epoch 463/500 ], loss: 0.0960, avg_reader_cost: 0.3764 avg_batch_cost: 0.5240, avg_ips: 183.1915.
+Type : toothbrush Train [ Epoch 464/500 ], loss: 0.0587, avg_reader_cost: 1.3587 avg_batch_cost: 1.7165, avg_ips: 55.9282.
+Type : toothbrush Train [ Epoch 465/500 ], loss: 0.0581, avg_reader_cost: 1.5801 avg_batch_cost: 1.6856, avg_ips: 56.9515.
+Type : toothbrush Train [ Epoch 466/500 ], loss: 0.0928, avg_reader_cost: 1.2859 avg_batch_cost: 1.6284, avg_ips: 58.9526.
+Type : toothbrush Train [ Epoch 467/500 ], loss: 0.1071, avg_reader_cost: 1.2492 avg_batch_cost: 1.5916, avg_ips: 60.3164.
+Type : toothbrush Train [ Epoch 468/500 ], loss: 0.0759, avg_reader_cost: 1.2392 avg_batch_cost: 1.4118, avg_ips: 67.9979.
+Type : toothbrush Train [ Epoch 469/500 ], loss: 0.1036, avg_reader_cost: 1.2528 avg_batch_cost: 1.5929, avg_ips: 60.2687.
+Type : toothbrush Train [ Epoch 470/500 ], loss: 0.0821, avg_reader_cost: 1.2326 avg_batch_cost: 1.5757, avg_ips: 60.9246.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 470/500 ] max_auc: 0.9889 roc_auc : 0.922222.
+Type : toothbrush Train [ Epoch 471/500 ], loss: 0.0920, avg_reader_cost: 4.2717 avg_batch_cost: 4.7197, avg_ips: 20.3401.
+Type : toothbrush Train [ Epoch 472/500 ], loss: 0.0751, avg_reader_cost: 0.0006 avg_batch_cost: 0.3412, avg_ips: 281.3624.
+Type : toothbrush Train [ Epoch 473/500 ], loss: 0.1004, avg_reader_cost: 0.4214 avg_batch_cost: 0.7643, avg_ips: 125.6084.
+Type : toothbrush Train [ Epoch 474/500 ], loss: 0.0955, avg_reader_cost: 1.2303 avg_batch_cost: 1.5772, avg_ips: 60.8661.
+Type : toothbrush Train [ Epoch 475/500 ], loss: 0.0834, avg_reader_cost: 1.2683 avg_batch_cost: 1.6111, avg_ips: 59.5882.
+Type : toothbrush Train [ Epoch 476/500 ], loss: 0.1040, avg_reader_cost: 1.2483 avg_batch_cost: 1.5999, avg_ips: 60.0020.
+Type : toothbrush Train [ Epoch 477/500 ], loss: 0.1083, avg_reader_cost: 1.2508 avg_batch_cost: 1.5931, avg_ips: 60.2601.
+Type : toothbrush Train [ Epoch 478/500 ], loss: 0.1056, avg_reader_cost: 1.2609 avg_batch_cost: 1.4072, avg_ips: 68.2219.
+Type : toothbrush Train [ Epoch 479/500 ], loss: 0.0458, avg_reader_cost: 1.3176 avg_batch_cost: 1.6579, avg_ips: 57.9030.
+Type : toothbrush Train [ Epoch 480/500 ], loss: 0.0850, avg_reader_cost: 1.2478 avg_batch_cost: 1.5923, avg_ips: 60.2884.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 480/500 ] max_auc: 0.9889 roc_auc : 0.950000.
+Type : toothbrush Train [ Epoch 481/500 ], loss: 0.0878, avg_reader_cost: 4.5159 avg_batch_cost: 5.0006, avg_ips: 19.1978.
+Type : toothbrush Train [ Epoch 482/500 ], loss: 0.0634, avg_reader_cost: 0.0003 avg_batch_cost: 0.3514, avg_ips: 273.2151.
+Type : toothbrush Train [ Epoch 483/500 ], loss: 0.0762, avg_reader_cost: 0.4094 avg_batch_cost: 0.7558, avg_ips: 127.0245.
+Type : toothbrush Train [ Epoch 484/500 ], loss: 0.0804, avg_reader_cost: 1.2388 avg_batch_cost: 1.3874, avg_ips: 69.1921.
+Type : toothbrush Train [ Epoch 485/500 ], loss: 0.0790, avg_reader_cost: 1.2237 avg_batch_cost: 1.3683, avg_ips: 70.1617.
+Type : toothbrush Train [ Epoch 486/500 ], loss: 0.1091, avg_reader_cost: 1.2426 avg_batch_cost: 1.3808, avg_ips: 69.5265.
+Type : toothbrush Train [ Epoch 487/500 ], loss: 0.0738, avg_reader_cost: 1.2156 avg_batch_cost: 1.3547, avg_ips: 70.8625.
+Type : toothbrush Train [ Epoch 488/500 ], loss: 0.1066, avg_reader_cost: 1.2372 avg_batch_cost: 1.3771, avg_ips: 69.7142.
+Type : toothbrush Train [ Epoch 489/500 ], loss: 0.0502, avg_reader_cost: 1.2395 avg_batch_cost: 1.3753, avg_ips: 69.8030.
+Type : toothbrush Train [ Epoch 490/500 ], loss: 0.0938, avg_reader_cost: 1.2671 avg_batch_cost: 1.6133, avg_ips: 59.5061.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 490/500 ] max_auc: 0.9889 roc_auc : 0.913889.
+Type : toothbrush Train [ Epoch 491/500 ], loss: 0.0836, avg_reader_cost: 4.4445 avg_batch_cost: 4.8003, avg_ips: 19.9988.
+Type : toothbrush Train [ Epoch 492/500 ], loss: 0.0726, avg_reader_cost: 0.0003 avg_batch_cost: 0.3510, avg_ips: 273.4979.
+Type : toothbrush Train [ Epoch 493/500 ], loss: 0.0536, avg_reader_cost: 0.3909 avg_batch_cost: 0.7474, avg_ips: 128.4530.
+Type : toothbrush Train [ Epoch 494/500 ], loss: 0.1143, avg_reader_cost: 1.2660 avg_batch_cost: 1.6093, avg_ips: 59.6546.
+Type : toothbrush Train [ Epoch 495/500 ], loss: 0.0780, avg_reader_cost: 1.2260 avg_batch_cost: 1.5693, avg_ips: 61.1719.
+Type : toothbrush Train [ Epoch 496/500 ], loss: 0.0921, avg_reader_cost: 1.2259 avg_batch_cost: 1.3316, avg_ips: 72.0932.
+Type : toothbrush Train [ Epoch 497/500 ], loss: 0.0572, avg_reader_cost: 1.2761 avg_batch_cost: 1.4207, avg_ips: 67.5741.
+Type : toothbrush Train [ Epoch 498/500 ], loss: 0.1319, avg_reader_cost: 1.2975 avg_batch_cost: 1.6444, avg_ips: 58.3811.
+Type : toothbrush Train [ Epoch 499/500 ], loss: 0.0621, avg_reader_cost: 1.2660 avg_batch_cost: 1.4932, avg_ips: 64.2933.
+Type : toothbrush Train [ Epoch 500/500 ], loss: 0.0624, avg_reader_cost: 1.2458 avg_batch_cost: 1.5914, avg_ips: 60.3231.
+loading images
+loaded 60 images
+using density estimation GaussianDensityPaddle
+Type : toothbrush Val [ Epoch 500/500 ] max_auc: 0.9889 roc_auc : 0.913889.
