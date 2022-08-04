@@ -1,700 +1,700 @@
-Type : screw Train [ Epoch 1/500 ], loss: 1.4271, avg_reader_cost: 0.8348 avg_batch_cost: 1.2158, avg_ips: 78.9591.
-Type : screw Train [ Epoch 2/500 ], loss: 1.2144, avg_reader_cost: 0.7823 avg_batch_cost: 1.1419, avg_ips: 84.0712.
-Type : screw Train [ Epoch 3/500 ], loss: 1.0382, avg_reader_cost: 0.7857 avg_batch_cost: 1.1528, avg_ips: 83.2742.
-Type : screw Train [ Epoch 4/500 ], loss: 0.9012, avg_reader_cost: 0.7716 avg_batch_cost: 1.1420, avg_ips: 84.0622.
-Type : screw Train [ Epoch 5/500 ], loss: 0.8859, avg_reader_cost: 0.7656 avg_batch_cost: 1.1290, avg_ips: 85.0285.
-Type : screw Train [ Epoch 6/500 ], loss: 0.8194, avg_reader_cost: 0.7809 avg_batch_cost: 1.1385, avg_ips: 84.3225.
-Type : screw Train [ Epoch 7/500 ], loss: 0.7909, avg_reader_cost: 0.7739 avg_batch_cost: 1.1472, avg_ips: 83.6795.
-Type : screw Train [ Epoch 8/500 ], loss: 0.6846, avg_reader_cost: 0.7661 avg_batch_cost: 1.1356, avg_ips: 84.5345.
-Type : screw Train [ Epoch 9/500 ], loss: 0.6912, avg_reader_cost: 0.7648 avg_batch_cost: 1.1323, avg_ips: 84.7831.
-Type : screw Train [ Epoch 10/500 ], loss: 0.6932, avg_reader_cost: 0.7883 avg_batch_cost: 1.1494, avg_ips: 83.5216.
+Type : screw Train [ Epoch 1/500 ], loss: 1.4074, avg_reader_cost: 0.8298 avg_batch_cost: 0.9885, avg_ips: 97.1195.
+Type : screw Train [ Epoch 2/500 ], loss: 1.3542, avg_reader_cost: 0.7842 avg_batch_cost: 0.9241, avg_ips: 103.8846.
+Type : screw Train [ Epoch 3/500 ], loss: 1.1462, avg_reader_cost: 0.7906 avg_batch_cost: 0.9325, avg_ips: 102.9497.
+Type : screw Train [ Epoch 4/500 ], loss: 1.0623, avg_reader_cost: 0.7866 avg_batch_cost: 0.9272, avg_ips: 103.5381.
+Type : screw Train [ Epoch 5/500 ], loss: 1.0076, avg_reader_cost: 0.7851 avg_batch_cost: 0.9195, avg_ips: 104.4092.
+Type : screw Train [ Epoch 6/500 ], loss: 1.0504, avg_reader_cost: 0.7965 avg_batch_cost: 0.9308, avg_ips: 103.1336.
+Type : screw Train [ Epoch 7/500 ], loss: 0.9823, avg_reader_cost: 0.7911 avg_batch_cost: 0.9248, avg_ips: 103.8080.
+Type : screw Train [ Epoch 8/500 ], loss: 0.9188, avg_reader_cost: 0.7947 avg_batch_cost: 0.9280, avg_ips: 103.4535.
+Type : screw Train [ Epoch 9/500 ], loss: 0.8847, avg_reader_cost: 0.8027 avg_batch_cost: 0.9381, avg_ips: 102.3396.
+Type : screw Train [ Epoch 10/500 ], loss: 0.8720, avg_reader_cost: 0.7889 avg_batch_cost: 0.9241, avg_ips: 103.8809.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 10/500 ] max_auc: 0.2050 roc_auc : 0.204960.
-Type : screw Train [ Epoch 11/500 ], loss: 0.6525, avg_reader_cost: 8.0290 avg_batch_cost: 8.4190, avg_ips: 11.4027.
-Type : screw Train [ Epoch 12/500 ], loss: 0.6487, avg_reader_cost: 0.0006 avg_batch_cost: 0.3621, avg_ips: 265.1450.
-Type : screw Train [ Epoch 13/500 ], loss: 0.6396, avg_reader_cost: 0.0003 avg_batch_cost: 0.3572, avg_ips: 268.7603.
-Type : screw Train [ Epoch 14/500 ], loss: 0.6605, avg_reader_cost: 0.0005 avg_batch_cost: 0.3578, avg_ips: 268.3251.
-Type : screw Train [ Epoch 15/500 ], loss: 0.6257, avg_reader_cost: 0.0006 avg_batch_cost: 0.3732, avg_ips: 257.2481.
-Type : screw Train [ Epoch 16/500 ], loss: 0.6391, avg_reader_cost: 0.5938 avg_batch_cost: 0.9588, avg_ips: 100.1228.
-Type : screw Train [ Epoch 17/500 ], loss: 0.6403, avg_reader_cost: 0.7648 avg_batch_cost: 1.1240, avg_ips: 85.4096.
-Type : screw Train [ Epoch 18/500 ], loss: 0.5941, avg_reader_cost: 0.7664 avg_batch_cost: 1.1215, avg_ips: 85.5970.
-Type : screw Train [ Epoch 19/500 ], loss: 0.5999, avg_reader_cost: 0.7670 avg_batch_cost: 1.1215, avg_ips: 85.5996.
-Type : screw Train [ Epoch 20/500 ], loss: 0.5912, avg_reader_cost: 0.8037 avg_batch_cost: 1.1641, avg_ips: 82.4640.
+Type : screw Val [ Epoch 10/500 ] max_auc: 0.6548 roc_auc : 0.654847.
+Type : screw Train [ Epoch 11/500 ], loss: 0.8847, avg_reader_cost: 7.8693 avg_batch_cost: 8.0025, avg_ips: 11.9962.
+Type : screw Train [ Epoch 12/500 ], loss: 0.8526, avg_reader_cost: 0.0003 avg_batch_cost: 0.1363, avg_ips: 704.2593.
+Type : screw Train [ Epoch 13/500 ], loss: 0.8686, avg_reader_cost: 0.0006 avg_batch_cost: 0.1369, avg_ips: 701.3764.
+Type : screw Train [ Epoch 14/500 ], loss: 0.9078, avg_reader_cost: 0.0003 avg_batch_cost: 0.1343, avg_ips: 715.0524.
+Type : screw Train [ Epoch 15/500 ], loss: 0.8968, avg_reader_cost: 0.0002 avg_batch_cost: 0.1308, avg_ips: 734.0734.
+Type : screw Train [ Epoch 16/500 ], loss: 0.8242, avg_reader_cost: 0.6608 avg_batch_cost: 0.8011, avg_ips: 119.8425.
+Type : screw Train [ Epoch 17/500 ], loss: 0.7866, avg_reader_cost: 0.7905 avg_batch_cost: 0.9255, avg_ips: 103.7271.
+Type : screw Train [ Epoch 18/500 ], loss: 0.7903, avg_reader_cost: 0.7840 avg_batch_cost: 0.9192, avg_ips: 104.4358.
+Type : screw Train [ Epoch 19/500 ], loss: 0.7541, avg_reader_cost: 0.7816 avg_batch_cost: 0.9189, avg_ips: 104.4727.
+Type : screw Train [ Epoch 20/500 ], loss: 0.7622, avg_reader_cost: 0.7853 avg_batch_cost: 0.9183, avg_ips: 104.5454.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 20/500 ] max_auc: 0.2050 roc_auc : 0.047346.
-Type : screw Train [ Epoch 21/500 ], loss: 0.5346, avg_reader_cost: 7.9532 avg_batch_cost: 8.4128, avg_ips: 11.4111.
-Type : screw Train [ Epoch 22/500 ], loss: 0.5108, avg_reader_cost: 0.0006 avg_batch_cost: 0.3704, avg_ips: 259.1755.
-Type : screw Train [ Epoch 23/500 ], loss: 0.4873, avg_reader_cost: 0.0004 avg_batch_cost: 0.3660, avg_ips: 262.2883.
-Type : screw Train [ Epoch 24/500 ], loss: 0.5180, avg_reader_cost: 0.0006 avg_batch_cost: 0.3657, avg_ips: 262.5399.
-Type : screw Train [ Epoch 25/500 ], loss: 0.4925, avg_reader_cost: 0.0006 avg_batch_cost: 0.3678, avg_ips: 261.0265.
-Type : screw Train [ Epoch 26/500 ], loss: 0.4545, avg_reader_cost: 0.5779 avg_batch_cost: 0.9442, avg_ips: 101.6708.
-Type : screw Train [ Epoch 27/500 ], loss: 0.4732, avg_reader_cost: 0.7582 avg_batch_cost: 1.1283, avg_ips: 85.0842.
-Type : screw Train [ Epoch 28/500 ], loss: 0.4335, avg_reader_cost: 0.7647 avg_batch_cost: 1.1388, avg_ips: 84.2984.
-Type : screw Train [ Epoch 29/500 ], loss: 0.4866, avg_reader_cost: 0.9062 avg_batch_cost: 1.2698, avg_ips: 75.5998.
-Type : screw Train [ Epoch 30/500 ], loss: 0.4164, avg_reader_cost: 0.7602 avg_batch_cost: 1.1280, avg_ips: 85.1028.
+Type : screw Val [ Epoch 20/500 ] max_auc: 0.6548 roc_auc : 0.517319.
+Type : screw Train [ Epoch 21/500 ], loss: 0.7991, avg_reader_cost: 7.9443 avg_batch_cost: 8.4083, avg_ips: 11.4172.
+Type : screw Train [ Epoch 22/500 ], loss: 0.8271, avg_reader_cost: 0.0003 avg_batch_cost: 0.3586, avg_ips: 267.7267.
+Type : screw Train [ Epoch 23/500 ], loss: 0.8379, avg_reader_cost: 0.0004 avg_batch_cost: 0.3641, avg_ips: 263.6813.
+Type : screw Train [ Epoch 24/500 ], loss: 0.8948, avg_reader_cost: 0.0005 avg_batch_cost: 0.3574, avg_ips: 268.6332.
+Type : screw Train [ Epoch 25/500 ], loss: 0.6423, avg_reader_cost: 0.0003 avg_batch_cost: 0.3717, avg_ips: 258.2582.
+Type : screw Train [ Epoch 26/500 ], loss: 0.6870, avg_reader_cost: 0.5797 avg_batch_cost: 0.9311, avg_ips: 103.1075.
+Type : screw Train [ Epoch 27/500 ], loss: 0.6177, avg_reader_cost: 0.7774 avg_batch_cost: 1.1304, avg_ips: 84.9278.
+Type : screw Train [ Epoch 28/500 ], loss: 0.6266, avg_reader_cost: 0.7908 avg_batch_cost: 1.1477, avg_ips: 83.6439.
+Type : screw Train [ Epoch 29/500 ], loss: 0.5811, avg_reader_cost: 0.7769 avg_batch_cost: 1.1352, avg_ips: 84.5640.
+Type : screw Train [ Epoch 30/500 ], loss: 0.5632, avg_reader_cost: 0.7805 avg_batch_cost: 1.1373, avg_ips: 84.4071.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 30/500 ] max_auc: 0.2050 roc_auc : 0.082804.
-Type : screw Train [ Epoch 31/500 ], loss: 0.4068, avg_reader_cost: 6.0680 avg_batch_cost: 6.1843, avg_ips: 15.5231.
-Type : screw Train [ Epoch 32/500 ], loss: 0.3944, avg_reader_cost: 0.8343 avg_batch_cost: 1.2003, avg_ips: 79.9810.
-Type : screw Train [ Epoch 33/500 ], loss: 0.3906, avg_reader_cost: 0.7496 avg_batch_cost: 1.1182, avg_ips: 85.8484.
-Type : screw Train [ Epoch 34/500 ], loss: 0.4109, avg_reader_cost: 0.7505 avg_batch_cost: 1.1083, avg_ips: 86.6214.
-Type : screw Train [ Epoch 35/500 ], loss: 0.3928, avg_reader_cost: 0.7582 avg_batch_cost: 1.1256, avg_ips: 85.2911.
-Type : screw Train [ Epoch 36/500 ], loss: 0.4036, avg_reader_cost: 0.7584 avg_batch_cost: 1.1328, avg_ips: 84.7454.
-Type : screw Train [ Epoch 37/500 ], loss: 0.3794, avg_reader_cost: 0.7492 avg_batch_cost: 1.1152, avg_ips: 86.0859.
-Type : screw Train [ Epoch 38/500 ], loss: 0.3891, avg_reader_cost: 0.7701 avg_batch_cost: 1.1318, avg_ips: 84.8183.
-Type : screw Train [ Epoch 39/500 ], loss: 0.3663, avg_reader_cost: 0.7608 avg_batch_cost: 1.1224, avg_ips: 85.5292.
-Type : screw Train [ Epoch 40/500 ], loss: 0.4723, avg_reader_cost: 0.7574 avg_batch_cost: 1.1237, avg_ips: 85.4324.
+Type : screw Val [ Epoch 30/500 ] max_auc: 0.6548 roc_auc : 0.160894.
+Type : screw Train [ Epoch 31/500 ], loss: 0.5388, avg_reader_cost: 6.0961 avg_batch_cost: 6.2318, avg_ips: 15.4048.
+Type : screw Train [ Epoch 32/500 ], loss: 0.5420, avg_reader_cost: 0.8264 avg_batch_cost: 1.1863, avg_ips: 80.9233.
+Type : screw Train [ Epoch 33/500 ], loss: 0.5743, avg_reader_cost: 0.7736 avg_batch_cost: 1.1313, avg_ips: 84.8603.
+Type : screw Train [ Epoch 34/500 ], loss: 0.5416, avg_reader_cost: 0.7693 avg_batch_cost: 1.1225, avg_ips: 85.5239.
+Type : screw Train [ Epoch 35/500 ], loss: 0.5897, avg_reader_cost: 0.7657 avg_batch_cost: 1.1193, avg_ips: 85.7713.
+Type : screw Train [ Epoch 36/500 ], loss: 0.4886, avg_reader_cost: 0.7690 avg_batch_cost: 1.1275, avg_ips: 85.1464.
+Type : screw Train [ Epoch 37/500 ], loss: 0.5175, avg_reader_cost: 0.7622 avg_batch_cost: 1.1201, avg_ips: 85.7079.
+Type : screw Train [ Epoch 38/500 ], loss: 0.5277, avg_reader_cost: 0.7725 avg_batch_cost: 1.1299, avg_ips: 84.9611.
+Type : screw Train [ Epoch 39/500 ], loss: 0.4782, avg_reader_cost: 0.7749 avg_batch_cost: 1.1312, avg_ips: 84.8622.
+Type : screw Train [ Epoch 40/500 ], loss: 0.5273, avg_reader_cost: 0.7721 avg_batch_cost: 1.1291, avg_ips: 85.0215.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 40/500 ] max_auc: 0.2050 roc_auc : 0.144907.
-Type : screw Train [ Epoch 41/500 ], loss: 0.4838, avg_reader_cost: 7.6869 avg_batch_cost: 8.2279, avg_ips: 11.6676.
-Type : screw Train [ Epoch 42/500 ], loss: 0.3801, avg_reader_cost: 0.0003 avg_batch_cost: 0.3583, avg_ips: 267.9248.
-Type : screw Train [ Epoch 43/500 ], loss: 0.4488, avg_reader_cost: 0.0003 avg_batch_cost: 0.3610, avg_ips: 265.8926.
-Type : screw Train [ Epoch 44/500 ], loss: 0.3358, avg_reader_cost: 0.0004 avg_batch_cost: 0.3632, avg_ips: 264.3004.
-Type : screw Train [ Epoch 45/500 ], loss: 0.2954, avg_reader_cost: 0.0015 avg_batch_cost: 0.3640, avg_ips: 263.7523.
-Type : screw Train [ Epoch 46/500 ], loss: 0.3487, avg_reader_cost: 0.6043 avg_batch_cost: 0.9609, avg_ips: 99.9024.
-Type : screw Train [ Epoch 47/500 ], loss: 0.3005, avg_reader_cost: 0.7767 avg_batch_cost: 1.1343, avg_ips: 84.6325.
-Type : screw Train [ Epoch 48/500 ], loss: 0.3385, avg_reader_cost: 0.7739 avg_batch_cost: 1.1407, avg_ips: 84.1599.
-Type : screw Train [ Epoch 49/500 ], loss: 0.3266, avg_reader_cost: 0.7706 avg_batch_cost: 1.1363, avg_ips: 84.4880.
-Type : screw Train [ Epoch 50/500 ], loss: 0.2953, avg_reader_cost: 0.7795 avg_batch_cost: 1.1374, avg_ips: 84.3994.
+Type : screw Val [ Epoch 40/500 ] max_auc: 0.6548 roc_auc : 0.201271.
+Type : screw Train [ Epoch 41/500 ], loss: 0.4604, avg_reader_cost: 7.4186 avg_batch_cost: 7.8839, avg_ips: 12.1768.
+Type : screw Train [ Epoch 42/500 ], loss: 0.4405, avg_reader_cost: 0.0020 avg_batch_cost: 0.3726, avg_ips: 257.6184.
+Type : screw Train [ Epoch 43/500 ], loss: 0.4034, avg_reader_cost: 0.0003 avg_batch_cost: 0.3640, avg_ips: 263.7704.
+Type : screw Train [ Epoch 44/500 ], loss: 0.4825, avg_reader_cost: 0.0005 avg_batch_cost: 0.3534, avg_ips: 271.6238.
+Type : screw Train [ Epoch 45/500 ], loss: 0.4349, avg_reader_cost: 0.0003 avg_batch_cost: 0.3538, avg_ips: 271.3262.
+Type : screw Train [ Epoch 46/500 ], loss: 0.3924, avg_reader_cost: 0.5824 avg_batch_cost: 0.9342, avg_ips: 102.7623.
+Type : screw Train [ Epoch 47/500 ], loss: 0.3927, avg_reader_cost: 0.7692 avg_batch_cost: 1.1191, avg_ips: 85.7869.
+Type : screw Train [ Epoch 48/500 ], loss: 0.4109, avg_reader_cost: 0.7680 avg_batch_cost: 1.1174, avg_ips: 85.9160.
+Type : screw Train [ Epoch 49/500 ], loss: 0.3986, avg_reader_cost: 0.7652 avg_batch_cost: 1.1228, avg_ips: 85.5015.
+Type : screw Train [ Epoch 50/500 ], loss: 0.3832, avg_reader_cost: 0.7659 avg_batch_cost: 1.1279, avg_ips: 85.1137.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 50/500 ] max_auc: 0.3236 roc_auc : 0.323632.
-Type : screw Train [ Epoch 51/500 ], loss: 0.3092, avg_reader_cost: 8.2975 avg_batch_cost: 8.6535, avg_ips: 11.0938.
-Type : screw Train [ Epoch 52/500 ], loss: 0.3133, avg_reader_cost: 0.0004 avg_batch_cost: 0.3550, avg_ips: 270.4214.
-Type : screw Train [ Epoch 53/500 ], loss: 0.3820, avg_reader_cost: 0.0004 avg_batch_cost: 0.3515, avg_ips: 273.0943.
-Type : screw Train [ Epoch 54/500 ], loss: 0.2994, avg_reader_cost: 0.0011 avg_batch_cost: 0.3547, avg_ips: 270.6135.
-Type : screw Train [ Epoch 55/500 ], loss: 0.2900, avg_reader_cost: 0.0002 avg_batch_cost: 0.3585, avg_ips: 267.7525.
-Type : screw Train [ Epoch 56/500 ], loss: 0.3110, avg_reader_cost: 0.6223 avg_batch_cost: 0.9898, avg_ips: 96.9863.
-Type : screw Train [ Epoch 57/500 ], loss: 0.2600, avg_reader_cost: 0.7777 avg_batch_cost: 1.1405, avg_ips: 84.1749.
-Type : screw Train [ Epoch 58/500 ], loss: 0.2815, avg_reader_cost: 0.7635 avg_batch_cost: 1.1255, avg_ips: 85.2973.
-Type : screw Train [ Epoch 59/500 ], loss: 0.2672, avg_reader_cost: 0.7566 avg_batch_cost: 1.1142, avg_ips: 86.1627.
-Type : screw Train [ Epoch 60/500 ], loss: 0.2899, avg_reader_cost: 0.7545 avg_batch_cost: 1.1124, avg_ips: 86.3003.
+Type : screw Val [ Epoch 50/500 ] max_auc: 0.6548 roc_auc : 0.187538.
+Type : screw Train [ Epoch 51/500 ], loss: 0.3607, avg_reader_cost: 7.6735 avg_batch_cost: 8.1428, avg_ips: 11.7896.
+Type : screw Train [ Epoch 52/500 ], loss: 0.3397, avg_reader_cost: 0.0004 avg_batch_cost: 0.3526, avg_ips: 272.2874.
+Type : screw Train [ Epoch 53/500 ], loss: 0.4072, avg_reader_cost: 0.0003 avg_batch_cost: 0.3519, avg_ips: 272.7661.
+Type : screw Train [ Epoch 54/500 ], loss: 0.3789, avg_reader_cost: 0.0006 avg_batch_cost: 0.3538, avg_ips: 271.3390.
+Type : screw Train [ Epoch 55/500 ], loss: 0.3679, avg_reader_cost: 0.0005 avg_batch_cost: 0.3546, avg_ips: 270.7207.
+Type : screw Train [ Epoch 56/500 ], loss: 0.3501, avg_reader_cost: 0.6523 avg_batch_cost: 1.0083, avg_ips: 95.2051.
+Type : screw Train [ Epoch 57/500 ], loss: 0.3569, avg_reader_cost: 0.7746 avg_batch_cost: 1.1242, avg_ips: 85.3959.
+Type : screw Train [ Epoch 58/500 ], loss: 0.3400, avg_reader_cost: 0.7682 avg_batch_cost: 1.1222, avg_ips: 85.5478.
+Type : screw Train [ Epoch 59/500 ], loss: 0.3153, avg_reader_cost: 0.7754 avg_batch_cost: 1.1316, avg_ips: 84.8355.
+Type : screw Train [ Epoch 60/500 ], loss: 0.3487, avg_reader_cost: 0.7643 avg_batch_cost: 1.1177, avg_ips: 85.8925.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 60/500 ] max_auc: 0.3236 roc_auc : 0.281820.
-Type : screw Train [ Epoch 61/500 ], loss: 0.2213, avg_reader_cost: 6.3224 avg_batch_cost: 6.4477, avg_ips: 14.8891.
-Type : screw Train [ Epoch 62/500 ], loss: 0.3315, avg_reader_cost: 0.0003 avg_batch_cost: 0.1044, avg_ips: 919.9107.
-Type : screw Train [ Epoch 63/500 ], loss: 0.2190, avg_reader_cost: 0.8211 avg_batch_cost: 1.1763, avg_ips: 81.6137.
-Type : screw Train [ Epoch 64/500 ], loss: 0.2594, avg_reader_cost: 0.7697 avg_batch_cost: 1.1370, avg_ips: 84.4320.
-Type : screw Train [ Epoch 65/500 ], loss: 0.2730, avg_reader_cost: 0.7704 avg_batch_cost: 1.1309, avg_ips: 84.8860.
-Type : screw Train [ Epoch 66/500 ], loss: 0.2498, avg_reader_cost: 0.7778 avg_batch_cost: 1.1453, avg_ips: 83.8198.
-Type : screw Train [ Epoch 67/500 ], loss: 0.2156, avg_reader_cost: 0.7653 avg_batch_cost: 1.1377, avg_ips: 84.3824.
-Type : screw Train [ Epoch 68/500 ], loss: 0.2814, avg_reader_cost: 0.7498 avg_batch_cost: 1.1139, avg_ips: 86.1859.
-Type : screw Train [ Epoch 69/500 ], loss: 0.2286, avg_reader_cost: 0.7578 avg_batch_cost: 1.1209, avg_ips: 85.6437.
-Type : screw Train [ Epoch 70/500 ], loss: 0.1970, avg_reader_cost: 0.7525 avg_batch_cost: 1.1100, avg_ips: 86.4832.
+Type : screw Val [ Epoch 60/500 ] max_auc: 0.6548 roc_auc : 0.336134.
+Type : screw Train [ Epoch 61/500 ], loss: 0.4100, avg_reader_cost: 6.7998 avg_batch_cost: 6.9245, avg_ips: 13.8638.
+Type : screw Train [ Epoch 62/500 ], loss: 0.3583, avg_reader_cost: 0.0004 avg_batch_cost: 0.1077, avg_ips: 891.0267.
+Type : screw Train [ Epoch 63/500 ], loss: 0.2805, avg_reader_cost: 0.8904 avg_batch_cost: 1.2566, avg_ips: 76.3971.
+Type : screw Train [ Epoch 64/500 ], loss: 0.3660, avg_reader_cost: 0.8480 avg_batch_cost: 1.2062, avg_ips: 79.5868.
+Type : screw Train [ Epoch 65/500 ], loss: 0.4022, avg_reader_cost: 0.7901 avg_batch_cost: 1.1505, avg_ips: 83.4390.
+Type : screw Train [ Epoch 66/500 ], loss: 0.4001, avg_reader_cost: 0.8455 avg_batch_cost: 1.2013, avg_ips: 79.9151.
+Type : screw Train [ Epoch 67/500 ], loss: 0.3786, avg_reader_cost: 0.8636 avg_batch_cost: 1.2201, avg_ips: 78.6805.
+Type : screw Train [ Epoch 68/500 ], loss: 0.3325, avg_reader_cost: 0.8280 avg_batch_cost: 1.1853, avg_ips: 80.9933.
+Type : screw Train [ Epoch 69/500 ], loss: 0.3162, avg_reader_cost: 0.7787 avg_batch_cost: 1.1339, avg_ips: 84.6640.
+Type : screw Train [ Epoch 70/500 ], loss: 0.3677, avg_reader_cost: 0.7700 avg_batch_cost: 1.1273, avg_ips: 85.1607.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 70/500 ] max_auc: 0.5296 roc_auc : 0.529617.
-Type : screw Train [ Epoch 71/500 ], loss: 0.1862, avg_reader_cost: 8.0764 avg_batch_cost: 8.4499, avg_ips: 11.3611.
-Type : screw Train [ Epoch 72/500 ], loss: 0.2114, avg_reader_cost: 0.0008 avg_batch_cost: 0.3629, avg_ips: 264.5214.
-Type : screw Train [ Epoch 73/500 ], loss: 0.2283, avg_reader_cost: 0.0006 avg_batch_cost: 0.3594, avg_ips: 267.0861.
-Type : screw Train [ Epoch 74/500 ], loss: 0.2119, avg_reader_cost: 0.0003 avg_batch_cost: 0.3628, avg_ips: 264.6403.
-Type : screw Train [ Epoch 75/500 ], loss: 0.2429, avg_reader_cost: 0.0003 avg_batch_cost: 0.3655, avg_ips: 262.6868.
-Type : screw Train [ Epoch 76/500 ], loss: 0.1829, avg_reader_cost: 0.6060 avg_batch_cost: 0.9639, avg_ips: 99.5948.
-Type : screw Train [ Epoch 77/500 ], loss: 0.1677, avg_reader_cost: 0.7700 avg_batch_cost: 1.1295, avg_ips: 84.9952.
-Type : screw Train [ Epoch 78/500 ], loss: 0.2564, avg_reader_cost: 0.7678 avg_batch_cost: 1.1228, avg_ips: 85.5009.
-Type : screw Train [ Epoch 79/500 ], loss: 0.2366, avg_reader_cost: 0.7680 avg_batch_cost: 1.1228, avg_ips: 85.5030.
-Type : screw Train [ Epoch 80/500 ], loss: 0.2135, avg_reader_cost: 0.7666 avg_batch_cost: 1.1345, avg_ips: 84.6220.
+Type : screw Val [ Epoch 70/500 ] max_auc: 0.6548 roc_auc : 0.147571.
+Type : screw Train [ Epoch 71/500 ], loss: 0.3222, avg_reader_cost: 7.7221 avg_batch_cost: 8.1443, avg_ips: 11.7874.
+Type : screw Train [ Epoch 72/500 ], loss: 0.2952, avg_reader_cost: 0.0002 avg_batch_cost: 0.3523, avg_ips: 272.4593.
+Type : screw Train [ Epoch 73/500 ], loss: 0.3402, avg_reader_cost: 0.0005 avg_batch_cost: 0.3511, avg_ips: 273.4121.
+Type : screw Train [ Epoch 74/500 ], loss: 0.2705, avg_reader_cost: 0.0023 avg_batch_cost: 0.3554, avg_ips: 270.1022.
+Type : screw Train [ Epoch 75/500 ], loss: 0.2978, avg_reader_cost: 0.0005 avg_batch_cost: 0.3517, avg_ips: 272.9737.
+Type : screw Train [ Epoch 76/500 ], loss: 0.2973, avg_reader_cost: 0.5938 avg_batch_cost: 0.9475, avg_ips: 101.3174.
+Type : screw Train [ Epoch 77/500 ], loss: 0.2529, avg_reader_cost: 0.7698 avg_batch_cost: 1.1190, avg_ips: 85.7896.
+Type : screw Train [ Epoch 78/500 ], loss: 0.2502, avg_reader_cost: 0.7683 avg_batch_cost: 1.1210, avg_ips: 85.6398.
+Type : screw Train [ Epoch 79/500 ], loss: 0.2315, avg_reader_cost: 0.7651 avg_batch_cost: 1.1154, avg_ips: 86.0703.
+Type : screw Train [ Epoch 80/500 ], loss: 0.3406, avg_reader_cost: 0.7633 avg_batch_cost: 1.1154, avg_ips: 86.0687.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 80/500 ] max_auc: 0.5296 roc_auc : 0.467104.
-Type : screw Train [ Epoch 81/500 ], loss: 0.1895, avg_reader_cost: 7.7714 avg_batch_cost: 8.2200, avg_ips: 11.6789.
-Type : screw Train [ Epoch 82/500 ], loss: 0.1420, avg_reader_cost: 0.0009 avg_batch_cost: 0.3647, avg_ips: 263.2068.
-Type : screw Train [ Epoch 83/500 ], loss: 0.1932, avg_reader_cost: 0.0004 avg_batch_cost: 0.3625, avg_ips: 264.8010.
-Type : screw Train [ Epoch 84/500 ], loss: 0.1819, avg_reader_cost: 0.0003 avg_batch_cost: 0.3597, avg_ips: 266.8951.
-Type : screw Train [ Epoch 85/500 ], loss: 0.2019, avg_reader_cost: 0.0004 avg_batch_cost: 0.3618, avg_ips: 265.3384.
-Type : screw Train [ Epoch 86/500 ], loss: 0.1913, avg_reader_cost: 0.6105 avg_batch_cost: 0.9695, avg_ips: 99.0151.
-Type : screw Train [ Epoch 87/500 ], loss: 0.2098, avg_reader_cost: 0.7704 avg_batch_cost: 1.1252, avg_ips: 85.3210.
-Type : screw Train [ Epoch 88/500 ], loss: 0.1994, avg_reader_cost: 0.7670 avg_batch_cost: 1.1300, avg_ips: 84.9590.
-Type : screw Train [ Epoch 89/500 ], loss: 0.1529, avg_reader_cost: 0.7596 avg_batch_cost: 1.1178, avg_ips: 85.8850.
-Type : screw Train [ Epoch 90/500 ], loss: 0.1710, avg_reader_cost: 0.7598 avg_batch_cost: 1.1179, avg_ips: 85.8780.
+Type : screw Val [ Epoch 80/500 ] max_auc: 0.6548 roc_auc : 0.076655.
+Type : screw Train [ Epoch 81/500 ], loss: 0.2418, avg_reader_cost: 7.4583 avg_batch_cost: 7.9650, avg_ips: 12.0527.
+Type : screw Train [ Epoch 82/500 ], loss: 0.2349, avg_reader_cost: 0.0003 avg_batch_cost: 0.3564, avg_ips: 269.3287.
+Type : screw Train [ Epoch 83/500 ], loss: 0.2087, avg_reader_cost: 0.0003 avg_batch_cost: 0.3571, avg_ips: 268.8538.
+Type : screw Train [ Epoch 84/500 ], loss: 0.2435, avg_reader_cost: 0.0003 avg_batch_cost: 0.3581, avg_ips: 268.0957.
+Type : screw Train [ Epoch 85/500 ], loss: 0.2222, avg_reader_cost: 0.0003 avg_batch_cost: 0.3551, avg_ips: 270.3822.
+Type : screw Train [ Epoch 86/500 ], loss: 0.2005, avg_reader_cost: 0.5865 avg_batch_cost: 0.9382, avg_ips: 102.3278.
+Type : screw Train [ Epoch 87/500 ], loss: 0.2684, avg_reader_cost: 0.7704 avg_batch_cost: 1.1202, avg_ips: 85.6982.
+Type : screw Train [ Epoch 88/500 ], loss: 0.2095, avg_reader_cost: 0.7753 avg_batch_cost: 1.1330, avg_ips: 84.7341.
+Type : screw Train [ Epoch 89/500 ], loss: 0.1791, avg_reader_cost: 0.7706 avg_batch_cost: 1.1298, avg_ips: 84.9715.
+Type : screw Train [ Epoch 90/500 ], loss: 0.2187, avg_reader_cost: 0.7708 avg_batch_cost: 1.1258, avg_ips: 85.2712.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 90/500 ] max_auc: 0.5296 roc_auc : 0.259274.
-Type : screw Train [ Epoch 91/500 ], loss: 0.1639, avg_reader_cost: 6.8361 avg_batch_cost: 7.0311, avg_ips: 13.6536.
-Type : screw Train [ Epoch 92/500 ], loss: 0.1736, avg_reader_cost: 0.0003 avg_batch_cost: 0.1062, avg_ips: 903.7318.
-Type : screw Train [ Epoch 93/500 ], loss: 0.1810, avg_reader_cost: 0.0003 avg_batch_cost: 0.1054, avg_ips: 910.5866.
-Type : screw Train [ Epoch 94/500 ], loss: 0.1310, avg_reader_cost: 0.8380 avg_batch_cost: 1.1970, avg_ips: 80.2002.
-Type : screw Train [ Epoch 95/500 ], loss: 0.1573, avg_reader_cost: 0.7834 avg_batch_cost: 1.1478, avg_ips: 83.6410.
-Type : screw Train [ Epoch 96/500 ], loss: 0.1301, avg_reader_cost: 0.7738 avg_batch_cost: 1.1291, avg_ips: 85.0220.
-Type : screw Train [ Epoch 97/500 ], loss: 0.2055, avg_reader_cost: 0.7826 avg_batch_cost: 1.1511, avg_ips: 83.3959.
-Type : screw Train [ Epoch 98/500 ], loss: 0.1424, avg_reader_cost: 0.7638 avg_batch_cost: 1.1276, avg_ips: 85.1365.
-Type : screw Train [ Epoch 99/500 ], loss: 0.2188, avg_reader_cost: 0.7741 avg_batch_cost: 1.1326, avg_ips: 84.7591.
-Type : screw Train [ Epoch 100/500 ], loss: 0.1507, avg_reader_cost: 0.7633 avg_batch_cost: 1.1222, avg_ips: 85.5488.
+Type : screw Val [ Epoch 90/500 ] max_auc: 0.6548 roc_auc : 0.148596.
+Type : screw Train [ Epoch 91/500 ], loss: 0.2138, avg_reader_cost: 6.8219 avg_batch_cost: 7.0116, avg_ips: 13.6916.
+Type : screw Train [ Epoch 92/500 ], loss: 0.1867, avg_reader_cost: 0.0003 avg_batch_cost: 0.1046, avg_ips: 917.4249.
+Type : screw Train [ Epoch 93/500 ], loss: 0.2096, avg_reader_cost: 0.0003 avg_batch_cost: 0.1042, avg_ips: 921.1797.
+Type : screw Train [ Epoch 94/500 ], loss: 0.2058, avg_reader_cost: 0.8235 avg_batch_cost: 1.1792, avg_ips: 81.4077.
+Type : screw Train [ Epoch 95/500 ], loss: 0.1485, avg_reader_cost: 0.7709 avg_batch_cost: 1.1292, avg_ips: 85.0135.
+Type : screw Train [ Epoch 96/500 ], loss: 0.1876, avg_reader_cost: 0.7665 avg_batch_cost: 1.1233, avg_ips: 85.4635.
+Type : screw Train [ Epoch 97/500 ], loss: 0.1786, avg_reader_cost: 0.7777 avg_batch_cost: 1.1376, avg_ips: 84.3889.
+Type : screw Train [ Epoch 98/500 ], loss: 0.1986, avg_reader_cost: 0.7726 avg_batch_cost: 1.1249, avg_ips: 85.3424.
+Type : screw Train [ Epoch 99/500 ], loss: 0.1646, avg_reader_cost: 0.7952 avg_batch_cost: 1.1491, avg_ips: 83.5458.
+Type : screw Train [ Epoch 100/500 ], loss: 0.1623, avg_reader_cost: 0.7751 avg_batch_cost: 1.1309, avg_ips: 84.8902.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 100/500 ] max_auc: 0.5970 roc_auc : 0.597049.
-Type : screw Train [ Epoch 101/500 ], loss: 0.1840, avg_reader_cost: 8.3977 avg_batch_cost: 8.7794, avg_ips: 10.9347.
-Type : screw Train [ Epoch 102/500 ], loss: 0.2169, avg_reader_cost: 0.0006 avg_batch_cost: 0.3609, avg_ips: 266.0283.
-Type : screw Train [ Epoch 103/500 ], loss: 0.1546, avg_reader_cost: 0.0005 avg_batch_cost: 0.3663, avg_ips: 262.0870.
-Type : screw Train [ Epoch 104/500 ], loss: 0.1891, avg_reader_cost: 0.0003 avg_batch_cost: 0.3583, avg_ips: 267.9018.
-Type : screw Train [ Epoch 105/500 ], loss: 0.2523, avg_reader_cost: 0.0006 avg_batch_cost: 0.3777, avg_ips: 254.1596.
-Type : screw Train [ Epoch 106/500 ], loss: 0.1773, avg_reader_cost: 0.5852 avg_batch_cost: 0.9467, avg_ips: 101.4020.
-Type : screw Train [ Epoch 107/500 ], loss: 0.1907, avg_reader_cost: 0.7707 avg_batch_cost: 1.1307, avg_ips: 84.9069.
-Type : screw Train [ Epoch 108/500 ], loss: 0.1978, avg_reader_cost: 0.7679 avg_batch_cost: 1.1312, avg_ips: 84.8672.
-Type : screw Train [ Epoch 109/500 ], loss: 0.2075, avg_reader_cost: 0.7665 avg_batch_cost: 1.1361, avg_ips: 84.4983.
-Type : screw Train [ Epoch 110/500 ], loss: 0.1689, avg_reader_cost: 0.7647 avg_batch_cost: 1.1298, avg_ips: 84.9736.
+Type : screw Val [ Epoch 100/500 ] max_auc: 0.6548 roc_auc : 0.365854.
+Type : screw Train [ Epoch 101/500 ], loss: 0.1277, avg_reader_cost: 8.0319 avg_batch_cost: 8.4943, avg_ips: 11.3017.
+Type : screw Train [ Epoch 102/500 ], loss: 0.2099, avg_reader_cost: 0.0004 avg_batch_cost: 0.3618, avg_ips: 265.3320.
+Type : screw Train [ Epoch 103/500 ], loss: 0.1826, avg_reader_cost: 0.0003 avg_batch_cost: 0.3523, avg_ips: 272.5209.
+Type : screw Train [ Epoch 104/500 ], loss: 0.1544, avg_reader_cost: 0.0003 avg_batch_cost: 0.3522, avg_ips: 272.6006.
+Type : screw Train [ Epoch 105/500 ], loss: 0.1666, avg_reader_cost: 0.0002 avg_batch_cost: 0.3509, avg_ips: 273.6059.
+Type : screw Train [ Epoch 106/500 ], loss: 0.1257, avg_reader_cost: 0.6034 avg_batch_cost: 0.9580, avg_ips: 100.2072.
+Type : screw Train [ Epoch 107/500 ], loss: 0.1970, avg_reader_cost: 0.7755 avg_batch_cost: 1.1284, avg_ips: 85.0771.
+Type : screw Train [ Epoch 108/500 ], loss: 0.0707, avg_reader_cost: 0.7729 avg_batch_cost: 1.1262, avg_ips: 85.2439.
+Type : screw Train [ Epoch 109/500 ], loss: 0.1709, avg_reader_cost: 0.7600 avg_batch_cost: 1.1122, avg_ips: 86.3167.
+Type : screw Train [ Epoch 110/500 ], loss: 0.1465, avg_reader_cost: 0.7612 avg_batch_cost: 1.1129, avg_ips: 86.2598.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 110/500 ] max_auc: 0.5970 roc_auc : 0.442509.
-Type : screw Train [ Epoch 111/500 ], loss: 0.1576, avg_reader_cost: 7.6625 avg_batch_cost: 8.1260, avg_ips: 11.8139.
-Type : screw Train [ Epoch 112/500 ], loss: 0.1928, avg_reader_cost: 0.0006 avg_batch_cost: 0.3588, avg_ips: 267.5257.
-Type : screw Train [ Epoch 113/500 ], loss: 0.2285, avg_reader_cost: 0.0004 avg_batch_cost: 0.3640, avg_ips: 263.7065.
-Type : screw Train [ Epoch 114/500 ], loss: 0.1746, avg_reader_cost: 0.0003 avg_batch_cost: 0.3635, avg_ips: 264.0641.
-Type : screw Train [ Epoch 115/500 ], loss: 0.2106, avg_reader_cost: 0.0003 avg_batch_cost: 0.3602, avg_ips: 266.4881.
-Type : screw Train [ Epoch 116/500 ], loss: 0.1736, avg_reader_cost: 0.5990 avg_batch_cost: 0.9552, avg_ips: 100.5026.
-Type : screw Train [ Epoch 117/500 ], loss: 0.1583, avg_reader_cost: 0.7711 avg_batch_cost: 1.1346, avg_ips: 84.6120.
-Type : screw Train [ Epoch 118/500 ], loss: 0.1429, avg_reader_cost: 0.7696 avg_batch_cost: 1.1375, avg_ips: 84.3965.
-Type : screw Train [ Epoch 119/500 ], loss: 0.1603, avg_reader_cost: 0.7643 avg_batch_cost: 1.1453, avg_ips: 83.8191.
-Type : screw Train [ Epoch 120/500 ], loss: 0.1631, avg_reader_cost: 0.7595 avg_batch_cost: 1.1286, avg_ips: 85.0616.
+Type : screw Val [ Epoch 110/500 ] max_auc: 0.6548 roc_auc : 0.386350.
+Type : screw Train [ Epoch 111/500 ], loss: 0.0904, avg_reader_cost: 7.4717 avg_batch_cost: 7.9268, avg_ips: 12.1108.
+Type : screw Train [ Epoch 112/500 ], loss: 0.1809, avg_reader_cost: 0.0003 avg_batch_cost: 0.3518, avg_ips: 272.9140.
+Type : screw Train [ Epoch 113/500 ], loss: 0.1328, avg_reader_cost: 0.0007 avg_batch_cost: 0.3524, avg_ips: 272.4191.
+Type : screw Train [ Epoch 114/500 ], loss: 0.1388, avg_reader_cost: 0.0006 avg_batch_cost: 0.3516, avg_ips: 273.0098.
+Type : screw Train [ Epoch 115/500 ], loss: 0.1387, avg_reader_cost: 0.0003 avg_batch_cost: 0.3570, avg_ips: 268.9312.
+Type : screw Train [ Epoch 116/500 ], loss: 0.1294, avg_reader_cost: 0.5850 avg_batch_cost: 0.9488, avg_ips: 101.1811.
+Type : screw Train [ Epoch 117/500 ], loss: 0.1722, avg_reader_cost: 0.7622 avg_batch_cost: 1.1206, avg_ips: 85.6647.
+Type : screw Train [ Epoch 118/500 ], loss: 0.1780, avg_reader_cost: 0.7590 avg_batch_cost: 1.1092, avg_ips: 86.5507.
+Type : screw Train [ Epoch 119/500 ], loss: 0.1439, avg_reader_cost: 0.7657 avg_batch_cost: 1.1227, avg_ips: 85.5080.
+Type : screw Train [ Epoch 120/500 ], loss: 0.1365, avg_reader_cost: 0.7682 avg_batch_cost: 1.1208, avg_ips: 85.6544.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 120/500 ] max_auc: 0.5970 roc_auc : 0.380816.
-Type : screw Train [ Epoch 121/500 ], loss: 0.1606, avg_reader_cost: 7.1871 avg_batch_cost: 7.3013, avg_ips: 13.1484.
-Type : screw Train [ Epoch 122/500 ], loss: 0.1630, avg_reader_cost: 0.0004 avg_batch_cost: 0.1052, avg_ips: 912.4375.
-Type : screw Train [ Epoch 123/500 ], loss: 0.1740, avg_reader_cost: 0.0004 avg_batch_cost: 0.1073, avg_ips: 894.4529.
-Type : screw Train [ Epoch 124/500 ], loss: 0.1446, avg_reader_cost: 0.0004 avg_batch_cost: 0.1061, avg_ips: 904.6983.
-Type : screw Train [ Epoch 125/500 ], loss: 0.1247, avg_reader_cost: 0.8578 avg_batch_cost: 1.2173, avg_ips: 78.8654.
-Type : screw Train [ Epoch 126/500 ], loss: 0.2367, avg_reader_cost: 0.7766 avg_batch_cost: 1.1434, avg_ips: 83.9569.
-Type : screw Train [ Epoch 127/500 ], loss: 0.1397, avg_reader_cost: 0.7535 avg_batch_cost: 1.1155, avg_ips: 86.0605.
-Type : screw Train [ Epoch 128/500 ], loss: 0.1754, avg_reader_cost: 0.7752 avg_batch_cost: 1.1358, avg_ips: 84.5207.
-Type : screw Train [ Epoch 129/500 ], loss: 0.1401, avg_reader_cost: 0.7680 avg_batch_cost: 1.1285, avg_ips: 85.0677.
-Type : screw Train [ Epoch 130/500 ], loss: 0.1750, avg_reader_cost: 0.7808 avg_batch_cost: 1.1401, avg_ips: 84.2028.
+Type : screw Val [ Epoch 120/500 ] max_auc: 0.6548 roc_auc : 0.577577.
+Type : screw Train [ Epoch 121/500 ], loss: 0.1883, avg_reader_cost: 7.2236 avg_batch_cost: 7.4121, avg_ips: 12.9517.
+Type : screw Train [ Epoch 122/500 ], loss: 0.1530, avg_reader_cost: 0.0004 avg_batch_cost: 0.1070, avg_ips: 897.3873.
+Type : screw Train [ Epoch 123/500 ], loss: 0.1835, avg_reader_cost: 0.0003 avg_batch_cost: 0.1067, avg_ips: 899.4359.
+Type : screw Train [ Epoch 124/500 ], loss: 0.1535, avg_reader_cost: 0.0004 avg_batch_cost: 0.1065, avg_ips: 901.3668.
+Type : screw Train [ Epoch 125/500 ], loss: 0.1214, avg_reader_cost: 0.8347 avg_batch_cost: 1.1961, avg_ips: 80.2601.
+Type : screw Train [ Epoch 126/500 ], loss: 0.1726, avg_reader_cost: 0.7661 avg_batch_cost: 1.1269, avg_ips: 85.1863.
+Type : screw Train [ Epoch 127/500 ], loss: 0.1428, avg_reader_cost: 0.7643 avg_batch_cost: 1.1197, avg_ips: 85.7406.
+Type : screw Train [ Epoch 128/500 ], loss: 0.1752, avg_reader_cost: 0.7717 avg_batch_cost: 1.1250, avg_ips: 85.3317.
+Type : screw Train [ Epoch 129/500 ], loss: 0.1566, avg_reader_cost: 0.7752 avg_batch_cost: 1.1311, avg_ips: 84.8734.
+Type : screw Train [ Epoch 130/500 ], loss: 0.1400, avg_reader_cost: 0.7747 avg_batch_cost: 1.1349, avg_ips: 84.5880.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 130/500 ] max_auc: 0.5970 roc_auc : 0.578807.
-Type : screw Train [ Epoch 131/500 ], loss: 0.1784, avg_reader_cost: 7.5791 avg_batch_cost: 8.0482, avg_ips: 11.9281.
-Type : screw Train [ Epoch 132/500 ], loss: 0.1205, avg_reader_cost: 0.0004 avg_batch_cost: 0.3716, avg_ips: 258.3729.
-Type : screw Train [ Epoch 133/500 ], loss: 0.1365, avg_reader_cost: 0.0003 avg_batch_cost: 0.3711, avg_ips: 258.6758.
-Type : screw Train [ Epoch 134/500 ], loss: 0.1478, avg_reader_cost: 0.0007 avg_batch_cost: 0.3670, avg_ips: 261.5769.
-Type : screw Train [ Epoch 135/500 ], loss: 0.1444, avg_reader_cost: 0.0004 avg_batch_cost: 0.3696, avg_ips: 259.7488.
-Type : screw Train [ Epoch 136/500 ], loss: 0.1584, avg_reader_cost: 0.5942 avg_batch_cost: 0.9682, avg_ips: 99.1558.
-Type : screw Train [ Epoch 137/500 ], loss: 0.1363, avg_reader_cost: 0.7567 avg_batch_cost: 1.1300, avg_ips: 84.9580.
-Type : screw Train [ Epoch 138/500 ], loss: 0.1854, avg_reader_cost: 0.7619 avg_batch_cost: 1.1356, avg_ips: 84.5367.
-Type : screw Train [ Epoch 139/500 ], loss: 0.1147, avg_reader_cost: 0.7726 avg_batch_cost: 1.1407, avg_ips: 84.1569.
-Type : screw Train [ Epoch 140/500 ], loss: 0.1317, avg_reader_cost: 0.7666 avg_batch_cost: 1.1359, avg_ips: 84.5181.
+Type : screw Val [ Epoch 130/500 ] max_auc: 0.6548 roc_auc : 0.530232.
+Type : screw Train [ Epoch 131/500 ], loss: 0.1804, avg_reader_cost: 7.6517 avg_batch_cost: 8.0589, avg_ips: 11.9123.
+Type : screw Train [ Epoch 132/500 ], loss: 0.1595, avg_reader_cost: 0.0003 avg_batch_cost: 0.3557, avg_ips: 269.9162.
+Type : screw Train [ Epoch 133/500 ], loss: 0.1545, avg_reader_cost: 0.0003 avg_batch_cost: 0.3557, avg_ips: 269.8623.
+Type : screw Train [ Epoch 134/500 ], loss: 0.1366, avg_reader_cost: 0.0003 avg_batch_cost: 0.3565, avg_ips: 269.2502.
+Type : screw Train [ Epoch 135/500 ], loss: 0.1060, avg_reader_cost: 0.0003 avg_batch_cost: 0.3558, avg_ips: 269.7826.
+Type : screw Train [ Epoch 136/500 ], loss: 0.1100, avg_reader_cost: 0.6190 avg_batch_cost: 0.9738, avg_ips: 98.5831.
+Type : screw Train [ Epoch 137/500 ], loss: 0.1289, avg_reader_cost: 0.7833 avg_batch_cost: 1.1423, avg_ips: 84.0384.
+Type : screw Train [ Epoch 138/500 ], loss: 0.0999, avg_reader_cost: 0.7797 avg_batch_cost: 1.1318, avg_ips: 84.8170.
+Type : screw Train [ Epoch 139/500 ], loss: 0.1751, avg_reader_cost: 0.7785 avg_batch_cost: 1.1398, avg_ips: 84.2225.
+Type : screw Train [ Epoch 140/500 ], loss: 0.1845, avg_reader_cost: 0.7696 avg_batch_cost: 1.1322, avg_ips: 84.7878.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 140/500 ] max_auc: 0.5970 roc_auc : 0.474892.
-Type : screw Train [ Epoch 141/500 ], loss: 0.1558, avg_reader_cost: 7.6568 avg_batch_cost: 8.0999, avg_ips: 11.8520.
-Type : screw Train [ Epoch 142/500 ], loss: 0.1310, avg_reader_cost: 0.0004 avg_batch_cost: 0.3634, avg_ips: 264.1416.
-Type : screw Train [ Epoch 143/500 ], loss: 0.1611, avg_reader_cost: 0.0005 avg_batch_cost: 0.3703, avg_ips: 259.2569.
-Type : screw Train [ Epoch 144/500 ], loss: 0.1119, avg_reader_cost: 0.0003 avg_batch_cost: 0.3637, avg_ips: 263.9843.
-Type : screw Train [ Epoch 145/500 ], loss: 0.1279, avg_reader_cost: 0.0005 avg_batch_cost: 0.3557, avg_ips: 269.8947.
-Type : screw Train [ Epoch 146/500 ], loss: 0.2095, avg_reader_cost: 0.6046 avg_batch_cost: 0.9685, avg_ips: 99.1228.
-Type : screw Train [ Epoch 147/500 ], loss: 0.1708, avg_reader_cost: 0.7559 avg_batch_cost: 1.1124, avg_ips: 86.2965.
-Type : screw Train [ Epoch 148/500 ], loss: 0.1470, avg_reader_cost: 0.7575 avg_batch_cost: 1.1190, avg_ips: 85.7944.
-Type : screw Train [ Epoch 149/500 ], loss: 0.1244, avg_reader_cost: 0.7571 avg_batch_cost: 1.1187, avg_ips: 85.8113.
-Type : screw Train [ Epoch 150/500 ], loss: 0.1325, avg_reader_cost: 0.7557 avg_batch_cost: 1.1242, avg_ips: 85.3925.
+Type : screw Val [ Epoch 140/500 ] max_auc: 0.7543 roc_auc : 0.754253.
+Type : screw Train [ Epoch 141/500 ], loss: 0.1853, avg_reader_cost: 8.2092 avg_batch_cost: 8.5636, avg_ips: 11.2102.
+Type : screw Train [ Epoch 142/500 ], loss: 0.1563, avg_reader_cost: 0.0003 avg_batch_cost: 0.3384, avg_ips: 283.7038.
+Type : screw Train [ Epoch 143/500 ], loss: 0.1658, avg_reader_cost: 0.0003 avg_batch_cost: 0.3533, avg_ips: 271.6921.
+Type : screw Train [ Epoch 144/500 ], loss: 0.1384, avg_reader_cost: 0.0002 avg_batch_cost: 0.3434, avg_ips: 279.5744.
+Type : screw Train [ Epoch 145/500 ], loss: 0.1331, avg_reader_cost: 0.0003 avg_batch_cost: 0.3476, avg_ips: 276.2114.
+Type : screw Train [ Epoch 146/500 ], loss: 0.1560, avg_reader_cost: 0.6777 avg_batch_cost: 1.0289, avg_ips: 93.3069.
+Type : screw Train [ Epoch 147/500 ], loss: 0.0942, avg_reader_cost: 0.7861 avg_batch_cost: 1.1483, avg_ips: 83.6020.
+Type : screw Train [ Epoch 148/500 ], loss: 0.1318, avg_reader_cost: 0.8095 avg_batch_cost: 1.1607, avg_ips: 82.7119.
+Type : screw Train [ Epoch 149/500 ], loss: 0.1143, avg_reader_cost: 0.7768 avg_batch_cost: 1.1399, avg_ips: 84.2154.
+Type : screw Train [ Epoch 150/500 ], loss: 0.1105, avg_reader_cost: 0.7792 avg_batch_cost: 1.1287, avg_ips: 85.0527.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 150/500 ] max_auc: 0.5970 roc_auc : 0.590490.
-Type : screw Train [ Epoch 151/500 ], loss: 0.1759, avg_reader_cost: 7.5364 avg_batch_cost: 7.6644, avg_ips: 12.5254.
-Type : screw Train [ Epoch 152/500 ], loss: 0.1182, avg_reader_cost: 0.0002 avg_batch_cost: 0.1041, avg_ips: 921.8609.
-Type : screw Train [ Epoch 153/500 ], loss: 0.1329, avg_reader_cost: 0.0002 avg_batch_cost: 0.1036, avg_ips: 926.4104.
-Type : screw Train [ Epoch 154/500 ], loss: 0.0819, avg_reader_cost: 0.0003 avg_batch_cost: 0.1051, avg_ips: 913.7751.
-Type : screw Train [ Epoch 155/500 ], loss: 0.1647, avg_reader_cost: 0.0003 avg_batch_cost: 0.1038, avg_ips: 924.8295.
-Type : screw Train [ Epoch 156/500 ], loss: 0.0829, avg_reader_cost: 0.8580 avg_batch_cost: 1.2153, avg_ips: 78.9915.
-Type : screw Train [ Epoch 157/500 ], loss: 0.1112, avg_reader_cost: 0.7537 avg_batch_cost: 1.1058, avg_ips: 86.8132.
-Type : screw Train [ Epoch 158/500 ], loss: 0.1776, avg_reader_cost: 0.7784 avg_batch_cost: 1.1443, avg_ips: 83.8921.
-Type : screw Train [ Epoch 159/500 ], loss: 0.0954, avg_reader_cost: 0.7615 avg_batch_cost: 1.1201, avg_ips: 85.7028.
-Type : screw Train [ Epoch 160/500 ], loss: 0.1205, avg_reader_cost: 0.7611 avg_batch_cost: 1.1233, avg_ips: 85.4618.
+Type : screw Val [ Epoch 150/500 ] max_auc: 0.7543 roc_auc : 0.689281.
+Type : screw Train [ Epoch 151/500 ], loss: 0.1429, avg_reader_cost: 7.4810 avg_batch_cost: 7.5940, avg_ips: 12.6415.
+Type : screw Train [ Epoch 152/500 ], loss: 0.1207, avg_reader_cost: 0.0003 avg_batch_cost: 0.1046, avg_ips: 918.1843.
+Type : screw Train [ Epoch 153/500 ], loss: 0.1706, avg_reader_cost: 0.0003 avg_batch_cost: 0.1036, avg_ips: 926.8860.
+Type : screw Train [ Epoch 154/500 ], loss: 0.1261, avg_reader_cost: 0.0003 avg_batch_cost: 0.1046, avg_ips: 917.4604.
+Type : screw Train [ Epoch 155/500 ], loss: 0.1214, avg_reader_cost: 0.0004 avg_batch_cost: 0.1051, avg_ips: 913.5264.
+Type : screw Train [ Epoch 156/500 ], loss: 0.1137, avg_reader_cost: 0.8488 avg_batch_cost: 1.2024, avg_ips: 79.8392.
+Type : screw Train [ Epoch 157/500 ], loss: 0.1415, avg_reader_cost: 0.7901 avg_batch_cost: 1.1468, avg_ips: 83.7143.
+Type : screw Train [ Epoch 158/500 ], loss: 0.1272, avg_reader_cost: 0.8158 avg_batch_cost: 1.1712, avg_ips: 81.9706.
+Type : screw Train [ Epoch 159/500 ], loss: 0.1507, avg_reader_cost: 0.7880 avg_batch_cost: 1.1457, avg_ips: 83.7917.
+Type : screw Train [ Epoch 160/500 ], loss: 0.1314, avg_reader_cost: 0.7804 avg_batch_cost: 1.1406, avg_ips: 84.1691.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 160/500 ] max_auc: 0.5970 roc_auc : 0.409100.
-Type : screw Train [ Epoch 161/500 ], loss: 0.1023, avg_reader_cost: 7.5978 avg_batch_cost: 8.0372, avg_ips: 11.9445.
-Type : screw Train [ Epoch 162/500 ], loss: 0.1472, avg_reader_cost: 0.0005 avg_batch_cost: 0.3605, avg_ips: 266.2645.
-Type : screw Train [ Epoch 163/500 ], loss: 0.1396, avg_reader_cost: 0.0003 avg_batch_cost: 0.3545, avg_ips: 270.7660.
-Type : screw Train [ Epoch 164/500 ], loss: 0.1743, avg_reader_cost: 0.0004 avg_batch_cost: 0.3559, avg_ips: 269.7125.
-Type : screw Train [ Epoch 165/500 ], loss: 0.0739, avg_reader_cost: 0.0002 avg_batch_cost: 0.3573, avg_ips: 268.6823.
-Type : screw Train [ Epoch 166/500 ], loss: 0.1261, avg_reader_cost: 0.5992 avg_batch_cost: 0.9590, avg_ips: 100.1092.
-Type : screw Train [ Epoch 167/500 ], loss: 0.1468, avg_reader_cost: 0.7574 avg_batch_cost: 1.1161, avg_ips: 86.0116.
-Type : screw Train [ Epoch 168/500 ], loss: 0.1421, avg_reader_cost: 0.7571 avg_batch_cost: 1.1129, avg_ips: 86.2578.
-Type : screw Train [ Epoch 169/500 ], loss: 0.1528, avg_reader_cost: 0.7575 avg_batch_cost: 1.1277, avg_ips: 85.1283.
-Type : screw Train [ Epoch 170/500 ], loss: 0.1577, avg_reader_cost: 0.7445 avg_batch_cost: 1.0993, avg_ips: 87.3298.
+Type : screw Val [ Epoch 160/500 ] max_auc: 0.7543 roc_auc : 0.607297.
+Type : screw Train [ Epoch 161/500 ], loss: 0.1383, avg_reader_cost: 7.6366 avg_batch_cost: 8.0806, avg_ips: 11.8803.
+Type : screw Train [ Epoch 162/500 ], loss: 0.1308, avg_reader_cost: 0.0019 avg_batch_cost: 0.3562, avg_ips: 269.4870.
+Type : screw Train [ Epoch 163/500 ], loss: 0.1108, avg_reader_cost: 0.0004 avg_batch_cost: 0.3543, avg_ips: 270.9537.
+Type : screw Train [ Epoch 164/500 ], loss: 0.0977, avg_reader_cost: 0.0006 avg_batch_cost: 0.3547, avg_ips: 270.6239.
+Type : screw Train [ Epoch 165/500 ], loss: 0.1006, avg_reader_cost: 0.0005 avg_batch_cost: 0.3552, avg_ips: 270.2664.
+Type : screw Train [ Epoch 166/500 ], loss: 0.1307, avg_reader_cost: 0.5872 avg_batch_cost: 0.9419, avg_ips: 101.9269.
+Type : screw Train [ Epoch 167/500 ], loss: 0.1198, avg_reader_cost: 0.7656 avg_batch_cost: 1.1132, avg_ips: 86.2394.
+Type : screw Train [ Epoch 168/500 ], loss: 0.1247, avg_reader_cost: 0.7670 avg_batch_cost: 1.1188, avg_ips: 85.8094.
+Type : screw Train [ Epoch 169/500 ], loss: 0.1146, avg_reader_cost: 0.7611 avg_batch_cost: 1.1105, avg_ips: 86.4505.
+Type : screw Train [ Epoch 170/500 ], loss: 0.1128, avg_reader_cost: 0.7653 avg_batch_cost: 1.1212, avg_ips: 85.6198.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 170/500 ] max_auc: 0.5970 roc_auc : 0.531461.
-Type : screw Train [ Epoch 171/500 ], loss: 0.1466, avg_reader_cost: 7.7051 avg_batch_cost: 8.1293, avg_ips: 11.8092.
-Type : screw Train [ Epoch 172/500 ], loss: 0.1504, avg_reader_cost: 0.0005 avg_batch_cost: 0.3596, avg_ips: 266.9459.
-Type : screw Train [ Epoch 173/500 ], loss: 0.0857, avg_reader_cost: 0.0004 avg_batch_cost: 0.3652, avg_ips: 262.8504.
-Type : screw Train [ Epoch 174/500 ], loss: 0.1086, avg_reader_cost: 0.0008 avg_batch_cost: 0.3604, avg_ips: 266.3482.
-Type : screw Train [ Epoch 175/500 ], loss: 0.1308, avg_reader_cost: 0.0003 avg_batch_cost: 0.3604, avg_ips: 266.4040.
-Type : screw Train [ Epoch 176/500 ], loss: 0.1060, avg_reader_cost: 0.5926 avg_batch_cost: 0.9567, avg_ips: 100.3489.
-Type : screw Train [ Epoch 177/500 ], loss: 0.1040, avg_reader_cost: 0.7634 avg_batch_cost: 1.1318, avg_ips: 84.8181.
-Type : screw Train [ Epoch 178/500 ], loss: 0.1348, avg_reader_cost: 0.7634 avg_batch_cost: 1.1312, avg_ips: 84.8677.
-Type : screw Train [ Epoch 179/500 ], loss: 0.1351, avg_reader_cost: 0.7691 avg_batch_cost: 1.1338, avg_ips: 84.6683.
-Type : screw Train [ Epoch 180/500 ], loss: 0.1556, avg_reader_cost: 0.7671 avg_batch_cost: 1.1313, avg_ips: 84.8576.
+Type : screw Val [ Epoch 170/500 ] max_auc: 0.7543 roc_auc : 0.603402.
+Type : screw Train [ Epoch 171/500 ], loss: 0.1122, avg_reader_cost: 7.8173 avg_batch_cost: 8.2744, avg_ips: 11.6020.
+Type : screw Train [ Epoch 172/500 ], loss: 0.0884, avg_reader_cost: 0.0008 avg_batch_cost: 0.3669, avg_ips: 261.6350.
+Type : screw Train [ Epoch 173/500 ], loss: 0.1505, avg_reader_cost: 0.0004 avg_batch_cost: 0.3684, avg_ips: 260.5702.
+Type : screw Train [ Epoch 174/500 ], loss: 0.1001, avg_reader_cost: 0.0010 avg_batch_cost: 0.3649, avg_ips: 263.1178.
+Type : screw Train [ Epoch 175/500 ], loss: 0.1667, avg_reader_cost: 0.0007 avg_batch_cost: 0.3698, avg_ips: 259.6253.
+Type : screw Train [ Epoch 176/500 ], loss: 0.1485, avg_reader_cost: 0.5739 avg_batch_cost: 0.9438, avg_ips: 101.7130.
+Type : screw Train [ Epoch 177/500 ], loss: 0.0957, avg_reader_cost: 0.7704 avg_batch_cost: 1.1368, avg_ips: 84.4510.
+Type : screw Train [ Epoch 178/500 ], loss: 0.0891, avg_reader_cost: 0.7752 avg_batch_cost: 1.1380, avg_ips: 84.3561.
+Type : screw Train [ Epoch 179/500 ], loss: 0.1325, avg_reader_cost: 0.7768 avg_batch_cost: 1.1276, avg_ips: 85.1390.
+Type : screw Train [ Epoch 180/500 ], loss: 0.1501, avg_reader_cost: 0.7749 avg_batch_cost: 1.1282, avg_ips: 85.0878.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 180/500 ] max_auc: 0.6374 roc_auc : 0.637426.
-Type : screw Train [ Epoch 181/500 ], loss: 0.1067, avg_reader_cost: 8.5386 avg_batch_cost: 8.9006, avg_ips: 10.7858.
-Type : screw Train [ Epoch 182/500 ], loss: 0.1308, avg_reader_cost: 0.0005 avg_batch_cost: 0.3602, avg_ips: 266.5000.
-Type : screw Train [ Epoch 183/500 ], loss: 0.1341, avg_reader_cost: 0.0014 avg_batch_cost: 0.3628, avg_ips: 264.5803.
-Type : screw Train [ Epoch 184/500 ], loss: 0.1468, avg_reader_cost: 0.0003 avg_batch_cost: 0.3656, avg_ips: 262.5727.
-Type : screw Train [ Epoch 185/500 ], loss: 0.1033, avg_reader_cost: 0.0003 avg_batch_cost: 0.3664, avg_ips: 262.0285.
-Type : screw Train [ Epoch 186/500 ], loss: 0.1263, avg_reader_cost: 0.5998 avg_batch_cost: 0.7045, avg_ips: 136.2763.
-Type : screw Train [ Epoch 187/500 ], loss: 0.1232, avg_reader_cost: 0.8268 avg_batch_cost: 1.1895, avg_ips: 80.7029.
-Type : screw Train [ Epoch 188/500 ], loss: 0.1458, avg_reader_cost: 0.7864 avg_batch_cost: 1.1509, avg_ips: 83.4155.
-Type : screw Train [ Epoch 189/500 ], loss: 0.1451, avg_reader_cost: 0.7731 avg_batch_cost: 1.1284, avg_ips: 85.0735.
-Type : screw Train [ Epoch 190/500 ], loss: 0.1234, avg_reader_cost: 0.8081 avg_batch_cost: 1.1597, avg_ips: 82.7829.
+Type : screw Val [ Epoch 180/500 ] max_auc: 0.7543 roc_auc : 0.518139.
+Type : screw Train [ Epoch 181/500 ], loss: 0.1159, avg_reader_cost: 7.7039 avg_batch_cost: 8.1734, avg_ips: 11.7455.
+Type : screw Train [ Epoch 182/500 ], loss: 0.1508, avg_reader_cost: 0.0005 avg_batch_cost: 0.3574, avg_ips: 268.5997.
+Type : screw Train [ Epoch 183/500 ], loss: 0.1270, avg_reader_cost: 0.0007 avg_batch_cost: 0.3599, avg_ips: 266.7136.
+Type : screw Train [ Epoch 184/500 ], loss: 0.1058, avg_reader_cost: 0.0003 avg_batch_cost: 0.3565, avg_ips: 269.2616.
+Type : screw Train [ Epoch 185/500 ], loss: 0.0985, avg_reader_cost: 0.0003 avg_batch_cost: 0.3625, avg_ips: 264.8316.
+Type : screw Train [ Epoch 186/500 ], loss: 0.1325, avg_reader_cost: 0.5867 avg_batch_cost: 0.6920, avg_ips: 138.7299.
+Type : screw Train [ Epoch 187/500 ], loss: 0.1478, avg_reader_cost: 0.8263 avg_batch_cost: 1.1821, avg_ips: 81.2084.
+Type : screw Train [ Epoch 188/500 ], loss: 0.1034, avg_reader_cost: 0.8097 avg_batch_cost: 1.1575, avg_ips: 82.9363.
+Type : screw Train [ Epoch 189/500 ], loss: 0.0817, avg_reader_cost: 0.7805 avg_batch_cost: 1.1480, avg_ips: 83.6217.
+Type : screw Train [ Epoch 190/500 ], loss: 0.0796, avg_reader_cost: 0.8080 avg_batch_cost: 1.1567, avg_ips: 82.9912.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 190/500 ] max_auc: 0.7284 roc_auc : 0.728428.
-Type : screw Train [ Epoch 191/500 ], loss: 0.1428, avg_reader_cost: 8.5650 avg_batch_cost: 8.9520, avg_ips: 10.7239.
-Type : screw Train [ Epoch 192/500 ], loss: 0.1508, avg_reader_cost: 0.0003 avg_batch_cost: 0.3625, avg_ips: 264.8335.
-Type : screw Train [ Epoch 193/500 ], loss: 0.1403, avg_reader_cost: 0.0005 avg_batch_cost: 0.3649, avg_ips: 263.0661.
-Type : screw Train [ Epoch 194/500 ], loss: 0.1102, avg_reader_cost: 0.0003 avg_batch_cost: 0.3696, avg_ips: 259.7305.
-Type : screw Train [ Epoch 195/500 ], loss: 0.1335, avg_reader_cost: 0.0004 avg_batch_cost: 0.3649, avg_ips: 263.0592.
-Type : screw Train [ Epoch 196/500 ], loss: 0.0956, avg_reader_cost: 0.5865 avg_batch_cost: 0.9566, avg_ips: 100.3572.
-Type : screw Train [ Epoch 197/500 ], loss: 0.1233, avg_reader_cost: 0.7805 avg_batch_cost: 1.1506, avg_ips: 83.4325.
-Type : screw Train [ Epoch 198/500 ], loss: 0.1220, avg_reader_cost: 0.7879 avg_batch_cost: 1.1536, avg_ips: 83.2159.
-Type : screw Train [ Epoch 199/500 ], loss: 0.1243, avg_reader_cost: 0.7947 avg_batch_cost: 1.1600, avg_ips: 82.7622.
-Type : screw Train [ Epoch 200/500 ], loss: 0.1170, avg_reader_cost: 0.7932 avg_batch_cost: 1.1463, avg_ips: 83.7479.
+Type : screw Val [ Epoch 190/500 ] max_auc: 0.7543 roc_auc : 0.608731.
+Type : screw Train [ Epoch 191/500 ], loss: 0.1211, avg_reader_cost: 7.6370 avg_batch_cost: 8.0165, avg_ips: 11.9753.
+Type : screw Train [ Epoch 192/500 ], loss: 0.0834, avg_reader_cost: 0.0004 avg_batch_cost: 0.3511, avg_ips: 273.3952.
+Type : screw Train [ Epoch 193/500 ], loss: 0.1036, avg_reader_cost: 0.0003 avg_batch_cost: 0.3534, avg_ips: 271.6593.
+Type : screw Train [ Epoch 194/500 ], loss: 0.1390, avg_reader_cost: 0.0004 avg_batch_cost: 0.3586, avg_ips: 267.7069.
+Type : screw Train [ Epoch 195/500 ], loss: 0.1327, avg_reader_cost: 0.0004 avg_batch_cost: 0.3589, avg_ips: 267.4770.
+Type : screw Train [ Epoch 196/500 ], loss: 0.0919, avg_reader_cost: 0.6069 avg_batch_cost: 0.9672, avg_ips: 99.2571.
+Type : screw Train [ Epoch 197/500 ], loss: 0.0706, avg_reader_cost: 0.7648 avg_batch_cost: 1.1224, avg_ips: 85.5297.
+Type : screw Train [ Epoch 198/500 ], loss: 0.0723, avg_reader_cost: 0.7640 avg_batch_cost: 1.1206, avg_ips: 85.6715.
+Type : screw Train [ Epoch 199/500 ], loss: 0.1134, avg_reader_cost: 0.7696 avg_batch_cost: 1.1482, avg_ips: 83.6058.
+Type : screw Train [ Epoch 200/500 ], loss: 0.1063, avg_reader_cost: 0.7521 avg_batch_cost: 1.1084, avg_ips: 86.6123.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 200/500 ] max_auc: 0.7284 roc_auc : 0.686616.
-Type : screw Train [ Epoch 201/500 ], loss: 0.0561, avg_reader_cost: 7.7389 avg_batch_cost: 8.1903, avg_ips: 11.7212.
-Type : screw Train [ Epoch 202/500 ], loss: 0.1659, avg_reader_cost: 0.0005 avg_batch_cost: 0.3674, avg_ips: 261.2841.
-Type : screw Train [ Epoch 203/500 ], loss: 0.1103, avg_reader_cost: 0.0003 avg_batch_cost: 0.3638, avg_ips: 263.8949.
-Type : screw Train [ Epoch 204/500 ], loss: 0.1484, avg_reader_cost: 0.0003 avg_batch_cost: 0.3628, avg_ips: 264.6005.
-Type : screw Train [ Epoch 205/500 ], loss: 0.1039, avg_reader_cost: 0.0006 avg_batch_cost: 0.3582, avg_ips: 267.9942.
-Type : screw Train [ Epoch 206/500 ], loss: 0.1736, avg_reader_cost: 0.5966 avg_batch_cost: 0.9604, avg_ips: 99.9607.
-Type : screw Train [ Epoch 207/500 ], loss: 0.1746, avg_reader_cost: 0.7805 avg_batch_cost: 1.1438, avg_ips: 83.9328.
-Type : screw Train [ Epoch 208/500 ], loss: 0.1382, avg_reader_cost: 0.7831 avg_batch_cost: 1.1505, avg_ips: 83.4400.
-Type : screw Train [ Epoch 209/500 ], loss: 0.1516, avg_reader_cost: 0.7794 avg_batch_cost: 1.1442, avg_ips: 83.9046.
-Type : screw Train [ Epoch 210/500 ], loss: 0.1338, avg_reader_cost: 0.7720 avg_batch_cost: 1.1356, avg_ips: 84.5389.
+Type : screw Val [ Epoch 200/500 ] max_auc: 0.7625 roc_auc : 0.762451.
+Type : screw Train [ Epoch 201/500 ], loss: 0.1205, avg_reader_cost: 8.0730 avg_batch_cost: 8.4318, avg_ips: 11.3855.
+Type : screw Train [ Epoch 202/500 ], loss: 0.1140, avg_reader_cost: 0.0003 avg_batch_cost: 0.3547, avg_ips: 270.6181.
+Type : screw Train [ Epoch 203/500 ], loss: 0.1353, avg_reader_cost: 0.0004 avg_batch_cost: 0.3659, avg_ips: 262.3445.
+Type : screw Train [ Epoch 204/500 ], loss: 0.1213, avg_reader_cost: 0.0006 avg_batch_cost: 0.3516, avg_ips: 273.0109.
+Type : screw Train [ Epoch 205/500 ], loss: 0.1386, avg_reader_cost: 0.0004 avg_batch_cost: 0.3636, avg_ips: 264.0054.
+Type : screw Train [ Epoch 206/500 ], loss: 0.1699, avg_reader_cost: 0.5846 avg_batch_cost: 0.9432, avg_ips: 101.7829.
+Type : screw Train [ Epoch 207/500 ], loss: 0.1221, avg_reader_cost: 0.7698 avg_batch_cost: 1.1281, avg_ips: 85.0990.
+Type : screw Train [ Epoch 208/500 ], loss: 0.1075, avg_reader_cost: 0.7665 avg_batch_cost: 1.1263, avg_ips: 85.2327.
+Type : screw Train [ Epoch 209/500 ], loss: 0.1177, avg_reader_cost: 0.7692 avg_batch_cost: 1.1243, avg_ips: 85.3858.
+Type : screw Train [ Epoch 210/500 ], loss: 0.1181, avg_reader_cost: 0.7652 avg_batch_cost: 1.1243, avg_ips: 85.3896.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 210/500 ] max_auc: 0.7284 roc_auc : 0.527362.
-Type : screw Train [ Epoch 211/500 ], loss: 0.1229, avg_reader_cost: 7.9654 avg_batch_cost: 8.4033, avg_ips: 11.4240.
-Type : screw Train [ Epoch 212/500 ], loss: 0.1005, avg_reader_cost: 0.0003 avg_batch_cost: 0.3610, avg_ips: 265.9244.
-Type : screw Train [ Epoch 213/500 ], loss: 0.1193, avg_reader_cost: 0.0003 avg_batch_cost: 0.3564, avg_ips: 269.3231.
-Type : screw Train [ Epoch 214/500 ], loss: 0.1133, avg_reader_cost: 0.0002 avg_batch_cost: 0.3584, avg_ips: 267.8735.
-Type : screw Train [ Epoch 215/500 ], loss: 0.1935, avg_reader_cost: 0.0003 avg_batch_cost: 0.3605, avg_ips: 266.3099.
-Type : screw Train [ Epoch 216/500 ], loss: 0.1033, avg_reader_cost: 0.6053 avg_batch_cost: 0.9633, avg_ips: 99.6574.
-Type : screw Train [ Epoch 217/500 ], loss: 0.1473, avg_reader_cost: 0.7674 avg_batch_cost: 0.8718, avg_ips: 110.1184.
-Type : screw Train [ Epoch 218/500 ], loss: 0.0894, avg_reader_cost: 0.8420 avg_batch_cost: 1.2043, avg_ips: 79.7114.
-Type : screw Train [ Epoch 219/500 ], loss: 0.1152, avg_reader_cost: 0.8026 avg_batch_cost: 1.1646, avg_ips: 82.4288.
-Type : screw Train [ Epoch 220/500 ], loss: 0.1369, avg_reader_cost: 0.7553 avg_batch_cost: 1.1139, avg_ips: 86.1872.
+Type : screw Val [ Epoch 210/500 ] max_auc: 0.7625 roc_auc : 0.566305.
+Type : screw Train [ Epoch 211/500 ], loss: 0.1431, avg_reader_cost: 7.4156 avg_batch_cost: 7.8685, avg_ips: 12.2005.
+Type : screw Train [ Epoch 212/500 ], loss: 0.1003, avg_reader_cost: 0.0003 avg_batch_cost: 0.3503, avg_ips: 274.0772.
+Type : screw Train [ Epoch 213/500 ], loss: 0.0854, avg_reader_cost: 0.0003 avg_batch_cost: 0.3499, avg_ips: 274.3376.
+Type : screw Train [ Epoch 214/500 ], loss: 0.1653, avg_reader_cost: 0.0010 avg_batch_cost: 0.3538, avg_ips: 271.3468.
+Type : screw Train [ Epoch 215/500 ], loss: 0.1351, avg_reader_cost: 0.0005 avg_batch_cost: 0.3664, avg_ips: 262.0000.
+Type : screw Train [ Epoch 216/500 ], loss: 0.0877, avg_reader_cost: 0.5999 avg_batch_cost: 0.9622, avg_ips: 99.7685.
+Type : screw Train [ Epoch 217/500 ], loss: 0.1338, avg_reader_cost: 0.7703 avg_batch_cost: 0.8749, avg_ips: 109.7216.
+Type : screw Train [ Epoch 218/500 ], loss: 0.0991, avg_reader_cost: 0.8265 avg_batch_cost: 1.1817, avg_ips: 81.2417.
+Type : screw Train [ Epoch 219/500 ], loss: 0.1195, avg_reader_cost: 0.7658 avg_batch_cost: 1.1231, avg_ips: 85.4775.
+Type : screw Train [ Epoch 220/500 ], loss: 0.1116, avg_reader_cost: 0.7628 avg_batch_cost: 1.1220, avg_ips: 85.5594.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 220/500 ] max_auc: 0.7284 roc_auc : 0.496413.
-Type : screw Train [ Epoch 221/500 ], loss: 0.1111, avg_reader_cost: 7.9739 avg_batch_cost: 8.4489, avg_ips: 11.3625.
-Type : screw Train [ Epoch 222/500 ], loss: 0.2071, avg_reader_cost: 0.0003 avg_batch_cost: 0.3577, avg_ips: 268.4174.
-Type : screw Train [ Epoch 223/500 ], loss: 0.1195, avg_reader_cost: 0.0003 avg_batch_cost: 0.3594, avg_ips: 267.1327.
-Type : screw Train [ Epoch 224/500 ], loss: 0.1008, avg_reader_cost: 0.0005 avg_batch_cost: 0.3590, avg_ips: 267.4413.
-Type : screw Train [ Epoch 225/500 ], loss: 0.1272, avg_reader_cost: 0.0006 avg_batch_cost: 0.3564, avg_ips: 269.3559.
-Type : screw Train [ Epoch 226/500 ], loss: 0.1324, avg_reader_cost: 0.5909 avg_batch_cost: 0.9484, avg_ips: 101.2184.
-Type : screw Train [ Epoch 227/500 ], loss: 0.1124, avg_reader_cost: 0.7582 avg_batch_cost: 1.1181, avg_ips: 85.8614.
-Type : screw Train [ Epoch 228/500 ], loss: 0.1283, avg_reader_cost: 0.7566 avg_batch_cost: 1.1118, avg_ips: 86.3456.
-Type : screw Train [ Epoch 229/500 ], loss: 0.0760, avg_reader_cost: 0.7640 avg_batch_cost: 1.1196, avg_ips: 85.7416.
-Type : screw Train [ Epoch 230/500 ], loss: 0.1302, avg_reader_cost: 0.7562 avg_batch_cost: 1.1187, avg_ips: 85.8162.
+Type : screw Val [ Epoch 220/500 ] max_auc: 0.7625 roc_auc : 0.590490.
+Type : screw Train [ Epoch 221/500 ], loss: 0.1539, avg_reader_cost: 7.4253 avg_batch_cost: 7.8608, avg_ips: 12.2125.
+Type : screw Train [ Epoch 222/500 ], loss: 0.1026, avg_reader_cost: 0.0006 avg_batch_cost: 0.3601, avg_ips: 266.6201.
+Type : screw Train [ Epoch 223/500 ], loss: 0.1300, avg_reader_cost: 0.0003 avg_batch_cost: 0.3586, avg_ips: 267.7066.
+Type : screw Train [ Epoch 224/500 ], loss: 0.1411, avg_reader_cost: 0.0003 avg_batch_cost: 0.3555, avg_ips: 270.0389.
+Type : screw Train [ Epoch 225/500 ], loss: 0.1151, avg_reader_cost: 0.0004 avg_batch_cost: 0.3570, avg_ips: 268.8994.
+Type : screw Train [ Epoch 226/500 ], loss: 0.1134, avg_reader_cost: 0.5904 avg_batch_cost: 0.9490, avg_ips: 101.1542.
+Type : screw Train [ Epoch 227/500 ], loss: 0.1108, avg_reader_cost: 0.8180 avg_batch_cost: 1.1696, avg_ips: 82.0761.
+Type : screw Train [ Epoch 228/500 ], loss: 0.0919, avg_reader_cost: 0.8278 avg_batch_cost: 1.1821, avg_ips: 81.2092.
+Type : screw Train [ Epoch 229/500 ], loss: 0.1802, avg_reader_cost: 0.7779 avg_batch_cost: 1.1413, avg_ips: 84.1138.
+Type : screw Train [ Epoch 230/500 ], loss: 0.0877, avg_reader_cost: 0.7763 avg_batch_cost: 1.1347, avg_ips: 84.6052.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 230/500 ] max_auc: 0.7284 roc_auc : 0.553802.
-Type : screw Train [ Epoch 231/500 ], loss: 0.1074, avg_reader_cost: 7.5699 avg_batch_cost: 8.0069, avg_ips: 11.9896.
-Type : screw Train [ Epoch 232/500 ], loss: 0.0786, avg_reader_cost: 0.0004 avg_batch_cost: 0.3615, avg_ips: 265.5941.
-Type : screw Train [ Epoch 233/500 ], loss: 0.1137, avg_reader_cost: 0.0004 avg_batch_cost: 0.3629, avg_ips: 264.5473.
-Type : screw Train [ Epoch 234/500 ], loss: 0.1016, avg_reader_cost: 0.0004 avg_batch_cost: 0.3623, avg_ips: 265.0052.
-Type : screw Train [ Epoch 235/500 ], loss: 0.1353, avg_reader_cost: 0.0003 avg_batch_cost: 0.3585, avg_ips: 267.7627.
-Type : screw Train [ Epoch 236/500 ], loss: 0.1170, avg_reader_cost: 0.5901 avg_batch_cost: 0.9487, avg_ips: 101.1916.
-Type : screw Train [ Epoch 237/500 ], loss: 0.0966, avg_reader_cost: 0.7581 avg_batch_cost: 1.1199, avg_ips: 85.7187.
-Type : screw Train [ Epoch 238/500 ], loss: 0.1360, avg_reader_cost: 0.7585 avg_batch_cost: 1.1206, avg_ips: 85.6664.
-Type : screw Train [ Epoch 239/500 ], loss: 0.0475, avg_reader_cost: 0.7556 avg_batch_cost: 1.1212, avg_ips: 85.6188.
-Type : screw Train [ Epoch 240/500 ], loss: 0.1727, avg_reader_cost: 0.7593 avg_batch_cost: 1.1255, avg_ips: 85.2958.
+Type : screw Val [ Epoch 230/500 ] max_auc: 0.7625 roc_auc : 0.470588.
+Type : screw Train [ Epoch 231/500 ], loss: 0.0632, avg_reader_cost: 7.5729 avg_batch_cost: 8.0290, avg_ips: 11.9567.
+Type : screw Train [ Epoch 232/500 ], loss: 0.1139, avg_reader_cost: 0.0005 avg_batch_cost: 0.3539, avg_ips: 271.2278.
+Type : screw Train [ Epoch 233/500 ], loss: 0.0862, avg_reader_cost: 0.0005 avg_batch_cost: 0.3535, avg_ips: 271.6034.
+Type : screw Train [ Epoch 234/500 ], loss: 0.1214, avg_reader_cost: 0.0005 avg_batch_cost: 0.3555, avg_ips: 270.0178.
+Type : screw Train [ Epoch 235/500 ], loss: 0.1779, avg_reader_cost: 0.0005 avg_batch_cost: 0.3551, avg_ips: 270.3192.
+Type : screw Train [ Epoch 236/500 ], loss: 0.1314, avg_reader_cost: 0.5970 avg_batch_cost: 0.9515, avg_ips: 100.8916.
+Type : screw Train [ Epoch 237/500 ], loss: 0.1070, avg_reader_cost: 0.7667 avg_batch_cost: 1.1168, avg_ips: 85.9573.
+Type : screw Train [ Epoch 238/500 ], loss: 0.1023, avg_reader_cost: 0.7622 avg_batch_cost: 1.1163, avg_ips: 85.9995.
+Type : screw Train [ Epoch 239/500 ], loss: 0.1472, avg_reader_cost: 0.7634 avg_batch_cost: 1.1213, avg_ips: 85.6150.
+Type : screw Train [ Epoch 240/500 ], loss: 0.1102, avg_reader_cost: 0.7758 avg_batch_cost: 1.1296, avg_ips: 84.9869.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 240/500 ] max_auc: 0.7284 roc_auc : 0.657102.
-Type : screw Train [ Epoch 241/500 ], loss: 0.0940, avg_reader_cost: 7.4737 avg_batch_cost: 7.9021, avg_ips: 12.1486.
-Type : screw Train [ Epoch 242/500 ], loss: 0.0993, avg_reader_cost: 0.0003 avg_batch_cost: 0.3607, avg_ips: 266.1640.
-Type : screw Train [ Epoch 243/500 ], loss: 0.1757, avg_reader_cost: 0.0004 avg_batch_cost: 0.3628, avg_ips: 264.6283.
-Type : screw Train [ Epoch 244/500 ], loss: 0.1386, avg_reader_cost: 0.0003 avg_batch_cost: 0.3613, avg_ips: 265.7081.
-Type : screw Train [ Epoch 245/500 ], loss: 0.1000, avg_reader_cost: 0.0005 avg_batch_cost: 0.3634, avg_ips: 264.1722.
-Type : screw Train [ Epoch 246/500 ], loss: 0.1041, avg_reader_cost: 0.5933 avg_batch_cost: 0.9507, avg_ips: 100.9737.
-Type : screw Train [ Epoch 247/500 ], loss: 0.1194, avg_reader_cost: 0.7644 avg_batch_cost: 1.1327, avg_ips: 84.7519.
-Type : screw Train [ Epoch 248/500 ], loss: 0.1385, avg_reader_cost: 0.7595 avg_batch_cost: 0.8645, avg_ips: 111.0494.
-Type : screw Train [ Epoch 249/500 ], loss: 0.0920, avg_reader_cost: 0.8381 avg_batch_cost: 1.2027, avg_ips: 79.8224.
-Type : screw Train [ Epoch 250/500 ], loss: 0.1218, avg_reader_cost: 0.7715 avg_batch_cost: 1.1332, avg_ips: 84.7125.
+Type : screw Val [ Epoch 240/500 ] max_auc: 0.7625 roc_auc : 0.559336.
+Type : screw Train [ Epoch 241/500 ], loss: 0.1918, avg_reader_cost: 7.7636 avg_batch_cost: 8.2170, avg_ips: 11.6832.
+Type : screw Train [ Epoch 242/500 ], loss: 0.1145, avg_reader_cost: 0.0006 avg_batch_cost: 0.3558, avg_ips: 269.7773.
+Type : screw Train [ Epoch 243/500 ], loss: 0.0834, avg_reader_cost: 0.0005 avg_batch_cost: 0.3520, avg_ips: 272.6916.
+Type : screw Train [ Epoch 244/500 ], loss: 0.1202, avg_reader_cost: 0.0011 avg_batch_cost: 0.3564, avg_ips: 269.3945.
+Type : screw Train [ Epoch 245/500 ], loss: 0.1095, avg_reader_cost: 0.0004 avg_batch_cost: 0.3534, avg_ips: 271.6507.
+Type : screw Train [ Epoch 246/500 ], loss: 0.1431, avg_reader_cost: 0.5971 avg_batch_cost: 0.9485, avg_ips: 101.2094.
+Type : screw Train [ Epoch 247/500 ], loss: 0.0963, avg_reader_cost: 0.7638 avg_batch_cost: 1.1163, avg_ips: 85.9987.
+Type : screw Train [ Epoch 248/500 ], loss: 0.1427, avg_reader_cost: 0.7642 avg_batch_cost: 0.8678, avg_ips: 110.6270.
+Type : screw Train [ Epoch 249/500 ], loss: 0.1156, avg_reader_cost: 0.8322 avg_batch_cost: 1.1853, avg_ips: 80.9929.
+Type : screw Train [ Epoch 250/500 ], loss: 0.0962, avg_reader_cost: 0.7731 avg_batch_cost: 1.1231, avg_ips: 85.4745.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 250/500 ] max_auc: 0.7284 roc_auc : 0.567124.
-Type : screw Train [ Epoch 251/500 ], loss: 0.1654, avg_reader_cost: 7.5165 avg_batch_cost: 8.0087, avg_ips: 11.9869.
-Type : screw Train [ Epoch 252/500 ], loss: 0.1066, avg_reader_cost: 0.0003 avg_batch_cost: 0.3645, avg_ips: 263.3794.
-Type : screw Train [ Epoch 253/500 ], loss: 0.0854, avg_reader_cost: 0.0003 avg_batch_cost: 0.3569, avg_ips: 268.9522.
-Type : screw Train [ Epoch 254/500 ], loss: 0.1229, avg_reader_cost: 0.0002 avg_batch_cost: 0.3587, avg_ips: 267.6452.
-Type : screw Train [ Epoch 255/500 ], loss: 0.1326, avg_reader_cost: 0.0004 avg_batch_cost: 0.3609, avg_ips: 265.9734.
-Type : screw Train [ Epoch 256/500 ], loss: 0.1322, avg_reader_cost: 0.5973 avg_batch_cost: 0.9564, avg_ips: 100.3772.
-Type : screw Train [ Epoch 257/500 ], loss: 0.1532, avg_reader_cost: 0.7662 avg_batch_cost: 1.1260, avg_ips: 85.2596.
-Type : screw Train [ Epoch 258/500 ], loss: 0.0837, avg_reader_cost: 0.7573 avg_batch_cost: 1.1180, avg_ips: 85.8708.
-Type : screw Train [ Epoch 259/500 ], loss: 0.0787, avg_reader_cost: 0.7589 avg_batch_cost: 1.1112, avg_ips: 86.3913.
-Type : screw Train [ Epoch 260/500 ], loss: 0.1385, avg_reader_cost: 0.7573 avg_batch_cost: 1.1122, avg_ips: 86.3126.
+Type : screw Val [ Epoch 250/500 ] max_auc: 0.7625 roc_auc : 0.735807.
+Type : screw Train [ Epoch 251/500 ], loss: 0.1348, avg_reader_cost: 7.6622 avg_batch_cost: 8.0914, avg_ips: 11.8644.
+Type : screw Train [ Epoch 252/500 ], loss: 0.0834, avg_reader_cost: 0.0003 avg_batch_cost: 0.3480, avg_ips: 275.8384.
+Type : screw Train [ Epoch 253/500 ], loss: 0.0982, avg_reader_cost: 0.0005 avg_batch_cost: 0.3512, avg_ips: 273.3509.
+Type : screw Train [ Epoch 254/500 ], loss: 0.0861, avg_reader_cost: 0.0003 avg_batch_cost: 0.3567, avg_ips: 269.1030.
+Type : screw Train [ Epoch 255/500 ], loss: 0.1148, avg_reader_cost: 0.0003 avg_batch_cost: 0.3518, avg_ips: 272.8979.
+Type : screw Train [ Epoch 256/500 ], loss: 0.1009, avg_reader_cost: 0.5965 avg_batch_cost: 0.9515, avg_ips: 100.8946.
+Type : screw Train [ Epoch 257/500 ], loss: 0.1354, avg_reader_cost: 0.7684 avg_batch_cost: 1.1259, avg_ips: 85.2667.
+Type : screw Train [ Epoch 258/500 ], loss: 0.1136, avg_reader_cost: 0.7792 avg_batch_cost: 1.1371, avg_ips: 84.4256.
+Type : screw Train [ Epoch 259/500 ], loss: 0.1146, avg_reader_cost: 0.7671 avg_batch_cost: 1.1216, avg_ips: 85.5939.
+Type : screw Train [ Epoch 260/500 ], loss: 0.1033, avg_reader_cost: 0.7841 avg_batch_cost: 1.1406, avg_ips: 84.1677.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 260/500 ] max_auc: 0.7284 roc_auc : 0.711826.
-Type : screw Train [ Epoch 261/500 ], loss: 0.1440, avg_reader_cost: 7.6339 avg_batch_cost: 8.0733, avg_ips: 11.8911.
-Type : screw Train [ Epoch 262/500 ], loss: 0.1173, avg_reader_cost: 0.0003 avg_batch_cost: 0.3578, avg_ips: 268.3072.
-Type : screw Train [ Epoch 263/500 ], loss: 0.1411, avg_reader_cost: 0.0003 avg_batch_cost: 0.3579, avg_ips: 268.2136.
-Type : screw Train [ Epoch 264/500 ], loss: 0.1315, avg_reader_cost: 0.0011 avg_batch_cost: 0.3711, avg_ips: 258.7119.
-Type : screw Train [ Epoch 265/500 ], loss: 0.1319, avg_reader_cost: 0.0003 avg_batch_cost: 0.3656, avg_ips: 262.5695.
-Type : screw Train [ Epoch 266/500 ], loss: 0.1034, avg_reader_cost: 0.5970 avg_batch_cost: 0.9562, avg_ips: 100.3938.
-Type : screw Train [ Epoch 267/500 ], loss: 0.1350, avg_reader_cost: 0.7713 avg_batch_cost: 1.1273, avg_ips: 85.1561.
-Type : screw Train [ Epoch 268/500 ], loss: 0.1393, avg_reader_cost: 0.7649 avg_batch_cost: 1.1288, avg_ips: 85.0468.
-Type : screw Train [ Epoch 269/500 ], loss: 0.0875, avg_reader_cost: 0.7619 avg_batch_cost: 1.1238, avg_ips: 85.4221.
-Type : screw Train [ Epoch 270/500 ], loss: 0.1296, avg_reader_cost: 0.7556 avg_batch_cost: 1.1142, avg_ips: 86.1580.
+Type : screw Val [ Epoch 260/500 ] max_auc: 0.7625 roc_auc : 0.666120.
+Type : screw Train [ Epoch 261/500 ], loss: 0.1381, avg_reader_cost: 7.4912 avg_batch_cost: 7.9694, avg_ips: 12.0460.
+Type : screw Train [ Epoch 262/500 ], loss: 0.2031, avg_reader_cost: 0.0006 avg_batch_cost: 0.3538, avg_ips: 271.3459.
+Type : screw Train [ Epoch 263/500 ], loss: 0.1226, avg_reader_cost: 0.0005 avg_batch_cost: 0.3536, avg_ips: 271.5091.
+Type : screw Train [ Epoch 264/500 ], loss: 0.1388, avg_reader_cost: 0.0003 avg_batch_cost: 0.3541, avg_ips: 271.1362.
+Type : screw Train [ Epoch 265/500 ], loss: 0.1296, avg_reader_cost: 0.0005 avg_batch_cost: 0.3533, avg_ips: 271.6925.
+Type : screw Train [ Epoch 266/500 ], loss: 0.1205, avg_reader_cost: 0.5883 avg_batch_cost: 0.9341, avg_ips: 102.7743.
+Type : screw Train [ Epoch 267/500 ], loss: 0.1314, avg_reader_cost: 0.7677 avg_batch_cost: 1.1217, avg_ips: 85.5867.
+Type : screw Train [ Epoch 268/500 ], loss: 0.1305, avg_reader_cost: 0.7684 avg_batch_cost: 1.1162, avg_ips: 86.0062.
+Type : screw Train [ Epoch 269/500 ], loss: 0.1355, avg_reader_cost: 0.7847 avg_batch_cost: 1.1411, avg_ips: 84.1309.
+Type : screw Train [ Epoch 270/500 ], loss: 0.1015, avg_reader_cost: 0.7708 avg_batch_cost: 1.1353, avg_ips: 84.5608.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 270/500 ] max_auc: 0.7727 roc_auc : 0.772699.
-Type : screw Train [ Epoch 271/500 ], loss: 0.1412, avg_reader_cost: 8.5025 avg_batch_cost: 8.8622, avg_ips: 10.8326.
-Type : screw Train [ Epoch 272/500 ], loss: 0.1187, avg_reader_cost: 0.0008 avg_batch_cost: 0.3642, avg_ips: 263.5581.
-Type : screw Train [ Epoch 273/500 ], loss: 0.1103, avg_reader_cost: 0.0003 avg_batch_cost: 0.3625, avg_ips: 264.8355.
-Type : screw Train [ Epoch 274/500 ], loss: 0.1028, avg_reader_cost: 0.0005 avg_batch_cost: 0.3588, avg_ips: 267.5600.
-Type : screw Train [ Epoch 275/500 ], loss: 0.0655, avg_reader_cost: 0.0003 avg_batch_cost: 0.3636, avg_ips: 264.0569.
-Type : screw Train [ Epoch 276/500 ], loss: 0.1065, avg_reader_cost: 0.5844 avg_batch_cost: 0.9473, avg_ips: 101.3417.
-Type : screw Train [ Epoch 277/500 ], loss: 0.1106, avg_reader_cost: 0.7715 avg_batch_cost: 1.1303, avg_ips: 84.9333.
-Type : screw Train [ Epoch 278/500 ], loss: 0.0770, avg_reader_cost: 0.7861 avg_batch_cost: 1.1472, avg_ips: 83.6803.
-Type : screw Train [ Epoch 279/500 ], loss: 0.1131, avg_reader_cost: 0.8068 avg_batch_cost: 0.9123, avg_ips: 105.2246.
-Type : screw Train [ Epoch 280/500 ], loss: 0.1083, avg_reader_cost: 0.8489 avg_batch_cost: 1.2098, avg_ips: 79.3506.
+Type : screw Val [ Epoch 270/500 ] max_auc: 0.7625 roc_auc : 0.506661.
+Type : screw Train [ Epoch 271/500 ], loss: 0.1077, avg_reader_cost: 7.8580 avg_batch_cost: 8.3181, avg_ips: 11.5411.
+Type : screw Train [ Epoch 272/500 ], loss: 0.0832, avg_reader_cost: 0.0003 avg_batch_cost: 0.3583, avg_ips: 267.9271.
+Type : screw Train [ Epoch 273/500 ], loss: 0.0810, avg_reader_cost: 0.0006 avg_batch_cost: 0.3560, avg_ips: 269.6277.
+Type : screw Train [ Epoch 274/500 ], loss: 0.1195, avg_reader_cost: 0.0004 avg_batch_cost: 0.3550, avg_ips: 270.4438.
+Type : screw Train [ Epoch 275/500 ], loss: 0.1370, avg_reader_cost: 0.0006 avg_batch_cost: 0.3538, avg_ips: 271.3472.
+Type : screw Train [ Epoch 276/500 ], loss: 0.1060, avg_reader_cost: 0.6095 avg_batch_cost: 0.9678, avg_ips: 99.1921.
+Type : screw Train [ Epoch 277/500 ], loss: 0.1218, avg_reader_cost: 0.7890 avg_batch_cost: 1.1487, avg_ips: 83.5763.
+Type : screw Train [ Epoch 278/500 ], loss: 0.1280, avg_reader_cost: 0.7728 avg_batch_cost: 1.1281, avg_ips: 85.0972.
+Type : screw Train [ Epoch 279/500 ], loss: 0.1209, avg_reader_cost: 0.7727 avg_batch_cost: 0.8767, avg_ips: 109.4958.
+Type : screw Train [ Epoch 280/500 ], loss: 0.1186, avg_reader_cost: 0.8404 avg_batch_cost: 1.1964, avg_ips: 80.2400.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 280/500 ] max_auc: 0.8442 roc_auc : 0.844230.
-Type : screw Train [ Epoch 281/500 ], loss: 0.1218, avg_reader_cost: 8.8225 avg_batch_cost: 9.2058, avg_ips: 10.4282.
-Type : screw Train [ Epoch 282/500 ], loss: 0.0973, avg_reader_cost: 0.0003 avg_batch_cost: 0.3607, avg_ips: 266.1575.
-Type : screw Train [ Epoch 283/500 ], loss: 0.1109, avg_reader_cost: 0.0007 avg_batch_cost: 0.3646, avg_ips: 263.3037.
-Type : screw Train [ Epoch 284/500 ], loss: 0.1052, avg_reader_cost: 0.0004 avg_batch_cost: 0.3640, avg_ips: 263.7300.
-Type : screw Train [ Epoch 285/500 ], loss: 0.1398, avg_reader_cost: 0.0006 avg_batch_cost: 0.3715, avg_ips: 258.4156.
-Type : screw Train [ Epoch 286/500 ], loss: 0.1567, avg_reader_cost: 0.5864 avg_batch_cost: 0.9540, avg_ips: 100.6252.
-Type : screw Train [ Epoch 287/500 ], loss: 0.1265, avg_reader_cost: 0.7738 avg_batch_cost: 1.1408, avg_ips: 84.1503.
-Type : screw Train [ Epoch 288/500 ], loss: 0.1064, avg_reader_cost: 0.7633 avg_batch_cost: 1.1217, avg_ips: 85.5856.
-Type : screw Train [ Epoch 289/500 ], loss: 0.0974, avg_reader_cost: 0.7649 avg_batch_cost: 1.1337, avg_ips: 84.6803.
-Type : screw Train [ Epoch 290/500 ], loss: 0.1172, avg_reader_cost: 0.7656 avg_batch_cost: 1.1229, avg_ips: 85.4913.
+Type : screw Val [ Epoch 280/500 ] max_auc: 0.7625 roc_auc : 0.637631.
+Type : screw Train [ Epoch 281/500 ], loss: 0.1020, avg_reader_cost: 7.7624 avg_batch_cost: 8.1804, avg_ips: 11.7353.
+Type : screw Train [ Epoch 282/500 ], loss: 0.1053, avg_reader_cost: 0.0011 avg_batch_cost: 0.3492, avg_ips: 274.9103.
+Type : screw Train [ Epoch 283/500 ], loss: 0.1102, avg_reader_cost: 0.0010 avg_batch_cost: 0.3523, avg_ips: 272.4966.
+Type : screw Train [ Epoch 284/500 ], loss: 0.1108, avg_reader_cost: 0.0010 avg_batch_cost: 0.3550, avg_ips: 270.4054.
+Type : screw Train [ Epoch 285/500 ], loss: 0.1010, avg_reader_cost: 0.0003 avg_batch_cost: 0.3506, avg_ips: 273.8271.
+Type : screw Train [ Epoch 286/500 ], loss: 0.1453, avg_reader_cost: 0.5943 avg_batch_cost: 0.9514, avg_ips: 100.8987.
+Type : screw Train [ Epoch 287/500 ], loss: 0.0682, avg_reader_cost: 0.7717 avg_batch_cost: 1.1259, avg_ips: 85.2639.
+Type : screw Train [ Epoch 288/500 ], loss: 0.0979, avg_reader_cost: 0.7713 avg_batch_cost: 1.1293, avg_ips: 85.0078.
+Type : screw Train [ Epoch 289/500 ], loss: 0.0839, avg_reader_cost: 0.7742 avg_batch_cost: 1.1293, avg_ips: 85.0111.
+Type : screw Train [ Epoch 290/500 ], loss: 0.0858, avg_reader_cost: 0.7633 avg_batch_cost: 1.1281, avg_ips: 85.0968.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 290/500 ] max_auc: 0.8442 roc_auc : 0.682107.
-Type : screw Train [ Epoch 291/500 ], loss: 0.1542, avg_reader_cost: 7.7219 avg_batch_cost: 8.1918, avg_ips: 11.7190.
-Type : screw Train [ Epoch 292/500 ], loss: 0.1381, avg_reader_cost: 0.0007 avg_batch_cost: 0.3645, avg_ips: 263.3808.
-Type : screw Train [ Epoch 293/500 ], loss: 0.1259, avg_reader_cost: 0.0006 avg_batch_cost: 0.3608, avg_ips: 266.0733.
-Type : screw Train [ Epoch 294/500 ], loss: 0.1204, avg_reader_cost: 0.0005 avg_batch_cost: 0.3657, avg_ips: 262.4803.
-Type : screw Train [ Epoch 295/500 ], loss: 0.1047, avg_reader_cost: 0.0003 avg_batch_cost: 0.3693, avg_ips: 259.9817.
-Type : screw Train [ Epoch 296/500 ], loss: 0.1623, avg_reader_cost: 0.6125 avg_batch_cost: 0.9725, avg_ips: 98.7124.
-Type : screw Train [ Epoch 297/500 ], loss: 0.1367, avg_reader_cost: 0.7913 avg_batch_cost: 1.1592, avg_ips: 82.8136.
-Type : screw Train [ Epoch 298/500 ], loss: 0.0751, avg_reader_cost: 0.7815 avg_batch_cost: 1.1529, avg_ips: 83.2647.
-Type : screw Train [ Epoch 299/500 ], loss: 0.1368, avg_reader_cost: 0.7812 avg_batch_cost: 1.1494, avg_ips: 83.5253.
-Type : screw Train [ Epoch 300/500 ], loss: 0.0797, avg_reader_cost: 0.7691 avg_batch_cost: 1.1372, avg_ips: 84.4190.
+Type : screw Val [ Epoch 290/500 ] max_auc: 0.7625 roc_auc : 0.644804.
+Type : screw Train [ Epoch 291/500 ], loss: 0.0520, avg_reader_cost: 7.5194 avg_batch_cost: 7.9534, avg_ips: 12.0703.
+Type : screw Train [ Epoch 292/500 ], loss: 0.1388, avg_reader_cost: 0.0006 avg_batch_cost: 0.3569, avg_ips: 269.0144.
+Type : screw Train [ Epoch 293/500 ], loss: 0.1309, avg_reader_cost: 0.0006 avg_batch_cost: 0.3579, avg_ips: 268.2579.
+Type : screw Train [ Epoch 294/500 ], loss: 0.1241, avg_reader_cost: 0.0006 avg_batch_cost: 0.3573, avg_ips: 268.7174.
+Type : screw Train [ Epoch 295/500 ], loss: 0.1082, avg_reader_cost: 0.0004 avg_batch_cost: 0.3616, avg_ips: 265.4623.
+Type : screw Train [ Epoch 296/500 ], loss: 0.1157, avg_reader_cost: 0.6042 avg_batch_cost: 0.9642, avg_ips: 99.5667.
+Type : screw Train [ Epoch 297/500 ], loss: 0.1045, avg_reader_cost: 0.7692 avg_batch_cost: 1.1300, avg_ips: 84.9554.
+Type : screw Train [ Epoch 298/500 ], loss: 0.1007, avg_reader_cost: 0.7853 avg_batch_cost: 1.1396, avg_ips: 84.2413.
+Type : screw Train [ Epoch 299/500 ], loss: 0.1001, avg_reader_cost: 0.7956 avg_batch_cost: 1.1579, avg_ips: 82.9114.
+Type : screw Train [ Epoch 300/500 ], loss: 0.0943, avg_reader_cost: 0.7759 avg_batch_cost: 1.1273, avg_ips: 85.1571.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 300/500 ] max_auc: 0.8442 roc_auc : 0.577782.
-Type : screw Train [ Epoch 301/500 ], loss: 0.1136, avg_reader_cost: 7.4156 avg_batch_cost: 7.9272, avg_ips: 12.1101.
-Type : screw Train [ Epoch 302/500 ], loss: 0.1054, avg_reader_cost: 0.0004 avg_batch_cost: 0.3656, avg_ips: 262.5917.
-Type : screw Train [ Epoch 303/500 ], loss: 0.0970, avg_reader_cost: 0.0006 avg_batch_cost: 0.3668, avg_ips: 261.7073.
-Type : screw Train [ Epoch 304/500 ], loss: 0.1319, avg_reader_cost: 0.0011 avg_batch_cost: 0.3624, avg_ips: 264.8815.
-Type : screw Train [ Epoch 305/500 ], loss: 0.1489, avg_reader_cost: 0.0003 avg_batch_cost: 0.3638, avg_ips: 263.9127.
-Type : screw Train [ Epoch 306/500 ], loss: 0.1272, avg_reader_cost: 0.5872 avg_batch_cost: 0.9584, avg_ips: 100.1654.
-Type : screw Train [ Epoch 307/500 ], loss: 0.0873, avg_reader_cost: 0.8093 avg_batch_cost: 1.1664, avg_ips: 82.3065.
-Type : screw Train [ Epoch 308/500 ], loss: 0.1508, avg_reader_cost: 0.7851 avg_batch_cost: 1.1494, avg_ips: 83.5207.
-Type : screw Train [ Epoch 309/500 ], loss: 0.1005, avg_reader_cost: 0.7996 avg_batch_cost: 1.1609, avg_ips: 82.6951.
-Type : screw Train [ Epoch 310/500 ], loss: 0.1371, avg_reader_cost: 0.7977 avg_batch_cost: 0.9081, avg_ips: 105.7096.
+Type : screw Val [ Epoch 300/500 ] max_auc: 0.7625 roc_auc : 0.569379.
+Type : screw Train [ Epoch 301/500 ], loss: 0.1119, avg_reader_cost: 7.6067 avg_batch_cost: 8.0325, avg_ips: 11.9514.
+Type : screw Train [ Epoch 302/500 ], loss: 0.1398, avg_reader_cost: 0.0006 avg_batch_cost: 0.3586, avg_ips: 267.7183.
+Type : screw Train [ Epoch 303/500 ], loss: 0.1226, avg_reader_cost: 0.0003 avg_batch_cost: 0.3592, avg_ips: 267.2746.
+Type : screw Train [ Epoch 304/500 ], loss: 0.1759, avg_reader_cost: 0.0006 avg_batch_cost: 0.3588, avg_ips: 267.5810.
+Type : screw Train [ Epoch 305/500 ], loss: 0.1305, avg_reader_cost: 0.0007 avg_batch_cost: 0.3559, avg_ips: 269.7224.
+Type : screw Train [ Epoch 306/500 ], loss: 0.1283, avg_reader_cost: 0.6145 avg_batch_cost: 0.9700, avg_ips: 98.9710.
+Type : screw Train [ Epoch 307/500 ], loss: 0.1057, avg_reader_cost: 0.7748 avg_batch_cost: 1.1294, avg_ips: 85.0006.
+Type : screw Train [ Epoch 308/500 ], loss: 0.1135, avg_reader_cost: 0.7762 avg_batch_cost: 1.1328, avg_ips: 84.7487.
+Type : screw Train [ Epoch 309/500 ], loss: 0.0995, avg_reader_cost: 0.8020 avg_batch_cost: 1.1621, avg_ips: 82.6106.
+Type : screw Train [ Epoch 310/500 ], loss: 0.1325, avg_reader_cost: 0.7701 avg_batch_cost: 0.8750, avg_ips: 109.7185.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 310/500 ] max_auc: 0.8442 roc_auc : 0.609346.
-Type : screw Train [ Epoch 311/500 ], loss: 0.1418, avg_reader_cost: 6.7338 avg_batch_cost: 7.1081, avg_ips: 13.5058.
-Type : screw Train [ Epoch 312/500 ], loss: 0.1298, avg_reader_cost: 0.7673 avg_batch_cost: 1.1303, avg_ips: 84.9359.
-Type : screw Train [ Epoch 313/500 ], loss: 0.1222, avg_reader_cost: 0.7898 avg_batch_cost: 1.1517, avg_ips: 83.3550.
-Type : screw Train [ Epoch 314/500 ], loss: 0.1057, avg_reader_cost: 0.7888 avg_batch_cost: 1.1476, avg_ips: 83.6549.
-Type : screw Train [ Epoch 315/500 ], loss: 0.0689, avg_reader_cost: 0.7878 avg_batch_cost: 1.1469, avg_ips: 83.7019.
-Type : screw Train [ Epoch 316/500 ], loss: 0.0960, avg_reader_cost: 0.7838 avg_batch_cost: 1.1441, avg_ips: 83.9113.
-Type : screw Train [ Epoch 317/500 ], loss: 0.0623, avg_reader_cost: 0.7901 avg_batch_cost: 1.1526, avg_ips: 83.2894.
-Type : screw Train [ Epoch 318/500 ], loss: 0.1166, avg_reader_cost: 0.7804 avg_batch_cost: 1.1461, avg_ips: 83.7587.
-Type : screw Train [ Epoch 319/500 ], loss: 0.0645, avg_reader_cost: 0.7974 avg_batch_cost: 1.1599, avg_ips: 82.7631.
-Type : screw Train [ Epoch 320/500 ], loss: 0.0814, avg_reader_cost: 0.7729 avg_batch_cost: 1.1402, avg_ips: 84.1953.
+Type : screw Val [ Epoch 310/500 ] max_auc: 0.7625 roc_auc : 0.761427.
+Type : screw Train [ Epoch 311/500 ], loss: 0.1283, avg_reader_cost: 6.7090 avg_batch_cost: 7.0679, avg_ips: 13.5826.
+Type : screw Train [ Epoch 312/500 ], loss: 0.1097, avg_reader_cost: 0.7783 avg_batch_cost: 1.1333, avg_ips: 84.7089.
+Type : screw Train [ Epoch 313/500 ], loss: 0.1213, avg_reader_cost: 0.7836 avg_batch_cost: 1.1378, avg_ips: 84.3728.
+Type : screw Train [ Epoch 314/500 ], loss: 0.1245, avg_reader_cost: 0.7695 avg_batch_cost: 1.1212, avg_ips: 85.6200.
+Type : screw Train [ Epoch 315/500 ], loss: 0.1548, avg_reader_cost: 0.7684 avg_batch_cost: 1.1155, avg_ips: 86.0606.
+Type : screw Train [ Epoch 316/500 ], loss: 0.0940, avg_reader_cost: 0.7653 avg_batch_cost: 1.1146, avg_ips: 86.1305.
+Type : screw Train [ Epoch 317/500 ], loss: 0.0905, avg_reader_cost: 0.7612 avg_batch_cost: 1.1123, avg_ips: 86.3082.
+Type : screw Train [ Epoch 318/500 ], loss: 0.1154, avg_reader_cost: 0.7692 avg_batch_cost: 1.1222, avg_ips: 85.5461.
+Type : screw Train [ Epoch 319/500 ], loss: 0.1072, avg_reader_cost: 0.7707 avg_batch_cost: 1.1214, avg_ips: 85.6109.
+Type : screw Train [ Epoch 320/500 ], loss: 0.1146, avg_reader_cost: 0.7670 avg_batch_cost: 1.1188, avg_ips: 85.8028.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 320/500 ] max_auc: 0.8442 roc_auc : 0.686411.
-Type : screw Train [ Epoch 321/500 ], loss: 0.1107, avg_reader_cost: 7.8017 avg_batch_cost: 8.1899, avg_ips: 11.7217.
-Type : screw Train [ Epoch 322/500 ], loss: 0.1405, avg_reader_cost: 0.0006 avg_batch_cost: 0.3617, avg_ips: 265.3937.
-Type : screw Train [ Epoch 323/500 ], loss: 0.1197, avg_reader_cost: 0.0005 avg_batch_cost: 0.3590, avg_ips: 267.4367.
-Type : screw Train [ Epoch 324/500 ], loss: 0.1080, avg_reader_cost: 0.0004 avg_batch_cost: 0.3644, avg_ips: 263.4741.
-Type : screw Train [ Epoch 325/500 ], loss: 0.0865, avg_reader_cost: 0.0004 avg_batch_cost: 0.3634, avg_ips: 264.1790.
-Type : screw Train [ Epoch 326/500 ], loss: 0.0892, avg_reader_cost: 0.6151 avg_batch_cost: 0.9790, avg_ips: 98.0617.
-Type : screw Train [ Epoch 327/500 ], loss: 0.1383, avg_reader_cost: 0.7833 avg_batch_cost: 1.1501, avg_ips: 83.4720.
-Type : screw Train [ Epoch 328/500 ], loss: 0.1025, avg_reader_cost: 0.7990 avg_batch_cost: 1.1666, avg_ips: 82.2935.
-Type : screw Train [ Epoch 329/500 ], loss: 0.1293, avg_reader_cost: 0.7690 avg_batch_cost: 1.1360, avg_ips: 84.5106.
-Type : screw Train [ Epoch 330/500 ], loss: 0.1385, avg_reader_cost: 0.7823 avg_batch_cost: 1.1489, avg_ips: 83.5598.
+Type : screw Val [ Epoch 320/500 ] max_auc: 0.7625 roc_auc : 0.602992.
+Type : screw Train [ Epoch 321/500 ], loss: 0.1015, avg_reader_cost: 7.7747 avg_batch_cost: 8.1573, avg_ips: 11.7686.
+Type : screw Train [ Epoch 322/500 ], loss: 0.0698, avg_reader_cost: 0.0003 avg_batch_cost: 0.3572, avg_ips: 268.7418.
+Type : screw Train [ Epoch 323/500 ], loss: 0.1113, avg_reader_cost: 0.0006 avg_batch_cost: 0.3548, avg_ips: 270.5910.
+Type : screw Train [ Epoch 324/500 ], loss: 0.0539, avg_reader_cost: 0.0002 avg_batch_cost: 0.3535, avg_ips: 271.5465.
+Type : screw Train [ Epoch 325/500 ], loss: 0.1141, avg_reader_cost: 0.0003 avg_batch_cost: 0.3520, avg_ips: 272.7034.
+Type : screw Train [ Epoch 326/500 ], loss: 0.0967, avg_reader_cost: 0.6033 avg_batch_cost: 0.9606, avg_ips: 99.9387.
+Type : screw Train [ Epoch 327/500 ], loss: 0.0919, avg_reader_cost: 0.7633 avg_batch_cost: 1.1231, avg_ips: 85.4772.
+Type : screw Train [ Epoch 328/500 ], loss: 0.1248, avg_reader_cost: 0.7772 avg_batch_cost: 1.1381, avg_ips: 84.3516.
+Type : screw Train [ Epoch 329/500 ], loss: 0.0805, avg_reader_cost: 0.7678 avg_batch_cost: 1.1261, avg_ips: 85.2474.
+Type : screw Train [ Epoch 330/500 ], loss: 0.0729, avg_reader_cost: 0.7666 avg_batch_cost: 1.1256, avg_ips: 85.2863.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 330/500 ] max_auc: 0.8442 roc_auc : 0.678418.
-Type : screw Train [ Epoch 331/500 ], loss: 0.0754, avg_reader_cost: 7.6733 avg_batch_cost: 8.1058, avg_ips: 11.8434.
-Type : screw Train [ Epoch 332/500 ], loss: 0.0860, avg_reader_cost: 0.0003 avg_batch_cost: 0.3674, avg_ips: 261.2912.
-Type : screw Train [ Epoch 333/500 ], loss: 0.0965, avg_reader_cost: 0.0004 avg_batch_cost: 0.3617, avg_ips: 265.3781.
-Type : screw Train [ Epoch 334/500 ], loss: 0.0968, avg_reader_cost: 0.0004 avg_batch_cost: 0.3558, avg_ips: 269.7804.
-Type : screw Train [ Epoch 335/500 ], loss: 0.1104, avg_reader_cost: 0.0003 avg_batch_cost: 0.3569, avg_ips: 268.9948.
-Type : screw Train [ Epoch 336/500 ], loss: 0.1091, avg_reader_cost: 0.5913 avg_batch_cost: 0.9633, avg_ips: 99.6593.
-Type : screw Train [ Epoch 337/500 ], loss: 0.1327, avg_reader_cost: 0.7621 avg_batch_cost: 1.1248, avg_ips: 85.3454.
-Type : screw Train [ Epoch 338/500 ], loss: 0.1119, avg_reader_cost: 0.7687 avg_batch_cost: 1.1277, avg_ips: 85.1293.
-Type : screw Train [ Epoch 339/500 ], loss: 0.1011, avg_reader_cost: 0.7568 avg_batch_cost: 1.1241, avg_ips: 85.4048.
-Type : screw Train [ Epoch 340/500 ], loss: 0.1282, avg_reader_cost: 0.7591 avg_batch_cost: 1.1240, avg_ips: 85.4063.
+Type : screw Val [ Epoch 330/500 ] max_auc: 0.7625 roc_auc : 0.538020.
+Type : screw Train [ Epoch 331/500 ], loss: 0.0759, avg_reader_cost: 7.4212 avg_batch_cost: 7.8906, avg_ips: 12.1663.
+Type : screw Train [ Epoch 332/500 ], loss: 0.1270, avg_reader_cost: 0.0002 avg_batch_cost: 0.3531, avg_ips: 271.8938.
+Type : screw Train [ Epoch 333/500 ], loss: 0.0977, avg_reader_cost: 0.0003 avg_batch_cost: 0.3566, avg_ips: 269.2158.
+Type : screw Train [ Epoch 334/500 ], loss: 0.0662, avg_reader_cost: 0.0005 avg_batch_cost: 0.3544, avg_ips: 270.9123.
+Type : screw Train [ Epoch 335/500 ], loss: 0.0981, avg_reader_cost: 0.0003 avg_batch_cost: 0.3539, avg_ips: 271.2786.
+Type : screw Train [ Epoch 336/500 ], loss: 0.0982, avg_reader_cost: 0.5985 avg_batch_cost: 0.9521, avg_ips: 100.8291.
+Type : screw Train [ Epoch 337/500 ], loss: 0.1240, avg_reader_cost: 0.7687 avg_batch_cost: 1.1281, avg_ips: 85.1026.
+Type : screw Train [ Epoch 338/500 ], loss: 0.1147, avg_reader_cost: 0.7683 avg_batch_cost: 1.1234, avg_ips: 85.4523.
+Type : screw Train [ Epoch 339/500 ], loss: 0.1062, avg_reader_cost: 0.7656 avg_batch_cost: 1.1233, avg_ips: 85.4592.
+Type : screw Train [ Epoch 340/500 ], loss: 0.0943, avg_reader_cost: 0.7659 avg_batch_cost: 1.1177, avg_ips: 85.8935.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 340/500 ] max_auc: 0.8442 roc_auc : 0.638655.
-Type : screw Train [ Epoch 341/500 ], loss: 0.0484, avg_reader_cost: 6.0675 avg_batch_cost: 6.2621, avg_ips: 15.3302.
-Type : screw Train [ Epoch 342/500 ], loss: 0.0660, avg_reader_cost: 0.8342 avg_batch_cost: 1.1974, avg_ips: 80.1729.
-Type : screw Train [ Epoch 343/500 ], loss: 0.0658, avg_reader_cost: 0.7702 avg_batch_cost: 1.1372, avg_ips: 84.4153.
-Type : screw Train [ Epoch 344/500 ], loss: 0.1083, avg_reader_cost: 0.7596 avg_batch_cost: 1.1170, avg_ips: 85.9459.
-Type : screw Train [ Epoch 345/500 ], loss: 0.1027, avg_reader_cost: 0.7651 avg_batch_cost: 1.1263, avg_ips: 85.2349.
-Type : screw Train [ Epoch 346/500 ], loss: 0.0712, avg_reader_cost: 0.7703 avg_batch_cost: 1.1277, avg_ips: 85.1313.
-Type : screw Train [ Epoch 347/500 ], loss: 0.1176, avg_reader_cost: 0.7698 avg_batch_cost: 1.1373, avg_ips: 84.4119.
-Type : screw Train [ Epoch 348/500 ], loss: 0.0961, avg_reader_cost: 0.7663 avg_batch_cost: 1.1229, avg_ips: 85.4949.
-Type : screw Train [ Epoch 349/500 ], loss: 0.1222, avg_reader_cost: 0.7742 avg_batch_cost: 1.1275, avg_ips: 85.1449.
-Type : screw Train [ Epoch 350/500 ], loss: 0.1003, avg_reader_cost: 0.7729 avg_batch_cost: 1.1342, avg_ips: 84.6388.
+Type : screw Val [ Epoch 340/500 ] max_auc: 0.7625 roc_auc : 0.688256.
+Type : screw Train [ Epoch 341/500 ], loss: 0.1152, avg_reader_cost: 6.1639 avg_batch_cost: 6.2915, avg_ips: 15.2588.
+Type : screw Train [ Epoch 342/500 ], loss: 0.0981, avg_reader_cost: 0.8371 avg_batch_cost: 1.1933, avg_ips: 80.4494.
+Type : screw Train [ Epoch 343/500 ], loss: 0.1107, avg_reader_cost: 0.7716 avg_batch_cost: 1.1298, avg_ips: 84.9705.
+Type : screw Train [ Epoch 344/500 ], loss: 0.1410, avg_reader_cost: 0.7720 avg_batch_cost: 1.1306, avg_ips: 84.9141.
+Type : screw Train [ Epoch 345/500 ], loss: 0.1146, avg_reader_cost: 0.7815 avg_batch_cost: 1.1388, avg_ips: 84.3014.
+Type : screw Train [ Epoch 346/500 ], loss: 0.0976, avg_reader_cost: 0.7850 avg_batch_cost: 1.1474, avg_ips: 83.6667.
+Type : screw Train [ Epoch 347/500 ], loss: 0.0960, avg_reader_cost: 0.7748 avg_batch_cost: 1.1395, avg_ips: 84.2467.
+Type : screw Train [ Epoch 348/500 ], loss: 0.1414, avg_reader_cost: 0.7804 avg_batch_cost: 1.1351, avg_ips: 84.5741.
+Type : screw Train [ Epoch 349/500 ], loss: 0.0890, avg_reader_cost: 1.1212 avg_batch_cost: 1.4872, avg_ips: 64.5514.
+Type : screw Train [ Epoch 350/500 ], loss: 0.0695, avg_reader_cost: 0.8033 avg_batch_cost: 1.1618, avg_ips: 82.6327.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 350/500 ] max_auc: 0.8442 roc_auc : 0.589055.
-Type : screw Train [ Epoch 351/500 ], loss: 0.0947, avg_reader_cost: 7.6394 avg_batch_cost: 8.0740, avg_ips: 11.8900.
-Type : screw Train [ Epoch 352/500 ], loss: 0.1713, avg_reader_cost: 0.0006 avg_batch_cost: 0.3636, avg_ips: 264.0560.
-Type : screw Train [ Epoch 353/500 ], loss: 0.0910, avg_reader_cost: 0.0003 avg_batch_cost: 0.3621, avg_ips: 265.0862.
-Type : screw Train [ Epoch 354/500 ], loss: 0.1240, avg_reader_cost: 0.0003 avg_batch_cost: 0.3615, avg_ips: 265.5841.
-Type : screw Train [ Epoch 355/500 ], loss: 0.0659, avg_reader_cost: 0.0003 avg_batch_cost: 0.3663, avg_ips: 262.0595.
-Type : screw Train [ Epoch 356/500 ], loss: 0.1179, avg_reader_cost: 0.5966 avg_batch_cost: 0.9605, avg_ips: 99.9484.
-Type : screw Train [ Epoch 357/500 ], loss: 0.1307, avg_reader_cost: 0.7899 avg_batch_cost: 1.1525, avg_ips: 83.2944.
-Type : screw Train [ Epoch 358/500 ], loss: 0.0886, avg_reader_cost: 0.7766 avg_batch_cost: 1.1399, avg_ips: 84.2203.
-Type : screw Train [ Epoch 359/500 ], loss: 0.0965, avg_reader_cost: 0.7894 avg_batch_cost: 1.1570, avg_ips: 82.9754.
-Type : screw Train [ Epoch 360/500 ], loss: 0.1305, avg_reader_cost: 0.7957 avg_batch_cost: 1.1589, avg_ips: 82.8380.
+Type : screw Val [ Epoch 350/500 ] max_auc: 0.7825 roc_auc : 0.782537.
+Type : screw Train [ Epoch 351/500 ], loss: 0.1362, avg_reader_cost: 8.8621 avg_batch_cost: 9.2149, avg_ips: 10.4179.
+Type : screw Train [ Epoch 352/500 ], loss: 0.1115, avg_reader_cost: 0.0004 avg_batch_cost: 0.3582, avg_ips: 268.0077.
+Type : screw Train [ Epoch 353/500 ], loss: 0.1037, avg_reader_cost: 0.0003 avg_batch_cost: 0.3587, avg_ips: 267.5991.
+Type : screw Train [ Epoch 354/500 ], loss: 0.0803, avg_reader_cost: 0.0003 avg_batch_cost: 0.3474, avg_ips: 276.3310.
+Type : screw Train [ Epoch 355/500 ], loss: 0.1061, avg_reader_cost: 0.0002 avg_batch_cost: 0.3601, avg_ips: 266.6279.
+Type : screw Train [ Epoch 356/500 ], loss: 0.0735, avg_reader_cost: 0.6275 avg_batch_cost: 0.9884, avg_ips: 97.1249.
+Type : screw Train [ Epoch 357/500 ], loss: 0.1057, avg_reader_cost: 0.7686 avg_batch_cost: 1.1279, avg_ips: 85.1158.
+Type : screw Train [ Epoch 358/500 ], loss: 0.0841, avg_reader_cost: 0.7726 avg_batch_cost: 1.1296, avg_ips: 84.9870.
+Type : screw Train [ Epoch 359/500 ], loss: 0.0663, avg_reader_cost: 0.7701 avg_batch_cost: 1.1234, avg_ips: 85.4568.
+Type : screw Train [ Epoch 360/500 ], loss: 0.0828, avg_reader_cost: 0.7834 avg_batch_cost: 1.1407, avg_ips: 84.1558.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 360/500 ] max_auc: 0.8442 roc_auc : 0.628817.
-Type : screw Train [ Epoch 361/500 ], loss: 0.0984, avg_reader_cost: 7.8351 avg_batch_cost: 8.2748, avg_ips: 11.6015.
-Type : screw Train [ Epoch 362/500 ], loss: 0.1230, avg_reader_cost: 0.0009 avg_batch_cost: 0.3689, avg_ips: 260.2583.
-Type : screw Train [ Epoch 363/500 ], loss: 0.1123, avg_reader_cost: 0.0006 avg_batch_cost: 0.3616, avg_ips: 265.4854.
-Type : screw Train [ Epoch 364/500 ], loss: 0.1271, avg_reader_cost: 0.0009 avg_batch_cost: 0.3708, avg_ips: 258.8692.
-Type : screw Train [ Epoch 365/500 ], loss: 0.1010, avg_reader_cost: 0.0012 avg_batch_cost: 0.3723, avg_ips: 257.8893.
-Type : screw Train [ Epoch 366/500 ], loss: 0.1030, avg_reader_cost: 0.6122 avg_batch_cost: 0.9757, avg_ips: 98.3942.
-Type : screw Train [ Epoch 367/500 ], loss: 0.0855, avg_reader_cost: 0.7717 avg_batch_cost: 1.1314, avg_ips: 84.8472.
-Type : screw Train [ Epoch 368/500 ], loss: 0.0836, avg_reader_cost: 0.7712 avg_batch_cost: 1.1325, avg_ips: 84.7704.
-Type : screw Train [ Epoch 369/500 ], loss: 0.1125, avg_reader_cost: 0.7670 avg_batch_cost: 1.1228, avg_ips: 85.4988.
-Type : screw Train [ Epoch 370/500 ], loss: 0.0920, avg_reader_cost: 0.7601 avg_batch_cost: 1.1175, avg_ips: 85.9061.
+Type : screw Val [ Epoch 360/500 ] max_auc: 0.7825 roc_auc : 0.615085.
+Type : screw Train [ Epoch 361/500 ], loss: 0.0777, avg_reader_cost: 7.8227 avg_batch_cost: 8.2824, avg_ips: 11.5909.
+Type : screw Train [ Epoch 362/500 ], loss: 0.1161, avg_reader_cost: 0.0005 avg_batch_cost: 0.4787, avg_ips: 200.5373.
+Type : screw Train [ Epoch 363/500 ], loss: 0.0766, avg_reader_cost: 0.0005 avg_batch_cost: 0.3559, avg_ips: 269.7032.
+Type : screw Train [ Epoch 364/500 ], loss: 0.0908, avg_reader_cost: 0.0005 avg_batch_cost: 0.3575, avg_ips: 268.5656.
+Type : screw Train [ Epoch 365/500 ], loss: 0.1161, avg_reader_cost: 0.0005 avg_batch_cost: 0.3556, avg_ips: 269.9426.
+Type : screw Train [ Epoch 366/500 ], loss: 0.1012, avg_reader_cost: 0.5995 avg_batch_cost: 0.9545, avg_ips: 100.5712.
+Type : screw Train [ Epoch 367/500 ], loss: 0.1237, avg_reader_cost: 0.7865 avg_batch_cost: 1.1521, avg_ips: 83.3252.
+Type : screw Train [ Epoch 368/500 ], loss: 0.1224, avg_reader_cost: 0.7748 avg_batch_cost: 1.1363, avg_ips: 84.4828.
+Type : screw Train [ Epoch 369/500 ], loss: 0.0771, avg_reader_cost: 0.7757 avg_batch_cost: 1.1318, avg_ips: 84.8176.
+Type : screw Train [ Epoch 370/500 ], loss: 0.1044, avg_reader_cost: 0.7741 avg_batch_cost: 1.1347, avg_ips: 84.6031.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 370/500 ] max_auc: 0.8442 roc_auc : 0.788481.
-Type : screw Train [ Epoch 371/500 ], loss: 0.0836, avg_reader_cost: 6.9262 avg_batch_cost: 7.1070, avg_ips: 13.5079.
-Type : screw Train [ Epoch 372/500 ], loss: 0.1218, avg_reader_cost: 0.0003 avg_batch_cost: 0.1057, avg_ips: 908.6406.
-Type : screw Train [ Epoch 373/500 ], loss: 0.0858, avg_reader_cost: 0.8203 avg_batch_cost: 1.1888, avg_ips: 80.7549.
-Type : screw Train [ Epoch 374/500 ], loss: 0.0968, avg_reader_cost: 0.7664 avg_batch_cost: 1.1316, avg_ips: 84.8364.
-Type : screw Train [ Epoch 375/500 ], loss: 0.1057, avg_reader_cost: 0.7553 avg_batch_cost: 1.1181, avg_ips: 85.8622.
-Type : screw Train [ Epoch 376/500 ], loss: 0.0830, avg_reader_cost: 0.7615 avg_batch_cost: 1.1257, avg_ips: 85.2809.
-Type : screw Train [ Epoch 377/500 ], loss: 0.0664, avg_reader_cost: 0.7631 avg_batch_cost: 1.1373, avg_ips: 84.4098.
-Type : screw Train [ Epoch 378/500 ], loss: 0.1220, avg_reader_cost: 0.7990 avg_batch_cost: 1.1591, avg_ips: 82.8255.
-Type : screw Train [ Epoch 379/500 ], loss: 0.1075, avg_reader_cost: 0.7817 avg_batch_cost: 1.1470, avg_ips: 83.6990.
-Type : screw Train [ Epoch 380/500 ], loss: 0.0846, avg_reader_cost: 0.7652 avg_batch_cost: 1.1296, avg_ips: 84.9822.
+Type : screw Val [ Epoch 370/500 ] max_auc: 0.7825 roc_auc : 0.653823.
+Type : screw Train [ Epoch 371/500 ], loss: 0.1056, avg_reader_cost: 6.3872 avg_batch_cost: 6.5117, avg_ips: 14.7426.
+Type : screw Train [ Epoch 372/500 ], loss: 0.0946, avg_reader_cost: 0.0004 avg_batch_cost: 0.1038, avg_ips: 925.2864.
+Type : screw Train [ Epoch 373/500 ], loss: 0.1132, avg_reader_cost: 0.8437 avg_batch_cost: 1.1967, avg_ips: 80.2175.
+Type : screw Train [ Epoch 374/500 ], loss: 0.0853, avg_reader_cost: 0.7855 avg_batch_cost: 1.1452, avg_ips: 83.8283.
+Type : screw Train [ Epoch 375/500 ], loss: 0.1066, avg_reader_cost: 0.7848 avg_batch_cost: 1.1460, avg_ips: 83.7674.
+Type : screw Train [ Epoch 376/500 ], loss: 0.1285, avg_reader_cost: 0.7731 avg_batch_cost: 1.1284, avg_ips: 85.0757.
+Type : screw Train [ Epoch 377/500 ], loss: 0.0632, avg_reader_cost: 0.7664 avg_batch_cost: 1.1272, avg_ips: 85.1690.
+Type : screw Train [ Epoch 378/500 ], loss: 0.0579, avg_reader_cost: 0.8203 avg_batch_cost: 1.1822, avg_ips: 81.2065.
+Type : screw Train [ Epoch 379/500 ], loss: 0.0653, avg_reader_cost: 0.7842 avg_batch_cost: 1.1489, avg_ips: 83.5590.
+Type : screw Train [ Epoch 380/500 ], loss: 0.0892, avg_reader_cost: 0.7910 avg_batch_cost: 1.1525, avg_ips: 83.2994.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 380/500 ] max_auc: 0.8442 roc_auc : 0.779053.
-Type : screw Train [ Epoch 381/500 ], loss: 0.1137, avg_reader_cost: 7.6926 avg_batch_cost: 8.1866, avg_ips: 11.7264.
-Type : screw Train [ Epoch 382/500 ], loss: 0.0733, avg_reader_cost: 0.0005 avg_batch_cost: 0.3691, avg_ips: 260.0783.
-Type : screw Train [ Epoch 383/500 ], loss: 0.1461, avg_reader_cost: 0.0005 avg_batch_cost: 0.3622, avg_ips: 265.0420.
-Type : screw Train [ Epoch 384/500 ], loss: 0.1045, avg_reader_cost: 0.0005 avg_batch_cost: 0.3639, avg_ips: 263.7808.
-Type : screw Train [ Epoch 385/500 ], loss: 0.1113, avg_reader_cost: 0.0004 avg_batch_cost: 0.3657, avg_ips: 262.5448.
-Type : screw Train [ Epoch 386/500 ], loss: 0.0939, avg_reader_cost: 0.5794 avg_batch_cost: 0.9463, avg_ips: 101.4458.
-Type : screw Train [ Epoch 387/500 ], loss: 0.0867, avg_reader_cost: 0.7882 avg_batch_cost: 1.1526, avg_ips: 83.2924.
-Type : screw Train [ Epoch 388/500 ], loss: 0.0689, avg_reader_cost: 0.7852 avg_batch_cost: 1.1520, avg_ips: 83.3338.
-Type : screw Train [ Epoch 389/500 ], loss: 0.1260, avg_reader_cost: 0.7875 avg_batch_cost: 1.1498, avg_ips: 83.4920.
-Type : screw Train [ Epoch 390/500 ], loss: 0.1155, avg_reader_cost: 0.7865 avg_batch_cost: 1.1516, avg_ips: 83.3650.
+Type : screw Val [ Epoch 380/500 ] max_auc: 0.7825 roc_auc : 0.596024.
+Type : screw Train [ Epoch 381/500 ], loss: 0.0842, avg_reader_cost: 7.4958 avg_batch_cost: 7.9372, avg_ips: 12.0950.
+Type : screw Train [ Epoch 382/500 ], loss: 0.0938, avg_reader_cost: 0.0003 avg_batch_cost: 0.3594, avg_ips: 267.0953.
+Type : screw Train [ Epoch 383/500 ], loss: 0.1211, avg_reader_cost: 0.0003 avg_batch_cost: 0.3549, avg_ips: 270.5348.
+Type : screw Train [ Epoch 384/500 ], loss: 0.0932, avg_reader_cost: 0.0003 avg_batch_cost: 0.3588, avg_ips: 267.5949.
+Type : screw Train [ Epoch 385/500 ], loss: 0.0409, avg_reader_cost: 0.0006 avg_batch_cost: 0.3544, avg_ips: 270.8535.
+Type : screw Train [ Epoch 386/500 ], loss: 0.0749, avg_reader_cost: 0.6245 avg_batch_cost: 0.9778, avg_ips: 98.1752.
+Type : screw Train [ Epoch 387/500 ], loss: 0.0859, avg_reader_cost: 0.7658 avg_batch_cost: 1.1225, avg_ips: 85.5207.
+Type : screw Train [ Epoch 388/500 ], loss: 0.0589, avg_reader_cost: 0.8287 avg_batch_cost: 1.1978, avg_ips: 80.1459.
+Type : screw Train [ Epoch 389/500 ], loss: 0.1323, avg_reader_cost: 0.8205 avg_batch_cost: 1.1796, avg_ips: 81.3811.
+Type : screw Train [ Epoch 390/500 ], loss: 0.0917, avg_reader_cost: 0.7849 avg_batch_cost: 1.1425, avg_ips: 84.0265.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 390/500 ] max_auc: 0.8442 roc_auc : 0.769420.
-Type : screw Train [ Epoch 391/500 ], loss: 0.0356, avg_reader_cost: 7.4827 avg_batch_cost: 7.8693, avg_ips: 12.1992.
-Type : screw Train [ Epoch 392/500 ], loss: 0.1108, avg_reader_cost: 0.0004 avg_batch_cost: 0.3634, avg_ips: 264.1667.
-Type : screw Train [ Epoch 393/500 ], loss: 0.1580, avg_reader_cost: 0.0003 avg_batch_cost: 0.3759, avg_ips: 255.4141.
-Type : screw Train [ Epoch 394/500 ], loss: 0.0823, avg_reader_cost: 0.0003 avg_batch_cost: 0.3589, avg_ips: 267.4553.
-Type : screw Train [ Epoch 395/500 ], loss: 0.1076, avg_reader_cost: 0.0005 avg_batch_cost: 0.3598, avg_ips: 266.8251.
-Type : screw Train [ Epoch 396/500 ], loss: 0.0765, avg_reader_cost: 0.5945 avg_batch_cost: 0.9505, avg_ips: 101.0020.
-Type : screw Train [ Epoch 397/500 ], loss: 0.1196, avg_reader_cost: 0.7710 avg_batch_cost: 1.1324, avg_ips: 84.7778.
-Type : screw Train [ Epoch 398/500 ], loss: 0.0709, avg_reader_cost: 0.7640 avg_batch_cost: 1.1179, avg_ips: 85.8722.
-Type : screw Train [ Epoch 399/500 ], loss: 0.0961, avg_reader_cost: 0.7708 avg_batch_cost: 1.1350, avg_ips: 84.5825.
-Type : screw Train [ Epoch 400/500 ], loss: 0.0983, avg_reader_cost: 0.7715 avg_batch_cost: 1.1367, avg_ips: 84.4543.
+Type : screw Val [ Epoch 390/500 ] max_auc: 0.7825 roc_auc : 0.625538.
+Type : screw Train [ Epoch 391/500 ], loss: 0.0836, avg_reader_cost: 7.9011 avg_batch_cost: 8.3814, avg_ips: 11.4540.
+Type : screw Train [ Epoch 392/500 ], loss: 0.0981, avg_reader_cost: 0.0003 avg_batch_cost: 0.3645, avg_ips: 263.3672.
+Type : screw Train [ Epoch 393/500 ], loss: 0.0371, avg_reader_cost: 0.0003 avg_batch_cost: 0.3587, avg_ips: 267.6354.
+Type : screw Train [ Epoch 394/500 ], loss: 0.0514, avg_reader_cost: 0.0004 avg_batch_cost: 0.3588, avg_ips: 267.5703.
+Type : screw Train [ Epoch 395/500 ], loss: 0.1068, avg_reader_cost: 0.0005 avg_batch_cost: 0.3577, avg_ips: 268.3820.
+Type : screw Train [ Epoch 396/500 ], loss: 0.1666, avg_reader_cost: 0.5952 avg_batch_cost: 0.9496, avg_ips: 101.0976.
+Type : screw Train [ Epoch 397/500 ], loss: 0.1338, avg_reader_cost: 0.7802 avg_batch_cost: 1.1339, avg_ips: 84.6671.
+Type : screw Train [ Epoch 398/500 ], loss: 0.0880, avg_reader_cost: 0.7995 avg_batch_cost: 1.1508, avg_ips: 83.4179.
+Type : screw Train [ Epoch 399/500 ], loss: 0.0811, avg_reader_cost: 0.7855 avg_batch_cost: 1.1472, avg_ips: 83.6808.
+Type : screw Train [ Epoch 400/500 ], loss: 0.1568, avg_reader_cost: 0.8024 avg_batch_cost: 1.1652, avg_ips: 82.3877.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 400/500 ] max_auc: 0.8442 roc_auc : 0.723509.
-Type : screw Train [ Epoch 401/500 ], loss: 0.0976, avg_reader_cost: 6.9859 avg_batch_cost: 7.1009, avg_ips: 13.5194.
-Type : screw Train [ Epoch 402/500 ], loss: 0.1109, avg_reader_cost: 0.0004 avg_batch_cost: 0.1070, avg_ips: 896.7897.
-Type : screw Train [ Epoch 403/500 ], loss: 0.1474, avg_reader_cost: 0.0004 avg_batch_cost: 0.1069, avg_ips: 897.8956.
-Type : screw Train [ Epoch 404/500 ], loss: 0.0740, avg_reader_cost: 1.0949 avg_batch_cost: 1.4595, avg_ips: 65.7742.
-Type : screw Train [ Epoch 405/500 ], loss: 0.1054, avg_reader_cost: 0.7728 avg_batch_cost: 1.1425, avg_ips: 84.0256.
-Type : screw Train [ Epoch 406/500 ], loss: 0.0782, avg_reader_cost: 0.7627 avg_batch_cost: 1.1236, avg_ips: 85.4420.
-Type : screw Train [ Epoch 407/500 ], loss: 0.1437, avg_reader_cost: 0.7641 avg_batch_cost: 1.1210, avg_ips: 85.6415.
-Type : screw Train [ Epoch 408/500 ], loss: 0.1460, avg_reader_cost: 0.7671 avg_batch_cost: 1.1254, avg_ips: 85.2999.
-Type : screw Train [ Epoch 409/500 ], loss: 0.1181, avg_reader_cost: 0.7582 avg_batch_cost: 1.1233, avg_ips: 85.4636.
-Type : screw Train [ Epoch 410/500 ], loss: 0.0836, avg_reader_cost: 0.7702 avg_batch_cost: 1.1316, avg_ips: 84.8342.
+Type : screw Val [ Epoch 400/500 ] max_auc: 0.7825 roc_auc : 0.721869.
+Type : screw Train [ Epoch 401/500 ], loss: 0.0578, avg_reader_cost: 6.9395 avg_batch_cost: 7.0458, avg_ips: 13.6250.
+Type : screw Train [ Epoch 402/500 ], loss: 0.1270, avg_reader_cost: 0.0004 avg_batch_cost: 0.1069, avg_ips: 898.0017.
+Type : screw Train [ Epoch 403/500 ], loss: 0.0938, avg_reader_cost: 0.0005 avg_batch_cost: 0.1077, avg_ips: 891.3640.
+Type : screw Train [ Epoch 404/500 ], loss: 0.2011, avg_reader_cost: 0.8366 avg_batch_cost: 1.1894, avg_ips: 80.7149.
+Type : screw Train [ Epoch 405/500 ], loss: 0.1061, avg_reader_cost: 0.7725 avg_batch_cost: 1.1320, avg_ips: 84.8074.
+Type : screw Train [ Epoch 406/500 ], loss: 0.0861, avg_reader_cost: 0.7726 avg_batch_cost: 1.1285, avg_ips: 85.0691.
+Type : screw Train [ Epoch 407/500 ], loss: 0.0790, avg_reader_cost: 0.7746 avg_batch_cost: 1.1260, avg_ips: 85.2574.
+Type : screw Train [ Epoch 408/500 ], loss: 0.1183, avg_reader_cost: 0.7722 avg_batch_cost: 1.1263, avg_ips: 85.2346.
+Type : screw Train [ Epoch 409/500 ], loss: 0.0667, avg_reader_cost: 0.7733 avg_batch_cost: 1.1280, avg_ips: 85.1097.
+Type : screw Train [ Epoch 410/500 ], loss: 0.0775, avg_reader_cost: 0.7706 avg_batch_cost: 1.1225, avg_ips: 85.5263.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 410/500 ] max_auc: 0.8442 roc_auc : 0.629637.
-Type : screw Train [ Epoch 411/500 ], loss: 0.0977, avg_reader_cost: 7.5527 avg_batch_cost: 8.0570, avg_ips: 11.9152.
-Type : screw Train [ Epoch 412/500 ], loss: 0.1122, avg_reader_cost: 0.0007 avg_batch_cost: 0.3612, avg_ips: 265.7836.
-Type : screw Train [ Epoch 413/500 ], loss: 0.0829, avg_reader_cost: 0.0006 avg_batch_cost: 0.3572, avg_ips: 268.7425.
-Type : screw Train [ Epoch 414/500 ], loss: 0.0496, avg_reader_cost: 0.0011 avg_batch_cost: 0.1591, avg_ips: 603.2158.
-Type : screw Train [ Epoch 415/500 ], loss: 0.0886, avg_reader_cost: 0.0004 avg_batch_cost: 0.3641, avg_ips: 263.6916.
-Type : screw Train [ Epoch 416/500 ], loss: 0.0617, avg_reader_cost: 0.6325 avg_batch_cost: 0.9959, avg_ips: 96.3970.
-Type : screw Train [ Epoch 417/500 ], loss: 0.0667, avg_reader_cost: 0.7682 avg_batch_cost: 1.1319, avg_ips: 84.8125.
-Type : screw Train [ Epoch 418/500 ], loss: 0.1219, avg_reader_cost: 0.7732 avg_batch_cost: 1.1443, avg_ips: 83.8927.
-Type : screw Train [ Epoch 419/500 ], loss: 0.0777, avg_reader_cost: 0.7738 avg_batch_cost: 1.1394, avg_ips: 84.2573.
-Type : screw Train [ Epoch 420/500 ], loss: 0.0779, avg_reader_cost: 0.7805 avg_batch_cost: 1.1415, avg_ips: 84.1032.
+Type : screw Val [ Epoch 410/500 ] max_auc: 0.7883 roc_auc : 0.788276.
+Type : screw Train [ Epoch 411/500 ], loss: 0.0715, avg_reader_cost: 8.1838 avg_batch_cost: 8.5434, avg_ips: 11.2367.
+Type : screw Train [ Epoch 412/500 ], loss: 0.0777, avg_reader_cost: 0.0006 avg_batch_cost: 0.3580, avg_ips: 268.1373.
+Type : screw Train [ Epoch 413/500 ], loss: 0.0975, avg_reader_cost: 0.0004 avg_batch_cost: 0.3556, avg_ips: 270.0013.
+Type : screw Train [ Epoch 414/500 ], loss: 0.1054, avg_reader_cost: 0.0005 avg_batch_cost: 0.3619, avg_ips: 265.2952.
+Type : screw Train [ Epoch 415/500 ], loss: 0.0833, avg_reader_cost: 0.0004 avg_batch_cost: 0.3566, avg_ips: 269.2360.
+Type : screw Train [ Epoch 416/500 ], loss: 0.1212, avg_reader_cost: 0.6047 avg_batch_cost: 0.9604, avg_ips: 99.9616.
+Type : screw Train [ Epoch 417/500 ], loss: 0.0627, avg_reader_cost: 0.7805 avg_batch_cost: 1.1313, avg_ips: 84.8611.
+Type : screw Train [ Epoch 418/500 ], loss: 0.0729, avg_reader_cost: 0.7734 avg_batch_cost: 1.1271, avg_ips: 85.1763.
+Type : screw Train [ Epoch 419/500 ], loss: 0.1082, avg_reader_cost: 0.7966 avg_batch_cost: 1.1513, avg_ips: 83.3865.
+Type : screw Train [ Epoch 420/500 ], loss: 0.0589, avg_reader_cost: 0.8119 avg_batch_cost: 1.1738, avg_ips: 81.7877.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 420/500 ] max_auc: 0.8442 roc_auc : 0.711211.
-Type : screw Train [ Epoch 421/500 ], loss: 0.0816, avg_reader_cost: 7.7914 avg_batch_cost: 8.2477, avg_ips: 11.6396.
-Type : screw Train [ Epoch 422/500 ], loss: 0.0833, avg_reader_cost: 0.0003 avg_batch_cost: 0.3589, avg_ips: 267.4511.
-Type : screw Train [ Epoch 423/500 ], loss: 0.1332, avg_reader_cost: 0.0002 avg_batch_cost: 0.3590, avg_ips: 267.4301.
-Type : screw Train [ Epoch 424/500 ], loss: 0.0917, avg_reader_cost: 0.0003 avg_batch_cost: 0.3668, avg_ips: 261.7221.
-Type : screw Train [ Epoch 425/500 ], loss: 0.1106, avg_reader_cost: 0.0004 avg_batch_cost: 0.4506, avg_ips: 213.0327.
-Type : screw Train [ Epoch 426/500 ], loss: 0.0943, avg_reader_cost: 0.5266 avg_batch_cost: 0.8898, avg_ips: 107.8841.
-Type : screw Train [ Epoch 427/500 ], loss: 0.0683, avg_reader_cost: 0.7645 avg_batch_cost: 1.1209, avg_ips: 85.6419.
-Type : screw Train [ Epoch 428/500 ], loss: 0.0799, avg_reader_cost: 0.7664 avg_batch_cost: 1.1251, avg_ips: 85.3294.
-Type : screw Train [ Epoch 429/500 ], loss: 0.1326, avg_reader_cost: 0.7700 avg_batch_cost: 1.1376, avg_ips: 84.3895.
-Type : screw Train [ Epoch 430/500 ], loss: 0.1066, avg_reader_cost: 0.7704 avg_batch_cost: 1.1247, avg_ips: 85.3587.
+Type : screw Val [ Epoch 420/500 ] max_auc: 0.8116 roc_auc : 0.811642.
+Type : screw Train [ Epoch 421/500 ], loss: 0.1166, avg_reader_cost: 8.5484 avg_batch_cost: 8.9235, avg_ips: 10.7581.
+Type : screw Train [ Epoch 422/500 ], loss: 0.0906, avg_reader_cost: 0.0004 avg_batch_cost: 0.3519, avg_ips: 272.8071.
+Type : screw Train [ Epoch 423/500 ], loss: 0.1066, avg_reader_cost: 0.0011 avg_batch_cost: 0.3593, avg_ips: 267.2056.
+Type : screw Train [ Epoch 424/500 ], loss: 0.0553, avg_reader_cost: 0.0005 avg_batch_cost: 0.3541, avg_ips: 271.1080.
+Type : screw Train [ Epoch 425/500 ], loss: 0.1348, avg_reader_cost: 0.0002 avg_batch_cost: 0.3556, avg_ips: 269.9607.
+Type : screw Train [ Epoch 426/500 ], loss: 0.1213, avg_reader_cost: 0.6092 avg_batch_cost: 0.9789, avg_ips: 98.0679.
+Type : screw Train [ Epoch 427/500 ], loss: 0.1293, avg_reader_cost: 0.7602 avg_batch_cost: 1.1146, avg_ips: 86.1270.
+Type : screw Train [ Epoch 428/500 ], loss: 0.1028, avg_reader_cost: 0.7709 avg_batch_cost: 1.1277, avg_ips: 85.1292.
+Type : screw Train [ Epoch 429/500 ], loss: 0.0859, avg_reader_cost: 0.7722 avg_batch_cost: 1.1347, avg_ips: 84.6043.
+Type : screw Train [ Epoch 430/500 ], loss: 0.1218, avg_reader_cost: 0.7727 avg_batch_cost: 1.1305, avg_ips: 84.9189.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 430/500 ] max_auc: 0.8442 roc_auc : 0.727608.
-Type : screw Train [ Epoch 431/500 ], loss: 0.1820, avg_reader_cost: 7.2054 avg_batch_cost: 7.3319, avg_ips: 13.0935.
-Type : screw Train [ Epoch 432/500 ], loss: 0.0596, avg_reader_cost: 0.0003 avg_batch_cost: 0.1056, avg_ips: 909.0078.
-Type : screw Train [ Epoch 433/500 ], loss: 0.0890, avg_reader_cost: 0.0003 avg_batch_cost: 0.1055, avg_ips: 910.2058.
-Type : screw Train [ Epoch 434/500 ], loss: 0.0780, avg_reader_cost: 0.0004 avg_batch_cost: 0.1061, avg_ips: 905.0400.
-Type : screw Train [ Epoch 435/500 ], loss: 0.1171, avg_reader_cost: 0.8507 avg_batch_cost: 1.2152, avg_ips: 79.0000.
-Type : screw Train [ Epoch 436/500 ], loss: 0.1142, avg_reader_cost: 0.7771 avg_batch_cost: 1.1386, avg_ips: 84.3140.
-Type : screw Train [ Epoch 437/500 ], loss: 0.0948, avg_reader_cost: 0.7838 avg_batch_cost: 1.1434, avg_ips: 83.9578.
-Type : screw Train [ Epoch 438/500 ], loss: 0.0755, avg_reader_cost: 0.7877 avg_batch_cost: 1.1521, avg_ips: 83.3247.
-Type : screw Train [ Epoch 439/500 ], loss: 0.0776, avg_reader_cost: 0.7583 avg_batch_cost: 1.1192, avg_ips: 85.7718.
-Type : screw Train [ Epoch 440/500 ], loss: 0.0914, avg_reader_cost: 0.7600 avg_batch_cost: 1.1224, avg_ips: 85.5282.
+Type : screw Val [ Epoch 430/500 ] max_auc: 0.8116 roc_auc : 0.739086.
+Type : screw Train [ Epoch 431/500 ], loss: 0.0899, avg_reader_cost: 7.3056 avg_batch_cost: 7.4293, avg_ips: 12.9218.
+Type : screw Train [ Epoch 432/500 ], loss: 0.0954, avg_reader_cost: 0.0003 avg_batch_cost: 0.1049, avg_ips: 915.1666.
+Type : screw Train [ Epoch 433/500 ], loss: 0.1253, avg_reader_cost: 0.0003 avg_batch_cost: 0.1049, avg_ips: 915.2602.
+Type : screw Train [ Epoch 434/500 ], loss: 0.0867, avg_reader_cost: 0.0003 avg_batch_cost: 0.1036, avg_ips: 926.9372.
+Type : screw Train [ Epoch 435/500 ], loss: 0.1228, avg_reader_cost: 0.8618 avg_batch_cost: 1.2119, avg_ips: 79.2141.
+Type : screw Train [ Epoch 436/500 ], loss: 0.1682, avg_reader_cost: 0.7661 avg_batch_cost: 1.1161, avg_ips: 86.0112.
+Type : screw Train [ Epoch 437/500 ], loss: 0.0970, avg_reader_cost: 0.7677 avg_batch_cost: 1.1297, avg_ips: 84.9769.
+Type : screw Train [ Epoch 438/500 ], loss: 0.0886, avg_reader_cost: 0.7685 avg_batch_cost: 1.1303, avg_ips: 84.9307.
+Type : screw Train [ Epoch 439/500 ], loss: 0.0998, avg_reader_cost: 0.7625 avg_batch_cost: 1.1297, avg_ips: 84.9757.
+Type : screw Train [ Epoch 440/500 ], loss: 0.1060, avg_reader_cost: 1.0068 avg_batch_cost: 1.3646, avg_ips: 70.3517.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 440/500 ] max_auc: 0.8442 roc_auc : 0.706087.
-Type : screw Train [ Epoch 441/500 ], loss: 0.1560, avg_reader_cost: 7.6441 avg_batch_cost: 8.0765, avg_ips: 11.8864.
-Type : screw Train [ Epoch 442/500 ], loss: 0.1264, avg_reader_cost: 0.0005 avg_batch_cost: 0.3676, avg_ips: 261.1194.
-Type : screw Train [ Epoch 443/500 ], loss: 0.0772, avg_reader_cost: 0.0003 avg_batch_cost: 0.3644, avg_ips: 263.4822.
-Type : screw Train [ Epoch 444/500 ], loss: 0.0412, avg_reader_cost: 0.0003 avg_batch_cost: 0.3680, avg_ips: 260.8875.
-Type : screw Train [ Epoch 445/500 ], loss: 0.1628, avg_reader_cost: 0.0003 avg_batch_cost: 0.3769, avg_ips: 254.6924.
-Type : screw Train [ Epoch 446/500 ], loss: 0.0792, avg_reader_cost: 0.6060 avg_batch_cost: 0.9622, avg_ips: 99.7716.
-Type : screw Train [ Epoch 447/500 ], loss: 0.0613, avg_reader_cost: 0.7780 avg_batch_cost: 1.1452, avg_ips: 83.8247.
-Type : screw Train [ Epoch 448/500 ], loss: 0.0731, avg_reader_cost: 0.7687 avg_batch_cost: 1.1382, avg_ips: 84.3419.
-Type : screw Train [ Epoch 449/500 ], loss: 0.0986, avg_reader_cost: 0.7669 avg_batch_cost: 1.1246, avg_ips: 85.3617.
-Type : screw Train [ Epoch 450/500 ], loss: 0.1406, avg_reader_cost: 0.7771 avg_batch_cost: 1.1385, avg_ips: 84.3187.
+Type : screw Val [ Epoch 440/500 ] max_auc: 0.8116 roc_auc : 0.464030.
+Type : screw Train [ Epoch 441/500 ], loss: 0.0952, avg_reader_cost: 7.6798 avg_batch_cost: 8.1337, avg_ips: 11.8028.
+Type : screw Train [ Epoch 442/500 ], loss: 0.1059, avg_reader_cost: 0.0006 avg_batch_cost: 0.3565, avg_ips: 269.3060.
+Type : screw Train [ Epoch 443/500 ], loss: 0.1173, avg_reader_cost: 0.0003 avg_batch_cost: 0.3586, avg_ips: 267.7381.
+Type : screw Train [ Epoch 444/500 ], loss: 0.1343, avg_reader_cost: 0.0003 avg_batch_cost: 0.3533, avg_ips: 271.7055.
+Type : screw Train [ Epoch 445/500 ], loss: 0.0663, avg_reader_cost: 0.0011 avg_batch_cost: 0.2432, avg_ips: 394.6702.
+Type : screw Train [ Epoch 446/500 ], loss: 0.0728, avg_reader_cost: 0.6258 avg_batch_cost: 0.9881, avg_ips: 97.1528.
+Type : screw Train [ Epoch 447/500 ], loss: 0.0418, avg_reader_cost: 0.7587 avg_batch_cost: 1.1207, avg_ips: 85.6580.
+Type : screw Train [ Epoch 448/500 ], loss: 0.1041, avg_reader_cost: 0.7573 avg_batch_cost: 1.1188, avg_ips: 85.8074.
+Type : screw Train [ Epoch 449/500 ], loss: 0.1191, avg_reader_cost: 0.7574 avg_batch_cost: 1.1180, avg_ips: 85.8677.
+Type : screw Train [ Epoch 450/500 ], loss: 0.0909, avg_reader_cost: 0.7633 avg_batch_cost: 1.1259, avg_ips: 85.2619.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 450/500 ] max_auc: 0.8442 roc_auc : 0.790941.
-Type : screw Train [ Epoch 451/500 ], loss: 0.0657, avg_reader_cost: 7.5808 avg_batch_cost: 8.0086, avg_ips: 11.9871.
-Type : screw Train [ Epoch 452/500 ], loss: 0.1279, avg_reader_cost: 0.0003 avg_batch_cost: 0.3598, avg_ips: 266.7966.
-Type : screw Train [ Epoch 453/500 ], loss: 0.0387, avg_reader_cost: 0.0003 avg_batch_cost: 0.3585, avg_ips: 267.8156.
-Type : screw Train [ Epoch 454/500 ], loss: 0.1062, avg_reader_cost: 0.0003 avg_batch_cost: 0.3584, avg_ips: 267.8797.
-Type : screw Train [ Epoch 455/500 ], loss: 0.1282, avg_reader_cost: 0.0003 avg_batch_cost: 0.3656, avg_ips: 262.5833.
-Type : screw Train [ Epoch 456/500 ], loss: 0.0758, avg_reader_cost: 0.6260 avg_batch_cost: 0.9936, avg_ips: 96.6213.
-Type : screw Train [ Epoch 457/500 ], loss: 0.0981, avg_reader_cost: 0.7974 avg_batch_cost: 1.1597, avg_ips: 82.7811.
-Type : screw Train [ Epoch 458/500 ], loss: 0.1027, avg_reader_cost: 0.7739 avg_batch_cost: 1.1427, avg_ips: 84.0133.
-Type : screw Train [ Epoch 459/500 ], loss: 0.1033, avg_reader_cost: 0.7679 avg_batch_cost: 1.1321, avg_ips: 84.7999.
-Type : screw Train [ Epoch 460/500 ], loss: 0.0631, avg_reader_cost: 0.7659 avg_batch_cost: 1.1298, avg_ips: 84.9726.
+Type : screw Val [ Epoch 450/500 ] max_auc: 0.8116 roc_auc : 0.513015.
+Type : screw Train [ Epoch 451/500 ], loss: 0.0481, avg_reader_cost: 7.7442 avg_batch_cost: 8.2004, avg_ips: 11.7068.
+Type : screw Train [ Epoch 452/500 ], loss: 0.0634, avg_reader_cost: 0.0003 avg_batch_cost: 0.3533, avg_ips: 271.7107.
+Type : screw Train [ Epoch 453/500 ], loss: 0.1146, avg_reader_cost: 0.0006 avg_batch_cost: 0.3569, avg_ips: 268.9795.
+Type : screw Train [ Epoch 454/500 ], loss: 0.1430, avg_reader_cost: 0.0006 avg_batch_cost: 0.3589, avg_ips: 267.5159.
+Type : screw Train [ Epoch 455/500 ], loss: 0.1041, avg_reader_cost: 0.0004 avg_batch_cost: 0.3586, avg_ips: 267.7173.
+Type : screw Train [ Epoch 456/500 ], loss: 0.0829, avg_reader_cost: 0.6164 avg_batch_cost: 0.9731, avg_ips: 98.6516.
+Type : screw Train [ Epoch 457/500 ], loss: 0.0804, avg_reader_cost: 0.7834 avg_batch_cost: 1.1421, avg_ips: 84.0555.
+Type : screw Train [ Epoch 458/500 ], loss: 0.1285, avg_reader_cost: 0.7794 avg_batch_cost: 1.1365, avg_ips: 84.4705.
+Type : screw Train [ Epoch 459/500 ], loss: 0.0685, avg_reader_cost: 0.7764 avg_batch_cost: 1.1353, avg_ips: 84.5571.
+Type : screw Train [ Epoch 460/500 ], loss: 0.1127, avg_reader_cost: 0.7737 avg_batch_cost: 1.1284, avg_ips: 85.0745.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 460/500 ] max_auc: 0.8442 roc_auc : 0.832548.
-Type : screw Train [ Epoch 461/500 ], loss: 0.0620, avg_reader_cost: 7.6648 avg_batch_cost: 7.7951, avg_ips: 12.3154.
-Type : screw Train [ Epoch 462/500 ], loss: 0.1088, avg_reader_cost: 0.0003 avg_batch_cost: 0.1063, avg_ips: 902.9698.
-Type : screw Train [ Epoch 463/500 ], loss: 0.0632, avg_reader_cost: 0.0004 avg_batch_cost: 0.1062, avg_ips: 903.9225.
-Type : screw Train [ Epoch 464/500 ], loss: 0.1149, avg_reader_cost: 0.0004 avg_batch_cost: 0.1062, avg_ips: 903.5351.
-Type : screw Train [ Epoch 465/500 ], loss: 0.0585, avg_reader_cost: 0.0004 avg_batch_cost: 0.1092, avg_ips: 879.0230.
-Type : screw Train [ Epoch 466/500 ], loss: 0.0823, avg_reader_cost: 0.8354 avg_batch_cost: 1.2008, avg_ips: 79.9435.
-Type : screw Train [ Epoch 467/500 ], loss: 0.0682, avg_reader_cost: 0.7603 avg_batch_cost: 1.1232, avg_ips: 85.4677.
-Type : screw Train [ Epoch 468/500 ], loss: 0.1032, avg_reader_cost: 0.7617 avg_batch_cost: 1.1270, avg_ips: 85.1841.
-Type : screw Train [ Epoch 469/500 ], loss: 0.1258, avg_reader_cost: 0.7758 avg_batch_cost: 1.1381, avg_ips: 84.3474.
-Type : screw Train [ Epoch 470/500 ], loss: 0.0574, avg_reader_cost: 0.7709 avg_batch_cost: 1.1377, avg_ips: 84.3822.
+Type : screw Val [ Epoch 460/500 ] max_auc: 0.8116 roc_auc : 0.644804.
+Type : screw Train [ Epoch 461/500 ], loss: 0.0574, avg_reader_cost: 7.5856 avg_batch_cost: 7.6981, avg_ips: 12.4706.
+Type : screw Train [ Epoch 462/500 ], loss: 0.0880, avg_reader_cost: 0.0004 avg_batch_cost: 0.1059, avg_ips: 906.2275.
+Type : screw Train [ Epoch 463/500 ], loss: 0.0933, avg_reader_cost: 0.0004 avg_batch_cost: 0.1061, avg_ips: 904.4362.
+Type : screw Train [ Epoch 464/500 ], loss: 0.0862, avg_reader_cost: 0.0004 avg_batch_cost: 0.1067, avg_ips: 899.9727.
+Type : screw Train [ Epoch 465/500 ], loss: 0.0980, avg_reader_cost: 0.0006 avg_batch_cost: 0.1068, avg_ips: 899.2752.
+Type : screw Train [ Epoch 466/500 ], loss: 0.1162, avg_reader_cost: 0.8358 avg_batch_cost: 1.1908, avg_ips: 80.6197.
+Type : screw Train [ Epoch 467/500 ], loss: 0.0876, avg_reader_cost: 0.7707 avg_batch_cost: 1.1274, avg_ips: 85.1515.
+Type : screw Train [ Epoch 468/500 ], loss: 0.1101, avg_reader_cost: 0.7715 avg_batch_cost: 1.1262, avg_ips: 85.2448.
+Type : screw Train [ Epoch 469/500 ], loss: 0.0958, avg_reader_cost: 0.7795 avg_batch_cost: 1.1400, avg_ips: 84.2121.
+Type : screw Train [ Epoch 470/500 ], loss: 0.0781, avg_reader_cost: 0.7734 avg_batch_cost: 1.1300, avg_ips: 84.9552.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 470/500 ] max_auc: 0.8442 roc_auc : 0.786637.
-Type : screw Train [ Epoch 471/500 ], loss: 0.1168, avg_reader_cost: 7.4632 avg_batch_cost: 7.8925, avg_ips: 12.1635.
-Type : screw Train [ Epoch 472/500 ], loss: 0.0809, avg_reader_cost: 0.0005 avg_batch_cost: 0.3596, avg_ips: 266.9721.
-Type : screw Train [ Epoch 473/500 ], loss: 0.0528, avg_reader_cost: 0.0005 avg_batch_cost: 0.3594, avg_ips: 267.0998.
-Type : screw Train [ Epoch 474/500 ], loss: 0.0891, avg_reader_cost: 0.0003 avg_batch_cost: 0.3573, avg_ips: 268.6821.
-Type : screw Train [ Epoch 475/500 ], loss: 0.0565, avg_reader_cost: 0.0003 avg_batch_cost: 0.3704, avg_ips: 259.1746.
-Type : screw Train [ Epoch 476/500 ], loss: 0.0923, avg_reader_cost: 0.6098 avg_batch_cost: 0.9749, avg_ips: 98.4739.
-Type : screw Train [ Epoch 477/500 ], loss: 0.0342, avg_reader_cost: 0.7763 avg_batch_cost: 1.1465, avg_ips: 83.7314.
-Type : screw Train [ Epoch 478/500 ], loss: 0.0765, avg_reader_cost: 0.7706 avg_batch_cost: 1.1358, avg_ips: 84.5202.
-Type : screw Train [ Epoch 479/500 ], loss: 0.0659, avg_reader_cost: 0.7716 avg_batch_cost: 1.1332, avg_ips: 84.7182.
-Type : screw Train [ Epoch 480/500 ], loss: 0.0546, avg_reader_cost: 0.7719 avg_batch_cost: 1.1346, avg_ips: 84.6097.
+Type : screw Val [ Epoch 470/500 ] max_auc: 0.8116 roc_auc : 0.599303.
+Type : screw Train [ Epoch 471/500 ], loss: 0.1061, avg_reader_cost: 7.7319 avg_batch_cost: 8.1480, avg_ips: 11.7821.
+Type : screw Train [ Epoch 472/500 ], loss: 0.0863, avg_reader_cost: 0.0011 avg_batch_cost: 0.3574, avg_ips: 268.6434.
+Type : screw Train [ Epoch 473/500 ], loss: 0.1031, avg_reader_cost: 0.0005 avg_batch_cost: 0.3571, avg_ips: 268.8355.
+Type : screw Train [ Epoch 474/500 ], loss: 0.0775, avg_reader_cost: 0.0005 avg_batch_cost: 0.3563, avg_ips: 269.4012.
+Type : screw Train [ Epoch 475/500 ], loss: 0.0958, avg_reader_cost: 0.0006 avg_batch_cost: 0.3549, avg_ips: 270.5023.
+Type : screw Train [ Epoch 476/500 ], loss: 0.0358, avg_reader_cost: 0.6136 avg_batch_cost: 0.9731, avg_ips: 98.6505.
+Type : screw Train [ Epoch 477/500 ], loss: 0.0861, avg_reader_cost: 0.7905 avg_batch_cost: 1.1509, avg_ips: 83.4138.
+Type : screw Train [ Epoch 478/500 ], loss: 0.0534, avg_reader_cost: 0.7715 avg_batch_cost: 1.1297, avg_ips: 84.9755.
+Type : screw Train [ Epoch 479/500 ], loss: 0.0869, avg_reader_cost: 0.7666 avg_batch_cost: 1.1169, avg_ips: 85.9540.
+Type : screw Train [ Epoch 480/500 ], loss: 0.0732, avg_reader_cost: 0.7789 avg_batch_cost: 1.1327, avg_ips: 84.7546.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 480/500 ] max_auc: 0.8442 roc_auc : 0.569584.
-Type : screw Train [ Epoch 481/500 ], loss: 0.1061, avg_reader_cost: 7.5977 avg_batch_cost: 8.0282, avg_ips: 11.9579.
-Type : screw Train [ Epoch 482/500 ], loss: 0.0644, avg_reader_cost: 0.0006 avg_batch_cost: 0.3349, avg_ips: 286.6732.
-Type : screw Train [ Epoch 483/500 ], loss: 0.1305, avg_reader_cost: 0.0008 avg_batch_cost: 0.1154, avg_ips: 831.9573.
-Type : screw Train [ Epoch 484/500 ], loss: 0.0642, avg_reader_cost: 0.0003 avg_batch_cost: 0.3615, avg_ips: 265.5267.
-Type : screw Train [ Epoch 485/500 ], loss: 0.0590, avg_reader_cost: 0.0002 avg_batch_cost: 0.3649, avg_ips: 263.0998.
-Type : screw Train [ Epoch 486/500 ], loss: 0.0940, avg_reader_cost: 0.7082 avg_batch_cost: 1.0717, avg_ips: 89.5787.
-Type : screw Train [ Epoch 487/500 ], loss: 0.0810, avg_reader_cost: 0.8353 avg_batch_cost: 1.1946, avg_ips: 80.3646.
-Type : screw Train [ Epoch 488/500 ], loss: 0.1394, avg_reader_cost: 0.8059 avg_batch_cost: 1.1643, avg_ips: 82.4554.
-Type : screw Train [ Epoch 489/500 ], loss: 0.0747, avg_reader_cost: 0.7717 avg_batch_cost: 1.1290, avg_ips: 85.0300.
-Type : screw Train [ Epoch 490/500 ], loss: 0.1040, avg_reader_cost: 0.7674 avg_batch_cost: 1.1296, avg_ips: 84.9826.
+Type : screw Val [ Epoch 480/500 ] max_auc: 0.8116 roc_auc : 0.754253.
+Type : screw Train [ Epoch 481/500 ], loss: 0.0750, avg_reader_cost: 7.6525 avg_batch_cost: 8.1133, avg_ips: 11.8325.
+Type : screw Train [ Epoch 482/500 ], loss: 0.1418, avg_reader_cost: 0.0004 avg_batch_cost: 0.3432, avg_ips: 279.7345.
+Type : screw Train [ Epoch 483/500 ], loss: 0.0766, avg_reader_cost: 0.0006 avg_batch_cost: 0.3603, avg_ips: 266.4543.
+Type : screw Train [ Epoch 484/500 ], loss: 0.0887, avg_reader_cost: 0.0006 avg_batch_cost: 0.3585, avg_ips: 267.8132.
+Type : screw Train [ Epoch 485/500 ], loss: 0.1138, avg_reader_cost: 0.0003 avg_batch_cost: 0.3545, avg_ips: 270.7815.
+Type : screw Train [ Epoch 486/500 ], loss: 0.1001, avg_reader_cost: 0.6074 avg_batch_cost: 0.9642, avg_ips: 99.5640.
+Type : screw Train [ Epoch 487/500 ], loss: 0.0859, avg_reader_cost: 0.7784 avg_batch_cost: 1.1386, avg_ips: 84.3134.
+Type : screw Train [ Epoch 488/500 ], loss: 0.0913, avg_reader_cost: 0.7963 avg_batch_cost: 1.1533, avg_ips: 83.2371.
+Type : screw Train [ Epoch 489/500 ], loss: 0.0702, avg_reader_cost: 0.7728 avg_batch_cost: 1.1349, avg_ips: 84.5865.
+Type : screw Train [ Epoch 490/500 ], loss: 0.0840, avg_reader_cost: 0.7850 avg_batch_cost: 1.1464, avg_ips: 83.7400.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 490/500 ] max_auc: 0.8442 roc_auc : 0.674728.
-Type : screw Train [ Epoch 491/500 ], loss: 0.1312, avg_reader_cost: 7.6566 avg_batch_cost: 8.1364, avg_ips: 11.7989.
-Type : screw Train [ Epoch 492/500 ], loss: 0.0520, avg_reader_cost: 0.0006 avg_batch_cost: 0.3581, avg_ips: 268.1171.
-Type : screw Train [ Epoch 493/500 ], loss: 0.0779, avg_reader_cost: 0.0003 avg_batch_cost: 0.3600, avg_ips: 266.6648.
-Type : screw Train [ Epoch 494/500 ], loss: 0.1117, avg_reader_cost: 0.0003 avg_batch_cost: 0.3654, avg_ips: 262.7305.
-Type : screw Train [ Epoch 495/500 ], loss: 0.0946, avg_reader_cost: 0.0005 avg_batch_cost: 0.3667, avg_ips: 261.7864.
-Type : screw Train [ Epoch 496/500 ], loss: 0.0851, avg_reader_cost: 0.6058 avg_batch_cost: 0.7132, avg_ips: 134.6004.
-Type : screw Train [ Epoch 497/500 ], loss: 0.0989, avg_reader_cost: 0.8274 avg_batch_cost: 1.1939, avg_ips: 80.4087.
-Type : screw Train [ Epoch 498/500 ], loss: 0.0862, avg_reader_cost: 0.7719 avg_batch_cost: 1.1394, avg_ips: 84.2547.
-Type : screw Train [ Epoch 499/500 ], loss: 0.0806, avg_reader_cost: 0.7648 avg_batch_cost: 1.1255, avg_ips: 85.2976.
-Type : screw Train [ Epoch 500/500 ], loss: 0.0511, avg_reader_cost: 0.7657 avg_batch_cost: 1.1215, avg_ips: 85.6004.
+Type : screw Val [ Epoch 490/500 ] max_auc: 0.8116 roc_auc : 0.731092.
+Type : screw Train [ Epoch 491/500 ], loss: 0.0882, avg_reader_cost: 7.7743 avg_batch_cost: 8.2310, avg_ips: 11.6632.
+Type : screw Train [ Epoch 492/500 ], loss: 0.1573, avg_reader_cost: 0.0004 avg_batch_cost: 0.3636, avg_ips: 264.0046.
+Type : screw Train [ Epoch 493/500 ], loss: 0.0921, avg_reader_cost: 0.0004 avg_batch_cost: 0.3624, avg_ips: 264.8700.
+Type : screw Train [ Epoch 494/500 ], loss: 0.0961, avg_reader_cost: 0.0003 avg_batch_cost: 0.3562, avg_ips: 269.5447.
+Type : screw Train [ Epoch 495/500 ], loss: 0.1085, avg_reader_cost: 0.0003 avg_batch_cost: 0.3548, avg_ips: 270.5897.
+Type : screw Train [ Epoch 496/500 ], loss: 0.0895, avg_reader_cost: 0.5898 avg_batch_cost: 0.6938, avg_ips: 138.3740.
+Type : screw Train [ Epoch 497/500 ], loss: 0.0773, avg_reader_cost: 0.8342 avg_batch_cost: 1.1857, avg_ips: 80.9627.
+Type : screw Train [ Epoch 498/500 ], loss: 0.0763, avg_reader_cost: 0.7767 avg_batch_cost: 1.1304, avg_ips: 84.9290.
+Type : screw Train [ Epoch 499/500 ], loss: 0.0671, avg_reader_cost: 0.7701 avg_batch_cost: 1.1268, avg_ips: 85.1941.
+Type : screw Train [ Epoch 500/500 ], loss: 0.1026, avg_reader_cost: 0.7751 avg_batch_cost: 1.1343, avg_ips: 84.6353.
 loading images
 loaded 320 images
 using density estimation GaussianDensityPaddle
-Type : screw Val [ Epoch 500/500 ] max_auc: 0.8442 roc_auc : 0.674933.
+Type : screw Val [ Epoch 500/500 ] max_auc: 0.8116 roc_auc : 0.743390.

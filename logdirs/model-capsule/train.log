@@ -1,700 +1,700 @@
-Type : capsule Train [ Epoch 1/500 ], loss: 1.5753, avg_reader_cost: 1.3143 avg_batch_cost: 1.6985, avg_ips: 56.5192.
-Type : capsule Train [ Epoch 2/500 ], loss: 1.0456, avg_reader_cost: 1.2457 avg_batch_cost: 1.5878, avg_ips: 60.4605.
-Type : capsule Train [ Epoch 3/500 ], loss: 0.8677, avg_reader_cost: 1.2646 avg_batch_cost: 1.6046, avg_ips: 59.8265.
-Type : capsule Train [ Epoch 4/500 ], loss: 0.6898, avg_reader_cost: 1.2604 avg_batch_cost: 1.4275, avg_ips: 67.2523.
-Type : capsule Train [ Epoch 5/500 ], loss: 0.6573, avg_reader_cost: 1.2759 avg_batch_cost: 1.6139, avg_ips: 59.4832.
-Type : capsule Train [ Epoch 6/500 ], loss: 0.5869, avg_reader_cost: 1.2501 avg_batch_cost: 1.5921, avg_ips: 60.2991.
-Type : capsule Train [ Epoch 7/500 ], loss: 0.5408, avg_reader_cost: 1.2473 avg_batch_cost: 1.6035, avg_ips: 59.8690.
-Type : capsule Train [ Epoch 8/500 ], loss: 0.5085, avg_reader_cost: 1.2511 avg_batch_cost: 1.6091, avg_ips: 59.6625.
-Type : capsule Train [ Epoch 9/500 ], loss: 0.4789, avg_reader_cost: 1.2429 avg_batch_cost: 1.3802, avg_ips: 69.5526.
-Type : capsule Train [ Epoch 10/500 ], loss: 0.4698, avg_reader_cost: 1.2700 avg_batch_cost: 1.6135, avg_ips: 59.4972.
+Type : capsule Train [ Epoch 1/500 ], loss: 1.6302, avg_reader_cost: 1.2975 avg_batch_cost: 1.4224, avg_ips: 67.4910.
+Type : capsule Train [ Epoch 2/500 ], loss: 1.3375, avg_reader_cost: 1.2612 avg_batch_cost: 1.3815, avg_ips: 69.4901.
+Type : capsule Train [ Epoch 3/500 ], loss: 1.1413, avg_reader_cost: 1.2691 avg_batch_cost: 1.3901, avg_ips: 69.0616.
+Type : capsule Train [ Epoch 4/500 ], loss: 0.8472, avg_reader_cost: 1.2707 avg_batch_cost: 1.3932, avg_ips: 68.9064.
+Type : capsule Train [ Epoch 5/500 ], loss: 0.7460, avg_reader_cost: 1.3692 avg_batch_cost: 1.4912, avg_ips: 64.3758.
+Type : capsule Train [ Epoch 6/500 ], loss: 0.6843, avg_reader_cost: 1.2674 avg_batch_cost: 1.3915, avg_ips: 68.9882.
+Type : capsule Train [ Epoch 7/500 ], loss: 0.7200, avg_reader_cost: 1.2687 avg_batch_cost: 1.3909, avg_ips: 69.0201.
+Type : capsule Train [ Epoch 8/500 ], loss: 0.7023, avg_reader_cost: 1.2602 avg_batch_cost: 1.3828, avg_ips: 69.4232.
+Type : capsule Train [ Epoch 9/500 ], loss: 0.6840, avg_reader_cost: 1.2588 avg_batch_cost: 1.3785, avg_ips: 69.6390.
+Type : capsule Train [ Epoch 10/500 ], loss: 0.6465, avg_reader_cost: 1.2658 avg_batch_cost: 1.3871, avg_ips: 69.2077.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 10/500 ] max_auc: 0.7487 roc_auc : 0.748704.
-Type : capsule Train [ Epoch 11/500 ], loss: 0.4507, avg_reader_cost: 13.7634 avg_batch_cost: 14.1353, avg_ips: 6.7915.
-Type : capsule Train [ Epoch 12/500 ], loss: 0.4677, avg_reader_cost: 0.0003 avg_batch_cost: 0.3442, avg_ips: 278.9096.
-Type : capsule Train [ Epoch 13/500 ], loss: 0.4886, avg_reader_cost: 0.0004 avg_batch_cost: 0.3151, avg_ips: 304.6226.
-Type : capsule Train [ Epoch 14/500 ], loss: 0.4711, avg_reader_cost: 0.0004 avg_batch_cost: 0.3498, avg_ips: 274.4236.
-Type : capsule Train [ Epoch 15/500 ], loss: 0.4809, avg_reader_cost: 0.0003 avg_batch_cost: 0.1380, avg_ips: 695.8890.
-Type : capsule Train [ Epoch 16/500 ], loss: 0.4498, avg_reader_cost: 1.1152 avg_batch_cost: 1.2697, avg_ips: 75.6086.
-Type : capsule Train [ Epoch 17/500 ], loss: 0.4254, avg_reader_cost: 1.2637 avg_batch_cost: 1.5995, avg_ips: 60.0170.
-Type : capsule Train [ Epoch 18/500 ], loss: 0.3846, avg_reader_cost: 1.2662 avg_batch_cost: 1.4046, avg_ips: 68.3493.
-Type : capsule Train [ Epoch 19/500 ], loss: 0.4229, avg_reader_cost: 1.2641 avg_batch_cost: 1.4101, avg_ips: 68.0826.
-Type : capsule Train [ Epoch 20/500 ], loss: 0.3811, avg_reader_cost: 1.2617 avg_batch_cost: 1.4068, avg_ips: 68.2393.
+Type : capsule Val [ Epoch 10/500 ] max_auc: 0.8971 roc_auc : 0.897088.
+Type : capsule Train [ Epoch 11/500 ], loss: 0.6243, avg_reader_cost: 12.7951 avg_batch_cost: 12.9298, avg_ips: 7.4247.
+Type : capsule Train [ Epoch 12/500 ], loss: 0.6149, avg_reader_cost: 0.0005 avg_batch_cost: 0.1065, avg_ips: 901.4274.
+Type : capsule Train [ Epoch 13/500 ], loss: 0.6719, avg_reader_cost: 0.0003 avg_batch_cost: 0.1142, avg_ips: 840.9615.
+Type : capsule Train [ Epoch 14/500 ], loss: 0.6145, avg_reader_cost: 0.0003 avg_batch_cost: 0.1201, avg_ips: 799.6481.
+Type : capsule Train [ Epoch 15/500 ], loss: 0.6379, avg_reader_cost: 0.0005 avg_batch_cost: 0.1225, avg_ips: 783.7928.
+Type : capsule Train [ Epoch 16/500 ], loss: 0.5803, avg_reader_cost: 1.1562 avg_batch_cost: 1.2785, avg_ips: 75.0901.
+Type : capsule Train [ Epoch 17/500 ], loss: 0.5172, avg_reader_cost: 1.2796 avg_batch_cost: 1.4033, avg_ips: 68.4082.
+Type : capsule Train [ Epoch 18/500 ], loss: 0.5419, avg_reader_cost: 1.2647 avg_batch_cost: 1.3912, avg_ips: 69.0040.
+Type : capsule Train [ Epoch 19/500 ], loss: 0.4741, avg_reader_cost: 1.2627 avg_batch_cost: 1.3860, avg_ips: 69.2632.
+Type : capsule Train [ Epoch 20/500 ], loss: 0.5258, avg_reader_cost: 1.2725 avg_batch_cost: 1.3984, avg_ips: 68.6515.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 20/500 ] max_auc: 0.7507 roc_auc : 0.750698.
-Type : capsule Train [ Epoch 21/500 ], loss: 0.3240, avg_reader_cost: 14.7755 avg_batch_cost: 15.1182, avg_ips: 6.3500.
-Type : capsule Train [ Epoch 22/500 ], loss: 0.2529, avg_reader_cost: 0.0005 avg_batch_cost: 0.3541, avg_ips: 271.0947.
-Type : capsule Train [ Epoch 23/500 ], loss: 0.3330, avg_reader_cost: 0.0003 avg_batch_cost: 0.1652, avg_ips: 580.9545.
-Type : capsule Train [ Epoch 24/500 ], loss: 0.3114, avg_reader_cost: 0.0003 avg_batch_cost: 0.3521, avg_ips: 272.6252.
-Type : capsule Train [ Epoch 25/500 ], loss: 0.2706, avg_reader_cost: 0.0003 avg_batch_cost: 0.3638, avg_ips: 263.9163.
-Type : capsule Train [ Epoch 26/500 ], loss: 0.2616, avg_reader_cost: 1.1078 avg_batch_cost: 1.4791, avg_ips: 64.9042.
-Type : capsule Train [ Epoch 27/500 ], loss: 0.2008, avg_reader_cost: 1.2383 avg_batch_cost: 1.6341, avg_ips: 58.7481.
-Type : capsule Train [ Epoch 28/500 ], loss: 0.1992, avg_reader_cost: 1.2014 avg_batch_cost: 1.5455, avg_ips: 62.1154.
-Type : capsule Train [ Epoch 29/500 ], loss: 0.1837, avg_reader_cost: 1.2740 avg_batch_cost: 1.6396, avg_ips: 58.5495.
-Type : capsule Train [ Epoch 30/500 ], loss: 0.2185, avg_reader_cost: 1.2463 avg_batch_cost: 1.5946, avg_ips: 60.2030.
+Type : capsule Val [ Epoch 20/500 ] max_auc: 0.8971 roc_auc : 0.821300.
+Type : capsule Train [ Epoch 21/500 ], loss: 0.5285, avg_reader_cost: 13.0184 avg_batch_cost: 13.4496, avg_ips: 7.1378.
+Type : capsule Train [ Epoch 22/500 ], loss: 0.5140, avg_reader_cost: 0.0003 avg_batch_cost: 0.3422, avg_ips: 280.5515.
+Type : capsule Train [ Epoch 23/500 ], loss: 0.5452, avg_reader_cost: 0.0012 avg_batch_cost: 0.1441, avg_ips: 666.2329.
+Type : capsule Train [ Epoch 24/500 ], loss: 0.4552, avg_reader_cost: 0.0006 avg_batch_cost: 0.3439, avg_ips: 279.1744.
+Type : capsule Train [ Epoch 25/500 ], loss: 0.4760, avg_reader_cost: 0.0003 avg_batch_cost: 0.1711, avg_ips: 561.0218.
+Type : capsule Train [ Epoch 26/500 ], loss: 0.3412, avg_reader_cost: 1.1484 avg_batch_cost: 1.2959, avg_ips: 74.0800.
+Type : capsule Train [ Epoch 27/500 ], loss: 0.3291, avg_reader_cost: 1.2726 avg_batch_cost: 1.6086, avg_ips: 59.6803.
+Type : capsule Train [ Epoch 28/500 ], loss: 0.3452, avg_reader_cost: 1.2511 avg_batch_cost: 1.3917, avg_ips: 68.9791.
+Type : capsule Train [ Epoch 29/500 ], loss: 0.3168, avg_reader_cost: 1.2566 avg_batch_cost: 1.5954, avg_ips: 60.1718.
+Type : capsule Train [ Epoch 30/500 ], loss: 0.2799, avg_reader_cost: 1.2670 avg_batch_cost: 1.4104, avg_ips: 68.0651.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 30/500 ] max_auc: 0.7507 roc_auc : 0.747906.
-Type : capsule Train [ Epoch 31/500 ], loss: 0.1781, avg_reader_cost: 11.7678 avg_batch_cost: 11.8859, avg_ips: 8.0768.
-Type : capsule Train [ Epoch 32/500 ], loss: 0.1725, avg_reader_cost: 1.3140 avg_batch_cost: 1.6775, avg_ips: 57.2265.
-Type : capsule Train [ Epoch 33/500 ], loss: 0.1717, avg_reader_cost: 1.2424 avg_batch_cost: 1.5143, avg_ips: 63.3964.
-Type : capsule Train [ Epoch 34/500 ], loss: 0.1471, avg_reader_cost: 1.2441 avg_batch_cost: 1.4086, avg_ips: 68.1544.
-Type : capsule Train [ Epoch 35/500 ], loss: 0.1756, avg_reader_cost: 1.2556 avg_batch_cost: 1.4016, avg_ips: 68.4933.
-Type : capsule Train [ Epoch 36/500 ], loss: 0.1746, avg_reader_cost: 1.2635 avg_batch_cost: 1.4004, avg_ips: 68.5532.
-Type : capsule Train [ Epoch 37/500 ], loss: 0.1493, avg_reader_cost: 1.2650 avg_batch_cost: 1.6040, avg_ips: 59.8488.
-Type : capsule Train [ Epoch 38/500 ], loss: 0.1462, avg_reader_cost: 1.2644 avg_batch_cost: 1.6140, avg_ips: 59.4808.
-Type : capsule Train [ Epoch 39/500 ], loss: 0.1179, avg_reader_cost: 1.2506 avg_batch_cost: 1.4275, avg_ips: 67.2501.
-Type : capsule Train [ Epoch 40/500 ], loss: 0.1204, avg_reader_cost: 1.2590 avg_batch_cost: 1.5980, avg_ips: 60.0758.
+Type : capsule Val [ Epoch 30/500 ] max_auc: 0.8971 roc_auc : 0.786598.
+Type : capsule Train [ Epoch 31/500 ], loss: 0.2518, avg_reader_cost: 11.2426 avg_batch_cost: 11.3502, avg_ips: 8.4580.
+Type : capsule Train [ Epoch 32/500 ], loss: 0.3151, avg_reader_cost: 1.3144 avg_batch_cost: 1.4977, avg_ips: 64.0977.
+Type : capsule Train [ Epoch 33/500 ], loss: 0.2643, avg_reader_cost: 1.2720 avg_batch_cost: 1.6086, avg_ips: 59.6800.
+Type : capsule Train [ Epoch 34/500 ], loss: 0.2780, avg_reader_cost: 1.2731 avg_batch_cost: 1.4171, avg_ips: 67.7418.
+Type : capsule Train [ Epoch 35/500 ], loss: 0.2629, avg_reader_cost: 1.2780 avg_batch_cost: 1.6139, avg_ips: 59.4825.
+Type : capsule Train [ Epoch 36/500 ], loss: 0.2406, avg_reader_cost: 1.2694 avg_batch_cost: 1.4135, avg_ips: 67.9189.
+Type : capsule Train [ Epoch 37/500 ], loss: 0.2570, avg_reader_cost: 1.2642 avg_batch_cost: 1.4196, avg_ips: 67.6267.
+Type : capsule Train [ Epoch 38/500 ], loss: 0.2074, avg_reader_cost: 1.2663 avg_batch_cost: 1.6031, avg_ips: 59.8832.
+Type : capsule Train [ Epoch 39/500 ], loss: 0.1839, avg_reader_cost: 1.2674 avg_batch_cost: 1.6013, avg_ips: 59.9507.
+Type : capsule Train [ Epoch 40/500 ], loss: 0.1759, avg_reader_cost: 1.2916 avg_batch_cost: 1.6261, avg_ips: 59.0377.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 40/500 ] max_auc: 0.8105 roc_auc : 0.810531.
-Type : capsule Train [ Epoch 41/500 ], loss: 0.1431, avg_reader_cost: 13.6726 avg_batch_cost: 14.0298, avg_ips: 6.8426.
-Type : capsule Train [ Epoch 42/500 ], loss: 0.1559, avg_reader_cost: 0.0005 avg_batch_cost: 0.3534, avg_ips: 271.6146.
-Type : capsule Train [ Epoch 43/500 ], loss: 0.1526, avg_reader_cost: 0.0003 avg_batch_cost: 0.3505, avg_ips: 273.8914.
-Type : capsule Train [ Epoch 44/500 ], loss: 0.1227, avg_reader_cost: 0.0003 avg_batch_cost: 0.1406, avg_ips: 682.5498.
-Type : capsule Train [ Epoch 45/500 ], loss: 0.1423, avg_reader_cost: 0.0005 avg_batch_cost: 0.3501, avg_ips: 274.2213.
-Type : capsule Train [ Epoch 46/500 ], loss: 0.0764, avg_reader_cost: 1.1201 avg_batch_cost: 1.2606, avg_ips: 76.1517.
-Type : capsule Train [ Epoch 47/500 ], loss: 0.0867, avg_reader_cost: 1.2756 avg_batch_cost: 1.6166, avg_ips: 59.3852.
-Type : capsule Train [ Epoch 48/500 ], loss: 0.1107, avg_reader_cost: 1.2593 avg_batch_cost: 1.5974, avg_ips: 60.0978.
-Type : capsule Train [ Epoch 49/500 ], loss: 0.1052, avg_reader_cost: 1.2695 avg_batch_cost: 1.6082, avg_ips: 59.6944.
-Type : capsule Train [ Epoch 50/500 ], loss: 0.0995, avg_reader_cost: 1.2715 avg_batch_cost: 1.6100, avg_ips: 59.6285.
+Type : capsule Val [ Epoch 40/500 ] max_auc: 0.8971 roc_auc : 0.808137.
+Type : capsule Train [ Epoch 41/500 ], loss: 0.1644, avg_reader_cost: 12.5447 avg_batch_cost: 12.9857, avg_ips: 7.3928.
+Type : capsule Train [ Epoch 42/500 ], loss: 0.1458, avg_reader_cost: 0.0003 avg_batch_cost: 0.2088, avg_ips: 459.8571.
+Type : capsule Train [ Epoch 43/500 ], loss: 0.1239, avg_reader_cost: 0.0002 avg_batch_cost: 0.1333, avg_ips: 720.2544.
+Type : capsule Train [ Epoch 44/500 ], loss: 0.1379, avg_reader_cost: 0.0004 avg_batch_cost: 0.3446, avg_ips: 278.5504.
+Type : capsule Train [ Epoch 45/500 ], loss: 0.1657, avg_reader_cost: 0.0002 avg_batch_cost: 0.1361, avg_ips: 705.3807.
+Type : capsule Train [ Epoch 46/500 ], loss: 0.0864, avg_reader_cost: 1.1379 avg_batch_cost: 1.3561, avg_ips: 70.7894.
+Type : capsule Train [ Epoch 47/500 ], loss: 0.1115, avg_reader_cost: 1.2649 avg_batch_cost: 1.4396, avg_ips: 66.6857.
+Type : capsule Train [ Epoch 48/500 ], loss: 0.0540, avg_reader_cost: 1.2609 avg_batch_cost: 1.5969, avg_ips: 60.1178.
+Type : capsule Train [ Epoch 49/500 ], loss: 0.1258, avg_reader_cost: 1.2649 avg_batch_cost: 1.4070, avg_ips: 68.2301.
+Type : capsule Train [ Epoch 50/500 ], loss: 0.0818, avg_reader_cost: 1.2643 avg_batch_cost: 1.6137, avg_ips: 59.4895.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 50/500 ] max_auc: 0.8173 roc_auc : 0.817312.
-Type : capsule Train [ Epoch 51/500 ], loss: 0.1233, avg_reader_cost: 13.9148 avg_batch_cost: 14.2689, avg_ips: 6.7279.
-Type : capsule Train [ Epoch 52/500 ], loss: 0.1236, avg_reader_cost: 0.0005 avg_batch_cost: 0.3498, avg_ips: 274.4050.
-Type : capsule Train [ Epoch 53/500 ], loss: 0.0831, avg_reader_cost: 0.0003 avg_batch_cost: 0.3411, avg_ips: 281.4658.
-Type : capsule Train [ Epoch 54/500 ], loss: 0.0969, avg_reader_cost: 0.0008 avg_batch_cost: 0.3576, avg_ips: 268.4841.
-Type : capsule Train [ Epoch 55/500 ], loss: 0.1065, avg_reader_cost: 0.0003 avg_batch_cost: 0.3563, avg_ips: 269.4293.
-Type : capsule Train [ Epoch 56/500 ], loss: 0.0549, avg_reader_cost: 1.1169 avg_batch_cost: 1.2816, avg_ips: 74.9044.
-Type : capsule Train [ Epoch 57/500 ], loss: 0.0560, avg_reader_cost: 1.2606 avg_batch_cost: 1.6075, avg_ips: 59.7194.
-Type : capsule Train [ Epoch 58/500 ], loss: 0.1207, avg_reader_cost: 1.2604 avg_batch_cost: 1.5999, avg_ips: 60.0023.
-Type : capsule Train [ Epoch 59/500 ], loss: 0.0986, avg_reader_cost: 1.2619 avg_batch_cost: 1.6021, avg_ips: 59.9231.
-Type : capsule Train [ Epoch 60/500 ], loss: 0.0883, avg_reader_cost: 1.2850 avg_batch_cost: 1.4261, avg_ips: 67.3180.
+Type : capsule Val [ Epoch 50/500 ] max_auc: 0.8971 roc_auc : 0.832070.
+Type : capsule Train [ Epoch 51/500 ], loss: 0.1207, avg_reader_cost: 12.7390 avg_batch_cost: 13.1494, avg_ips: 7.3007.
+Type : capsule Train [ Epoch 52/500 ], loss: 0.0838, avg_reader_cost: 0.0003 avg_batch_cost: 0.3385, avg_ips: 283.5793.
+Type : capsule Train [ Epoch 53/500 ], loss: 0.1164, avg_reader_cost: 0.0004 avg_batch_cost: 0.3481, avg_ips: 275.7500.
+Type : capsule Train [ Epoch 54/500 ], loss: 0.1162, avg_reader_cost: 0.0003 avg_batch_cost: 0.3372, avg_ips: 284.6845.
+Type : capsule Train [ Epoch 55/500 ], loss: 0.1029, avg_reader_cost: 0.0008 avg_batch_cost: 0.3469, avg_ips: 276.7045.
+Type : capsule Train [ Epoch 56/500 ], loss: 0.1281, avg_reader_cost: 1.1152 avg_batch_cost: 1.2893, avg_ips: 74.4566.
+Type : capsule Train [ Epoch 57/500 ], loss: 0.1100, avg_reader_cost: 1.2608 avg_batch_cost: 1.4016, avg_ips: 68.4941.
+Type : capsule Train [ Epoch 58/500 ], loss: 0.1149, avg_reader_cost: 1.2669 avg_batch_cost: 1.4082, avg_ips: 68.1702.
+Type : capsule Train [ Epoch 59/500 ], loss: 0.0712, avg_reader_cost: 1.2642 avg_batch_cost: 1.4028, avg_ips: 68.4369.
+Type : capsule Train [ Epoch 60/500 ], loss: 0.1086, avg_reader_cost: 1.2634 avg_batch_cost: 1.6065, avg_ips: 59.7581.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 60/500 ] max_auc: 0.8181 roc_auc : 0.818109.
-Type : capsule Train [ Epoch 61/500 ], loss: 0.0966, avg_reader_cost: 13.2961 avg_batch_cost: 13.4027, avg_ips: 7.1628.
-Type : capsule Train [ Epoch 62/500 ], loss: 0.0971, avg_reader_cost: 0.0004 avg_batch_cost: 0.1065, avg_ips: 901.1893.
-Type : capsule Train [ Epoch 63/500 ], loss: 0.1074, avg_reader_cost: 1.3084 avg_batch_cost: 1.4642, avg_ips: 65.5639.
-Type : capsule Train [ Epoch 64/500 ], loss: 0.1439, avg_reader_cost: 1.2738 avg_batch_cost: 1.4212, avg_ips: 67.5501.
-Type : capsule Train [ Epoch 65/500 ], loss: 0.1183, avg_reader_cost: 1.2682 avg_batch_cost: 1.4075, avg_ips: 68.2072.
-Type : capsule Train [ Epoch 66/500 ], loss: 0.1020, avg_reader_cost: 1.2702 avg_batch_cost: 1.4069, avg_ips: 68.2347.
-Type : capsule Train [ Epoch 67/500 ], loss: 0.0689, avg_reader_cost: 1.2613 avg_batch_cost: 1.4024, avg_ips: 68.4546.
-Type : capsule Train [ Epoch 68/500 ], loss: 0.0620, avg_reader_cost: 1.2871 avg_batch_cost: 1.6323, avg_ips: 58.8116.
-Type : capsule Train [ Epoch 69/500 ], loss: 0.0843, avg_reader_cost: 1.5245 avg_batch_cost: 1.8652, avg_ips: 51.4678.
-Type : capsule Train [ Epoch 70/500 ], loss: 0.0631, avg_reader_cost: 1.3289 avg_batch_cost: 1.6731, avg_ips: 57.3791.
+Type : capsule Val [ Epoch 60/500 ] max_auc: 0.8971 roc_auc : 0.812126.
+Type : capsule Train [ Epoch 61/500 ], loss: 0.0755, avg_reader_cost: 11.6732 avg_batch_cost: 11.7783, avg_ips: 8.1506.
+Type : capsule Train [ Epoch 62/500 ], loss: 0.1132, avg_reader_cost: 0.0003 avg_batch_cost: 0.1031, avg_ips: 931.0374.
+Type : capsule Train [ Epoch 63/500 ], loss: 0.0766, avg_reader_cost: 1.3097 avg_batch_cost: 1.6520, avg_ips: 58.1114.
+Type : capsule Train [ Epoch 64/500 ], loss: 0.1250, avg_reader_cost: 1.2514 avg_batch_cost: 1.3944, avg_ips: 68.8473.
+Type : capsule Train [ Epoch 65/500 ], loss: 0.0620, avg_reader_cost: 1.3442 avg_batch_cost: 1.4826, avg_ips: 64.7519.
+Type : capsule Train [ Epoch 66/500 ], loss: 0.0515, avg_reader_cost: 1.2955 avg_batch_cost: 1.4362, avg_ips: 66.8432.
+Type : capsule Train [ Epoch 67/500 ], loss: 0.0719, avg_reader_cost: 1.2813 avg_batch_cost: 1.6187, avg_ips: 59.3053.
+Type : capsule Train [ Epoch 68/500 ], loss: 0.0886, avg_reader_cost: 1.2984 avg_batch_cost: 1.6344, avg_ips: 58.7358.
+Type : capsule Train [ Epoch 69/500 ], loss: 0.0887, avg_reader_cost: 1.2802 avg_batch_cost: 1.4164, avg_ips: 67.7774.
+Type : capsule Train [ Epoch 70/500 ], loss: 0.0809, avg_reader_cost: 1.2805 avg_batch_cost: 1.6167, avg_ips: 59.3785.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 70/500 ] max_auc: 0.8400 roc_auc : 0.840048.
-Type : capsule Train [ Epoch 71/500 ], loss: 0.0405, avg_reader_cost: 13.8891 avg_batch_cost: 14.2477, avg_ips: 6.7379.
-Type : capsule Train [ Epoch 72/500 ], loss: 0.1009, avg_reader_cost: 0.0004 avg_batch_cost: 0.3514, avg_ips: 273.1845.
-Type : capsule Train [ Epoch 73/500 ], loss: 0.0916, avg_reader_cost: 0.0003 avg_batch_cost: 0.1399, avg_ips: 686.0035.
-Type : capsule Train [ Epoch 74/500 ], loss: 0.0655, avg_reader_cost: 0.0005 avg_batch_cost: 0.3524, avg_ips: 272.3981.
-Type : capsule Train [ Epoch 75/500 ], loss: 0.0820, avg_reader_cost: 0.0004 avg_batch_cost: 0.3457, avg_ips: 277.7106.
-Type : capsule Train [ Epoch 76/500 ], loss: 0.0713, avg_reader_cost: 1.1881 avg_batch_cost: 1.5271, avg_ips: 62.8635.
-Type : capsule Train [ Epoch 77/500 ], loss: 0.0574, avg_reader_cost: 1.2780 avg_batch_cost: 1.6166, avg_ips: 59.3835.
-Type : capsule Train [ Epoch 78/500 ], loss: 0.1346, avg_reader_cost: 1.3023 avg_batch_cost: 1.6395, avg_ips: 58.5540.
-Type : capsule Train [ Epoch 79/500 ], loss: 0.0730, avg_reader_cost: 1.2957 avg_batch_cost: 1.6476, avg_ips: 58.2669.
-Type : capsule Train [ Epoch 80/500 ], loss: 0.0843, avg_reader_cost: 1.2756 avg_batch_cost: 1.4097, avg_ips: 68.0988.
+Type : capsule Val [ Epoch 70/500 ] max_auc: 0.8971 roc_auc : 0.850818.
+Type : capsule Train [ Epoch 71/500 ], loss: 0.0585, avg_reader_cost: 12.7011 avg_batch_cost: 13.0629, avg_ips: 7.3491.
+Type : capsule Train [ Epoch 72/500 ], loss: 0.0661, avg_reader_cost: 0.0002 avg_batch_cost: 0.1623, avg_ips: 591.5003.
+Type : capsule Train [ Epoch 73/500 ], loss: 0.0717, avg_reader_cost: 0.0004 avg_batch_cost: 0.3400, avg_ips: 282.3233.
+Type : capsule Train [ Epoch 74/500 ], loss: 0.0459, avg_reader_cost: 0.0006 avg_batch_cost: 0.3488, avg_ips: 275.1993.
+Type : capsule Train [ Epoch 75/500 ], loss: 0.0506, avg_reader_cost: 0.0003 avg_batch_cost: 0.3468, avg_ips: 276.8101.
+Type : capsule Train [ Epoch 76/500 ], loss: 0.0704, avg_reader_cost: 1.1819 avg_batch_cost: 1.3214, avg_ips: 72.6495.
+Type : capsule Train [ Epoch 77/500 ], loss: 0.0509, avg_reader_cost: 1.2588 avg_batch_cost: 1.5929, avg_ips: 60.2687.
+Type : capsule Train [ Epoch 78/500 ], loss: 0.0572, avg_reader_cost: 1.2719 avg_batch_cost: 1.4111, avg_ips: 68.0315.
+Type : capsule Train [ Epoch 79/500 ], loss: 0.0722, avg_reader_cost: 1.2683 avg_batch_cost: 1.4225, avg_ips: 67.4848.
+Type : capsule Train [ Epoch 80/500 ], loss: 0.0951, avg_reader_cost: 1.2726 avg_batch_cost: 1.4042, avg_ips: 68.3653.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 80/500 ] max_auc: 0.8400 roc_auc : 0.790586.
-Type : capsule Train [ Epoch 81/500 ], loss: 0.0771, avg_reader_cost: 13.2362 avg_batch_cost: 13.6942, avg_ips: 7.0103.
-Type : capsule Train [ Epoch 82/500 ], loss: 0.1000, avg_reader_cost: 0.0004 avg_batch_cost: 0.3528, avg_ips: 272.0852.
-Type : capsule Train [ Epoch 83/500 ], loss: 0.0537, avg_reader_cost: 0.0004 avg_batch_cost: 0.1694, avg_ips: 566.5881.
-Type : capsule Train [ Epoch 84/500 ], loss: 0.0785, avg_reader_cost: 0.0005 avg_batch_cost: 0.3493, avg_ips: 274.8381.
-Type : capsule Train [ Epoch 85/500 ], loss: 0.0656, avg_reader_cost: 0.0008 avg_batch_cost: 0.3438, avg_ips: 279.2429.
-Type : capsule Train [ Epoch 86/500 ], loss: 0.0345, avg_reader_cost: 1.3247 avg_batch_cost: 1.4939, avg_ips: 64.2613.
-Type : capsule Train [ Epoch 87/500 ], loss: 0.0991, avg_reader_cost: 1.2982 avg_batch_cost: 1.6462, avg_ips: 58.3177.
-Type : capsule Train [ Epoch 88/500 ], loss: 0.0998, avg_reader_cost: 1.2736 avg_batch_cost: 1.6114, avg_ips: 59.5761.
-Type : capsule Train [ Epoch 89/500 ], loss: 0.0536, avg_reader_cost: 1.3063 avg_batch_cost: 1.6533, avg_ips: 58.0669.
-Type : capsule Train [ Epoch 90/500 ], loss: 0.0783, avg_reader_cost: 1.3185 avg_batch_cost: 1.6729, avg_ips: 57.3864.
+Type : capsule Val [ Epoch 80/500 ] max_auc: 0.8971 roc_auc : 0.823694.
+Type : capsule Train [ Epoch 81/500 ], loss: 0.0621, avg_reader_cost: 12.6641 avg_batch_cost: 13.0747, avg_ips: 7.3424.
+Type : capsule Train [ Epoch 82/500 ], loss: 0.0687, avg_reader_cost: 0.0002 avg_batch_cost: 0.1448, avg_ips: 662.7872.
+Type : capsule Train [ Epoch 83/500 ], loss: 0.0772, avg_reader_cost: 0.0003 avg_batch_cost: 0.3435, avg_ips: 279.4978.
+Type : capsule Train [ Epoch 84/500 ], loss: 0.1059, avg_reader_cost: 0.0011 avg_batch_cost: 0.3047, avg_ips: 315.0991.
+Type : capsule Train [ Epoch 85/500 ], loss: 0.0671, avg_reader_cost: 0.0011 avg_batch_cost: 0.3459, avg_ips: 277.5408.
+Type : capsule Train [ Epoch 86/500 ], loss: 0.0396, avg_reader_cost: 1.1161 avg_batch_cost: 1.2648, avg_ips: 75.9009.
+Type : capsule Train [ Epoch 87/500 ], loss: 0.1009, avg_reader_cost: 1.2766 avg_batch_cost: 1.4172, avg_ips: 67.7404.
+Type : capsule Train [ Epoch 88/500 ], loss: 0.1316, avg_reader_cost: 1.2680 avg_batch_cost: 1.4106, avg_ips: 68.0549.
+Type : capsule Train [ Epoch 89/500 ], loss: 0.0866, avg_reader_cost: 1.2548 avg_batch_cost: 1.5930, avg_ips: 60.2632.
+Type : capsule Train [ Epoch 90/500 ], loss: 0.1002, avg_reader_cost: 1.2604 avg_batch_cost: 1.4006, avg_ips: 68.5397.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 90/500 ] max_auc: 0.8400 roc_auc : 0.802553.
-Type : capsule Train [ Epoch 91/500 ], loss: 0.0480, avg_reader_cost: 12.6928 avg_batch_cost: 12.8076, avg_ips: 7.4956.
-Type : capsule Train [ Epoch 92/500 ], loss: 0.0876, avg_reader_cost: 0.0005 avg_batch_cost: 0.1158, avg_ips: 828.8285.
-Type : capsule Train [ Epoch 93/500 ], loss: 0.1147, avg_reader_cost: 0.0007 avg_batch_cost: 0.1174, avg_ips: 817.4703.
-Type : capsule Train [ Epoch 94/500 ], loss: 0.1205, avg_reader_cost: 1.3276 avg_batch_cost: 1.6788, avg_ips: 57.1826.
-Type : capsule Train [ Epoch 95/500 ], loss: 0.0755, avg_reader_cost: 1.2631 avg_batch_cost: 1.6059, avg_ips: 59.7787.
-Type : capsule Train [ Epoch 96/500 ], loss: 0.0935, avg_reader_cost: 1.2678 avg_batch_cost: 1.6207, avg_ips: 59.2318.
-Type : capsule Train [ Epoch 97/500 ], loss: 0.0664, avg_reader_cost: 1.2645 avg_batch_cost: 1.6071, avg_ips: 59.7365.
-Type : capsule Train [ Epoch 98/500 ], loss: 0.0493, avg_reader_cost: 1.2727 avg_batch_cost: 1.6258, avg_ips: 59.0466.
-Type : capsule Train [ Epoch 99/500 ], loss: 0.0404, avg_reader_cost: 1.2627 avg_batch_cost: 1.6163, avg_ips: 59.3944.
-Type : capsule Train [ Epoch 100/500 ], loss: 0.0688, avg_reader_cost: 1.2664 avg_batch_cost: 1.6144, avg_ips: 59.4658.
+Type : capsule Val [ Epoch 90/500 ] max_auc: 0.8971 roc_auc : 0.812126.
+Type : capsule Train [ Epoch 91/500 ], loss: 0.0845, avg_reader_cost: 12.3860 avg_batch_cost: 12.5785, avg_ips: 7.6321.
+Type : capsule Train [ Epoch 92/500 ], loss: 0.0487, avg_reader_cost: 0.0004 avg_batch_cost: 0.1052, avg_ips: 912.9650.
+Type : capsule Train [ Epoch 93/500 ], loss: 0.1147, avg_reader_cost: 0.0004 avg_batch_cost: 0.1055, avg_ips: 910.2490.
+Type : capsule Train [ Epoch 94/500 ], loss: 0.1138, avg_reader_cost: 1.3202 avg_batch_cost: 1.6547, avg_ips: 58.0179.
+Type : capsule Train [ Epoch 95/500 ], loss: 0.0815, avg_reader_cost: 1.2645 avg_batch_cost: 1.5972, avg_ips: 60.1054.
+Type : capsule Train [ Epoch 96/500 ], loss: 0.1201, avg_reader_cost: 1.2706 avg_batch_cost: 1.4228, avg_ips: 67.4703.
+Type : capsule Train [ Epoch 97/500 ], loss: 0.1128, avg_reader_cost: 1.2737 avg_batch_cost: 1.4075, avg_ips: 68.2057.
+Type : capsule Train [ Epoch 98/500 ], loss: 0.0686, avg_reader_cost: 1.3131 avg_batch_cost: 1.4882, avg_ips: 64.5065.
+Type : capsule Train [ Epoch 99/500 ], loss: 0.0438, avg_reader_cost: 1.2967 avg_batch_cost: 1.6300, avg_ips: 58.8971.
+Type : capsule Train [ Epoch 100/500 ], loss: 0.0627, avg_reader_cost: 1.2924 avg_batch_cost: 1.4553, avg_ips: 65.9678.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 100/500 ] max_auc: 0.8400 roc_auc : 0.823694.
-Type : capsule Train [ Epoch 101/500 ], loss: 0.0614, avg_reader_cost: 13.9242 avg_batch_cost: 14.4363, avg_ips: 6.6499.
-Type : capsule Train [ Epoch 102/500 ], loss: 0.0677, avg_reader_cost: 0.0003 avg_batch_cost: 0.1477, avg_ips: 649.9868.
-Type : capsule Train [ Epoch 103/500 ], loss: 0.0856, avg_reader_cost: 0.0004 avg_batch_cost: 0.3510, avg_ips: 273.4836.
-Type : capsule Train [ Epoch 104/500 ], loss: 0.0564, avg_reader_cost: 0.0004 avg_batch_cost: 0.3527, avg_ips: 272.2118.
-Type : capsule Train [ Epoch 105/500 ], loss: 0.0568, avg_reader_cost: 0.0003 avg_batch_cost: 0.2447, avg_ips: 392.2434.
-Type : capsule Train [ Epoch 106/500 ], loss: 0.1230, avg_reader_cost: 1.1005 avg_batch_cost: 1.4524, avg_ips: 66.0979.
-Type : capsule Train [ Epoch 107/500 ], loss: 0.0858, avg_reader_cost: 1.2845 avg_batch_cost: 1.6327, avg_ips: 58.7996.
-Type : capsule Train [ Epoch 108/500 ], loss: 0.0341, avg_reader_cost: 1.2694 avg_batch_cost: 1.6059, avg_ips: 59.7792.
-Type : capsule Train [ Epoch 109/500 ], loss: 0.0598, avg_reader_cost: 1.2653 avg_batch_cost: 1.6257, avg_ips: 59.0520.
-Type : capsule Train [ Epoch 110/500 ], loss: 0.0661, avg_reader_cost: 1.2526 avg_batch_cost: 1.5995, avg_ips: 60.0189.
+Type : capsule Val [ Epoch 100/500 ] max_auc: 0.8971 roc_auc : 0.809733.
+Type : capsule Train [ Epoch 101/500 ], loss: 0.0674, avg_reader_cost: 13.4463 avg_batch_cost: 13.8157, avg_ips: 6.9486.
+Type : capsule Train [ Epoch 102/500 ], loss: 0.0818, avg_reader_cost: 0.0003 avg_batch_cost: 0.3367, avg_ips: 285.1211.
+Type : capsule Train [ Epoch 103/500 ], loss: 0.0822, avg_reader_cost: 0.0006 avg_batch_cost: 0.3469, avg_ips: 276.7616.
+Type : capsule Train [ Epoch 104/500 ], loss: 0.0713, avg_reader_cost: 0.0003 avg_batch_cost: 0.3367, avg_ips: 285.1130.
+Type : capsule Train [ Epoch 105/500 ], loss: 0.0813, avg_reader_cost: 0.0003 avg_batch_cost: 0.3482, avg_ips: 275.7219.
+Type : capsule Train [ Epoch 106/500 ], loss: 0.0440, avg_reader_cost: 1.1657 avg_batch_cost: 1.5106, avg_ips: 63.5496.
+Type : capsule Train [ Epoch 107/500 ], loss: 0.0627, avg_reader_cost: 1.2705 avg_batch_cost: 1.4166, avg_ips: 67.7667.
+Type : capsule Train [ Epoch 108/500 ], loss: 0.0414, avg_reader_cost: 1.2860 avg_batch_cost: 1.6209, avg_ips: 59.2280.
+Type : capsule Train [ Epoch 109/500 ], loss: 0.0369, avg_reader_cost: 1.2739 avg_batch_cost: 1.4119, avg_ips: 67.9925.
+Type : capsule Train [ Epoch 110/500 ], loss: 0.0898, avg_reader_cost: 1.2644 avg_batch_cost: 1.5999, avg_ips: 60.0019.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 110/500 ] max_auc: 0.8400 roc_auc : 0.756681.
-Type : capsule Train [ Epoch 111/500 ], loss: 0.0574, avg_reader_cost: 15.1501 avg_batch_cost: 15.6057, avg_ips: 6.1516.
-Type : capsule Train [ Epoch 112/500 ], loss: 0.0511, avg_reader_cost: 0.0003 avg_batch_cost: 0.1489, avg_ips: 644.6608.
-Type : capsule Train [ Epoch 113/500 ], loss: 0.1061, avg_reader_cost: 0.0004 avg_batch_cost: 0.3549, avg_ips: 270.4974.
-Type : capsule Train [ Epoch 114/500 ], loss: 0.0248, avg_reader_cost: 0.0003 avg_batch_cost: 0.3482, avg_ips: 275.7294.
-Type : capsule Train [ Epoch 115/500 ], loss: 0.0802, avg_reader_cost: 0.0004 avg_batch_cost: 0.3490, avg_ips: 275.0677.
-Type : capsule Train [ Epoch 116/500 ], loss: 0.0356, avg_reader_cost: 1.1534 avg_batch_cost: 1.2959, avg_ips: 74.0776.
-Type : capsule Train [ Epoch 117/500 ], loss: 0.1013, avg_reader_cost: 1.3253 avg_batch_cost: 1.7253, avg_ips: 55.6432.
-Type : capsule Train [ Epoch 118/500 ], loss: 0.0355, avg_reader_cost: 1.2421 avg_batch_cost: 1.5842, avg_ips: 60.5998.
-Type : capsule Train [ Epoch 119/500 ], loss: 0.0757, avg_reader_cost: 1.3171 avg_batch_cost: 1.6613, avg_ips: 57.7877.
-Type : capsule Train [ Epoch 120/500 ], loss: 0.0704, avg_reader_cost: 1.3712 avg_batch_cost: 1.7522, avg_ips: 54.7874.
+Type : capsule Val [ Epoch 110/500 ] max_auc: 0.8971 roc_auc : 0.854807.
+Type : capsule Train [ Epoch 111/500 ], loss: 0.0706, avg_reader_cost: 12.8144 avg_batch_cost: 13.1982, avg_ips: 7.2737.
+Type : capsule Train [ Epoch 112/500 ], loss: 0.0359, avg_reader_cost: 0.0003 avg_batch_cost: 0.3433, avg_ips: 279.6294.
+Type : capsule Train [ Epoch 113/500 ], loss: 0.0610, avg_reader_cost: 0.0002 avg_batch_cost: 0.1867, avg_ips: 514.2809.
+Type : capsule Train [ Epoch 114/500 ], loss: 0.0494, avg_reader_cost: 0.0002 avg_batch_cost: 0.3377, avg_ips: 284.2859.
+Type : capsule Train [ Epoch 115/500 ], loss: 0.0785, avg_reader_cost: 0.0002 avg_batch_cost: 0.3427, avg_ips: 280.1165.
+Type : capsule Train [ Epoch 116/500 ], loss: 0.0620, avg_reader_cost: 1.1447 avg_batch_cost: 1.4856, avg_ips: 64.6222.
+Type : capsule Train [ Epoch 117/500 ], loss: 0.0540, avg_reader_cost: 1.2606 avg_batch_cost: 1.3978, avg_ips: 68.6789.
+Type : capsule Train [ Epoch 118/500 ], loss: 0.0688, avg_reader_cost: 1.2887 avg_batch_cost: 1.4347, avg_ips: 66.9116.
+Type : capsule Train [ Epoch 119/500 ], loss: 0.0568, avg_reader_cost: 1.2717 avg_batch_cost: 1.6088, avg_ips: 59.6732.
+Type : capsule Train [ Epoch 120/500 ], loss: 0.0292, avg_reader_cost: 1.3291 avg_batch_cost: 1.6670, avg_ips: 57.5880.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 120/500 ] max_auc: 0.8400 roc_auc : 0.836059.
-Type : capsule Train [ Epoch 121/500 ], loss: 0.0915, avg_reader_cost: 13.7389 avg_batch_cost: 13.8496, avg_ips: 6.9316.
-Type : capsule Train [ Epoch 122/500 ], loss: 0.0541, avg_reader_cost: 0.0004 avg_batch_cost: 0.1073, avg_ips: 894.5861.
-Type : capsule Train [ Epoch 123/500 ], loss: 0.0693, avg_reader_cost: 0.0003 avg_batch_cost: 0.1059, avg_ips: 906.2316.
-Type : capsule Train [ Epoch 124/500 ], loss: 0.0493, avg_reader_cost: 0.0004 avg_batch_cost: 0.1071, avg_ips: 896.3864.
-Type : capsule Train [ Epoch 125/500 ], loss: 0.0651, avg_reader_cost: 1.3261 avg_batch_cost: 1.4677, avg_ips: 65.4075.
-Type : capsule Train [ Epoch 126/500 ], loss: 0.0946, avg_reader_cost: 1.2730 avg_batch_cost: 1.6154, avg_ips: 59.4294.
-Type : capsule Train [ Epoch 127/500 ], loss: 0.0346, avg_reader_cost: 1.2833 avg_batch_cost: 1.6279, avg_ips: 58.9702.
-Type : capsule Train [ Epoch 128/500 ], loss: 0.0884, avg_reader_cost: 1.2651 avg_batch_cost: 1.6097, avg_ips: 59.6400.
-Type : capsule Train [ Epoch 129/500 ], loss: 0.1013, avg_reader_cost: 1.2752 avg_batch_cost: 1.6130, avg_ips: 59.5176.
-Type : capsule Train [ Epoch 130/500 ], loss: 0.0713, avg_reader_cost: 1.2662 avg_batch_cost: 1.4100, avg_ips: 68.0868.
+Type : capsule Val [ Epoch 120/500 ] max_auc: 0.8971 roc_auc : 0.809733.
+Type : capsule Train [ Epoch 121/500 ], loss: 0.0426, avg_reader_cost: 12.3911 avg_batch_cost: 12.5005, avg_ips: 7.6797.
+Type : capsule Train [ Epoch 122/500 ], loss: 0.0860, avg_reader_cost: 0.0003 avg_batch_cost: 0.1045, avg_ips: 919.0204.
+Type : capsule Train [ Epoch 123/500 ], loss: 0.0562, avg_reader_cost: 0.0003 avg_batch_cost: 0.1040, avg_ips: 923.0465.
+Type : capsule Train [ Epoch 124/500 ], loss: 0.0927, avg_reader_cost: 0.0003 avg_batch_cost: 0.1038, avg_ips: 924.6787.
+Type : capsule Train [ Epoch 125/500 ], loss: 0.0550, avg_reader_cost: 1.3026 avg_batch_cost: 1.6407, avg_ips: 58.5105.
+Type : capsule Train [ Epoch 126/500 ], loss: 0.0787, avg_reader_cost: 1.2563 avg_batch_cost: 1.6019, avg_ips: 59.9292.
+Type : capsule Train [ Epoch 127/500 ], loss: 0.0975, avg_reader_cost: 1.2636 avg_batch_cost: 1.5973, avg_ips: 60.1007.
+Type : capsule Train [ Epoch 128/500 ], loss: 0.0714, avg_reader_cost: 1.2639 avg_batch_cost: 1.4022, avg_ips: 68.4619.
+Type : capsule Train [ Epoch 129/500 ], loss: 0.0948, avg_reader_cost: 1.2575 avg_batch_cost: 1.5916, avg_ips: 60.3153.
+Type : capsule Train [ Epoch 130/500 ], loss: 0.1029, avg_reader_cost: 1.3936 avg_batch_cost: 1.7410, avg_ips: 55.1415.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 130/500 ] max_auc: 0.8400 roc_auc : 0.832070.
-Type : capsule Train [ Epoch 131/500 ], loss: 0.0794, avg_reader_cost: 13.8328 avg_batch_cost: 14.0312, avg_ips: 6.8419.
-Type : capsule Train [ Epoch 132/500 ], loss: 0.0598, avg_reader_cost: 0.0004 avg_batch_cost: 0.3420, avg_ips: 280.6992.
-Type : capsule Train [ Epoch 133/500 ], loss: 0.0330, avg_reader_cost: 0.0008 avg_batch_cost: 0.3529, avg_ips: 272.0139.
-Type : capsule Train [ Epoch 134/500 ], loss: 0.0191, avg_reader_cost: 0.0002 avg_batch_cost: 0.1653, avg_ips: 580.9227.
-Type : capsule Train [ Epoch 135/500 ], loss: 0.0590, avg_reader_cost: 0.0006 avg_batch_cost: 0.3528, avg_ips: 272.1282.
-Type : capsule Train [ Epoch 136/500 ], loss: 0.0425, avg_reader_cost: 1.1734 avg_batch_cost: 1.3201, avg_ips: 72.7214.
-Type : capsule Train [ Epoch 137/500 ], loss: 0.0581, avg_reader_cost: 1.2663 avg_batch_cost: 1.4149, avg_ips: 67.8493.
-Type : capsule Train [ Epoch 138/500 ], loss: 0.0511, avg_reader_cost: 1.2668 avg_batch_cost: 1.6079, avg_ips: 59.7070.
-Type : capsule Train [ Epoch 139/500 ], loss: 0.0571, avg_reader_cost: 1.2671 avg_batch_cost: 1.4090, avg_ips: 68.1328.
-Type : capsule Train [ Epoch 140/500 ], loss: 0.0893, avg_reader_cost: 1.2697 avg_batch_cost: 1.4148, avg_ips: 67.8551.
+Type : capsule Val [ Epoch 130/500 ] max_auc: 0.8971 roc_auc : 0.847627.
+Type : capsule Train [ Epoch 131/500 ], loss: 0.1002, avg_reader_cost: 13.0310 avg_batch_cost: 13.5573, avg_ips: 7.0810.
+Type : capsule Train [ Epoch 132/500 ], loss: 0.0609, avg_reader_cost: 0.0002 avg_batch_cost: 0.1621, avg_ips: 592.1841.
+Type : capsule Train [ Epoch 133/500 ], loss: 0.0439, avg_reader_cost: 0.0003 avg_batch_cost: 0.3372, avg_ips: 284.7105.
+Type : capsule Train [ Epoch 134/500 ], loss: 0.0299, avg_reader_cost: 0.0005 avg_batch_cost: 0.3398, avg_ips: 282.5357.
+Type : capsule Train [ Epoch 135/500 ], loss: 0.0486, avg_reader_cost: 0.0011 avg_batch_cost: 0.1431, avg_ips: 670.8471.
+Type : capsule Train [ Epoch 136/500 ], loss: 0.0886, avg_reader_cost: 1.1354 avg_batch_cost: 1.4711, avg_ips: 65.2565.
+Type : capsule Train [ Epoch 137/500 ], loss: 0.0411, avg_reader_cost: 1.2438 avg_batch_cost: 1.3890, avg_ips: 69.1162.
+Type : capsule Train [ Epoch 138/500 ], loss: 0.0523, avg_reader_cost: 1.2583 avg_batch_cost: 1.5917, avg_ips: 60.3132.
+Type : capsule Train [ Epoch 139/500 ], loss: 0.0493, avg_reader_cost: 1.2582 avg_batch_cost: 1.4040, avg_ips: 68.3745.
+Type : capsule Train [ Epoch 140/500 ], loss: 0.0423, avg_reader_cost: 1.2527 avg_batch_cost: 1.3947, avg_ips: 68.8302.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 140/500 ] max_auc: 0.8408 roc_auc : 0.840846.
-Type : capsule Train [ Epoch 141/500 ], loss: 0.0463, avg_reader_cost: 14.4762 avg_batch_cost: 14.8355, avg_ips: 6.4710.
-Type : capsule Train [ Epoch 142/500 ], loss: 0.0626, avg_reader_cost: 0.0003 avg_batch_cost: 0.3551, avg_ips: 270.3584.
-Type : capsule Train [ Epoch 143/500 ], loss: 0.0556, avg_reader_cost: 0.0003 avg_batch_cost: 0.3517, avg_ips: 272.9926.
-Type : capsule Train [ Epoch 144/500 ], loss: 0.0662, avg_reader_cost: 0.0011 avg_batch_cost: 0.1412, avg_ips: 679.6764.
-Type : capsule Train [ Epoch 145/500 ], loss: 0.0289, avg_reader_cost: 0.0005 avg_batch_cost: 0.3513, avg_ips: 273.2624.
-Type : capsule Train [ Epoch 146/500 ], loss: 0.0703, avg_reader_cost: 1.1131 avg_batch_cost: 1.2899, avg_ips: 74.4236.
-Type : capsule Train [ Epoch 147/500 ], loss: 0.0287, avg_reader_cost: 1.2674 avg_batch_cost: 1.6041, avg_ips: 59.8482.
-Type : capsule Train [ Epoch 148/500 ], loss: 0.0557, avg_reader_cost: 1.2630 avg_batch_cost: 1.5369, avg_ips: 62.4615.
-Type : capsule Train [ Epoch 149/500 ], loss: 0.0665, avg_reader_cost: 1.4815 avg_batch_cost: 1.6636, avg_ips: 57.7053.
-Type : capsule Train [ Epoch 150/500 ], loss: 0.0223, avg_reader_cost: 1.5885 avg_batch_cost: 1.8162, avg_ips: 52.8590.
+Type : capsule Val [ Epoch 140/500 ] max_auc: 0.9015 roc_auc : 0.901476.
+Type : capsule Train [ Epoch 141/500 ], loss: 0.0562, avg_reader_cost: 13.2843 avg_batch_cost: 13.5991, avg_ips: 7.0593.
+Type : capsule Train [ Epoch 142/500 ], loss: 0.0653, avg_reader_cost: 0.0004 avg_batch_cost: 0.1336, avg_ips: 718.4321.
+Type : capsule Train [ Epoch 143/500 ], loss: 0.1430, avg_reader_cost: 0.0004 avg_batch_cost: 0.3436, avg_ips: 279.3979.
+Type : capsule Train [ Epoch 144/500 ], loss: 0.0835, avg_reader_cost: 0.0003 avg_batch_cost: 0.1549, avg_ips: 619.9195.
+Type : capsule Train [ Epoch 145/500 ], loss: 0.1110, avg_reader_cost: 0.0007 avg_batch_cost: 0.3443, avg_ips: 278.8250.
+Type : capsule Train [ Epoch 146/500 ], loss: 0.0804, avg_reader_cost: 1.1289 avg_batch_cost: 1.2642, avg_ips: 75.9381.
+Type : capsule Train [ Epoch 147/500 ], loss: 0.0833, avg_reader_cost: 1.2546 avg_batch_cost: 1.5888, avg_ips: 60.4213.
+Type : capsule Train [ Epoch 148/500 ], loss: 0.0967, avg_reader_cost: 1.2706 avg_batch_cost: 1.6021, avg_ips: 59.9220.
+Type : capsule Train [ Epoch 149/500 ], loss: 0.0651, avg_reader_cost: 1.2731 avg_batch_cost: 1.4076, avg_ips: 68.2000.
+Type : capsule Train [ Epoch 150/500 ], loss: 0.0986, avg_reader_cost: 1.2583 avg_batch_cost: 1.5932, avg_ips: 60.2578.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 150/500 ] max_auc: 0.8600 roc_auc : 0.859992.
-Type : capsule Train [ Epoch 151/500 ], loss: 0.0477, avg_reader_cost: 15.3663 avg_batch_cost: 15.4818, avg_ips: 6.2008.
-Type : capsule Train [ Epoch 152/500 ], loss: 0.0572, avg_reader_cost: 0.0004 avg_batch_cost: 0.1070, avg_ips: 897.0054.
-Type : capsule Train [ Epoch 153/500 ], loss: 0.0367, avg_reader_cost: 0.0004 avg_batch_cost: 0.1072, avg_ips: 895.3300.
-Type : capsule Train [ Epoch 154/500 ], loss: 0.0467, avg_reader_cost: 0.0004 avg_batch_cost: 0.1059, avg_ips: 906.2560.
-Type : capsule Train [ Epoch 155/500 ], loss: 0.0608, avg_reader_cost: 0.0005 avg_batch_cost: 0.1085, avg_ips: 884.9871.
-Type : capsule Train [ Epoch 156/500 ], loss: 0.0324, avg_reader_cost: 1.3467 avg_batch_cost: 1.7080, avg_ips: 56.2056.
-Type : capsule Train [ Epoch 157/500 ], loss: 0.0833, avg_reader_cost: 1.2855 avg_batch_cost: 1.6265, avg_ips: 59.0224.
-Type : capsule Train [ Epoch 158/500 ], loss: 0.0523, avg_reader_cost: 1.3243 avg_batch_cost: 1.4702, avg_ips: 65.2959.
-Type : capsule Train [ Epoch 159/500 ], loss: 0.0237, avg_reader_cost: 1.2881 avg_batch_cost: 1.6343, avg_ips: 58.7414.
-Type : capsule Train [ Epoch 160/500 ], loss: 0.0704, avg_reader_cost: 1.3020 avg_batch_cost: 1.6483, avg_ips: 58.2428.
+Type : capsule Val [ Epoch 150/500 ] max_auc: 0.9015 roc_auc : 0.890706.
+Type : capsule Train [ Epoch 151/500 ], loss: 0.0359, avg_reader_cost: 12.4723 avg_batch_cost: 12.6118, avg_ips: 7.6119.
+Type : capsule Train [ Epoch 152/500 ], loss: 0.0180, avg_reader_cost: 0.0002 avg_batch_cost: 0.1020, avg_ips: 941.1677.
+Type : capsule Train [ Epoch 153/500 ], loss: 0.0414, avg_reader_cost: 0.0003 avg_batch_cost: 0.1037, avg_ips: 925.4842.
+Type : capsule Train [ Epoch 154/500 ], loss: 0.0620, avg_reader_cost: 0.0002 avg_batch_cost: 0.1030, avg_ips: 931.6600.
+Type : capsule Train [ Epoch 155/500 ], loss: 0.0510, avg_reader_cost: 0.0003 avg_batch_cost: 0.1042, avg_ips: 921.6879.
+Type : capsule Train [ Epoch 156/500 ], loss: 0.0528, avg_reader_cost: 1.3628 avg_batch_cost: 1.7030, avg_ips: 56.3696.
+Type : capsule Train [ Epoch 157/500 ], loss: 0.0251, avg_reader_cost: 1.2788 avg_batch_cost: 1.4179, avg_ips: 67.7062.
+Type : capsule Train [ Epoch 158/500 ], loss: 0.0782, avg_reader_cost: 1.2617 avg_batch_cost: 1.5486, avg_ips: 61.9934.
+Type : capsule Train [ Epoch 159/500 ], loss: 0.0617, avg_reader_cost: 1.2747 avg_batch_cost: 1.6079, avg_ips: 59.7056.
+Type : capsule Train [ Epoch 160/500 ], loss: 0.0618, avg_reader_cost: 1.2899 avg_batch_cost: 1.4330, avg_ips: 66.9911.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 160/500 ] max_auc: 0.8600 roc_auc : 0.859992.
-Type : capsule Train [ Epoch 161/500 ], loss: 0.0460, avg_reader_cost: 14.3820 avg_batch_cost: 14.5245, avg_ips: 6.6095.
-Type : capsule Train [ Epoch 162/500 ], loss: 0.0386, avg_reader_cost: 0.0014 avg_batch_cost: 0.3565, avg_ips: 269.2940.
-Type : capsule Train [ Epoch 163/500 ], loss: 0.0980, avg_reader_cost: 0.0003 avg_batch_cost: 0.3488, avg_ips: 275.2665.
-Type : capsule Train [ Epoch 164/500 ], loss: 0.0662, avg_reader_cost: 0.0003 avg_batch_cost: 0.3393, avg_ips: 282.9079.
-Type : capsule Train [ Epoch 165/500 ], loss: 0.0719, avg_reader_cost: 0.0005 avg_batch_cost: 0.3487, avg_ips: 275.2885.
-Type : capsule Train [ Epoch 166/500 ], loss: 0.0539, avg_reader_cost: 1.1285 avg_batch_cost: 1.2851, avg_ips: 74.7019.
-Type : capsule Train [ Epoch 167/500 ], loss: 0.1031, avg_reader_cost: 1.2828 avg_batch_cost: 1.4258, avg_ips: 67.3287.
-Type : capsule Train [ Epoch 168/500 ], loss: 0.0966, avg_reader_cost: 1.2740 avg_batch_cost: 1.4131, avg_ips: 67.9348.
-Type : capsule Train [ Epoch 169/500 ], loss: 0.0488, avg_reader_cost: 1.2893 avg_batch_cost: 1.6364, avg_ips: 58.6638.
-Type : capsule Train [ Epoch 170/500 ], loss: 0.0592, avg_reader_cost: 1.2833 avg_batch_cost: 1.6489, avg_ips: 58.2202.
+Type : capsule Val [ Epoch 160/500 ] max_auc: 0.9015 roc_auc : 0.880335.
+Type : capsule Train [ Epoch 161/500 ], loss: 0.0652, avg_reader_cost: 12.9756 avg_batch_cost: 13.3380, avg_ips: 7.1975.
+Type : capsule Train [ Epoch 162/500 ], loss: 0.0437, avg_reader_cost: 0.0003 avg_batch_cost: 0.1388, avg_ips: 691.6752.
+Type : capsule Train [ Epoch 163/500 ], loss: 0.0764, avg_reader_cost: 0.0003 avg_batch_cost: 0.3399, avg_ips: 282.4705.
+Type : capsule Train [ Epoch 164/500 ], loss: 0.0711, avg_reader_cost: 0.0010 avg_batch_cost: 0.1744, avg_ips: 550.4058.
+Type : capsule Train [ Epoch 165/500 ], loss: 0.0786, avg_reader_cost: 0.0003 avg_batch_cost: 0.1150, avg_ips: 834.7185.
+Type : capsule Train [ Epoch 166/500 ], loss: 0.0657, avg_reader_cost: 1.1455 avg_batch_cost: 1.2849, avg_ips: 74.7132.
+Type : capsule Train [ Epoch 167/500 ], loss: 0.0706, avg_reader_cost: 1.2801 avg_batch_cost: 1.4228, avg_ips: 67.4743.
+Type : capsule Train [ Epoch 168/500 ], loss: 0.1032, avg_reader_cost: 1.2540 avg_batch_cost: 1.4085, avg_ips: 68.1596.
+Type : capsule Train [ Epoch 169/500 ], loss: 0.0804, avg_reader_cost: 1.2650 avg_batch_cost: 1.4287, avg_ips: 67.1949.
+Type : capsule Train [ Epoch 170/500 ], loss: 0.0619, avg_reader_cost: 1.2764 avg_batch_cost: 1.4148, avg_ips: 67.8545.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 170/500 ] max_auc: 0.8600 roc_auc : 0.839649.
-Type : capsule Train [ Epoch 171/500 ], loss: 0.0536, avg_reader_cost: 13.4088 avg_batch_cost: 13.8734, avg_ips: 6.9197.
-Type : capsule Train [ Epoch 172/500 ], loss: 0.0206, avg_reader_cost: 0.0004 avg_batch_cost: 0.3446, avg_ips: 278.5615.
-Type : capsule Train [ Epoch 173/500 ], loss: 0.1043, avg_reader_cost: 0.0003 avg_batch_cost: 0.3454, avg_ips: 277.9385.
-Type : capsule Train [ Epoch 174/500 ], loss: 0.0667, avg_reader_cost: 0.0004 avg_batch_cost: 0.2482, avg_ips: 386.8615.
-Type : capsule Train [ Epoch 175/500 ], loss: 0.1156, avg_reader_cost: 0.0003 avg_batch_cost: 0.3417, avg_ips: 280.9642.
-Type : capsule Train [ Epoch 176/500 ], loss: 0.0647, avg_reader_cost: 1.2981 avg_batch_cost: 1.6420, avg_ips: 58.4666.
-Type : capsule Train [ Epoch 177/500 ], loss: 0.0605, avg_reader_cost: 1.2675 avg_batch_cost: 1.6119, avg_ips: 59.5584.
-Type : capsule Train [ Epoch 178/500 ], loss: 0.0467, avg_reader_cost: 1.2702 avg_batch_cost: 1.4505, avg_ips: 66.1843.
-Type : capsule Train [ Epoch 179/500 ], loss: 0.0336, avg_reader_cost: 1.2685 avg_batch_cost: 1.6060, avg_ips: 59.7753.
-Type : capsule Train [ Epoch 180/500 ], loss: 0.0292, avg_reader_cost: 1.2819 avg_batch_cost: 1.6398, avg_ips: 58.5431.
+Type : capsule Val [ Epoch 170/500 ] max_auc: 0.9015 roc_auc : 0.857998.
+Type : capsule Train [ Epoch 171/500 ], loss: 0.0386, avg_reader_cost: 12.6111 avg_batch_cost: 12.9922, avg_ips: 7.3891.
+Type : capsule Train [ Epoch 172/500 ], loss: 0.0673, avg_reader_cost: 0.0004 avg_batch_cost: 0.3403, avg_ips: 282.0761.
+Type : capsule Train [ Epoch 173/500 ], loss: 0.0314, avg_reader_cost: 0.0005 avg_batch_cost: 0.3458, avg_ips: 277.6495.
+Type : capsule Train [ Epoch 174/500 ], loss: 0.0600, avg_reader_cost: 0.0003 avg_batch_cost: 0.3392, avg_ips: 282.9996.
+Type : capsule Train [ Epoch 175/500 ], loss: 0.0724, avg_reader_cost: 0.0003 avg_batch_cost: 0.3368, avg_ips: 285.0400.
+Type : capsule Train [ Epoch 176/500 ], loss: 0.0393, avg_reader_cost: 1.1369 avg_batch_cost: 1.4756, avg_ips: 65.0602.
+Type : capsule Train [ Epoch 177/500 ], loss: 0.0544, avg_reader_cost: 1.2763 avg_batch_cost: 1.6128, avg_ips: 59.5225.
+Type : capsule Train [ Epoch 178/500 ], loss: 0.0489, avg_reader_cost: 1.2751 avg_batch_cost: 1.4169, avg_ips: 67.7540.
+Type : capsule Train [ Epoch 179/500 ], loss: 0.0463, avg_reader_cost: 1.2717 avg_batch_cost: 1.4139, avg_ips: 67.8974.
+Type : capsule Train [ Epoch 180/500 ], loss: 0.0566, avg_reader_cost: 1.2757 avg_batch_cost: 1.4180, avg_ips: 67.7008.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 180/500 ] max_auc: 0.8600 roc_auc : 0.825688.
-Type : capsule Train [ Epoch 181/500 ], loss: 0.0628, avg_reader_cost: 13.7402 avg_batch_cost: 14.1898, avg_ips: 6.7654.
-Type : capsule Train [ Epoch 182/500 ], loss: 0.0754, avg_reader_cost: 0.0010 avg_batch_cost: 0.3480, avg_ips: 275.8477.
-Type : capsule Train [ Epoch 183/500 ], loss: 0.0881, avg_reader_cost: 0.0003 avg_batch_cost: 0.3421, avg_ips: 280.6123.
-Type : capsule Train [ Epoch 184/500 ], loss: 0.0860, avg_reader_cost: 0.0003 avg_batch_cost: 0.3529, avg_ips: 272.0628.
-Type : capsule Train [ Epoch 185/500 ], loss: 0.0732, avg_reader_cost: 0.0002 avg_batch_cost: 0.3465, avg_ips: 277.0342.
-Type : capsule Train [ Epoch 186/500 ], loss: 0.0550, avg_reader_cost: 1.1183 avg_batch_cost: 1.2253, avg_ips: 78.3500.
-Type : capsule Train [ Epoch 187/500 ], loss: 0.0830, avg_reader_cost: 1.5735 avg_batch_cost: 1.7177, avg_ips: 55.8883.
-Type : capsule Train [ Epoch 188/500 ], loss: 0.0701, avg_reader_cost: 1.3319 avg_batch_cost: 1.6741, avg_ips: 57.3445.
-Type : capsule Train [ Epoch 189/500 ], loss: 0.0427, avg_reader_cost: 1.2765 avg_batch_cost: 1.4113, avg_ips: 68.0219.
-Type : capsule Train [ Epoch 190/500 ], loss: 0.0660, avg_reader_cost: 1.3110 avg_batch_cost: 1.4583, avg_ips: 65.8305.
+Type : capsule Val [ Epoch 180/500 ] max_auc: 0.9015 roc_auc : 0.868369.
+Type : capsule Train [ Epoch 181/500 ], loss: 0.1077, avg_reader_cost: 12.6409 avg_batch_cost: 13.0813, avg_ips: 7.3387.
+Type : capsule Train [ Epoch 182/500 ], loss: 0.0512, avg_reader_cost: 0.0003 avg_batch_cost: 0.3338, avg_ips: 287.6111.
+Type : capsule Train [ Epoch 183/500 ], loss: 0.0448, avg_reader_cost: 0.0003 avg_batch_cost: 0.3413, avg_ips: 281.2924.
+Type : capsule Train [ Epoch 184/500 ], loss: 0.0449, avg_reader_cost: 0.0002 avg_batch_cost: 0.1442, avg_ips: 665.7526.
+Type : capsule Train [ Epoch 185/500 ], loss: 0.0740, avg_reader_cost: 0.0004 avg_batch_cost: 0.3427, avg_ips: 280.1633.
+Type : capsule Train [ Epoch 186/500 ], loss: 0.0767, avg_reader_cost: 1.1456 avg_batch_cost: 1.2496, avg_ips: 76.8240.
+Type : capsule Train [ Epoch 187/500 ], loss: 0.0444, avg_reader_cost: 1.2945 avg_batch_cost: 1.5135, avg_ips: 63.4294.
+Type : capsule Train [ Epoch 188/500 ], loss: 0.0977, avg_reader_cost: 1.2847 avg_batch_cost: 1.6219, avg_ips: 59.1914.
+Type : capsule Train [ Epoch 189/500 ], loss: 0.0225, avg_reader_cost: 1.2731 avg_batch_cost: 1.6064, avg_ips: 59.7611.
+Type : capsule Train [ Epoch 190/500 ], loss: 0.0930, avg_reader_cost: 1.2581 avg_batch_cost: 1.4004, avg_ips: 68.5497.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 190/500 ] max_auc: 0.8600 roc_auc : 0.835660.
-Type : capsule Train [ Epoch 191/500 ], loss: 0.0480, avg_reader_cost: 13.3445 avg_batch_cost: 13.5803, avg_ips: 7.0691.
-Type : capsule Train [ Epoch 192/500 ], loss: 0.1115, avg_reader_cost: 0.0014 avg_batch_cost: 0.3551, avg_ips: 270.3403.
-Type : capsule Train [ Epoch 193/500 ], loss: 0.0510, avg_reader_cost: 0.0003 avg_batch_cost: 0.3602, avg_ips: 266.4851.
-Type : capsule Train [ Epoch 194/500 ], loss: 0.0738, avg_reader_cost: 0.0004 avg_batch_cost: 0.3602, avg_ips: 266.5098.
-Type : capsule Train [ Epoch 195/500 ], loss: 0.0744, avg_reader_cost: 0.0004 avg_batch_cost: 0.3589, avg_ips: 267.4981.
-Type : capsule Train [ Epoch 196/500 ], loss: 0.0503, avg_reader_cost: 1.1581 avg_batch_cost: 1.4998, avg_ips: 64.0084.
-Type : capsule Train [ Epoch 197/500 ], loss: 0.0773, avg_reader_cost: 1.2803 avg_batch_cost: 1.4198, avg_ips: 67.6140.
-Type : capsule Train [ Epoch 198/500 ], loss: 0.0769, avg_reader_cost: 1.2932 avg_batch_cost: 1.4321, avg_ips: 67.0342.
-Type : capsule Train [ Epoch 199/500 ], loss: 0.0566, avg_reader_cost: 1.3205 avg_batch_cost: 1.6716, avg_ips: 57.4314.
-Type : capsule Train [ Epoch 200/500 ], loss: 0.0536, avg_reader_cost: 1.2807 avg_batch_cost: 1.6265, avg_ips: 59.0241.
+Type : capsule Val [ Epoch 190/500 ] max_auc: 0.9015 roc_auc : 0.892700.
+Type : capsule Train [ Epoch 191/500 ], loss: 0.0576, avg_reader_cost: 12.5949 avg_batch_cost: 13.0264, avg_ips: 7.3697.
+Type : capsule Train [ Epoch 192/500 ], loss: 0.0687, avg_reader_cost: 0.0002 avg_batch_cost: 0.1518, avg_ips: 632.5634.
+Type : capsule Train [ Epoch 193/500 ], loss: 0.0752, avg_reader_cost: 0.0002 avg_batch_cost: 0.1437, avg_ips: 667.8418.
+Type : capsule Train [ Epoch 194/500 ], loss: 0.0526, avg_reader_cost: 0.0004 avg_batch_cost: 0.3399, avg_ips: 282.4077.
+Type : capsule Train [ Epoch 195/500 ], loss: 0.0476, avg_reader_cost: 0.0004 avg_batch_cost: 0.3436, avg_ips: 279.3946.
+Type : capsule Train [ Epoch 196/500 ], loss: 0.0923, avg_reader_cost: 1.1238 avg_batch_cost: 1.2700, avg_ips: 75.5882.
+Type : capsule Train [ Epoch 197/500 ], loss: 0.0275, avg_reader_cost: 1.2620 avg_batch_cost: 1.4025, avg_ips: 68.4496.
+Type : capsule Train [ Epoch 198/500 ], loss: 0.0413, avg_reader_cost: 1.2596 avg_batch_cost: 1.3974, avg_ips: 68.6989.
+Type : capsule Train [ Epoch 199/500 ], loss: 0.0799, avg_reader_cost: 1.2588 avg_batch_cost: 1.5974, avg_ips: 60.0961.
+Type : capsule Train [ Epoch 200/500 ], loss: 0.0325, avg_reader_cost: 1.2670 avg_batch_cost: 1.4066, avg_ips: 68.2512.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 200/500 ] max_auc: 0.8600 roc_auc : 0.797766.
-Type : capsule Train [ Epoch 201/500 ], loss: 0.0915, avg_reader_cost: 13.3153 avg_batch_cost: 13.7019, avg_ips: 7.0063.
-Type : capsule Train [ Epoch 202/500 ], loss: 0.0417, avg_reader_cost: 0.0003 avg_batch_cost: 0.1416, avg_ips: 678.0671.
-Type : capsule Train [ Epoch 203/500 ], loss: 0.0838, avg_reader_cost: 0.0003 avg_batch_cost: 0.1864, avg_ips: 515.1561.
-Type : capsule Train [ Epoch 204/500 ], loss: 0.0594, avg_reader_cost: 0.0004 avg_batch_cost: 0.3549, avg_ips: 270.4854.
-Type : capsule Train [ Epoch 205/500 ], loss: 0.0576, avg_reader_cost: 0.0003 avg_batch_cost: 0.3481, avg_ips: 275.7702.
-Type : capsule Train [ Epoch 206/500 ], loss: 0.0917, avg_reader_cost: 1.3844 avg_batch_cost: 1.5442, avg_ips: 62.1674.
-Type : capsule Train [ Epoch 207/500 ], loss: 0.0653, avg_reader_cost: 1.5783 avg_batch_cost: 1.8785, avg_ips: 51.1044.
-Type : capsule Train [ Epoch 208/500 ], loss: 0.0870, avg_reader_cost: 1.5976 avg_batch_cost: 1.9446, avg_ips: 49.3674.
-Type : capsule Train [ Epoch 209/500 ], loss: 0.0558, avg_reader_cost: 1.3472 avg_batch_cost: 1.7090, avg_ips: 56.1724.
-Type : capsule Train [ Epoch 210/500 ], loss: 0.0279, avg_reader_cost: 1.2873 avg_batch_cost: 1.6588, avg_ips: 57.8719.
+Type : capsule Val [ Epoch 200/500 ] max_auc: 0.9015 roc_auc : 0.895892.
+Type : capsule Train [ Epoch 201/500 ], loss: 0.0258, avg_reader_cost: 12.9774 avg_batch_cost: 13.4087, avg_ips: 7.1596.
+Type : capsule Train [ Epoch 202/500 ], loss: 0.0695, avg_reader_cost: 0.0004 avg_batch_cost: 0.3482, avg_ips: 275.6905.
+Type : capsule Train [ Epoch 203/500 ], loss: 0.0311, avg_reader_cost: 0.0003 avg_batch_cost: 0.1525, avg_ips: 629.3423.
+Type : capsule Train [ Epoch 204/500 ], loss: 0.1018, avg_reader_cost: 0.0004 avg_batch_cost: 0.3435, avg_ips: 279.4815.
+Type : capsule Train [ Epoch 205/500 ], loss: 0.0914, avg_reader_cost: 0.0003 avg_batch_cost: 0.1371, avg_ips: 700.0935.
+Type : capsule Train [ Epoch 206/500 ], loss: 0.0500, avg_reader_cost: 1.1467 avg_batch_cost: 1.2919, avg_ips: 74.3109.
+Type : capsule Train [ Epoch 207/500 ], loss: 0.0606, avg_reader_cost: 1.2775 avg_batch_cost: 1.6146, avg_ips: 59.4579.
+Type : capsule Train [ Epoch 208/500 ], loss: 0.0311, avg_reader_cost: 1.2468 avg_batch_cost: 1.5952, avg_ips: 60.1817.
+Type : capsule Train [ Epoch 209/500 ], loss: 0.0357, avg_reader_cost: 1.2558 avg_batch_cost: 1.4171, avg_ips: 67.7437.
+Type : capsule Train [ Epoch 210/500 ], loss: 0.0410, avg_reader_cost: 1.2686 avg_batch_cost: 1.6097, avg_ips: 59.6401.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 210/500 ] max_auc: 0.8600 roc_auc : 0.857599.
-Type : capsule Train [ Epoch 211/500 ], loss: 0.0763, avg_reader_cost: 13.9703 avg_batch_cost: 14.4283, avg_ips: 6.6536.
-Type : capsule Train [ Epoch 212/500 ], loss: 0.0565, avg_reader_cost: 0.0003 avg_batch_cost: 0.3583, avg_ips: 267.9013.
-Type : capsule Train [ Epoch 213/500 ], loss: 0.0684, avg_reader_cost: 0.0003 avg_batch_cost: 0.3518, avg_ips: 272.8448.
-Type : capsule Train [ Epoch 214/500 ], loss: 0.0397, avg_reader_cost: 0.0003 avg_batch_cost: 0.3499, avg_ips: 274.3282.
-Type : capsule Train [ Epoch 215/500 ], loss: 0.0962, avg_reader_cost: 0.0003 avg_batch_cost: 0.1467, avg_ips: 654.5003.
-Type : capsule Train [ Epoch 216/500 ], loss: 0.0627, avg_reader_cost: 1.1618 avg_batch_cost: 1.3632, avg_ips: 70.4251.
-Type : capsule Train [ Epoch 217/500 ], loss: 0.0693, avg_reader_cost: 1.3028 avg_batch_cost: 1.4080, avg_ips: 68.1828.
-Type : capsule Train [ Epoch 218/500 ], loss: 0.0584, avg_reader_cost: 1.5756 avg_batch_cost: 1.9161, avg_ips: 50.1014.
-Type : capsule Train [ Epoch 219/500 ], loss: 0.0588, avg_reader_cost: 1.3839 avg_batch_cost: 1.7332, avg_ips: 55.3873.
-Type : capsule Train [ Epoch 220/500 ], loss: 0.0442, avg_reader_cost: 1.3708 avg_batch_cost: 1.7190, avg_ips: 55.8461.
+Type : capsule Val [ Epoch 210/500 ] max_auc: 0.9015 roc_auc : 0.877144.
+Type : capsule Train [ Epoch 211/500 ], loss: 0.0358, avg_reader_cost: 12.9180 avg_batch_cost: 13.1650, avg_ips: 7.2921.
+Type : capsule Train [ Epoch 212/500 ], loss: 0.0541, avg_reader_cost: 0.0004 avg_batch_cost: 0.3481, avg_ips: 275.7670.
+Type : capsule Train [ Epoch 213/500 ], loss: 0.0466, avg_reader_cost: 0.0003 avg_batch_cost: 0.1456, avg_ips: 659.4677.
+Type : capsule Train [ Epoch 214/500 ], loss: 0.0827, avg_reader_cost: 0.0004 avg_batch_cost: 0.3348, avg_ips: 286.7406.
+Type : capsule Train [ Epoch 215/500 ], loss: 0.0449, avg_reader_cost: 0.0003 avg_batch_cost: 0.3472, avg_ips: 276.5154.
+Type : capsule Train [ Epoch 216/500 ], loss: 0.0571, avg_reader_cost: 1.1582 avg_batch_cost: 1.2954, avg_ips: 74.1087.
+Type : capsule Train [ Epoch 217/500 ], loss: 0.0485, avg_reader_cost: 1.2827 avg_batch_cost: 1.3865, avg_ips: 69.2377.
+Type : capsule Train [ Epoch 218/500 ], loss: 0.0328, avg_reader_cost: 1.3160 avg_batch_cost: 1.4679, avg_ips: 65.4012.
+Type : capsule Train [ Epoch 219/500 ], loss: 0.0308, avg_reader_cost: 1.2652 avg_batch_cost: 1.5999, avg_ips: 60.0056.
+Type : capsule Train [ Epoch 220/500 ], loss: 0.0505, avg_reader_cost: 1.2451 avg_batch_cost: 1.4664, avg_ips: 65.4659.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 220/500 ] max_auc: 0.8600 roc_auc : 0.849222.
-Type : capsule Train [ Epoch 221/500 ], loss: 0.0487, avg_reader_cost: 13.2280 avg_batch_cost: 13.5513, avg_ips: 7.0842.
-Type : capsule Train [ Epoch 222/500 ], loss: 0.0386, avg_reader_cost: 0.0003 avg_batch_cost: 0.3466, avg_ips: 277.0108.
-Type : capsule Train [ Epoch 223/500 ], loss: 0.0558, avg_reader_cost: 0.0005 avg_batch_cost: 0.3449, avg_ips: 278.3157.
-Type : capsule Train [ Epoch 224/500 ], loss: 0.0309, avg_reader_cost: 0.0008 avg_batch_cost: 0.3039, avg_ips: 315.9330.
-Type : capsule Train [ Epoch 225/500 ], loss: 0.0848, avg_reader_cost: 0.0012 avg_batch_cost: 0.3529, avg_ips: 271.9983.
-Type : capsule Train [ Epoch 226/500 ], loss: 0.0748, avg_reader_cost: 1.1120 avg_batch_cost: 1.4497, avg_ips: 66.2227.
-Type : capsule Train [ Epoch 227/500 ], loss: 0.0752, avg_reader_cost: 1.2726 avg_batch_cost: 1.6168, avg_ips: 59.3767.
-Type : capsule Train [ Epoch 228/500 ], loss: 0.0654, avg_reader_cost: 1.2551 avg_batch_cost: 1.6032, avg_ips: 59.8813.
-Type : capsule Train [ Epoch 229/500 ], loss: 0.0427, avg_reader_cost: 1.2511 avg_batch_cost: 1.3959, avg_ips: 68.7716.
-Type : capsule Train [ Epoch 230/500 ], loss: 0.0546, avg_reader_cost: 1.2594 avg_batch_cost: 1.4087, avg_ips: 68.1495.
+Type : capsule Val [ Epoch 220/500 ] max_auc: 0.9015 roc_auc : 0.881532.
+Type : capsule Train [ Epoch 221/500 ], loss: 0.0415, avg_reader_cost: 12.5206 avg_batch_cost: 12.7160, avg_ips: 7.5495.
+Type : capsule Train [ Epoch 222/500 ], loss: 0.0699, avg_reader_cost: 0.0003 avg_batch_cost: 0.3343, avg_ips: 287.1619.
+Type : capsule Train [ Epoch 223/500 ], loss: 0.0203, avg_reader_cost: 0.0005 avg_batch_cost: 0.3486, avg_ips: 275.4103.
+Type : capsule Train [ Epoch 224/500 ], loss: 0.0342, avg_reader_cost: 0.0003 avg_batch_cost: 0.3331, avg_ips: 288.2270.
+Type : capsule Train [ Epoch 225/500 ], loss: 0.0532, avg_reader_cost: 0.0003 avg_batch_cost: 0.3467, avg_ips: 276.8723.
+Type : capsule Train [ Epoch 226/500 ], loss: 0.0448, avg_reader_cost: 1.1384 avg_batch_cost: 1.2827, avg_ips: 74.8427.
+Type : capsule Train [ Epoch 227/500 ], loss: 0.1085, avg_reader_cost: 1.2968 avg_batch_cost: 1.4388, avg_ips: 66.7205.
+Type : capsule Train [ Epoch 228/500 ], loss: 0.0622, avg_reader_cost: 1.2608 avg_batch_cost: 1.4037, avg_ips: 68.3923.
+Type : capsule Train [ Epoch 229/500 ], loss: 0.0505, avg_reader_cost: 1.2599 avg_batch_cost: 1.6027, avg_ips: 59.9000.
+Type : capsule Train [ Epoch 230/500 ], loss: 0.0848, avg_reader_cost: 1.2520 avg_batch_cost: 1.3858, avg_ips: 69.2725.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 230/500 ] max_auc: 0.8600 roc_auc : 0.853211.
-Type : capsule Train [ Epoch 231/500 ], loss: 0.0711, avg_reader_cost: 13.0970 avg_batch_cost: 13.5193, avg_ips: 7.1010.
-Type : capsule Train [ Epoch 232/500 ], loss: 0.0715, avg_reader_cost: 0.0004 avg_batch_cost: 0.3520, avg_ips: 272.7350.
-Type : capsule Train [ Epoch 233/500 ], loss: 0.0899, avg_reader_cost: 0.0004 avg_batch_cost: 0.3531, avg_ips: 271.8438.
-Type : capsule Train [ Epoch 234/500 ], loss: 0.0632, avg_reader_cost: 0.0004 avg_batch_cost: 0.3471, avg_ips: 276.5872.
-Type : capsule Train [ Epoch 235/500 ], loss: 0.0465, avg_reader_cost: 0.0003 avg_batch_cost: 0.3483, avg_ips: 275.6011.
-Type : capsule Train [ Epoch 236/500 ], loss: 0.0634, avg_reader_cost: 1.0821 avg_batch_cost: 1.4331, avg_ips: 66.9862.
-Type : capsule Train [ Epoch 237/500 ], loss: 0.0403, avg_reader_cost: 1.2657 avg_batch_cost: 1.6225, avg_ips: 59.1663.
-Type : capsule Train [ Epoch 238/500 ], loss: 0.0617, avg_reader_cost: 1.2500 avg_batch_cost: 1.5944, avg_ips: 60.2121.
-Type : capsule Train [ Epoch 239/500 ], loss: 0.0411, avg_reader_cost: 1.2595 avg_batch_cost: 1.3943, avg_ips: 68.8507.
-Type : capsule Train [ Epoch 240/500 ], loss: 0.0612, avg_reader_cost: 1.2928 avg_batch_cost: 1.4312, avg_ips: 67.0753.
+Type : capsule Val [ Epoch 230/500 ] max_auc: 0.9063 roc_auc : 0.906262.
+Type : capsule Train [ Epoch 231/500 ], loss: 0.0722, avg_reader_cost: 13.4019 avg_batch_cost: 13.5553, avg_ips: 7.0821.
+Type : capsule Train [ Epoch 232/500 ], loss: 0.0480, avg_reader_cost: 0.0012 avg_batch_cost: 0.3451, avg_ips: 278.1565.
+Type : capsule Train [ Epoch 233/500 ], loss: 0.0673, avg_reader_cost: 0.0002 avg_batch_cost: 0.3392, avg_ips: 283.0196.
+Type : capsule Train [ Epoch 234/500 ], loss: 0.0181, avg_reader_cost: 0.0002 avg_batch_cost: 0.1700, avg_ips: 564.7737.
+Type : capsule Train [ Epoch 235/500 ], loss: 0.0444, avg_reader_cost: 0.0005 avg_batch_cost: 0.3356, avg_ips: 286.0594.
+Type : capsule Train [ Epoch 236/500 ], loss: 0.0932, avg_reader_cost: 1.1335 avg_batch_cost: 1.4739, avg_ips: 65.1312.
+Type : capsule Train [ Epoch 237/500 ], loss: 0.0264, avg_reader_cost: 1.2466 avg_batch_cost: 1.5800, avg_ips: 60.7602.
+Type : capsule Train [ Epoch 238/500 ], loss: 0.0282, avg_reader_cost: 1.2573 avg_batch_cost: 1.5895, avg_ips: 60.3951.
+Type : capsule Train [ Epoch 239/500 ], loss: 0.0381, avg_reader_cost: 1.2647 avg_batch_cost: 1.5991, avg_ips: 60.0323.
+Type : capsule Train [ Epoch 240/500 ], loss: 0.0859, avg_reader_cost: 1.2500 avg_batch_cost: 1.5868, avg_ips: 60.4997.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 240/500 ] max_auc: 0.8728 roc_auc : 0.872756.
-Type : capsule Train [ Epoch 241/500 ], loss: 0.0278, avg_reader_cost: 14.8604 avg_batch_cost: 15.2207, avg_ips: 6.3072.
-Type : capsule Train [ Epoch 242/500 ], loss: 0.0383, avg_reader_cost: 0.0005 avg_batch_cost: 0.3550, avg_ips: 270.4069.
-Type : capsule Train [ Epoch 243/500 ], loss: 0.0308, avg_reader_cost: 0.0003 avg_batch_cost: 0.3582, avg_ips: 268.0115.
-Type : capsule Train [ Epoch 244/500 ], loss: 0.0586, avg_reader_cost: 0.0003 avg_batch_cost: 0.3413, avg_ips: 281.2672.
-Type : capsule Train [ Epoch 245/500 ], loss: 0.0615, avg_reader_cost: 0.0003 avg_batch_cost: 0.3463, avg_ips: 277.2538.
-Type : capsule Train [ Epoch 246/500 ], loss: 0.0254, avg_reader_cost: 1.0739 avg_batch_cost: 1.4126, avg_ips: 67.9582.
-Type : capsule Train [ Epoch 247/500 ], loss: 0.0239, avg_reader_cost: 1.2574 avg_batch_cost: 1.6011, avg_ips: 59.9604.
-Type : capsule Train [ Epoch 248/500 ], loss: 0.0452, avg_reader_cost: 1.2586 avg_batch_cost: 1.3644, avg_ips: 70.3598.
-Type : capsule Train [ Epoch 249/500 ], loss: 0.0221, avg_reader_cost: 1.3109 avg_batch_cost: 1.4480, avg_ips: 66.2987.
-Type : capsule Train [ Epoch 250/500 ], loss: 0.0598, avg_reader_cost: 1.3082 avg_batch_cost: 1.4510, avg_ips: 66.1619.
+Type : capsule Val [ Epoch 240/500 ] max_auc: 0.9063 roc_auc : 0.889110.
+Type : capsule Train [ Epoch 241/500 ], loss: 0.0727, avg_reader_cost: 12.9452 avg_batch_cost: 13.3976, avg_ips: 7.1654.
+Type : capsule Train [ Epoch 242/500 ], loss: 0.0395, avg_reader_cost: 0.0012 avg_batch_cost: 0.1447, avg_ips: 663.5660.
+Type : capsule Train [ Epoch 243/500 ], loss: 0.0299, avg_reader_cost: 0.0003 avg_batch_cost: 0.3415, avg_ips: 281.1202.
+Type : capsule Train [ Epoch 244/500 ], loss: 0.0580, avg_reader_cost: 0.0002 avg_batch_cost: 0.1453, avg_ips: 660.4856.
+Type : capsule Train [ Epoch 245/500 ], loss: 0.0369, avg_reader_cost: 0.0003 avg_batch_cost: 0.3463, avg_ips: 277.2523.
+Type : capsule Train [ Epoch 246/500 ], loss: 0.0680, avg_reader_cost: 1.1099 avg_batch_cost: 1.4450, avg_ips: 66.4350.
+Type : capsule Train [ Epoch 247/500 ], loss: 0.0749, avg_reader_cost: 1.2564 avg_batch_cost: 1.4090, avg_ips: 68.1354.
+Type : capsule Train [ Epoch 248/500 ], loss: 0.0461, avg_reader_cost: 1.2613 avg_batch_cost: 1.3656, avg_ips: 70.2972.
+Type : capsule Train [ Epoch 249/500 ], loss: 0.0560, avg_reader_cost: 1.3094 avg_batch_cost: 1.4514, avg_ips: 66.1426.
+Type : capsule Train [ Epoch 250/500 ], loss: 0.0588, avg_reader_cost: 1.2725 avg_batch_cost: 1.4360, avg_ips: 66.8541.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 250/500 ] max_auc: 0.8851 roc_auc : 0.885122.
-Type : capsule Train [ Epoch 251/500 ], loss: 0.0474, avg_reader_cost: 15.4131 avg_batch_cost: 15.7691, avg_ips: 6.0879.
-Type : capsule Train [ Epoch 252/500 ], loss: 0.0472, avg_reader_cost: 0.0004 avg_batch_cost: 0.3521, avg_ips: 272.6698.
-Type : capsule Train [ Epoch 253/500 ], loss: 0.0710, avg_reader_cost: 0.0011 avg_batch_cost: 0.3408, avg_ips: 281.6771.
-Type : capsule Train [ Epoch 254/500 ], loss: 0.0676, avg_reader_cost: 0.0005 avg_batch_cost: 0.3502, avg_ips: 274.1347.
-Type : capsule Train [ Epoch 255/500 ], loss: 0.0925, avg_reader_cost: 0.0003 avg_batch_cost: 0.3418, avg_ips: 280.8388.
-Type : capsule Train [ Epoch 256/500 ], loss: 0.0362, avg_reader_cost: 1.1299 avg_batch_cost: 1.4671, avg_ips: 65.4373.
-Type : capsule Train [ Epoch 257/500 ], loss: 0.0506, avg_reader_cost: 1.2795 avg_batch_cost: 1.6259, avg_ips: 59.0450.
-Type : capsule Train [ Epoch 258/500 ], loss: 0.0560, avg_reader_cost: 1.2580 avg_batch_cost: 1.6025, avg_ips: 59.9070.
-Type : capsule Train [ Epoch 259/500 ], loss: 0.0303, avg_reader_cost: 1.2535 avg_batch_cost: 1.3955, avg_ips: 68.7918.
-Type : capsule Train [ Epoch 260/500 ], loss: 0.0467, avg_reader_cost: 1.2570 avg_batch_cost: 1.5998, avg_ips: 60.0070.
+Type : capsule Val [ Epoch 250/500 ] max_auc: 0.9063 roc_auc : 0.859593.
+Type : capsule Train [ Epoch 251/500 ], loss: 0.0687, avg_reader_cost: 12.8142 avg_batch_cost: 13.2609, avg_ips: 7.2393.
+Type : capsule Train [ Epoch 252/500 ], loss: 0.0244, avg_reader_cost: 0.0003 avg_batch_cost: 0.1429, avg_ips: 671.8400.
+Type : capsule Train [ Epoch 253/500 ], loss: 0.0392, avg_reader_cost: 0.0006 avg_batch_cost: 0.3502, avg_ips: 274.1062.
+Type : capsule Train [ Epoch 254/500 ], loss: 0.1076, avg_reader_cost: 0.0003 avg_batch_cost: 0.1058, avg_ips: 907.0134.
+Type : capsule Train [ Epoch 255/500 ], loss: 0.0627, avg_reader_cost: 0.0008 avg_batch_cost: 0.3387, avg_ips: 283.4344.
+Type : capsule Train [ Epoch 256/500 ], loss: 0.0881, avg_reader_cost: 1.1871 avg_batch_cost: 1.3520, avg_ips: 71.0033.
+Type : capsule Train [ Epoch 257/500 ], loss: 0.0576, avg_reader_cost: 1.2801 avg_batch_cost: 1.6240, avg_ips: 59.1120.
+Type : capsule Train [ Epoch 258/500 ], loss: 0.0604, avg_reader_cost: 1.2628 avg_batch_cost: 1.4003, avg_ips: 68.5556.
+Type : capsule Train [ Epoch 259/500 ], loss: 0.0544, avg_reader_cost: 1.2878 avg_batch_cost: 1.4320, avg_ips: 67.0369.
+Type : capsule Train [ Epoch 260/500 ], loss: 0.0409, avg_reader_cost: 1.2645 avg_batch_cost: 1.5994, avg_ips: 60.0209.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 260/500 ] max_auc: 0.8851 roc_auc : 0.877543.
-Type : capsule Train [ Epoch 261/500 ], loss: 0.0527, avg_reader_cost: 13.3402 avg_batch_cost: 13.7619, avg_ips: 6.9758.
-Type : capsule Train [ Epoch 262/500 ], loss: 0.0182, avg_reader_cost: 0.0006 avg_batch_cost: 0.3531, avg_ips: 271.8440.
-Type : capsule Train [ Epoch 263/500 ], loss: 0.0113, avg_reader_cost: 0.0020 avg_batch_cost: 0.3489, avg_ips: 275.1254.
-Type : capsule Train [ Epoch 264/500 ], loss: 0.0102, avg_reader_cost: 0.0007 avg_batch_cost: 0.3460, avg_ips: 277.4452.
-Type : capsule Train [ Epoch 265/500 ], loss: 0.0467, avg_reader_cost: 0.0006 avg_batch_cost: 0.3514, avg_ips: 273.1763.
-Type : capsule Train [ Epoch 266/500 ], loss: 0.0807, avg_reader_cost: 1.1199 avg_batch_cost: 1.2560, avg_ips: 76.4346.
-Type : capsule Train [ Epoch 267/500 ], loss: 0.0387, avg_reader_cost: 1.2595 avg_batch_cost: 1.4017, avg_ips: 68.4900.
-Type : capsule Train [ Epoch 268/500 ], loss: 0.1027, avg_reader_cost: 1.3021 avg_batch_cost: 1.5275, avg_ips: 62.8488.
-Type : capsule Train [ Epoch 269/500 ], loss: 0.0386, avg_reader_cost: 1.7523 avg_batch_cost: 2.1024, avg_ips: 45.6628.
-Type : capsule Train [ Epoch 270/500 ], loss: 0.0292, avg_reader_cost: 1.2652 avg_batch_cost: 1.5670, avg_ips: 61.2652.
+Type : capsule Val [ Epoch 260/500 ] max_auc: 0.9063 roc_auc : 0.877942.
+Type : capsule Train [ Epoch 261/500 ], loss: 0.0532, avg_reader_cost: 12.7479 avg_batch_cost: 13.0020, avg_ips: 7.3835.
+Type : capsule Train [ Epoch 262/500 ], loss: 0.0646, avg_reader_cost: 0.0005 avg_batch_cost: 0.3440, avg_ips: 279.0724.
+Type : capsule Train [ Epoch 263/500 ], loss: 0.0525, avg_reader_cost: 0.0003 avg_batch_cost: 0.1575, avg_ips: 609.5080.
+Type : capsule Train [ Epoch 264/500 ], loss: 0.0586, avg_reader_cost: 0.0005 avg_batch_cost: 0.3539, avg_ips: 271.2743.
+Type : capsule Train [ Epoch 265/500 ], loss: 0.0149, avg_reader_cost: 0.0003 avg_batch_cost: 0.3515, avg_ips: 273.0993.
+Type : capsule Train [ Epoch 266/500 ], loss: 0.0460, avg_reader_cost: 1.0980 avg_batch_cost: 1.2382, avg_ips: 77.5323.
+Type : capsule Train [ Epoch 267/500 ], loss: 0.0456, avg_reader_cost: 1.2510 avg_batch_cost: 1.3984, avg_ips: 68.6494.
+Type : capsule Train [ Epoch 268/500 ], loss: 0.0487, avg_reader_cost: 1.2549 avg_batch_cost: 1.3980, avg_ips: 68.6715.
+Type : capsule Train [ Epoch 269/500 ], loss: 0.0456, avg_reader_cost: 1.2571 avg_batch_cost: 1.3931, avg_ips: 68.9103.
+Type : capsule Train [ Epoch 270/500 ], loss: 0.0772, avg_reader_cost: 1.2695 avg_batch_cost: 1.4045, avg_ips: 68.3540.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 270/500 ] max_auc: 0.8851 roc_auc : 0.844834.
-Type : capsule Train [ Epoch 271/500 ], loss: 0.0632, avg_reader_cost: 13.4588 avg_batch_cost: 13.7868, avg_ips: 6.9632.
-Type : capsule Train [ Epoch 272/500 ], loss: 0.0735, avg_reader_cost: 0.0005 avg_batch_cost: 0.1569, avg_ips: 611.6895.
-Type : capsule Train [ Epoch 273/500 ], loss: 0.0643, avg_reader_cost: 0.0006 avg_batch_cost: 0.3517, avg_ips: 272.9508.
-Type : capsule Train [ Epoch 274/500 ], loss: 0.0441, avg_reader_cost: 0.0003 avg_batch_cost: 0.3506, avg_ips: 273.8293.
-Type : capsule Train [ Epoch 275/500 ], loss: 0.0714, avg_reader_cost: 0.0003 avg_batch_cost: 0.3487, avg_ips: 275.2881.
-Type : capsule Train [ Epoch 276/500 ], loss: 0.0608, avg_reader_cost: 1.1295 avg_batch_cost: 1.2824, avg_ips: 74.8624.
-Type : capsule Train [ Epoch 277/500 ], loss: 0.0069, avg_reader_cost: 1.3067 avg_batch_cost: 1.6550, avg_ips: 58.0075.
-Type : capsule Train [ Epoch 278/500 ], loss: 0.0613, avg_reader_cost: 1.3056 avg_batch_cost: 1.5403, avg_ips: 62.3247.
-Type : capsule Train [ Epoch 279/500 ], loss: 0.0587, avg_reader_cost: 1.2953 avg_batch_cost: 1.4013, avg_ips: 68.5100.
-Type : capsule Train [ Epoch 280/500 ], loss: 0.0264, avg_reader_cost: 1.3950 avg_batch_cost: 1.5381, avg_ips: 62.4165.
+Type : capsule Val [ Epoch 270/500 ] max_auc: 0.9063 roc_auc : 0.836857.
+Type : capsule Train [ Epoch 271/500 ], loss: 0.0358, avg_reader_cost: 12.7501 avg_batch_cost: 13.1208, avg_ips: 7.3166.
+Type : capsule Train [ Epoch 272/500 ], loss: 0.0394, avg_reader_cost: 0.0003 avg_batch_cost: 0.3337, avg_ips: 287.6561.
+Type : capsule Train [ Epoch 273/500 ], loss: 0.0453, avg_reader_cost: 0.0007 avg_batch_cost: 0.3414, avg_ips: 281.1826.
+Type : capsule Train [ Epoch 274/500 ], loss: 0.0439, avg_reader_cost: 0.0010 avg_batch_cost: 0.1463, avg_ips: 656.3589.
+Type : capsule Train [ Epoch 275/500 ], loss: 0.0439, avg_reader_cost: 0.0004 avg_batch_cost: 0.3414, avg_ips: 281.1600.
+Type : capsule Train [ Epoch 276/500 ], loss: 0.0326, avg_reader_cost: 1.1319 avg_batch_cost: 1.3889, avg_ips: 69.1197.
+Type : capsule Train [ Epoch 277/500 ], loss: 0.0123, avg_reader_cost: 1.2615 avg_batch_cost: 1.5969, avg_ips: 60.1162.
+Type : capsule Train [ Epoch 278/500 ], loss: 0.0291, avg_reader_cost: 1.2550 avg_batch_cost: 1.3955, avg_ips: 68.7950.
+Type : capsule Train [ Epoch 279/500 ], loss: 0.0640, avg_reader_cost: 1.2554 avg_batch_cost: 1.3650, avg_ips: 70.3321.
+Type : capsule Train [ Epoch 280/500 ], loss: 0.0674, avg_reader_cost: 1.3218 avg_batch_cost: 1.4626, avg_ips: 65.6345.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 280/500 ] max_auc: 0.8859 roc_auc : 0.885919.
-Type : capsule Train [ Epoch 281/500 ], loss: 0.0129, avg_reader_cost: 14.2450 avg_batch_cost: 14.5896, avg_ips: 6.5800.
-Type : capsule Train [ Epoch 282/500 ], loss: 0.0575, avg_reader_cost: 0.0005 avg_batch_cost: 0.3556, avg_ips: 269.9817.
-Type : capsule Train [ Epoch 283/500 ], loss: 0.0396, avg_reader_cost: 0.0003 avg_batch_cost: 0.2472, avg_ips: 388.3963.
-Type : capsule Train [ Epoch 284/500 ], loss: 0.0332, avg_reader_cost: 0.0004 avg_batch_cost: 0.2069, avg_ips: 464.0733.
-Type : capsule Train [ Epoch 285/500 ], loss: 0.0892, avg_reader_cost: 0.0004 avg_batch_cost: 0.2988, avg_ips: 321.2887.
-Type : capsule Train [ Epoch 286/500 ], loss: 0.0286, avg_reader_cost: 1.2049 avg_batch_cost: 1.5473, avg_ips: 62.0417.
-Type : capsule Train [ Epoch 287/500 ], loss: 0.0326, avg_reader_cost: 1.3112 avg_batch_cost: 1.6515, avg_ips: 58.1302.
-Type : capsule Train [ Epoch 288/500 ], loss: 0.0347, avg_reader_cost: 1.3164 avg_batch_cost: 1.4849, avg_ips: 64.6490.
-Type : capsule Train [ Epoch 289/500 ], loss: 0.0437, avg_reader_cost: 1.4847 avg_batch_cost: 1.6949, avg_ips: 56.6413.
-Type : capsule Train [ Epoch 290/500 ], loss: 0.0391, avg_reader_cost: 1.3043 avg_batch_cost: 1.6414, avg_ips: 58.4876.
+Type : capsule Val [ Epoch 280/500 ] max_auc: 0.9063 roc_auc : 0.869565.
+Type : capsule Train [ Epoch 281/500 ], loss: 0.0236, avg_reader_cost: 12.7122 avg_batch_cost: 13.2264, avg_ips: 7.2582.
+Type : capsule Train [ Epoch 282/500 ], loss: 0.0415, avg_reader_cost: 0.0003 avg_batch_cost: 0.3444, avg_ips: 278.7175.
+Type : capsule Train [ Epoch 283/500 ], loss: 0.0460, avg_reader_cost: 0.0006 avg_batch_cost: 0.1536, avg_ips: 625.0496.
+Type : capsule Train [ Epoch 284/500 ], loss: 0.0576, avg_reader_cost: 0.0003 avg_batch_cost: 0.3438, avg_ips: 279.2288.
+Type : capsule Train [ Epoch 285/500 ], loss: 0.0272, avg_reader_cost: 0.0003 avg_batch_cost: 0.1351, avg_ips: 710.6769.
+Type : capsule Train [ Epoch 286/500 ], loss: 0.0528, avg_reader_cost: 1.1590 avg_batch_cost: 1.4935, avg_ips: 64.2771.
+Type : capsule Train [ Epoch 287/500 ], loss: 0.0400, avg_reader_cost: 1.2639 avg_batch_cost: 1.6001, avg_ips: 59.9951.
+Type : capsule Train [ Epoch 288/500 ], loss: 0.0792, avg_reader_cost: 1.2849 avg_batch_cost: 1.6263, avg_ips: 59.0301.
+Type : capsule Train [ Epoch 289/500 ], loss: 0.0100, avg_reader_cost: 1.2626 avg_batch_cost: 1.6012, avg_ips: 59.9534.
+Type : capsule Train [ Epoch 290/500 ], loss: 0.0780, avg_reader_cost: 1.2877 avg_batch_cost: 1.4301, avg_ips: 67.1275.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 290/500 ] max_auc: 0.8859 roc_auc : 0.872357.
-Type : capsule Train [ Epoch 291/500 ], loss: 0.0758, avg_reader_cost: 13.5851 avg_batch_cost: 14.0639, avg_ips: 6.8260.
-Type : capsule Train [ Epoch 292/500 ], loss: 0.0651, avg_reader_cost: 0.0003 avg_batch_cost: 0.3392, avg_ips: 282.9821.
-Type : capsule Train [ Epoch 293/500 ], loss: 0.0430, avg_reader_cost: 0.0005 avg_batch_cost: 0.3483, avg_ips: 275.6205.
-Type : capsule Train [ Epoch 294/500 ], loss: 0.0338, avg_reader_cost: 0.0011 avg_batch_cost: 0.3527, avg_ips: 272.2003.
-Type : capsule Train [ Epoch 295/500 ], loss: 0.0310, avg_reader_cost: 0.0003 avg_batch_cost: 0.3393, avg_ips: 282.9570.
-Type : capsule Train [ Epoch 296/500 ], loss: 0.0195, avg_reader_cost: 1.1045 avg_batch_cost: 1.3676, avg_ips: 70.1960.
-Type : capsule Train [ Epoch 297/500 ], loss: 0.0388, avg_reader_cost: 1.2615 avg_batch_cost: 1.6192, avg_ips: 59.2876.
-Type : capsule Train [ Epoch 298/500 ], loss: 0.0753, avg_reader_cost: 1.2553 avg_batch_cost: 1.6055, avg_ips: 59.7940.
-Type : capsule Train [ Epoch 299/500 ], loss: 0.0514, avg_reader_cost: 1.2507 avg_batch_cost: 1.6069, avg_ips: 59.7414.
-Type : capsule Train [ Epoch 300/500 ], loss: 0.0388, avg_reader_cost: 1.2433 avg_batch_cost: 1.5835, avg_ips: 60.6242.
+Type : capsule Val [ Epoch 290/500 ] max_auc: 0.9063 roc_auc : 0.888712.
+Type : capsule Train [ Epoch 291/500 ], loss: 0.0724, avg_reader_cost: 12.8693 avg_batch_cost: 13.2502, avg_ips: 7.2452.
+Type : capsule Train [ Epoch 292/500 ], loss: 0.0231, avg_reader_cost: 0.0003 avg_batch_cost: 0.3400, avg_ips: 282.3790.
+Type : capsule Train [ Epoch 293/500 ], loss: 0.0651, avg_reader_cost: 0.0002 avg_batch_cost: 0.1631, avg_ips: 588.7405.
+Type : capsule Train [ Epoch 294/500 ], loss: 0.0469, avg_reader_cost: 0.0004 avg_batch_cost: 0.3406, avg_ips: 281.8737.
+Type : capsule Train [ Epoch 295/500 ], loss: 0.1002, avg_reader_cost: 0.0004 avg_batch_cost: 0.2555, avg_ips: 375.7969.
+Type : capsule Train [ Epoch 296/500 ], loss: 0.0774, avg_reader_cost: 1.1375 avg_batch_cost: 1.2759, avg_ips: 75.2408.
+Type : capsule Train [ Epoch 297/500 ], loss: 0.0089, avg_reader_cost: 1.2686 avg_batch_cost: 1.4639, avg_ips: 65.5789.
+Type : capsule Train [ Epoch 298/500 ], loss: 0.0440, avg_reader_cost: 1.2589 avg_batch_cost: 1.3940, avg_ips: 68.8651.
+Type : capsule Train [ Epoch 299/500 ], loss: 0.0658, avg_reader_cost: 1.2512 avg_batch_cost: 1.5925, avg_ips: 60.2826.
+Type : capsule Train [ Epoch 300/500 ], loss: 0.0414, avg_reader_cost: 1.2571 avg_batch_cost: 1.3955, avg_ips: 68.7918.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 300/500 ] max_auc: 0.8955 roc_auc : 0.895493.
-Type : capsule Train [ Epoch 301/500 ], loss: 0.0093, avg_reader_cost: 14.5408 avg_batch_cost: 14.8837, avg_ips: 6.4500.
-Type : capsule Train [ Epoch 302/500 ], loss: 0.0247, avg_reader_cost: 0.0004 avg_batch_cost: 0.3473, avg_ips: 276.3843.
-Type : capsule Train [ Epoch 303/500 ], loss: 0.0627, avg_reader_cost: 0.0003 avg_batch_cost: 0.1360, avg_ips: 705.6811.
-Type : capsule Train [ Epoch 304/500 ], loss: 0.0618, avg_reader_cost: 0.0006 avg_batch_cost: 0.3525, avg_ips: 272.3047.
-Type : capsule Train [ Epoch 305/500 ], loss: 0.0437, avg_reader_cost: 0.0006 avg_batch_cost: 0.3527, avg_ips: 272.1923.
-Type : capsule Train [ Epoch 306/500 ], loss: 0.0300, avg_reader_cost: 1.1316 avg_batch_cost: 1.4724, avg_ips: 65.2018.
-Type : capsule Train [ Epoch 307/500 ], loss: 0.0526, avg_reader_cost: 1.2695 avg_batch_cost: 1.6226, avg_ips: 59.1640.
-Type : capsule Train [ Epoch 308/500 ], loss: 0.0458, avg_reader_cost: 1.7271 avg_batch_cost: 2.0632, avg_ips: 46.5296.
-Type : capsule Train [ Epoch 309/500 ], loss: 0.0532, avg_reader_cost: 1.4372 avg_batch_cost: 1.7812, avg_ips: 53.8949.
-Type : capsule Train [ Epoch 310/500 ], loss: 0.0694, avg_reader_cost: 1.3145 avg_batch_cost: 1.4253, avg_ips: 67.3544.
+Type : capsule Val [ Epoch 300/500 ] max_auc: 0.9063 roc_auc : 0.863582.
+Type : capsule Train [ Epoch 301/500 ], loss: 0.0755, avg_reader_cost: 12.7300 avg_batch_cost: 12.9273, avg_ips: 7.4261.
+Type : capsule Train [ Epoch 302/500 ], loss: 0.0724, avg_reader_cost: 0.0005 avg_batch_cost: 0.3463, avg_ips: 277.2166.
+Type : capsule Train [ Epoch 303/500 ], loss: 0.0420, avg_reader_cost: 0.0004 avg_batch_cost: 0.3333, avg_ips: 288.0098.
+Type : capsule Train [ Epoch 304/500 ], loss: 0.0886, avg_reader_cost: 0.0003 avg_batch_cost: 0.3435, avg_ips: 279.4988.
+Type : capsule Train [ Epoch 305/500 ], loss: 0.0394, avg_reader_cost: 0.0003 avg_batch_cost: 0.1336, avg_ips: 718.5603.
+Type : capsule Train [ Epoch 306/500 ], loss: 0.0476, avg_reader_cost: 1.1393 avg_batch_cost: 1.2817, avg_ips: 74.8979.
+Type : capsule Train [ Epoch 307/500 ], loss: 0.0593, avg_reader_cost: 1.2776 avg_batch_cost: 1.4201, avg_ips: 67.6027.
+Type : capsule Train [ Epoch 308/500 ], loss: 0.0473, avg_reader_cost: 1.2698 avg_batch_cost: 1.6094, avg_ips: 59.6493.
+Type : capsule Train [ Epoch 309/500 ], loss: 0.0213, avg_reader_cost: 1.2552 avg_batch_cost: 1.5926, avg_ips: 60.2797.
+Type : capsule Train [ Epoch 310/500 ], loss: 0.0357, avg_reader_cost: 1.2887 avg_batch_cost: 1.3922, avg_ips: 68.9576.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 310/500 ] max_auc: 0.8955 roc_auc : 0.864779.
-Type : capsule Train [ Epoch 311/500 ], loss: 0.0643, avg_reader_cost: 12.6059 avg_batch_cost: 12.9654, avg_ips: 7.4043.
-Type : capsule Train [ Epoch 312/500 ], loss: 0.0500, avg_reader_cost: 1.2885 avg_batch_cost: 1.6294, avg_ips: 58.9163.
-Type : capsule Train [ Epoch 313/500 ], loss: 0.0700, avg_reader_cost: 1.2633 avg_batch_cost: 1.4182, avg_ips: 67.6891.
-Type : capsule Train [ Epoch 314/500 ], loss: 0.1023, avg_reader_cost: 1.2783 avg_batch_cost: 1.5037, avg_ips: 63.8416.
-Type : capsule Train [ Epoch 315/500 ], loss: 0.0366, avg_reader_cost: 1.2687 avg_batch_cost: 1.6178, avg_ips: 59.3408.
-Type : capsule Train [ Epoch 316/500 ], loss: 0.0554, avg_reader_cost: 1.3095 avg_batch_cost: 1.6582, avg_ips: 57.8952.
-Type : capsule Train [ Epoch 317/500 ], loss: 0.0419, avg_reader_cost: 1.2770 avg_batch_cost: 1.4823, avg_ips: 64.7659.
-Type : capsule Train [ Epoch 318/500 ], loss: 0.0708, avg_reader_cost: 1.2517 avg_batch_cost: 1.6027, avg_ips: 59.8977.
-Type : capsule Train [ Epoch 319/500 ], loss: 0.0369, avg_reader_cost: 1.2710 avg_batch_cost: 1.4068, avg_ips: 68.2392.
-Type : capsule Train [ Epoch 320/500 ], loss: 0.0552, avg_reader_cost: 1.2826 avg_batch_cost: 1.6287, avg_ips: 58.9417.
+Type : capsule Val [ Epoch 310/500 ] max_auc: 0.9063 roc_auc : 0.838851.
+Type : capsule Train [ Epoch 311/500 ], loss: 0.0360, avg_reader_cost: 12.5593 avg_batch_cost: 12.9113, avg_ips: 7.4354.
+Type : capsule Train [ Epoch 312/500 ], loss: 0.0607, avg_reader_cost: 1.2664 avg_batch_cost: 1.6089, avg_ips: 59.6692.
+Type : capsule Train [ Epoch 313/500 ], loss: 0.0680, avg_reader_cost: 1.2759 avg_batch_cost: 1.4392, avg_ips: 66.7048.
+Type : capsule Train [ Epoch 314/500 ], loss: 0.0764, avg_reader_cost: 1.2889 avg_batch_cost: 1.6221, avg_ips: 59.1842.
+Type : capsule Train [ Epoch 315/500 ], loss: 0.0320, avg_reader_cost: 1.2713 avg_batch_cost: 1.4084, avg_ips: 68.1616.
+Type : capsule Train [ Epoch 316/500 ], loss: 0.0155, avg_reader_cost: 1.2586 avg_batch_cost: 1.5999, avg_ips: 60.0044.
+Type : capsule Train [ Epoch 317/500 ], loss: 0.0518, avg_reader_cost: 1.2695 avg_batch_cost: 1.6054, avg_ips: 59.7969.
+Type : capsule Train [ Epoch 318/500 ], loss: 0.0407, avg_reader_cost: 1.2749 avg_batch_cost: 1.6095, avg_ips: 59.6445.
+Type : capsule Train [ Epoch 319/500 ], loss: 0.0209, avg_reader_cost: 1.2542 avg_batch_cost: 1.5907, avg_ips: 60.3497.
+Type : capsule Train [ Epoch 320/500 ], loss: 0.0126, avg_reader_cost: 1.3222 avg_batch_cost: 1.4761, avg_ips: 65.0350.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 320/500 ] max_auc: 0.8955 roc_auc : 0.878341.
-Type : capsule Train [ Epoch 321/500 ], loss: 0.0385, avg_reader_cost: 13.2465 avg_batch_cost: 13.5868, avg_ips: 7.0657.
-Type : capsule Train [ Epoch 322/500 ], loss: 0.0347, avg_reader_cost: 0.0119 avg_batch_cost: 0.1875, avg_ips: 511.8978.
-Type : capsule Train [ Epoch 323/500 ], loss: 0.0438, avg_reader_cost: 0.0006 avg_batch_cost: 0.3515, avg_ips: 273.1002.
-Type : capsule Train [ Epoch 324/500 ], loss: 0.0498, avg_reader_cost: 0.0003 avg_batch_cost: 0.3548, avg_ips: 270.5412.
-Type : capsule Train [ Epoch 325/500 ], loss: 0.0314, avg_reader_cost: 0.0004 avg_batch_cost: 0.3596, avg_ips: 266.9305.
-Type : capsule Train [ Epoch 326/500 ], loss: 0.0299, avg_reader_cost: 1.0527 avg_batch_cost: 1.1957, avg_ips: 80.2868.
-Type : capsule Train [ Epoch 327/500 ], loss: 0.0877, avg_reader_cost: 1.2665 avg_batch_cost: 1.6132, avg_ips: 59.5097.
-Type : capsule Train [ Epoch 328/500 ], loss: 0.0610, avg_reader_cost: 1.2655 avg_batch_cost: 1.4038, avg_ips: 68.3870.
-Type : capsule Train [ Epoch 329/500 ], loss: 0.0284, avg_reader_cost: 1.2645 avg_batch_cost: 1.4227, avg_ips: 67.4790.
-Type : capsule Train [ Epoch 330/500 ], loss: 0.0418, avg_reader_cost: 1.3039 avg_batch_cost: 1.6462, avg_ips: 58.3160.
+Type : capsule Val [ Epoch 320/500 ] max_auc: 0.9063 roc_auc : 0.822098.
+Type : capsule Train [ Epoch 321/500 ], loss: 0.0415, avg_reader_cost: 12.7496 avg_batch_cost: 13.1804, avg_ips: 7.2835.
+Type : capsule Train [ Epoch 322/500 ], loss: 0.0434, avg_reader_cost: 0.0002 avg_batch_cost: 0.1403, avg_ips: 684.2269.
+Type : capsule Train [ Epoch 323/500 ], loss: 0.0276, avg_reader_cost: 0.0015 avg_batch_cost: 0.3382, avg_ips: 283.8346.
+Type : capsule Train [ Epoch 324/500 ], loss: 0.0433, avg_reader_cost: 0.0002 avg_batch_cost: 0.3461, avg_ips: 277.3997.
+Type : capsule Train [ Epoch 325/500 ], loss: 0.0272, avg_reader_cost: 0.0003 avg_batch_cost: 0.3441, avg_ips: 278.9941.
+Type : capsule Train [ Epoch 326/500 ], loss: 0.0553, avg_reader_cost: 1.1371 avg_batch_cost: 1.2751, avg_ips: 75.2884.
+Type : capsule Train [ Epoch 327/500 ], loss: 0.0242, avg_reader_cost: 1.2671 avg_batch_cost: 1.6036, avg_ips: 59.8635.
+Type : capsule Train [ Epoch 328/500 ], loss: 0.0352, avg_reader_cost: 1.2661 avg_batch_cost: 1.6027, avg_ips: 59.8976.
+Type : capsule Train [ Epoch 329/500 ], loss: 0.0067, avg_reader_cost: 1.2700 avg_batch_cost: 1.6061, avg_ips: 59.7733.
+Type : capsule Train [ Epoch 330/500 ], loss: 0.0374, avg_reader_cost: 1.2661 avg_batch_cost: 1.4081, avg_ips: 68.1765.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 330/500 ] max_auc: 0.8955 roc_auc : 0.893897.
-Type : capsule Train [ Epoch 331/500 ], loss: 0.0949, avg_reader_cost: 13.6442 avg_batch_cost: 14.0365, avg_ips: 6.8393.
-Type : capsule Train [ Epoch 332/500 ], loss: 0.0723, avg_reader_cost: 0.0003 avg_batch_cost: 0.3414, avg_ips: 281.1981.
-Type : capsule Train [ Epoch 333/500 ], loss: 0.0670, avg_reader_cost: 0.0004 avg_batch_cost: 0.3492, avg_ips: 274.9422.
-Type : capsule Train [ Epoch 334/500 ], loss: 0.0294, avg_reader_cost: 0.0003 avg_batch_cost: 0.3523, avg_ips: 272.4768.
-Type : capsule Train [ Epoch 335/500 ], loss: 0.0271, avg_reader_cost: 0.0003 avg_batch_cost: 0.3383, avg_ips: 283.7818.
-Type : capsule Train [ Epoch 336/500 ], loss: 0.0647, avg_reader_cost: 1.1753 avg_batch_cost: 1.3428, avg_ips: 71.4920.
-Type : capsule Train [ Epoch 337/500 ], loss: 0.0391, avg_reader_cost: 1.7647 avg_batch_cost: 1.9526, avg_ips: 49.1643.
-Type : capsule Train [ Epoch 338/500 ], loss: 0.0378, avg_reader_cost: 1.2911 avg_batch_cost: 1.6421, avg_ips: 58.4605.
-Type : capsule Train [ Epoch 339/500 ], loss: 0.0477, avg_reader_cost: 1.7406 avg_batch_cost: 2.0840, avg_ips: 46.0642.
-Type : capsule Train [ Epoch 340/500 ], loss: 0.0258, avg_reader_cost: 1.2750 avg_batch_cost: 1.6720, avg_ips: 57.4169.
+Type : capsule Val [ Epoch 330/500 ] max_auc: 0.9063 roc_auc : 0.868369.
+Type : capsule Train [ Epoch 331/500 ], loss: 0.0330, avg_reader_cost: 12.6294 avg_batch_cost: 12.9777, avg_ips: 7.3973.
+Type : capsule Train [ Epoch 332/500 ], loss: 0.0413, avg_reader_cost: 0.0003 avg_batch_cost: 0.3402, avg_ips: 282.1484.
+Type : capsule Train [ Epoch 333/500 ], loss: 0.0357, avg_reader_cost: 0.0003 avg_batch_cost: 0.3432, avg_ips: 279.7411.
+Type : capsule Train [ Epoch 334/500 ], loss: 0.0423, avg_reader_cost: 0.0002 avg_batch_cost: 0.3418, avg_ips: 280.8276.
+Type : capsule Train [ Epoch 335/500 ], loss: 0.0061, avg_reader_cost: 0.0003 avg_batch_cost: 0.3337, avg_ips: 287.6561.
+Type : capsule Train [ Epoch 336/500 ], loss: 0.0817, avg_reader_cost: 1.1313 avg_batch_cost: 1.4661, avg_ips: 65.4787.
+Type : capsule Train [ Epoch 337/500 ], loss: 0.0373, avg_reader_cost: 1.2669 avg_batch_cost: 1.4290, avg_ips: 67.1779.
+Type : capsule Train [ Epoch 338/500 ], loss: 0.0166, avg_reader_cost: 1.2536 avg_batch_cost: 1.3935, avg_ips: 68.8920.
+Type : capsule Train [ Epoch 339/500 ], loss: 0.0665, avg_reader_cost: 1.2557 avg_batch_cost: 1.4028, avg_ips: 68.4340.
+Type : capsule Train [ Epoch 340/500 ], loss: 0.0808, avg_reader_cost: 1.2543 avg_batch_cost: 1.5867, avg_ips: 60.5041.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 340/500 ] max_auc: 0.8955 roc_auc : 0.883127.
-Type : capsule Train [ Epoch 341/500 ], loss: 0.0359, avg_reader_cost: 12.3084 avg_batch_cost: 12.4398, avg_ips: 7.7171.
-Type : capsule Train [ Epoch 342/500 ], loss: 0.0680, avg_reader_cost: 1.3760 avg_batch_cost: 1.7157, avg_ips: 55.9523.
-Type : capsule Train [ Epoch 343/500 ], loss: 0.0118, avg_reader_cost: 1.4631 avg_batch_cost: 1.8074, avg_ips: 53.1139.
-Type : capsule Train [ Epoch 344/500 ], loss: 0.0529, avg_reader_cost: 1.3130 avg_batch_cost: 1.5776, avg_ips: 60.8516.
-Type : capsule Train [ Epoch 345/500 ], loss: 0.0520, avg_reader_cost: 1.3405 avg_batch_cost: 1.6886, avg_ips: 56.8508.
-Type : capsule Train [ Epoch 346/500 ], loss: 0.0345, avg_reader_cost: 1.3585 avg_batch_cost: 1.7167, avg_ips: 55.9208.
-Type : capsule Train [ Epoch 347/500 ], loss: 0.0300, avg_reader_cost: 1.3468 avg_batch_cost: 1.6864, avg_ips: 56.9257.
-Type : capsule Train [ Epoch 348/500 ], loss: 0.0231, avg_reader_cost: 1.3231 avg_batch_cost: 1.4669, avg_ips: 65.4442.
-Type : capsule Train [ Epoch 349/500 ], loss: 0.0441, avg_reader_cost: 1.3162 avg_batch_cost: 1.4603, avg_ips: 65.7415.
-Type : capsule Train [ Epoch 350/500 ], loss: 0.0451, avg_reader_cost: 1.3374 avg_batch_cost: 1.6866, avg_ips: 56.9179.
+Type : capsule Val [ Epoch 340/500 ] max_auc: 0.9063 roc_auc : 0.871959.
+Type : capsule Train [ Epoch 341/500 ], loss: 0.0271, avg_reader_cost: 11.2253 avg_batch_cost: 11.3402, avg_ips: 8.4655.
+Type : capsule Train [ Epoch 342/500 ], loss: 0.0077, avg_reader_cost: 1.2941 avg_batch_cost: 1.4363, avg_ips: 66.8362.
+Type : capsule Train [ Epoch 343/500 ], loss: 0.1260, avg_reader_cost: 1.2560 avg_batch_cost: 1.5914, avg_ips: 60.3224.
+Type : capsule Train [ Epoch 344/500 ], loss: 0.0521, avg_reader_cost: 1.2497 avg_batch_cost: 1.3842, avg_ips: 69.3546.
+Type : capsule Train [ Epoch 345/500 ], loss: 0.0401, avg_reader_cost: 1.2998 avg_batch_cost: 1.6456, avg_ips: 58.3379.
+Type : capsule Train [ Epoch 346/500 ], loss: 0.0267, avg_reader_cost: 1.2766 avg_batch_cost: 1.6124, avg_ips: 59.5373.
+Type : capsule Train [ Epoch 347/500 ], loss: 0.0364, avg_reader_cost: 1.2726 avg_batch_cost: 1.6068, avg_ips: 59.7452.
+Type : capsule Train [ Epoch 348/500 ], loss: 0.0482, avg_reader_cost: 1.2648 avg_batch_cost: 1.3988, avg_ips: 68.6318.
+Type : capsule Train [ Epoch 349/500 ], loss: 0.0344, avg_reader_cost: 1.3024 avg_batch_cost: 1.6384, avg_ips: 58.5927.
+Type : capsule Train [ Epoch 350/500 ], loss: 0.0194, avg_reader_cost: 1.2753 avg_batch_cost: 1.4604, avg_ips: 65.7343.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 350/500 ] max_auc: 0.8955 roc_auc : 0.869166.
-Type : capsule Train [ Epoch 351/500 ], loss: 0.0296, avg_reader_cost: 13.7646 avg_batch_cost: 14.1915, avg_ips: 6.7646.
-Type : capsule Train [ Epoch 352/500 ], loss: 0.0389, avg_reader_cost: 0.0005 avg_batch_cost: 0.3558, avg_ips: 269.8361.
-Type : capsule Train [ Epoch 353/500 ], loss: 0.0278, avg_reader_cost: 0.0003 avg_batch_cost: 0.3546, avg_ips: 270.7116.
-Type : capsule Train [ Epoch 354/500 ], loss: 0.0370, avg_reader_cost: 0.0003 avg_batch_cost: 0.1413, avg_ips: 679.4298.
-Type : capsule Train [ Epoch 355/500 ], loss: 0.0262, avg_reader_cost: 0.0003 avg_batch_cost: 0.1375, avg_ips: 698.2494.
-Type : capsule Train [ Epoch 356/500 ], loss: 0.0387, avg_reader_cost: 1.1230 avg_batch_cost: 1.4600, avg_ips: 65.7520.
-Type : capsule Train [ Epoch 357/500 ], loss: 0.0129, avg_reader_cost: 1.2654 avg_batch_cost: 1.6013, avg_ips: 59.9524.
-Type : capsule Train [ Epoch 358/500 ], loss: 0.0566, avg_reader_cost: 1.2712 avg_batch_cost: 1.4363, avg_ips: 66.8367.
-Type : capsule Train [ Epoch 359/500 ], loss: 0.0220, avg_reader_cost: 1.2636 avg_batch_cost: 1.6232, avg_ips: 59.1440.
-Type : capsule Train [ Epoch 360/500 ], loss: 0.0096, avg_reader_cost: 1.2342 avg_batch_cost: 1.3746, avg_ips: 69.8390.
+Type : capsule Val [ Epoch 350/500 ] max_auc: 0.9107 roc_auc : 0.910650.
+Type : capsule Train [ Epoch 351/500 ], loss: 0.0385, avg_reader_cost: 13.2933 avg_batch_cost: 13.5182, avg_ips: 7.1015.
+Type : capsule Train [ Epoch 352/500 ], loss: 0.0235, avg_reader_cost: 0.0003 avg_batch_cost: 0.1339, avg_ips: 717.1168.
+Type : capsule Train [ Epoch 353/500 ], loss: 0.0174, avg_reader_cost: 0.0003 avg_batch_cost: 0.1413, avg_ips: 679.4665.
+Type : capsule Train [ Epoch 354/500 ], loss: 0.0704, avg_reader_cost: 0.0004 avg_batch_cost: 0.3394, avg_ips: 282.8791.
+Type : capsule Train [ Epoch 355/500 ], loss: 0.0910, avg_reader_cost: 0.0003 avg_batch_cost: 0.3452, avg_ips: 278.1207.
+Type : capsule Train [ Epoch 356/500 ], loss: 0.0328, avg_reader_cost: 1.1486 avg_batch_cost: 1.4820, avg_ips: 64.7793.
+Type : capsule Train [ Epoch 357/500 ], loss: 0.0391, avg_reader_cost: 1.2807 avg_batch_cost: 1.6170, avg_ips: 59.3690.
+Type : capsule Train [ Epoch 358/500 ], loss: 0.0624, avg_reader_cost: 1.2635 avg_batch_cost: 1.3987, avg_ips: 68.6350.
+Type : capsule Train [ Epoch 359/500 ], loss: 0.0164, avg_reader_cost: 1.2727 avg_batch_cost: 1.4178, avg_ips: 67.7083.
+Type : capsule Train [ Epoch 360/500 ], loss: 0.0233, avg_reader_cost: 1.2722 avg_batch_cost: 1.6091, avg_ips: 59.6618.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 360/500 ] max_auc: 0.8955 roc_auc : 0.883925.
-Type : capsule Train [ Epoch 361/500 ], loss: 0.0505, avg_reader_cost: 13.3249 avg_batch_cost: 13.7532, avg_ips: 6.9802.
-Type : capsule Train [ Epoch 362/500 ], loss: 0.0793, avg_reader_cost: 0.0003 avg_batch_cost: 0.3515, avg_ips: 273.0780.
-Type : capsule Train [ Epoch 363/500 ], loss: 0.0231, avg_reader_cost: 0.0003 avg_batch_cost: 0.3480, avg_ips: 275.8360.
-Type : capsule Train [ Epoch 364/500 ], loss: 0.0222, avg_reader_cost: 0.0004 avg_batch_cost: 0.3503, avg_ips: 274.0370.
-Type : capsule Train [ Epoch 365/500 ], loss: 0.0874, avg_reader_cost: 0.0003 avg_batch_cost: 0.1567, avg_ips: 612.7423.
-Type : capsule Train [ Epoch 366/500 ], loss: 0.0627, avg_reader_cost: 1.1562 avg_batch_cost: 1.3018, avg_ips: 73.7418.
-Type : capsule Train [ Epoch 367/500 ], loss: 0.0445, avg_reader_cost: 1.3009 avg_batch_cost: 1.6468, avg_ips: 58.2935.
-Type : capsule Train [ Epoch 368/500 ], loss: 0.0299, avg_reader_cost: 1.3175 avg_batch_cost: 1.6624, avg_ips: 57.7480.
-Type : capsule Train [ Epoch 369/500 ], loss: 0.0389, avg_reader_cost: 1.2717 avg_batch_cost: 1.6167, avg_ips: 59.3814.
-Type : capsule Train [ Epoch 370/500 ], loss: 0.0269, avg_reader_cost: 1.3219 avg_batch_cost: 1.6640, avg_ips: 57.6925.
+Type : capsule Val [ Epoch 360/500 ] max_auc: 0.9107 roc_auc : 0.887914.
+Type : capsule Train [ Epoch 361/500 ], loss: 0.0211, avg_reader_cost: 12.7567 avg_batch_cost: 12.9943, avg_ips: 7.3878.
+Type : capsule Train [ Epoch 362/500 ], loss: 0.0578, avg_reader_cost: 0.0004 avg_batch_cost: 0.3447, avg_ips: 278.4987.
+Type : capsule Train [ Epoch 363/500 ], loss: 0.0410, avg_reader_cost: 0.0002 avg_batch_cost: 0.1616, avg_ips: 594.0327.
+Type : capsule Train [ Epoch 364/500 ], loss: 0.0360, avg_reader_cost: 0.0004 avg_batch_cost: 0.3429, avg_ips: 279.9550.
+Type : capsule Train [ Epoch 365/500 ], loss: 0.0679, avg_reader_cost: 0.0002 avg_batch_cost: 0.1438, avg_ips: 667.5584.
+Type : capsule Train [ Epoch 366/500 ], loss: 0.0585, avg_reader_cost: 1.1261 avg_batch_cost: 1.4620, avg_ips: 65.6620.
+Type : capsule Train [ Epoch 367/500 ], loss: 0.0769, avg_reader_cost: 1.2476 avg_batch_cost: 1.5885, avg_ips: 60.4362.
+Type : capsule Train [ Epoch 368/500 ], loss: 0.0438, avg_reader_cost: 1.2680 avg_batch_cost: 1.6084, avg_ips: 59.6854.
+Type : capsule Train [ Epoch 369/500 ], loss: 0.0678, avg_reader_cost: 1.2768 avg_batch_cost: 1.4107, avg_ips: 68.0529.
+Type : capsule Train [ Epoch 370/500 ], loss: 0.0634, avg_reader_cost: 1.2624 avg_batch_cost: 1.6008, avg_ips: 59.9685.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 370/500 ] max_auc: 0.8955 roc_auc : 0.853610.
-Type : capsule Train [ Epoch 371/500 ], loss: 0.0386, avg_reader_cost: 12.5907 avg_batch_cost: 12.7887, avg_ips: 7.5066.
-Type : capsule Train [ Epoch 372/500 ], loss: 0.0597, avg_reader_cost: 0.0004 avg_batch_cost: 0.1089, avg_ips: 881.7236.
-Type : capsule Train [ Epoch 373/500 ], loss: 0.0358, avg_reader_cost: 1.3243 avg_batch_cost: 1.4973, avg_ips: 64.1139.
-Type : capsule Train [ Epoch 374/500 ], loss: 0.0326, avg_reader_cost: 1.2803 avg_batch_cost: 1.6209, avg_ips: 59.2263.
-Type : capsule Train [ Epoch 375/500 ], loss: 0.0622, avg_reader_cost: 1.2551 avg_batch_cost: 1.5940, avg_ips: 60.2268.
-Type : capsule Train [ Epoch 376/500 ], loss: 0.0227, avg_reader_cost: 1.2679 avg_batch_cost: 1.4221, avg_ips: 67.5042.
-Type : capsule Train [ Epoch 377/500 ], loss: 0.0236, avg_reader_cost: 1.2626 avg_batch_cost: 1.6018, avg_ips: 59.9343.
-Type : capsule Train [ Epoch 378/500 ], loss: 0.0110, avg_reader_cost: 1.2693 avg_batch_cost: 1.6297, avg_ips: 58.9076.
-Type : capsule Train [ Epoch 379/500 ], loss: 0.0208, avg_reader_cost: 1.2457 avg_batch_cost: 1.5836, avg_ips: 60.6225.
-Type : capsule Train [ Epoch 380/500 ], loss: 0.0537, avg_reader_cost: 1.2808 avg_batch_cost: 1.4209, avg_ips: 67.5627.
+Type : capsule Val [ Epoch 370/500 ] max_auc: 0.9107 roc_auc : 0.888313.
+Type : capsule Train [ Epoch 371/500 ], loss: 0.0463, avg_reader_cost: 11.5341 avg_batch_cost: 11.6493, avg_ips: 8.2409.
+Type : capsule Train [ Epoch 372/500 ], loss: 0.0211, avg_reader_cost: 0.0003 avg_batch_cost: 0.1034, avg_ips: 928.4869.
+Type : capsule Train [ Epoch 373/500 ], loss: 0.0787, avg_reader_cost: 1.3667 avg_batch_cost: 1.5117, avg_ips: 63.5065.
+Type : capsule Train [ Epoch 374/500 ], loss: 0.0618, avg_reader_cost: 1.2920 avg_batch_cost: 1.6269, avg_ips: 59.0067.
+Type : capsule Train [ Epoch 375/500 ], loss: 0.0795, avg_reader_cost: 1.2943 avg_batch_cost: 1.4262, avg_ips: 67.3137.
+Type : capsule Train [ Epoch 376/500 ], loss: 0.0560, avg_reader_cost: 1.2714 avg_batch_cost: 1.4075, avg_ips: 68.2079.
+Type : capsule Train [ Epoch 377/500 ], loss: 0.0478, avg_reader_cost: 1.2675 avg_batch_cost: 1.5806, avg_ips: 60.7356.
+Type : capsule Train [ Epoch 378/500 ], loss: 0.0630, avg_reader_cost: 1.2704 avg_batch_cost: 1.4128, avg_ips: 67.9489.
+Type : capsule Train [ Epoch 379/500 ], loss: 0.0229, avg_reader_cost: 1.2760 avg_batch_cost: 1.6143, avg_ips: 59.4686.
+Type : capsule Train [ Epoch 380/500 ], loss: 0.0345, avg_reader_cost: 1.2995 avg_batch_cost: 1.6346, avg_ips: 58.7304.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 380/500 ] max_auc: 0.8955 roc_auc : 0.882728.
-Type : capsule Train [ Epoch 381/500 ], loss: 0.0594, avg_reader_cost: 14.1024 avg_batch_cost: 14.5248, avg_ips: 6.6094.
-Type : capsule Train [ Epoch 382/500 ], loss: 0.0153, avg_reader_cost: 0.0006 avg_batch_cost: 0.3500, avg_ips: 274.2970.
-Type : capsule Train [ Epoch 383/500 ], loss: 0.0694, avg_reader_cost: 0.0003 avg_batch_cost: 0.1631, avg_ips: 588.6304.
-Type : capsule Train [ Epoch 384/500 ], loss: 0.0243, avg_reader_cost: 0.0006 avg_batch_cost: 0.3541, avg_ips: 271.0757.
-Type : capsule Train [ Epoch 385/500 ], loss: 0.0493, avg_reader_cost: 0.0003 avg_batch_cost: 0.1460, avg_ips: 657.5411.
-Type : capsule Train [ Epoch 386/500 ], loss: 0.0112, avg_reader_cost: 1.1994 avg_batch_cost: 1.5495, avg_ips: 61.9562.
-Type : capsule Train [ Epoch 387/500 ], loss: 0.0491, avg_reader_cost: 1.7401 avg_batch_cost: 2.0874, avg_ips: 45.9899.
-Type : capsule Train [ Epoch 388/500 ], loss: 0.0505, avg_reader_cost: 1.4384 avg_batch_cost: 1.6158, avg_ips: 59.4141.
-Type : capsule Train [ Epoch 389/500 ], loss: 0.0416, avg_reader_cost: 1.4929 avg_batch_cost: 1.8421, avg_ips: 52.1158.
-Type : capsule Train [ Epoch 390/500 ], loss: 0.0112, avg_reader_cost: 1.2804 avg_batch_cost: 1.4217, avg_ips: 67.5268.
+Type : capsule Val [ Epoch 380/500 ] max_auc: 0.9107 roc_auc : 0.909055.
+Type : capsule Train [ Epoch 381/500 ], loss: 0.0614, avg_reader_cost: 12.6184 avg_batch_cost: 13.0571, avg_ips: 7.3523.
+Type : capsule Train [ Epoch 382/500 ], loss: 0.0227, avg_reader_cost: 0.0002 avg_batch_cost: 0.3347, avg_ips: 286.7992.
+Type : capsule Train [ Epoch 383/500 ], loss: 0.0401, avg_reader_cost: 0.0003 avg_batch_cost: 0.3435, avg_ips: 279.4850.
+Type : capsule Train [ Epoch 384/500 ], loss: 0.0468, avg_reader_cost: 0.0002 avg_batch_cost: 0.3337, avg_ips: 287.7007.
+Type : capsule Train [ Epoch 385/500 ], loss: 0.0216, avg_reader_cost: 0.0004 avg_batch_cost: 0.3483, avg_ips: 275.5886.
+Type : capsule Train [ Epoch 386/500 ], loss: 0.0277, avg_reader_cost: 1.1181 avg_batch_cost: 1.4542, avg_ips: 66.0179.
+Type : capsule Train [ Epoch 387/500 ], loss: 0.0240, avg_reader_cost: 1.2597 avg_batch_cost: 1.6015, avg_ips: 59.9439.
+Type : capsule Train [ Epoch 388/500 ], loss: 0.0352, avg_reader_cost: 1.2586 avg_batch_cost: 1.5937, avg_ips: 60.2381.
+Type : capsule Train [ Epoch 389/500 ], loss: 0.0529, avg_reader_cost: 1.2725 avg_batch_cost: 1.4130, avg_ips: 67.9427.
+Type : capsule Train [ Epoch 390/500 ], loss: 0.0415, avg_reader_cost: 1.2798 avg_batch_cost: 1.6190, avg_ips: 59.2960.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 390/500 ] max_auc: 0.8955 roc_auc : 0.838851.
-Type : capsule Train [ Epoch 391/500 ], loss: 0.0863, avg_reader_cost: 13.3159 avg_batch_cost: 13.5229, avg_ips: 7.0991.
-Type : capsule Train [ Epoch 392/500 ], loss: 0.0627, avg_reader_cost: 0.0013 avg_batch_cost: 0.3511, avg_ips: 273.4162.
-Type : capsule Train [ Epoch 393/500 ], loss: 0.0284, avg_reader_cost: 0.0004 avg_batch_cost: 0.3438, avg_ips: 279.1957.
-Type : capsule Train [ Epoch 394/500 ], loss: 0.0492, avg_reader_cost: 0.0003 avg_batch_cost: 0.3467, avg_ips: 276.9268.
-Type : capsule Train [ Epoch 395/500 ], loss: 0.0347, avg_reader_cost: 0.0006 avg_batch_cost: 0.1395, avg_ips: 688.2113.
-Type : capsule Train [ Epoch 396/500 ], loss: 0.0375, avg_reader_cost: 1.1277 avg_batch_cost: 1.2709, avg_ips: 75.5354.
-Type : capsule Train [ Epoch 397/500 ], loss: 0.0136, avg_reader_cost: 1.2962 avg_batch_cost: 1.6448, avg_ips: 58.3652.
-Type : capsule Train [ Epoch 398/500 ], loss: 0.0135, avg_reader_cost: 1.3079 avg_batch_cost: 1.4534, avg_ips: 66.0529.
-Type : capsule Train [ Epoch 399/500 ], loss: 0.0609, avg_reader_cost: 1.2845 avg_batch_cost: 1.4331, avg_ips: 66.9886.
-Type : capsule Train [ Epoch 400/500 ], loss: 0.0352, avg_reader_cost: 1.2964 avg_batch_cost: 1.6489, avg_ips: 58.2197.
+Type : capsule Val [ Epoch 390/500 ] max_auc: 0.9107 roc_auc : 0.895094.
+Type : capsule Train [ Epoch 391/500 ], loss: 0.0566, avg_reader_cost: 13.0257 avg_batch_cost: 13.4200, avg_ips: 7.1535.
+Type : capsule Train [ Epoch 392/500 ], loss: 0.0384, avg_reader_cost: 0.0014 avg_batch_cost: 0.3458, avg_ips: 277.5931.
+Type : capsule Train [ Epoch 393/500 ], loss: 0.0516, avg_reader_cost: 0.0004 avg_batch_cost: 0.3381, avg_ips: 283.9421.
+Type : capsule Train [ Epoch 394/500 ], loss: 0.0358, avg_reader_cost: 0.0007 avg_batch_cost: 0.3448, avg_ips: 278.4610.
+Type : capsule Train [ Epoch 395/500 ], loss: 0.0255, avg_reader_cost: 0.0003 avg_batch_cost: 0.3472, avg_ips: 276.4824.
+Type : capsule Train [ Epoch 396/500 ], loss: 0.0335, avg_reader_cost: 1.1044 avg_batch_cost: 1.2462, avg_ips: 77.0316.
+Type : capsule Train [ Epoch 397/500 ], loss: 0.0302, avg_reader_cost: 1.2656 avg_batch_cost: 1.6007, avg_ips: 59.9739.
+Type : capsule Train [ Epoch 398/500 ], loss: 0.0383, avg_reader_cost: 1.2737 avg_batch_cost: 1.4184, avg_ips: 67.6840.
+Type : capsule Train [ Epoch 399/500 ], loss: 0.0396, avg_reader_cost: 1.2727 avg_batch_cost: 1.4187, avg_ips: 67.6689.
+Type : capsule Train [ Epoch 400/500 ], loss: 0.0633, avg_reader_cost: 1.2680 avg_batch_cost: 1.6025, avg_ips: 59.9061.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 400/500 ] max_auc: 0.8955 roc_auc : 0.836458.
-Type : capsule Train [ Epoch 401/500 ], loss: 0.0232, avg_reader_cost: 13.1884 avg_batch_cost: 13.3023, avg_ips: 7.2168.
-Type : capsule Train [ Epoch 402/500 ], loss: 0.0207, avg_reader_cost: 0.0003 avg_batch_cost: 0.1074, avg_ips: 894.0914.
-Type : capsule Train [ Epoch 403/500 ], loss: 0.0084, avg_reader_cost: 0.0004 avg_batch_cost: 0.1052, avg_ips: 912.2535.
-Type : capsule Train [ Epoch 404/500 ], loss: 0.0101, avg_reader_cost: 1.7723 avg_batch_cost: 2.1204, avg_ips: 45.2749.
-Type : capsule Train [ Epoch 405/500 ], loss: 0.0838, avg_reader_cost: 1.5172 avg_batch_cost: 1.7041, avg_ips: 56.3343.
-Type : capsule Train [ Epoch 406/500 ], loss: 0.0531, avg_reader_cost: 1.7241 avg_batch_cost: 1.8672, avg_ips: 51.4128.
-Type : capsule Train [ Epoch 407/500 ], loss: 0.0387, avg_reader_cost: 1.2924 avg_batch_cost: 1.4331, avg_ips: 66.9888.
-Type : capsule Train [ Epoch 408/500 ], loss: 0.0515, avg_reader_cost: 1.2572 avg_batch_cost: 1.4001, avg_ips: 68.5688.
-Type : capsule Train [ Epoch 409/500 ], loss: 0.0419, avg_reader_cost: 1.2609 avg_batch_cost: 1.5981, avg_ips: 60.0706.
-Type : capsule Train [ Epoch 410/500 ], loss: 0.0118, avg_reader_cost: 1.2780 avg_batch_cost: 1.6250, avg_ips: 59.0779.
+Type : capsule Val [ Epoch 400/500 ] max_auc: 0.9310 roc_auc : 0.930993.
+Type : capsule Train [ Epoch 401/500 ], loss: 0.0146, avg_reader_cost: 12.6071 avg_batch_cost: 12.7104, avg_ips: 7.5529.
+Type : capsule Train [ Epoch 402/500 ], loss: 0.0591, avg_reader_cost: 0.0003 avg_batch_cost: 0.1047, avg_ips: 917.1114.
+Type : capsule Train [ Epoch 403/500 ], loss: 0.0353, avg_reader_cost: 0.0005 avg_batch_cost: 0.1056, avg_ips: 908.6960.
+Type : capsule Train [ Epoch 404/500 ], loss: 0.0228, avg_reader_cost: 1.3036 avg_batch_cost: 1.6397, avg_ips: 58.5487.
+Type : capsule Train [ Epoch 405/500 ], loss: 0.0316, avg_reader_cost: 1.2568 avg_batch_cost: 1.3998, avg_ips: 68.5834.
+Type : capsule Train [ Epoch 406/500 ], loss: 0.0101, avg_reader_cost: 1.2734 avg_batch_cost: 1.6097, avg_ips: 59.6379.
+Type : capsule Train [ Epoch 407/500 ], loss: 0.0879, avg_reader_cost: 1.2517 avg_batch_cost: 1.4158, avg_ips: 67.8074.
+Type : capsule Train [ Epoch 408/500 ], loss: 0.0068, avg_reader_cost: 1.2554 avg_batch_cost: 1.3965, avg_ips: 68.7426.
+Type : capsule Train [ Epoch 409/500 ], loss: 0.0866, avg_reader_cost: 1.2584 avg_batch_cost: 1.5970, avg_ips: 60.1111.
+Type : capsule Train [ Epoch 410/500 ], loss: 0.0165, avg_reader_cost: 1.2469 avg_batch_cost: 1.3822, avg_ips: 69.4548.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 410/500 ] max_auc: 0.8955 roc_auc : 0.851615.
-Type : capsule Train [ Epoch 411/500 ], loss: 0.0379, avg_reader_cost: 13.6116 avg_batch_cost: 14.1434, avg_ips: 6.7876.
-Type : capsule Train [ Epoch 412/500 ], loss: 0.0384, avg_reader_cost: 0.0004 avg_batch_cost: 0.3683, avg_ips: 260.6369.
-Type : capsule Train [ Epoch 413/500 ], loss: 0.0205, avg_reader_cost: 0.0003 avg_batch_cost: 0.3513, avg_ips: 273.2329.
-Type : capsule Train [ Epoch 414/500 ], loss: 0.0184, avg_reader_cost: 0.0004 avg_batch_cost: 0.3481, avg_ips: 275.7623.
-Type : capsule Train [ Epoch 415/500 ], loss: 0.0412, avg_reader_cost: 0.0003 avg_batch_cost: 0.3491, avg_ips: 274.9612.
-Type : capsule Train [ Epoch 416/500 ], loss: 0.0282, avg_reader_cost: 1.3915 avg_batch_cost: 1.6546, avg_ips: 58.0185.
-Type : capsule Train [ Epoch 417/500 ], loss: 0.0764, avg_reader_cost: 1.3189 avg_batch_cost: 1.4578, avg_ips: 65.8514.
-Type : capsule Train [ Epoch 418/500 ], loss: 0.0512, avg_reader_cost: 1.2912 avg_batch_cost: 1.6344, avg_ips: 58.7358.
-Type : capsule Train [ Epoch 419/500 ], loss: 0.0462, avg_reader_cost: 1.3074 avg_batch_cost: 1.4526, avg_ips: 66.0905.
-Type : capsule Train [ Epoch 420/500 ], loss: 0.0397, avg_reader_cost: 1.5864 avg_batch_cost: 1.9311, avg_ips: 49.7119.
+Type : capsule Val [ Epoch 410/500 ] max_auc: 0.9310 roc_auc : 0.881133.
+Type : capsule Train [ Epoch 411/500 ], loss: 0.0399, avg_reader_cost: 12.9026 avg_batch_cost: 13.2955, avg_ips: 7.2205.
+Type : capsule Train [ Epoch 412/500 ], loss: 0.0056, avg_reader_cost: 0.0012 avg_batch_cost: 0.3440, avg_ips: 279.1024.
+Type : capsule Train [ Epoch 413/500 ], loss: 0.0345, avg_reader_cost: 0.0003 avg_batch_cost: 0.3358, avg_ips: 285.9012.
+Type : capsule Train [ Epoch 414/500 ], loss: 0.0558, avg_reader_cost: 0.0004 avg_batch_cost: 0.3443, avg_ips: 278.8077.
+Type : capsule Train [ Epoch 415/500 ], loss: 0.0226, avg_reader_cost: 0.0002 avg_batch_cost: 0.1527, avg_ips: 628.5298.
+Type : capsule Train [ Epoch 416/500 ], loss: 0.0281, avg_reader_cost: 1.1240 avg_batch_cost: 1.2631, avg_ips: 76.0014.
+Type : capsule Train [ Epoch 417/500 ], loss: 0.0692, avg_reader_cost: 1.2675 avg_batch_cost: 1.4074, avg_ips: 68.2092.
+Type : capsule Train [ Epoch 418/500 ], loss: 0.0678, avg_reader_cost: 1.2932 avg_batch_cost: 1.4373, avg_ips: 66.7906.
+Type : capsule Train [ Epoch 419/500 ], loss: 0.0060, avg_reader_cost: 1.2640 avg_batch_cost: 1.5977, avg_ips: 60.0866.
+Type : capsule Train [ Epoch 420/500 ], loss: 0.0372, avg_reader_cost: 1.2571 avg_batch_cost: 1.6012, avg_ips: 59.9556.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 420/500 ] max_auc: 0.8955 roc_auc : 0.816115.
-Type : capsule Train [ Epoch 421/500 ], loss: 0.0428, avg_reader_cost: 13.6208 avg_batch_cost: 14.0651, avg_ips: 6.8254.
-Type : capsule Train [ Epoch 422/500 ], loss: 0.0683, avg_reader_cost: 0.0003 avg_batch_cost: 0.1650, avg_ips: 581.9941.
-Type : capsule Train [ Epoch 423/500 ], loss: 0.0239, avg_reader_cost: 0.0003 avg_batch_cost: 0.3934, avg_ips: 244.0373.
-Type : capsule Train [ Epoch 424/500 ], loss: 0.0633, avg_reader_cost: 0.0013 avg_batch_cost: 0.3664, avg_ips: 261.9903.
-Type : capsule Train [ Epoch 425/500 ], loss: 0.0464, avg_reader_cost: 0.0004 avg_batch_cost: 0.4743, avg_ips: 202.4142.
-Type : capsule Train [ Epoch 426/500 ], loss: 0.0502, avg_reader_cost: 0.9491 avg_batch_cost: 1.2969, avg_ips: 74.0207.
-Type : capsule Train [ Epoch 427/500 ], loss: 0.0361, avg_reader_cost: 1.2931 avg_batch_cost: 1.6365, avg_ips: 58.6612.
-Type : capsule Train [ Epoch 428/500 ], loss: 0.0434, avg_reader_cost: 1.3125 avg_batch_cost: 1.4677, avg_ips: 65.4107.
-Type : capsule Train [ Epoch 429/500 ], loss: 0.0374, avg_reader_cost: 1.2660 avg_batch_cost: 1.6033, avg_ips: 59.8748.
-Type : capsule Train [ Epoch 430/500 ], loss: 0.0761, avg_reader_cost: 1.2649 avg_batch_cost: 1.6078, avg_ips: 59.7097.
+Type : capsule Val [ Epoch 420/500 ] max_auc: 0.9310 roc_auc : 0.889509.
+Type : capsule Train [ Epoch 421/500 ], loss: 0.0242, avg_reader_cost: 12.6282 avg_batch_cost: 12.8037, avg_ips: 7.4978.
+Type : capsule Train [ Epoch 422/500 ], loss: 0.0393, avg_reader_cost: 0.0004 avg_batch_cost: 0.3400, avg_ips: 282.3833.
+Type : capsule Train [ Epoch 423/500 ], loss: 0.0379, avg_reader_cost: 0.0005 avg_batch_cost: 0.3392, avg_ips: 283.0515.
+Type : capsule Train [ Epoch 424/500 ], loss: 0.0358, avg_reader_cost: 0.0003 avg_batch_cost: 0.1529, avg_ips: 627.8458.
+Type : capsule Train [ Epoch 425/500 ], loss: 0.0106, avg_reader_cost: 0.0003 avg_batch_cost: 0.3405, avg_ips: 281.9278.
+Type : capsule Train [ Epoch 426/500 ], loss: 0.0214, avg_reader_cost: 1.1445 avg_batch_cost: 1.2868, avg_ips: 74.6046.
+Type : capsule Train [ Epoch 427/500 ], loss: 0.0625, avg_reader_cost: 1.2648 avg_batch_cost: 1.6026, avg_ips: 59.9017.
+Type : capsule Train [ Epoch 428/500 ], loss: 0.0205, avg_reader_cost: 1.2511 avg_batch_cost: 1.5903, avg_ips: 60.3661.
+Type : capsule Train [ Epoch 429/500 ], loss: 0.0498, avg_reader_cost: 1.2605 avg_batch_cost: 1.4017, avg_ips: 68.4904.
+Type : capsule Train [ Epoch 430/500 ], loss: 0.0449, avg_reader_cost: 1.2626 avg_batch_cost: 1.6042, avg_ips: 59.8416.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 430/500 ] max_auc: 0.8955 roc_auc : 0.864380.
-Type : capsule Train [ Epoch 431/500 ], loss: 0.0713, avg_reader_cost: 13.2977 avg_batch_cost: 13.4287, avg_ips: 7.1489.
-Type : capsule Train [ Epoch 432/500 ], loss: 0.0598, avg_reader_cost: 0.0005 avg_batch_cost: 0.1074, avg_ips: 893.4605.
-Type : capsule Train [ Epoch 433/500 ], loss: 0.0511, avg_reader_cost: 0.0004 avg_batch_cost: 0.1073, avg_ips: 895.0832.
-Type : capsule Train [ Epoch 434/500 ], loss: 0.0400, avg_reader_cost: 0.0005 avg_batch_cost: 0.1075, avg_ips: 892.9315.
-Type : capsule Train [ Epoch 435/500 ], loss: 0.0437, avg_reader_cost: 1.3333 avg_batch_cost: 1.6808, avg_ips: 57.1140.
-Type : capsule Train [ Epoch 436/500 ], loss: 0.0435, avg_reader_cost: 1.4915 avg_batch_cost: 1.8297, avg_ips: 52.4678.
-Type : capsule Train [ Epoch 437/500 ], loss: 0.0113, avg_reader_cost: 1.2794 avg_batch_cost: 1.4375, avg_ips: 66.7809.
-Type : capsule Train [ Epoch 438/500 ], loss: 0.0245, avg_reader_cost: 1.8413 avg_batch_cost: 1.9980, avg_ips: 48.0481.
-Type : capsule Train [ Epoch 439/500 ], loss: 0.0539, avg_reader_cost: 1.4893 avg_batch_cost: 1.8351, avg_ips: 52.3128.
-Type : capsule Train [ Epoch 440/500 ], loss: 0.0244, avg_reader_cost: 1.2926 avg_batch_cost: 1.6413, avg_ips: 58.4893.
+Type : capsule Val [ Epoch 430/500 ] max_auc: 0.9310 roc_auc : 0.903071.
+Type : capsule Train [ Epoch 431/500 ], loss: 0.0230, avg_reader_cost: 12.7024 avg_batch_cost: 12.8227, avg_ips: 7.4867.
+Type : capsule Train [ Epoch 432/500 ], loss: 0.0426, avg_reader_cost: 0.0003 avg_batch_cost: 0.1039, avg_ips: 923.7898.
+Type : capsule Train [ Epoch 433/500 ], loss: 0.0321, avg_reader_cost: 0.0003 avg_batch_cost: 0.1041, avg_ips: 922.1312.
+Type : capsule Train [ Epoch 434/500 ], loss: 0.0086, avg_reader_cost: 0.0004 avg_batch_cost: 0.1043, avg_ips: 920.0999.
+Type : capsule Train [ Epoch 435/500 ], loss: 0.0401, avg_reader_cost: 1.3199 avg_batch_cost: 1.4616, avg_ips: 65.6808.
+Type : capsule Train [ Epoch 436/500 ], loss: 0.0571, avg_reader_cost: 1.2782 avg_batch_cost: 1.5001, avg_ips: 63.9963.
+Type : capsule Train [ Epoch 437/500 ], loss: 0.0219, avg_reader_cost: 1.2702 avg_batch_cost: 1.6104, avg_ips: 59.6124.
+Type : capsule Train [ Epoch 438/500 ], loss: 0.0452, avg_reader_cost: 1.2616 avg_batch_cost: 1.5981, avg_ips: 60.0727.
+Type : capsule Train [ Epoch 439/500 ], loss: 0.0510, avg_reader_cost: 1.2627 avg_batch_cost: 1.5997, avg_ips: 60.0098.
+Type : capsule Train [ Epoch 440/500 ], loss: 0.0407, avg_reader_cost: 1.2747 avg_batch_cost: 1.6098, avg_ips: 59.6353.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 440/500 ] max_auc: 0.8955 roc_auc : 0.848823.
-Type : capsule Train [ Epoch 441/500 ], loss: 0.0590, avg_reader_cost: 13.1498 avg_batch_cost: 13.5722, avg_ips: 7.0733.
-Type : capsule Train [ Epoch 442/500 ], loss: 0.0519, avg_reader_cost: 0.0003 avg_batch_cost: 0.3526, avg_ips: 272.2504.
-Type : capsule Train [ Epoch 443/500 ], loss: 0.0215, avg_reader_cost: 0.0003 avg_batch_cost: 0.1388, avg_ips: 691.6265.
-Type : capsule Train [ Epoch 444/500 ], loss: 0.0578, avg_reader_cost: 0.0013 avg_batch_cost: 0.3496, avg_ips: 274.6386.
-Type : capsule Train [ Epoch 445/500 ], loss: 0.0174, avg_reader_cost: 0.0006 avg_batch_cost: 0.3546, avg_ips: 270.7458.
-Type : capsule Train [ Epoch 446/500 ], loss: 0.0554, avg_reader_cost: 1.1522 avg_batch_cost: 1.5067, avg_ips: 63.7152.
-Type : capsule Train [ Epoch 447/500 ], loss: 0.0409, avg_reader_cost: 1.3480 avg_batch_cost: 1.6949, avg_ips: 56.6409.
-Type : capsule Train [ Epoch 448/500 ], loss: 0.0427, avg_reader_cost: 1.5656 avg_batch_cost: 1.7953, avg_ips: 53.4721.
-Type : capsule Train [ Epoch 449/500 ], loss: 0.0400, avg_reader_cost: 1.5021 avg_batch_cost: 1.8535, avg_ips: 51.7929.
-Type : capsule Train [ Epoch 450/500 ], loss: 0.0484, avg_reader_cost: 1.5571 avg_batch_cost: 1.8996, avg_ips: 50.5360.
+Type : capsule Val [ Epoch 440/500 ] max_auc: 0.9310 roc_auc : 0.888712.
+Type : capsule Train [ Epoch 441/500 ], loss: 0.0328, avg_reader_cost: 12.4901 avg_batch_cost: 12.9817, avg_ips: 7.3950.
+Type : capsule Train [ Epoch 442/500 ], loss: 0.0262, avg_reader_cost: 0.0002 avg_batch_cost: 0.3354, avg_ips: 286.2107.
+Type : capsule Train [ Epoch 443/500 ], loss: 0.0489, avg_reader_cost: 0.0003 avg_batch_cost: 0.3450, avg_ips: 278.2826.
+Type : capsule Train [ Epoch 444/500 ], loss: 0.0653, avg_reader_cost: 0.0002 avg_batch_cost: 0.3486, avg_ips: 275.3632.
+Type : capsule Train [ Epoch 445/500 ], loss: 0.0295, avg_reader_cost: 0.0003 avg_batch_cost: 0.1370, avg_ips: 700.5222.
+Type : capsule Train [ Epoch 446/500 ], loss: 0.0214, avg_reader_cost: 1.1244 avg_batch_cost: 1.2637, avg_ips: 75.9682.
+Type : capsule Train [ Epoch 447/500 ], loss: 0.0301, avg_reader_cost: 1.2626 avg_batch_cost: 1.5952, avg_ips: 60.1799.
+Type : capsule Train [ Epoch 448/500 ], loss: 0.0291, avg_reader_cost: 1.2688 avg_batch_cost: 1.4033, avg_ips: 68.4111.
+Type : capsule Train [ Epoch 449/500 ], loss: 0.0067, avg_reader_cost: 1.2591 avg_batch_cost: 1.5908, avg_ips: 60.3481.
+Type : capsule Train [ Epoch 450/500 ], loss: 0.0246, avg_reader_cost: 1.2740 avg_batch_cost: 1.6095, avg_ips: 59.6468.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 450/500 ] max_auc: 0.8955 roc_auc : 0.834065.
-Type : capsule Train [ Epoch 451/500 ], loss: 0.0424, avg_reader_cost: 14.3168 avg_batch_cost: 14.6754, avg_ips: 6.5416.
-Type : capsule Train [ Epoch 452/500 ], loss: 0.0706, avg_reader_cost: 0.0015 avg_batch_cost: 0.1261, avg_ips: 761.1030.
-Type : capsule Train [ Epoch 453/500 ], loss: 0.0082, avg_reader_cost: 0.0006 avg_batch_cost: 0.3444, avg_ips: 278.7216.
-Type : capsule Train [ Epoch 454/500 ], loss: 0.0612, avg_reader_cost: 0.0003 avg_batch_cost: 0.3556, avg_ips: 269.9638.
-Type : capsule Train [ Epoch 455/500 ], loss: 0.0300, avg_reader_cost: 0.0008 avg_batch_cost: 0.3435, avg_ips: 279.5094.
-Type : capsule Train [ Epoch 456/500 ], loss: 0.0618, avg_reader_cost: 1.3365 avg_batch_cost: 1.6825, avg_ips: 57.0586.
-Type : capsule Train [ Epoch 457/500 ], loss: 0.0201, avg_reader_cost: 1.5849 avg_batch_cost: 1.9264, avg_ips: 49.8346.
-Type : capsule Train [ Epoch 458/500 ], loss: 0.0861, avg_reader_cost: 1.3127 avg_batch_cost: 1.6539, avg_ips: 58.0459.
-Type : capsule Train [ Epoch 459/500 ], loss: 0.0306, avg_reader_cost: 1.3232 avg_batch_cost: 1.6734, avg_ips: 57.3690.
-Type : capsule Train [ Epoch 460/500 ], loss: 0.0239, avg_reader_cost: 1.2827 avg_batch_cost: 1.4998, avg_ips: 64.0072.
+Type : capsule Val [ Epoch 450/500 ] max_auc: 0.9310 roc_auc : 0.903071.
+Type : capsule Train [ Epoch 451/500 ], loss: 0.0346, avg_reader_cost: 12.7692 avg_batch_cost: 13.2232, avg_ips: 7.2600.
+Type : capsule Train [ Epoch 452/500 ], loss: 0.0620, avg_reader_cost: 0.0002 avg_batch_cost: 0.1437, avg_ips: 668.2741.
+Type : capsule Train [ Epoch 453/500 ], loss: 0.0282, avg_reader_cost: 0.0004 avg_batch_cost: 0.1245, avg_ips: 770.7786.
+Type : capsule Train [ Epoch 454/500 ], loss: 0.0208, avg_reader_cost: 0.0004 avg_batch_cost: 0.3446, avg_ips: 278.5687.
+Type : capsule Train [ Epoch 455/500 ], loss: 0.0211, avg_reader_cost: 0.0002 avg_batch_cost: 0.1319, avg_ips: 727.9777.
+Type : capsule Train [ Epoch 456/500 ], loss: 0.0180, avg_reader_cost: 1.1286 avg_batch_cost: 1.2732, avg_ips: 75.3993.
+Type : capsule Train [ Epoch 457/500 ], loss: 0.0274, avg_reader_cost: 1.2653 avg_batch_cost: 1.6053, avg_ips: 59.8027.
+Type : capsule Train [ Epoch 458/500 ], loss: 0.0294, avg_reader_cost: 1.2744 avg_batch_cost: 1.4129, avg_ips: 67.9446.
+Type : capsule Train [ Epoch 459/500 ], loss: 0.0321, avg_reader_cost: 1.2964 avg_batch_cost: 1.6341, avg_ips: 58.7488.
+Type : capsule Train [ Epoch 460/500 ], loss: 0.0512, avg_reader_cost: 1.2842 avg_batch_cost: 1.4257, avg_ips: 67.3340.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 460/500 ] max_auc: 0.8955 roc_auc : 0.861986.
-Type : capsule Train [ Epoch 461/500 ], loss: 0.0398, avg_reader_cost: 13.2630 avg_batch_cost: 13.4180, avg_ips: 7.1545.
-Type : capsule Train [ Epoch 462/500 ], loss: 0.0530, avg_reader_cost: 0.0004 avg_batch_cost: 0.1067, avg_ips: 899.4842.
-Type : capsule Train [ Epoch 463/500 ], loss: 0.0419, avg_reader_cost: 0.0004 avg_batch_cost: 0.1057, avg_ips: 908.1938.
-Type : capsule Train [ Epoch 464/500 ], loss: 0.0359, avg_reader_cost: 0.0004 avg_batch_cost: 0.1080, avg_ips: 889.1221.
-Type : capsule Train [ Epoch 465/500 ], loss: 0.0432, avg_reader_cost: 0.0004 avg_batch_cost: 0.1059, avg_ips: 906.2051.
-Type : capsule Train [ Epoch 466/500 ], loss: 0.0625, avg_reader_cost: 1.3252 avg_batch_cost: 1.6705, avg_ips: 57.4685.
-Type : capsule Train [ Epoch 467/500 ], loss: 0.0488, avg_reader_cost: 1.2656 avg_batch_cost: 1.6049, avg_ips: 59.8157.
-Type : capsule Train [ Epoch 468/500 ], loss: 0.0795, avg_reader_cost: 1.2547 avg_batch_cost: 1.3924, avg_ips: 68.9470.
-Type : capsule Train [ Epoch 469/500 ], loss: 0.0780, avg_reader_cost: 1.2658 avg_batch_cost: 1.6018, avg_ips: 59.9340.
-Type : capsule Train [ Epoch 470/500 ], loss: 0.0523, avg_reader_cost: 1.2554 avg_batch_cost: 1.5969, avg_ips: 60.1157.
+Type : capsule Val [ Epoch 460/500 ] max_auc: 0.9310 roc_auc : 0.888712.
+Type : capsule Train [ Epoch 461/500 ], loss: 0.0431, avg_reader_cost: 12.8803 avg_batch_cost: 12.9887, avg_ips: 7.3910.
+Type : capsule Train [ Epoch 462/500 ], loss: 0.0862, avg_reader_cost: 0.0002 avg_batch_cost: 0.1023, avg_ips: 938.6490.
+Type : capsule Train [ Epoch 463/500 ], loss: 0.0450, avg_reader_cost: 0.0003 avg_batch_cost: 0.1032, avg_ips: 929.9730.
+Type : capsule Train [ Epoch 464/500 ], loss: 0.0241, avg_reader_cost: 0.0002 avg_batch_cost: 0.1072, avg_ips: 895.6905.
+Type : capsule Train [ Epoch 465/500 ], loss: 0.0660, avg_reader_cost: 0.0004 avg_batch_cost: 0.1056, avg_ips: 909.0098.
+Type : capsule Train [ Epoch 466/500 ], loss: 0.0386, avg_reader_cost: 1.3036 avg_batch_cost: 1.6388, avg_ips: 58.5791.
+Type : capsule Train [ Epoch 467/500 ], loss: 0.0432, avg_reader_cost: 1.2636 avg_batch_cost: 1.5986, avg_ips: 60.0516.
+Type : capsule Train [ Epoch 468/500 ], loss: 0.0460, avg_reader_cost: 1.2552 avg_batch_cost: 1.5911, avg_ips: 60.3358.
+Type : capsule Train [ Epoch 469/500 ], loss: 0.0241, avg_reader_cost: 1.2675 avg_batch_cost: 1.6048, avg_ips: 59.8219.
+Type : capsule Train [ Epoch 470/500 ], loss: 0.0345, avg_reader_cost: 1.2633 avg_batch_cost: 1.3988, avg_ips: 68.6292.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 470/500 ] max_auc: 0.8955 roc_auc : 0.839649.
-Type : capsule Train [ Epoch 471/500 ], loss: 0.0560, avg_reader_cost: 13.6119 avg_batch_cost: 13.7920, avg_ips: 6.9606.
-Type : capsule Train [ Epoch 472/500 ], loss: 0.0755, avg_reader_cost: 0.0004 avg_batch_cost: 0.3486, avg_ips: 275.3506.
-Type : capsule Train [ Epoch 473/500 ], loss: 0.0530, avg_reader_cost: 0.0002 avg_batch_cost: 0.1396, avg_ips: 687.4640.
-Type : capsule Train [ Epoch 474/500 ], loss: 0.0477, avg_reader_cost: 0.0005 avg_batch_cost: 0.3536, avg_ips: 271.5153.
-Type : capsule Train [ Epoch 475/500 ], loss: 0.0538, avg_reader_cost: 0.0002 avg_batch_cost: 0.1402, avg_ips: 684.7867.
-Type : capsule Train [ Epoch 476/500 ], loss: 0.0732, avg_reader_cost: 1.1420 avg_batch_cost: 1.3539, avg_ips: 70.9044.
-Type : capsule Train [ Epoch 477/500 ], loss: 0.0297, avg_reader_cost: 1.2709 avg_batch_cost: 1.6099, avg_ips: 59.6317.
-Type : capsule Train [ Epoch 478/500 ], loss: 0.0359, avg_reader_cost: 1.2719 avg_batch_cost: 1.4140, avg_ips: 67.8921.
-Type : capsule Train [ Epoch 479/500 ], loss: 0.0508, avg_reader_cost: 1.2710 avg_batch_cost: 1.4105, avg_ips: 68.0596.
-Type : capsule Train [ Epoch 480/500 ], loss: 0.0549, avg_reader_cost: 1.2747 avg_batch_cost: 1.4293, avg_ips: 67.1651.
+Type : capsule Val [ Epoch 470/500 ] max_auc: 0.9310 roc_auc : 0.907858.
+Type : capsule Train [ Epoch 471/500 ], loss: 0.0218, avg_reader_cost: 12.6334 avg_batch_cost: 13.0948, avg_ips: 7.3311.
+Type : capsule Train [ Epoch 472/500 ], loss: 0.0509, avg_reader_cost: 0.0007 avg_batch_cost: 0.3339, avg_ips: 287.5195.
+Type : capsule Train [ Epoch 473/500 ], loss: 0.0485, avg_reader_cost: 0.0004 avg_batch_cost: 0.3392, avg_ips: 283.0087.
+Type : capsule Train [ Epoch 474/500 ], loss: 0.0272, avg_reader_cost: 0.0004 avg_batch_cost: 0.3431, avg_ips: 279.8420.
+Type : capsule Train [ Epoch 475/500 ], loss: 0.0412, avg_reader_cost: 0.0002 avg_batch_cost: 0.3357, avg_ips: 285.9749.
+Type : capsule Train [ Epoch 476/500 ], loss: 0.0076, avg_reader_cost: 1.1462 avg_batch_cost: 1.2831, avg_ips: 74.8175.
+Type : capsule Train [ Epoch 477/500 ], loss: 0.0075, avg_reader_cost: 1.2780 avg_batch_cost: 1.6145, avg_ips: 59.4604.
+Type : capsule Train [ Epoch 478/500 ], loss: 0.0403, avg_reader_cost: 1.2615 avg_batch_cost: 1.6016, avg_ips: 59.9407.
+Type : capsule Train [ Epoch 479/500 ], loss: 0.0361, avg_reader_cost: 1.2670 avg_batch_cost: 1.6017, avg_ips: 59.9350.
+Type : capsule Train [ Epoch 480/500 ], loss: 0.0577, avg_reader_cost: 1.2614 avg_batch_cost: 1.4258, avg_ips: 67.3303.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 480/500 ] max_auc: 0.8955 roc_auc : 0.854408.
-Type : capsule Train [ Epoch 481/500 ], loss: 0.0397, avg_reader_cost: 12.9123 avg_batch_cost: 13.3576, avg_ips: 7.1869.
-Type : capsule Train [ Epoch 482/500 ], loss: 0.0348, avg_reader_cost: 0.0003 avg_batch_cost: 0.3485, avg_ips: 275.4663.
-Type : capsule Train [ Epoch 483/500 ], loss: 0.0834, avg_reader_cost: 0.0007 avg_batch_cost: 0.3523, avg_ips: 272.4864.
-Type : capsule Train [ Epoch 484/500 ], loss: 0.0373, avg_reader_cost: 0.0008 avg_batch_cost: 0.3558, avg_ips: 269.7766.
-Type : capsule Train [ Epoch 485/500 ], loss: 0.0339, avg_reader_cost: 0.0003 avg_batch_cost: 0.3406, avg_ips: 281.8591.
-Type : capsule Train [ Epoch 486/500 ], loss: 0.0218, avg_reader_cost: 1.0796 avg_batch_cost: 1.2189, avg_ips: 78.7571.
-Type : capsule Train [ Epoch 487/500 ], loss: 0.0496, avg_reader_cost: 1.5569 avg_batch_cost: 1.9036, avg_ips: 50.4318.
-Type : capsule Train [ Epoch 488/500 ], loss: 0.0324, avg_reader_cost: 1.3435 avg_batch_cost: 1.4821, avg_ips: 64.7726.
-Type : capsule Train [ Epoch 489/500 ], loss: 0.0367, avg_reader_cost: 1.3371 avg_batch_cost: 1.6778, avg_ips: 57.2169.
-Type : capsule Train [ Epoch 490/500 ], loss: 0.0575, avg_reader_cost: 1.2803 avg_batch_cost: 1.6204, avg_ips: 59.2449.
+Type : capsule Val [ Epoch 480/500 ] max_auc: 0.9310 roc_auc : 0.893099.
+Type : capsule Train [ Epoch 481/500 ], loss: 0.0137, avg_reader_cost: 12.4848 avg_batch_cost: 12.6959, avg_ips: 7.5615.
+Type : capsule Train [ Epoch 482/500 ], loss: 0.0324, avg_reader_cost: 0.0011 avg_batch_cost: 0.3418, avg_ips: 280.8531.
+Type : capsule Train [ Epoch 483/500 ], loss: 0.0111, avg_reader_cost: 0.0004 avg_batch_cost: 0.3443, avg_ips: 278.8567.
+Type : capsule Train [ Epoch 484/500 ], loss: 0.0493, avg_reader_cost: 0.0003 avg_batch_cost: 0.1443, avg_ips: 665.4523.
+Type : capsule Train [ Epoch 485/500 ], loss: 0.0553, avg_reader_cost: 0.0004 avg_batch_cost: 0.3469, avg_ips: 276.7566.
+Type : capsule Train [ Epoch 486/500 ], loss: 0.0282, avg_reader_cost: 1.1349 avg_batch_cost: 1.4724, avg_ips: 65.2011.
+Type : capsule Train [ Epoch 487/500 ], loss: 0.0555, avg_reader_cost: 1.2600 avg_batch_cost: 1.3994, avg_ips: 68.5998.
+Type : capsule Train [ Epoch 488/500 ], loss: 0.0697, avg_reader_cost: 1.2644 avg_batch_cost: 1.5983, avg_ips: 60.0651.
+Type : capsule Train [ Epoch 489/500 ], loss: 0.0554, avg_reader_cost: 1.2679 avg_batch_cost: 1.6067, avg_ips: 59.7494.
+Type : capsule Train [ Epoch 490/500 ], loss: 0.0273, avg_reader_cost: 1.2574 avg_batch_cost: 1.4111, avg_ips: 68.0299.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 490/500 ] max_auc: 0.8955 roc_auc : 0.882329.
-Type : capsule Train [ Epoch 491/500 ], loss: 0.0367, avg_reader_cost: 14.1338 avg_batch_cost: 14.6065, avg_ips: 6.5724.
-Type : capsule Train [ Epoch 492/500 ], loss: 0.0449, avg_reader_cost: 0.0004 avg_batch_cost: 0.3527, avg_ips: 272.1755.
-Type : capsule Train [ Epoch 493/500 ], loss: 0.0266, avg_reader_cost: 0.0003 avg_batch_cost: 0.3586, avg_ips: 267.7443.
-Type : capsule Train [ Epoch 494/500 ], loss: 0.0281, avg_reader_cost: 0.0004 avg_batch_cost: 0.3610, avg_ips: 265.9388.
-Type : capsule Train [ Epoch 495/500 ], loss: 0.0408, avg_reader_cost: 0.0002 avg_batch_cost: 0.3446, avg_ips: 278.5500.
-Type : capsule Train [ Epoch 496/500 ], loss: 0.0701, avg_reader_cost: 1.5252 avg_batch_cost: 1.6302, avg_ips: 58.8887.
-Type : capsule Train [ Epoch 497/500 ], loss: 0.0214, avg_reader_cost: 1.3284 avg_batch_cost: 1.6671, avg_ips: 57.5863.
-Type : capsule Train [ Epoch 498/500 ], loss: 0.0258, avg_reader_cost: 1.2658 avg_batch_cost: 1.4539, avg_ips: 66.0298.
-Type : capsule Train [ Epoch 499/500 ], loss: 0.0451, avg_reader_cost: 1.2745 avg_batch_cost: 1.4279, avg_ips: 67.2322.
-Type : capsule Train [ Epoch 500/500 ], loss: 0.0129, avg_reader_cost: 1.2737 avg_batch_cost: 1.4185, avg_ips: 67.6792.
+Type : capsule Val [ Epoch 490/500 ] max_auc: 0.9310 roc_auc : 0.876346.
+Type : capsule Train [ Epoch 491/500 ], loss: 0.0392, avg_reader_cost: 12.7018 avg_batch_cost: 13.1537, avg_ips: 7.2983.
+Type : capsule Train [ Epoch 492/500 ], loss: 0.0201, avg_reader_cost: 0.0003 avg_batch_cost: 0.1456, avg_ips: 659.2118.
+Type : capsule Train [ Epoch 493/500 ], loss: 0.0386, avg_reader_cost: 0.0011 avg_batch_cost: 0.3493, avg_ips: 274.8283.
+Type : capsule Train [ Epoch 494/500 ], loss: 0.0372, avg_reader_cost: 0.0003 avg_batch_cost: 0.3387, avg_ips: 283.4247.
+Type : capsule Train [ Epoch 495/500 ], loss: 0.0350, avg_reader_cost: 0.0006 avg_batch_cost: 0.3403, avg_ips: 282.1219.
+Type : capsule Train [ Epoch 496/500 ], loss: 0.0482, avg_reader_cost: 1.1209 avg_batch_cost: 1.2255, avg_ips: 78.3355.
+Type : capsule Train [ Epoch 497/500 ], loss: 0.0410, avg_reader_cost: 1.4198 avg_batch_cost: 1.5581, avg_ips: 61.6132.
+Type : capsule Train [ Epoch 498/500 ], loss: 0.0438, avg_reader_cost: 1.2984 avg_batch_cost: 1.6347, avg_ips: 58.7265.
+Type : capsule Train [ Epoch 499/500 ], loss: 0.0585, avg_reader_cost: 1.2629 avg_batch_cost: 1.5976, avg_ips: 60.0896.
+Type : capsule Train [ Epoch 500/500 ], loss: 0.0428, avg_reader_cost: 1.2772 avg_batch_cost: 1.4402, avg_ips: 66.6567.
 loading images
 loaded 219 images
 using density estimation GaussianDensityPaddle
-Type : capsule Val [ Epoch 500/500 ] max_auc: 0.8955 roc_auc : 0.880734.
+Type : capsule Val [ Epoch 500/500 ] max_auc: 0.9310 roc_auc : 0.886717.

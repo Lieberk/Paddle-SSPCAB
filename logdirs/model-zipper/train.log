@@ -1,700 +1,700 @@
-Type : zipper Train [ Epoch 1/500 ], loss: 1.3214, avg_reader_cost: 0.8988 avg_batch_cost: 1.2744, avg_ips: 75.3284.
-Type : zipper Train [ Epoch 2/500 ], loss: 1.1585, avg_reader_cost: 0.8319 avg_batch_cost: 1.1981, avg_ips: 80.1262.
-Type : zipper Train [ Epoch 3/500 ], loss: 1.1123, avg_reader_cost: 0.8211 avg_batch_cost: 1.1852, avg_ips: 81.0006.
-Type : zipper Train [ Epoch 4/500 ], loss: 0.9631, avg_reader_cost: 0.7577 avg_batch_cost: 1.1127, avg_ips: 86.2795.
-Type : zipper Train [ Epoch 5/500 ], loss: 0.8565, avg_reader_cost: 0.7548 avg_batch_cost: 1.1186, avg_ips: 85.8209.
-Type : zipper Train [ Epoch 6/500 ], loss: 0.8707, avg_reader_cost: 0.7581 avg_batch_cost: 1.1209, avg_ips: 85.6418.
-Type : zipper Train [ Epoch 7/500 ], loss: 0.8172, avg_reader_cost: 0.7629 avg_batch_cost: 1.1241, avg_ips: 85.4005.
-Type : zipper Train [ Epoch 8/500 ], loss: 0.7250, avg_reader_cost: 0.7825 avg_batch_cost: 1.1494, avg_ips: 83.5212.
-Type : zipper Train [ Epoch 9/500 ], loss: 0.7300, avg_reader_cost: 0.7688 avg_batch_cost: 1.1361, avg_ips: 84.5032.
-Type : zipper Train [ Epoch 10/500 ], loss: 0.6803, avg_reader_cost: 0.7678 avg_batch_cost: 1.1292, avg_ips: 85.0125.
+Type : zipper Train [ Epoch 1/500 ], loss: 1.3854, avg_reader_cost: 0.8244 avg_batch_cost: 0.9978, avg_ips: 96.2096.
+Type : zipper Train [ Epoch 2/500 ], loss: 1.3339, avg_reader_cost: 0.7473 avg_batch_cost: 0.8757, avg_ips: 109.6268.
+Type : zipper Train [ Epoch 3/500 ], loss: 1.2143, avg_reader_cost: 0.7764 avg_batch_cost: 0.9262, avg_ips: 103.6488.
+Type : zipper Train [ Epoch 4/500 ], loss: 1.1155, avg_reader_cost: 0.7677 avg_batch_cost: 0.9013, avg_ips: 106.5163.
+Type : zipper Train [ Epoch 5/500 ], loss: 1.0507, avg_reader_cost: 0.7729 avg_batch_cost: 0.9044, avg_ips: 106.1502.
+Type : zipper Train [ Epoch 6/500 ], loss: 1.0720, avg_reader_cost: 0.7650 avg_batch_cost: 0.8989, avg_ips: 106.7980.
+Type : zipper Train [ Epoch 7/500 ], loss: 1.0188, avg_reader_cost: 0.7919 avg_batch_cost: 0.9203, avg_ips: 104.3184.
+Type : zipper Train [ Epoch 8/500 ], loss: 0.9787, avg_reader_cost: 0.7826 avg_batch_cost: 0.9101, avg_ips: 105.4779.
+Type : zipper Train [ Epoch 9/500 ], loss: 0.9492, avg_reader_cost: 0.7879 avg_batch_cost: 0.9213, avg_ips: 104.2045.
+Type : zipper Train [ Epoch 10/500 ], loss: 0.9451, avg_reader_cost: 0.7843 avg_batch_cost: 0.9167, avg_ips: 104.7250.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 10/500 ] max_auc: 0.9084 roc_auc : 0.908351.
-Type : zipper Train [ Epoch 11/500 ], loss: 0.7038, avg_reader_cost: 7.1538 avg_batch_cost: 7.5250, avg_ips: 12.7575.
-Type : zipper Train [ Epoch 12/500 ], loss: 0.7455, avg_reader_cost: 0.0011 avg_batch_cost: 0.3594, avg_ips: 267.1239.
-Type : zipper Train [ Epoch 13/500 ], loss: 0.6868, avg_reader_cost: 0.0002 avg_batch_cost: 0.3545, avg_ips: 270.7702.
-Type : zipper Train [ Epoch 14/500 ], loss: 0.7573, avg_reader_cost: 0.0011 avg_batch_cost: 0.3675, avg_ips: 261.2466.
-Type : zipper Train [ Epoch 15/500 ], loss: 0.7254, avg_reader_cost: 0.0005 avg_batch_cost: 0.3631, avg_ips: 264.3892.
-Type : zipper Train [ Epoch 16/500 ], loss: 0.7561, avg_reader_cost: 0.6091 avg_batch_cost: 0.9751, avg_ips: 98.4499.
-Type : zipper Train [ Epoch 17/500 ], loss: 0.6633, avg_reader_cost: 0.8007 avg_batch_cost: 1.1616, avg_ips: 82.6443.
-Type : zipper Train [ Epoch 18/500 ], loss: 0.6603, avg_reader_cost: 0.7825 avg_batch_cost: 1.1476, avg_ips: 83.6556.
-Type : zipper Train [ Epoch 19/500 ], loss: 0.7107, avg_reader_cost: 0.7596 avg_batch_cost: 1.1270, avg_ips: 85.1804.
-Type : zipper Train [ Epoch 20/500 ], loss: 0.6743, avg_reader_cost: 0.7782 avg_batch_cost: 1.1416, avg_ips: 84.0928.
+Type : zipper Val [ Epoch 10/500 ] max_auc: 0.9498 roc_auc : 0.949842.
+Type : zipper Train [ Epoch 11/500 ], loss: 1.0106, avg_reader_cost: 7.3061 avg_batch_cost: 7.4461, avg_ips: 12.8926.
+Type : zipper Train [ Epoch 12/500 ], loss: 0.9374, avg_reader_cost: 0.0008 avg_batch_cost: 0.1424, avg_ips: 674.2847.
+Type : zipper Train [ Epoch 13/500 ], loss: 0.8443, avg_reader_cost: 0.0003 avg_batch_cost: 0.1331, avg_ips: 721.4520.
+Type : zipper Train [ Epoch 14/500 ], loss: 0.9808, avg_reader_cost: 0.0003 avg_batch_cost: 0.1341, avg_ips: 715.8953.
+Type : zipper Train [ Epoch 15/500 ], loss: 0.9051, avg_reader_cost: 0.0003 avg_batch_cost: 0.1350, avg_ips: 710.8588.
+Type : zipper Train [ Epoch 16/500 ], loss: 0.9611, avg_reader_cost: 0.6590 avg_batch_cost: 0.7939, avg_ips: 120.9268.
+Type : zipper Train [ Epoch 17/500 ], loss: 0.8605, avg_reader_cost: 0.8137 avg_batch_cost: 0.9479, avg_ips: 101.2776.
+Type : zipper Train [ Epoch 18/500 ], loss: 0.8085, avg_reader_cost: 0.8064 avg_batch_cost: 0.9383, avg_ips: 102.3158.
+Type : zipper Train [ Epoch 19/500 ], loss: 0.8908, avg_reader_cost: 0.7888 avg_batch_cost: 0.9266, avg_ips: 103.6083.
+Type : zipper Train [ Epoch 20/500 ], loss: 0.8396, avg_reader_cost: 0.7895 avg_batch_cost: 0.9263, avg_ips: 103.6356.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 20/500 ] max_auc: 0.9217 roc_auc : 0.921744.
-Type : zipper Train [ Epoch 21/500 ], loss: 0.7167, avg_reader_cost: 7.6384 avg_batch_cost: 7.9992, avg_ips: 12.0012.
-Type : zipper Train [ Epoch 22/500 ], loss: 0.5560, avg_reader_cost: 0.0004 avg_batch_cost: 0.3615, avg_ips: 265.5722.
-Type : zipper Train [ Epoch 23/500 ], loss: 0.5672, avg_reader_cost: 0.0003 avg_batch_cost: 0.3633, avg_ips: 264.2657.
-Type : zipper Train [ Epoch 24/500 ], loss: 0.6102, avg_reader_cost: 0.0003 avg_batch_cost: 0.3646, avg_ips: 263.3114.
-Type : zipper Train [ Epoch 25/500 ], loss: 0.6199, avg_reader_cost: 0.0004 avg_batch_cost: 0.3614, avg_ips: 265.6642.
-Type : zipper Train [ Epoch 26/500 ], loss: 0.6041, avg_reader_cost: 0.6056 avg_batch_cost: 0.9684, avg_ips: 99.1322.
-Type : zipper Train [ Epoch 27/500 ], loss: 0.5587, avg_reader_cost: 0.7737 avg_batch_cost: 1.1391, avg_ips: 84.2793.
-Type : zipper Train [ Epoch 28/500 ], loss: 0.6212, avg_reader_cost: 0.7744 avg_batch_cost: 1.1413, avg_ips: 84.1111.
-Type : zipper Train [ Epoch 29/500 ], loss: 0.5686, avg_reader_cost: 0.7759 avg_batch_cost: 1.1398, avg_ips: 84.2227.
-Type : zipper Train [ Epoch 30/500 ], loss: 0.5473, avg_reader_cost: 0.7810 avg_batch_cost: 1.1468, avg_ips: 83.7129.
+Type : zipper Val [ Epoch 20/500 ] max_auc: 0.9498 roc_auc : 0.871061.
+Type : zipper Train [ Epoch 21/500 ], loss: 0.8301, avg_reader_cost: 7.0145 avg_batch_cost: 7.4546, avg_ips: 12.8779.
+Type : zipper Train [ Epoch 22/500 ], loss: 0.8689, avg_reader_cost: 0.0005 avg_batch_cost: 0.3594, avg_ips: 267.0835.
+Type : zipper Train [ Epoch 23/500 ], loss: 0.8215, avg_reader_cost: 0.0005 avg_batch_cost: 0.3616, avg_ips: 265.5071.
+Type : zipper Train [ Epoch 24/500 ], loss: 0.8042, avg_reader_cost: 0.0003 avg_batch_cost: 0.3627, avg_ips: 264.6647.
+Type : zipper Train [ Epoch 25/500 ], loss: 0.8880, avg_reader_cost: 0.0005 avg_batch_cost: 0.3627, avg_ips: 264.6957.
+Type : zipper Train [ Epoch 26/500 ], loss: 0.7668, avg_reader_cost: 0.6240 avg_batch_cost: 0.9745, avg_ips: 98.5129.
+Type : zipper Train [ Epoch 27/500 ], loss: 0.6921, avg_reader_cost: 0.8216 avg_batch_cost: 1.1690, avg_ips: 82.1187.
+Type : zipper Train [ Epoch 28/500 ], loss: 0.6987, avg_reader_cost: 0.8149 avg_batch_cost: 1.1722, avg_ips: 81.8970.
+Type : zipper Train [ Epoch 29/500 ], loss: 0.7245, avg_reader_cost: 0.7842 avg_batch_cost: 1.1422, avg_ips: 84.0466.
+Type : zipper Train [ Epoch 30/500 ], loss: 0.6928, avg_reader_cost: 0.7732 avg_batch_cost: 1.1304, avg_ips: 84.9275.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 30/500 ] max_auc: 0.9322 roc_auc : 0.932248.
-Type : zipper Train [ Epoch 31/500 ], loss: 0.5525, avg_reader_cost: 6.0707 avg_batch_cost: 6.1845, avg_ips: 15.5227.
-Type : zipper Train [ Epoch 32/500 ], loss: 0.5537, avg_reader_cost: 0.8318 avg_batch_cost: 1.1961, avg_ips: 80.2609.
-Type : zipper Train [ Epoch 33/500 ], loss: 0.5445, avg_reader_cost: 0.7759 avg_batch_cost: 1.1464, avg_ips: 83.7392.
-Type : zipper Train [ Epoch 34/500 ], loss: 0.5037, avg_reader_cost: 0.7686 avg_batch_cost: 1.1332, avg_ips: 84.7134.
-Type : zipper Train [ Epoch 35/500 ], loss: 0.5765, avg_reader_cost: 0.7716 avg_batch_cost: 1.1354, avg_ips: 84.5523.
-Type : zipper Train [ Epoch 36/500 ], loss: 0.5529, avg_reader_cost: 0.7718 avg_batch_cost: 1.1356, avg_ips: 84.5363.
-Type : zipper Train [ Epoch 37/500 ], loss: 0.5021, avg_reader_cost: 0.7685 avg_batch_cost: 1.1246, avg_ips: 85.3639.
-Type : zipper Train [ Epoch 38/500 ], loss: 0.4696, avg_reader_cost: 0.7874 avg_batch_cost: 1.1472, avg_ips: 83.6832.
-Type : zipper Train [ Epoch 39/500 ], loss: 0.5259, avg_reader_cost: 0.7682 avg_batch_cost: 1.1262, avg_ips: 85.2426.
-Type : zipper Train [ Epoch 40/500 ], loss: 0.4379, avg_reader_cost: 0.7781 avg_batch_cost: 1.1368, avg_ips: 84.4483.
+Type : zipper Val [ Epoch 30/500 ] max_auc: 0.9498 roc_auc : 0.841649.
+Type : zipper Train [ Epoch 31/500 ], loss: 0.6632, avg_reader_cost: 5.9168 avg_batch_cost: 6.0324, avg_ips: 15.9140.
+Type : zipper Train [ Epoch 32/500 ], loss: 0.6549, avg_reader_cost: 0.8382 avg_batch_cost: 1.2192, avg_ips: 78.7382.
+Type : zipper Train [ Epoch 33/500 ], loss: 0.7025, avg_reader_cost: 0.7378 avg_batch_cost: 1.1225, avg_ips: 85.5250.
+Type : zipper Train [ Epoch 34/500 ], loss: 0.6577, avg_reader_cost: 0.7587 avg_batch_cost: 1.1158, avg_ips: 86.0394.
+Type : zipper Train [ Epoch 35/500 ], loss: 0.5821, avg_reader_cost: 0.7703 avg_batch_cost: 1.1358, avg_ips: 84.5249.
+Type : zipper Train [ Epoch 36/500 ], loss: 0.6615, avg_reader_cost: 0.7551 avg_batch_cost: 1.1077, avg_ips: 86.6652.
+Type : zipper Train [ Epoch 37/500 ], loss: 0.6561, avg_reader_cost: 0.7672 avg_batch_cost: 1.1416, avg_ips: 84.0893.
+Type : zipper Train [ Epoch 38/500 ], loss: 0.5828, avg_reader_cost: 0.7563 avg_batch_cost: 1.1073, avg_ips: 86.7005.
+Type : zipper Train [ Epoch 39/500 ], loss: 0.6291, avg_reader_cost: 0.7755 avg_batch_cost: 1.1315, avg_ips: 84.8401.
+Type : zipper Train [ Epoch 40/500 ], loss: 0.6075, avg_reader_cost: 0.7713 avg_batch_cost: 1.1264, avg_ips: 85.2267.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 40/500 ] max_auc: 0.9814 roc_auc : 0.981355.
-Type : zipper Train [ Epoch 41/500 ], loss: 0.6421, avg_reader_cost: 7.9282 avg_batch_cost: 8.2914, avg_ips: 11.5783.
-Type : zipper Train [ Epoch 42/500 ], loss: 0.4649, avg_reader_cost: 0.0003 avg_batch_cost: 0.3613, avg_ips: 265.7291.
-Type : zipper Train [ Epoch 43/500 ], loss: 0.5467, avg_reader_cost: 0.0003 avg_batch_cost: 0.3753, avg_ips: 255.7943.
-Type : zipper Train [ Epoch 44/500 ], loss: 0.5773, avg_reader_cost: 0.0004 avg_batch_cost: 0.3673, avg_ips: 261.3477.
-Type : zipper Train [ Epoch 45/500 ], loss: 0.5071, avg_reader_cost: 0.0003 avg_batch_cost: 0.3715, avg_ips: 258.4279.
-Type : zipper Train [ Epoch 46/500 ], loss: 0.5619, avg_reader_cost: 0.5934 avg_batch_cost: 0.9552, avg_ips: 100.4985.
-Type : zipper Train [ Epoch 47/500 ], loss: 0.5159, avg_reader_cost: 0.7716 avg_batch_cost: 1.1389, avg_ips: 84.2897.
-Type : zipper Train [ Epoch 48/500 ], loss: 0.5552, avg_reader_cost: 0.7825 avg_batch_cost: 1.1511, avg_ips: 83.3986.
-Type : zipper Train [ Epoch 49/500 ], loss: 0.4415, avg_reader_cost: 0.7716 avg_batch_cost: 1.1304, avg_ips: 84.9229.
-Type : zipper Train [ Epoch 50/500 ], loss: 0.4787, avg_reader_cost: 0.7694 avg_batch_cost: 1.1263, avg_ips: 85.2337.
+Type : zipper Val [ Epoch 40/500 ] max_auc: 0.9498 roc_auc : 0.843750.
+Type : zipper Train [ Epoch 41/500 ], loss: 0.5702, avg_reader_cost: 6.8717 avg_batch_cost: 7.3244, avg_ips: 13.1069.
+Type : zipper Train [ Epoch 42/500 ], loss: 0.5378, avg_reader_cost: 0.0003 avg_batch_cost: 0.3578, avg_ips: 268.2936.
+Type : zipper Train [ Epoch 43/500 ], loss: 0.5267, avg_reader_cost: 0.0004 avg_batch_cost: 0.3572, avg_ips: 268.7447.
+Type : zipper Train [ Epoch 44/500 ], loss: 0.4993, avg_reader_cost: 0.0003 avg_batch_cost: 0.3537, avg_ips: 271.4108.
+Type : zipper Train [ Epoch 45/500 ], loss: 0.5092, avg_reader_cost: 0.0003 avg_batch_cost: 0.3557, avg_ips: 269.8876.
+Type : zipper Train [ Epoch 46/500 ], loss: 0.5021, avg_reader_cost: 0.6375 avg_batch_cost: 0.9916, avg_ips: 96.8098.
+Type : zipper Train [ Epoch 47/500 ], loss: 0.5216, avg_reader_cost: 0.7908 avg_batch_cost: 1.1419, avg_ips: 84.0696.
+Type : zipper Train [ Epoch 48/500 ], loss: 0.4569, avg_reader_cost: 0.7793 avg_batch_cost: 1.1311, avg_ips: 84.8710.
+Type : zipper Train [ Epoch 49/500 ], loss: 0.4227, avg_reader_cost: 0.7871 avg_batch_cost: 1.1355, avg_ips: 84.5450.
+Type : zipper Train [ Epoch 50/500 ], loss: 0.4217, avg_reader_cost: 0.7961 avg_batch_cost: 1.1489, avg_ips: 83.5600.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 50/500 ] max_auc: 0.9879 roc_auc : 0.987920.
-Type : zipper Train [ Epoch 51/500 ], loss: 0.5037, avg_reader_cost: 7.7050 avg_batch_cost: 8.0635, avg_ips: 11.9055.
-Type : zipper Train [ Epoch 52/500 ], loss: 0.5194, avg_reader_cost: 0.0004 avg_batch_cost: 0.3680, avg_ips: 260.8506.
-Type : zipper Train [ Epoch 53/500 ], loss: 0.5221, avg_reader_cost: 0.0003 avg_batch_cost: 0.3638, avg_ips: 263.9106.
-Type : zipper Train [ Epoch 54/500 ], loss: 0.4658, avg_reader_cost: 0.0003 avg_batch_cost: 0.3618, avg_ips: 265.3431.
-Type : zipper Train [ Epoch 55/500 ], loss: 0.4763, avg_reader_cost: 0.0004 avg_batch_cost: 0.3670, avg_ips: 261.5766.
-Type : zipper Train [ Epoch 56/500 ], loss: 0.5301, avg_reader_cost: 0.5786 avg_batch_cost: 0.9458, avg_ips: 101.5025.
-Type : zipper Train [ Epoch 57/500 ], loss: 0.4219, avg_reader_cost: 0.7603 avg_batch_cost: 1.1294, avg_ips: 85.0043.
-Type : zipper Train [ Epoch 58/500 ], loss: 0.4734, avg_reader_cost: 0.7588 avg_batch_cost: 1.1300, avg_ips: 84.9535.
-Type : zipper Train [ Epoch 59/500 ], loss: 0.5043, avg_reader_cost: 0.7551 avg_batch_cost: 1.1225, avg_ips: 85.5239.
-Type : zipper Train [ Epoch 60/500 ], loss: 0.4663, avg_reader_cost: 0.7587 avg_batch_cost: 1.1294, avg_ips: 85.0004.
+Type : zipper Val [ Epoch 50/500 ] max_auc: 0.9640 roc_auc : 0.964023.
+Type : zipper Train [ Epoch 51/500 ], loss: 0.4736, avg_reader_cost: 8.3275 avg_batch_cost: 8.6861, avg_ips: 11.0521.
+Type : zipper Train [ Epoch 52/500 ], loss: 0.4845, avg_reader_cost: 0.0003 avg_batch_cost: 0.3571, avg_ips: 268.8540.
+Type : zipper Train [ Epoch 53/500 ], loss: 0.4907, avg_reader_cost: 0.0004 avg_batch_cost: 0.3605, avg_ips: 266.3166.
+Type : zipper Train [ Epoch 54/500 ], loss: 0.4440, avg_reader_cost: 0.0003 avg_batch_cost: 0.3589, avg_ips: 267.5150.
+Type : zipper Train [ Epoch 55/500 ], loss: 0.4800, avg_reader_cost: 0.0003 avg_batch_cost: 0.3520, avg_ips: 272.7134.
+Type : zipper Train [ Epoch 56/500 ], loss: 0.4788, avg_reader_cost: 0.6232 avg_batch_cost: 0.9841, avg_ips: 97.5525.
+Type : zipper Train [ Epoch 57/500 ], loss: 0.4461, avg_reader_cost: 0.8055 avg_batch_cost: 1.1579, avg_ips: 82.9075.
+Type : zipper Train [ Epoch 58/500 ], loss: 0.4188, avg_reader_cost: 0.8078 avg_batch_cost: 1.1628, avg_ips: 82.5569.
+Type : zipper Train [ Epoch 59/500 ], loss: 0.5502, avg_reader_cost: 1.6593 avg_batch_cost: 1.7643, avg_ips: 54.4139.
+Type : zipper Train [ Epoch 60/500 ], loss: 0.4571, avg_reader_cost: 0.8233 avg_batch_cost: 1.1789, avg_ips: 81.4294.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 60/500 ] max_auc: 0.9937 roc_auc : 0.993697.
-Type : zipper Train [ Epoch 61/500 ], loss: 0.4793, avg_reader_cost: 6.4704 avg_batch_cost: 6.5866, avg_ips: 14.5750.
-Type : zipper Train [ Epoch 62/500 ], loss: 0.4349, avg_reader_cost: 0.0004 avg_batch_cost: 0.1073, avg_ips: 894.3417.
-Type : zipper Train [ Epoch 63/500 ], loss: 0.4267, avg_reader_cost: 0.8282 avg_batch_cost: 1.1934, avg_ips: 80.4406.
-Type : zipper Train [ Epoch 64/500 ], loss: 0.3524, avg_reader_cost: 0.7717 avg_batch_cost: 1.1390, avg_ips: 84.2854.
-Type : zipper Train [ Epoch 65/500 ], loss: 0.3559, avg_reader_cost: 0.7711 avg_batch_cost: 1.1351, avg_ips: 84.5751.
-Type : zipper Train [ Epoch 66/500 ], loss: 0.4096, avg_reader_cost: 0.7673 avg_batch_cost: 1.1304, avg_ips: 84.9241.
-Type : zipper Train [ Epoch 67/500 ], loss: 0.3732, avg_reader_cost: 0.7967 avg_batch_cost: 1.1676, avg_ips: 82.2170.
-Type : zipper Train [ Epoch 68/500 ], loss: 0.3776, avg_reader_cost: 0.7618 avg_batch_cost: 1.1250, avg_ips: 85.3345.
-Type : zipper Train [ Epoch 69/500 ], loss: 0.4173, avg_reader_cost: 0.7614 avg_batch_cost: 1.1217, avg_ips: 85.5837.
-Type : zipper Train [ Epoch 70/500 ], loss: 0.3824, avg_reader_cost: 0.7623 avg_batch_cost: 1.1237, avg_ips: 85.4307.
+Type : zipper Val [ Epoch 60/500 ] max_auc: 0.9651 roc_auc : 0.965074.
+Type : zipper Train [ Epoch 61/500 ], loss: 0.4499, avg_reader_cost: 6.5681 avg_batch_cost: 6.6748, avg_ips: 14.3825.
+Type : zipper Train [ Epoch 62/500 ], loss: 0.4621, avg_reader_cost: 0.0004 avg_batch_cost: 0.1048, avg_ips: 916.1849.
+Type : zipper Train [ Epoch 63/500 ], loss: 0.5023, avg_reader_cost: 0.8236 avg_batch_cost: 1.1758, avg_ips: 81.6459.
+Type : zipper Train [ Epoch 64/500 ], loss: 0.4809, avg_reader_cost: 0.7615 avg_batch_cost: 1.1140, avg_ips: 86.1779.
+Type : zipper Train [ Epoch 65/500 ], loss: 0.4335, avg_reader_cost: 0.7757 avg_batch_cost: 1.1320, avg_ips: 84.8080.
+Type : zipper Train [ Epoch 66/500 ], loss: 0.5276, avg_reader_cost: 0.7790 avg_batch_cost: 1.1337, avg_ips: 84.6782.
+Type : zipper Train [ Epoch 67/500 ], loss: 0.4163, avg_reader_cost: 0.7794 avg_batch_cost: 1.1346, avg_ips: 84.6086.
+Type : zipper Train [ Epoch 68/500 ], loss: 0.4077, avg_reader_cost: 0.7768 avg_batch_cost: 1.1304, avg_ips: 84.9275.
+Type : zipper Train [ Epoch 69/500 ], loss: 0.3824, avg_reader_cost: 0.7747 avg_batch_cost: 1.1310, avg_ips: 84.8801.
+Type : zipper Train [ Epoch 70/500 ], loss: 0.4115, avg_reader_cost: 0.7635 avg_batch_cost: 1.1244, avg_ips: 85.3814.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 70/500 ] max_auc: 0.9979 roc_auc : 0.997899.
-Type : zipper Train [ Epoch 71/500 ], loss: 0.3860, avg_reader_cost: 7.4546 avg_batch_cost: 7.8262, avg_ips: 12.2665.
-Type : zipper Train [ Epoch 72/500 ], loss: 0.3621, avg_reader_cost: 0.0003 avg_batch_cost: 0.3630, avg_ips: 264.4723.
-Type : zipper Train [ Epoch 73/500 ], loss: 0.3845, avg_reader_cost: 0.0003 avg_batch_cost: 0.3584, avg_ips: 267.8938.
-Type : zipper Train [ Epoch 74/500 ], loss: 0.3293, avg_reader_cost: 0.0008 avg_batch_cost: 0.3606, avg_ips: 266.2302.
-Type : zipper Train [ Epoch 75/500 ], loss: 0.3634, avg_reader_cost: 0.0003 avg_batch_cost: 0.3602, avg_ips: 266.5169.
-Type : zipper Train [ Epoch 76/500 ], loss: 0.3635, avg_reader_cost: 0.5932 avg_batch_cost: 0.9531, avg_ips: 100.7241.
-Type : zipper Train [ Epoch 77/500 ], loss: 0.3585, avg_reader_cost: 0.7661 avg_batch_cost: 1.1226, avg_ips: 85.5138.
-Type : zipper Train [ Epoch 78/500 ], loss: 0.3868, avg_reader_cost: 0.8074 avg_batch_cost: 1.1790, avg_ips: 81.4256.
-Type : zipper Train [ Epoch 79/500 ], loss: 0.3198, avg_reader_cost: 0.7650 avg_batch_cost: 1.1329, avg_ips: 84.7381.
-Type : zipper Train [ Epoch 80/500 ], loss: 0.3267, avg_reader_cost: 0.7714 avg_batch_cost: 1.1415, avg_ips: 84.1013.
+Type : zipper Val [ Epoch 70/500 ] max_auc: 0.9814 roc_auc : 0.981355.
+Type : zipper Train [ Epoch 71/500 ], loss: 0.4522, avg_reader_cost: 7.2029 avg_batch_cost: 7.5763, avg_ips: 12.6711.
+Type : zipper Train [ Epoch 72/500 ], loss: 0.3813, avg_reader_cost: 0.0002 avg_batch_cost: 0.3570, avg_ips: 268.9263.
+Type : zipper Train [ Epoch 73/500 ], loss: 0.3930, avg_reader_cost: 0.0005 avg_batch_cost: 0.3665, avg_ips: 261.9124.
+Type : zipper Train [ Epoch 74/500 ], loss: 0.4192, avg_reader_cost: 0.0005 avg_batch_cost: 0.3547, avg_ips: 270.6177.
+Type : zipper Train [ Epoch 75/500 ], loss: 0.4503, avg_reader_cost: 0.0011 avg_batch_cost: 0.3516, avg_ips: 273.0350.
+Type : zipper Train [ Epoch 76/500 ], loss: 0.3752, avg_reader_cost: 0.5797 avg_batch_cost: 0.9428, avg_ips: 101.8204.
+Type : zipper Train [ Epoch 77/500 ], loss: 0.3544, avg_reader_cost: 0.7591 avg_batch_cost: 1.1163, avg_ips: 85.9999.
+Type : zipper Train [ Epoch 78/500 ], loss: 0.4068, avg_reader_cost: 0.7618 avg_batch_cost: 1.1175, avg_ips: 85.9052.
+Type : zipper Train [ Epoch 79/500 ], loss: 0.4301, avg_reader_cost: 0.7644 avg_batch_cost: 1.1226, avg_ips: 85.5135.
+Type : zipper Train [ Epoch 80/500 ], loss: 0.3296, avg_reader_cost: 0.7613 avg_batch_cost: 1.1255, avg_ips: 85.2989.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 80/500 ] max_auc: 0.9979 roc_auc : 0.997374.
-Type : zipper Train [ Epoch 81/500 ], loss: 0.3453, avg_reader_cost: 6.8819 avg_batch_cost: 7.3342, avg_ips: 13.0894.
-Type : zipper Train [ Epoch 82/500 ], loss: 0.3675, avg_reader_cost: 0.0006 avg_batch_cost: 0.3676, avg_ips: 261.1504.
-Type : zipper Train [ Epoch 83/500 ], loss: 0.3309, avg_reader_cost: 0.0006 avg_batch_cost: 0.3594, avg_ips: 267.1467.
-Type : zipper Train [ Epoch 84/500 ], loss: 0.3460, avg_reader_cost: 0.0005 avg_batch_cost: 0.3717, avg_ips: 258.2963.
-Type : zipper Train [ Epoch 85/500 ], loss: 0.4078, avg_reader_cost: 0.0004 avg_batch_cost: 0.3635, avg_ips: 264.0960.
-Type : zipper Train [ Epoch 86/500 ], loss: 0.3725, avg_reader_cost: 0.6427 avg_batch_cost: 1.0057, avg_ips: 95.4517.
-Type : zipper Train [ Epoch 87/500 ], loss: 0.3641, avg_reader_cost: 0.7907 avg_batch_cost: 1.1681, avg_ips: 82.1848.
-Type : zipper Train [ Epoch 88/500 ], loss: 0.3296, avg_reader_cost: 0.7580 avg_batch_cost: 1.1178, avg_ips: 85.8817.
-Type : zipper Train [ Epoch 89/500 ], loss: 0.3860, avg_reader_cost: 0.7598 avg_batch_cost: 1.1220, avg_ips: 85.5606.
-Type : zipper Train [ Epoch 90/500 ], loss: 0.3032, avg_reader_cost: 0.7592 avg_batch_cost: 1.1258, avg_ips: 85.2764.
+Type : zipper Val [ Epoch 80/500 ] max_auc: 0.9879 roc_auc : 0.987920.
+Type : zipper Train [ Epoch 81/500 ], loss: 0.3628, avg_reader_cost: 7.2491 avg_batch_cost: 7.6044, avg_ips: 12.6242.
+Type : zipper Train [ Epoch 82/500 ], loss: 0.3791, avg_reader_cost: 0.0003 avg_batch_cost: 0.3480, avg_ips: 275.8866.
+Type : zipper Train [ Epoch 83/500 ], loss: 0.3630, avg_reader_cost: 0.0010 avg_batch_cost: 0.3689, avg_ips: 260.2129.
+Type : zipper Train [ Epoch 84/500 ], loss: 0.3460, avg_reader_cost: 0.0002 avg_batch_cost: 0.3692, avg_ips: 260.0025.
+Type : zipper Train [ Epoch 85/500 ], loss: 0.3249, avg_reader_cost: 0.0003 avg_batch_cost: 0.3517, avg_ips: 272.9249.
+Type : zipper Train [ Epoch 86/500 ], loss: 0.4036, avg_reader_cost: 0.5723 avg_batch_cost: 0.9303, avg_ips: 103.1964.
+Type : zipper Train [ Epoch 87/500 ], loss: 0.3225, avg_reader_cost: 0.7587 avg_batch_cost: 1.1122, avg_ips: 86.3174.
+Type : zipper Train [ Epoch 88/500 ], loss: 0.3232, avg_reader_cost: 0.7591 avg_batch_cost: 1.1168, avg_ips: 85.9570.
+Type : zipper Train [ Epoch 89/500 ], loss: 0.2878, avg_reader_cost: 0.7553 avg_batch_cost: 1.1147, avg_ips: 86.1239.
+Type : zipper Train [ Epoch 90/500 ], loss: 0.2854, avg_reader_cost: 0.7711 avg_batch_cost: 1.1311, avg_ips: 84.8752.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
 Type : zipper Val [ Epoch 90/500 ] max_auc: 0.9982 roc_auc : 0.998162.
-Type : zipper Train [ Epoch 91/500 ], loss: 0.2825, avg_reader_cost: 6.9150 avg_batch_cost: 7.0316, avg_ips: 13.6526.
-Type : zipper Train [ Epoch 92/500 ], loss: 0.2702, avg_reader_cost: 0.0004 avg_batch_cost: 0.1076, avg_ips: 892.2370.
-Type : zipper Train [ Epoch 93/500 ], loss: 0.3323, avg_reader_cost: 0.0004 avg_batch_cost: 0.1071, avg_ips: 896.5501.
-Type : zipper Train [ Epoch 94/500 ], loss: 0.3279, avg_reader_cost: 0.8195 avg_batch_cost: 1.1906, avg_ips: 80.6320.
-Type : zipper Train [ Epoch 95/500 ], loss: 0.3320, avg_reader_cost: 0.7642 avg_batch_cost: 1.1352, avg_ips: 84.5662.
-Type : zipper Train [ Epoch 96/500 ], loss: 0.3321, avg_reader_cost: 0.7646 avg_batch_cost: 1.1321, avg_ips: 84.7993.
-Type : zipper Train [ Epoch 97/500 ], loss: 0.2734, avg_reader_cost: 0.7748 avg_batch_cost: 1.1405, avg_ips: 84.1737.
-Type : zipper Train [ Epoch 98/500 ], loss: 0.3079, avg_reader_cost: 0.7683 avg_batch_cost: 1.1386, avg_ips: 84.3126.
-Type : zipper Train [ Epoch 99/500 ], loss: 0.3075, avg_reader_cost: 0.7809 avg_batch_cost: 1.1504, avg_ips: 83.4503.
-Type : zipper Train [ Epoch 100/500 ], loss: 0.3027, avg_reader_cost: 0.7684 avg_batch_cost: 1.1425, avg_ips: 84.0291.
+Type : zipper Train [ Epoch 91/500 ], loss: 0.3220, avg_reader_cost: 6.6313 avg_batch_cost: 6.7375, avg_ips: 14.2487.
+Type : zipper Train [ Epoch 92/500 ], loss: 0.2851, avg_reader_cost: 0.0003 avg_batch_cost: 0.1066, avg_ips: 900.5987.
+Type : zipper Train [ Epoch 93/500 ], loss: 0.3196, avg_reader_cost: 0.0004 avg_batch_cost: 0.1059, avg_ips: 906.6764.
+Type : zipper Train [ Epoch 94/500 ], loss: 0.3155, avg_reader_cost: 0.8461 avg_batch_cost: 1.1982, avg_ips: 80.1196.
+Type : zipper Train [ Epoch 95/500 ], loss: 0.2839, avg_reader_cost: 0.7823 avg_batch_cost: 1.1388, avg_ips: 84.3020.
+Type : zipper Train [ Epoch 96/500 ], loss: 0.3116, avg_reader_cost: 0.7838 avg_batch_cost: 1.1449, avg_ips: 83.8483.
+Type : zipper Train [ Epoch 97/500 ], loss: 0.3140, avg_reader_cost: 0.7897 avg_batch_cost: 1.1478, avg_ips: 83.6404.
+Type : zipper Train [ Epoch 98/500 ], loss: 0.3233, avg_reader_cost: 0.7881 avg_batch_cost: 1.1444, avg_ips: 83.8887.
+Type : zipper Train [ Epoch 99/500 ], loss: 0.3023, avg_reader_cost: 0.7828 avg_batch_cost: 1.1364, avg_ips: 84.4805.
+Type : zipper Train [ Epoch 100/500 ], loss: 0.3672, avg_reader_cost: 0.7884 avg_batch_cost: 1.1465, avg_ips: 83.7355.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 100/500 ] max_auc: 0.9982 roc_auc : 0.998162.
-Type : zipper Train [ Epoch 101/500 ], loss: 0.3215, avg_reader_cost: 7.7404 avg_batch_cost: 8.1133, avg_ips: 11.8325.
-Type : zipper Train [ Epoch 102/500 ], loss: 0.3646, avg_reader_cost: 0.0003 avg_batch_cost: 0.3645, avg_ips: 263.3824.
-Type : zipper Train [ Epoch 103/500 ], loss: 0.3508, avg_reader_cost: 0.0011 avg_batch_cost: 0.3673, avg_ips: 261.3860.
-Type : zipper Train [ Epoch 104/500 ], loss: 0.2896, avg_reader_cost: 0.0007 avg_batch_cost: 0.3672, avg_ips: 261.4365.
-Type : zipper Train [ Epoch 105/500 ], loss: 0.3342, avg_reader_cost: 0.0003 avg_batch_cost: 0.3621, avg_ips: 265.1132.
-Type : zipper Train [ Epoch 106/500 ], loss: 0.3062, avg_reader_cost: 0.5903 avg_batch_cost: 0.9525, avg_ips: 100.7822.
-Type : zipper Train [ Epoch 107/500 ], loss: 0.3597, avg_reader_cost: 0.7633 avg_batch_cost: 1.1334, avg_ips: 84.7028.
-Type : zipper Train [ Epoch 108/500 ], loss: 0.3328, avg_reader_cost: 0.7608 avg_batch_cost: 1.1283, avg_ips: 85.0859.
-Type : zipper Train [ Epoch 109/500 ], loss: 0.3460, avg_reader_cost: 0.7618 avg_batch_cost: 1.1235, avg_ips: 85.4509.
-Type : zipper Train [ Epoch 110/500 ], loss: 0.3007, avg_reader_cost: 0.7600 avg_batch_cost: 1.1186, avg_ips: 85.8220.
+Type : zipper Val [ Epoch 100/500 ] max_auc: 0.9982 roc_auc : 0.995011.
+Type : zipper Train [ Epoch 101/500 ], loss: 0.3294, avg_reader_cost: 7.1101 avg_batch_cost: 7.5961, avg_ips: 12.6380.
+Type : zipper Train [ Epoch 102/500 ], loss: 0.3679, avg_reader_cost: 0.0005 avg_batch_cost: 0.3579, avg_ips: 268.2127.
+Type : zipper Train [ Epoch 103/500 ], loss: 0.3040, avg_reader_cost: 0.0003 avg_batch_cost: 0.3551, avg_ips: 270.3562.
+Type : zipper Train [ Epoch 104/500 ], loss: 0.2592, avg_reader_cost: 0.0002 avg_batch_cost: 0.3542, avg_ips: 271.0199.
+Type : zipper Train [ Epoch 105/500 ], loss: 0.2843, avg_reader_cost: 0.0004 avg_batch_cost: 0.3537, avg_ips: 271.3946.
+Type : zipper Train [ Epoch 106/500 ], loss: 0.2488, avg_reader_cost: 0.5889 avg_batch_cost: 0.9427, avg_ips: 101.8373.
+Type : zipper Train [ Epoch 107/500 ], loss: 0.2522, avg_reader_cost: 0.7658 avg_batch_cost: 1.1217, avg_ips: 85.5841.
+Type : zipper Train [ Epoch 108/500 ], loss: 0.2837, avg_reader_cost: 0.7588 avg_batch_cost: 1.1152, avg_ips: 86.0840.
+Type : zipper Train [ Epoch 109/500 ], loss: 0.2801, avg_reader_cost: 0.7600 avg_batch_cost: 1.1165, avg_ips: 85.9835.
+Type : zipper Train [ Epoch 110/500 ], loss: 0.3096, avg_reader_cost: 0.7656 avg_batch_cost: 1.1228, avg_ips: 85.5025.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 110/500 ] max_auc: 0.9982 roc_auc : 0.995011.
-Type : zipper Train [ Epoch 111/500 ], loss: 0.3316, avg_reader_cost: 6.9249 avg_batch_cost: 7.3630, avg_ips: 13.0381.
-Type : zipper Train [ Epoch 112/500 ], loss: 0.3435, avg_reader_cost: 0.0004 avg_batch_cost: 0.3821, avg_ips: 251.2164.
-Type : zipper Train [ Epoch 113/500 ], loss: 0.3393, avg_reader_cost: 0.0007 avg_batch_cost: 0.3825, avg_ips: 250.9588.
-Type : zipper Train [ Epoch 114/500 ], loss: 0.3501, avg_reader_cost: 0.0005 avg_batch_cost: 0.3672, avg_ips: 261.4286.
-Type : zipper Train [ Epoch 115/500 ], loss: 0.3298, avg_reader_cost: 0.0005 avg_batch_cost: 0.3641, avg_ips: 263.6462.
-Type : zipper Train [ Epoch 116/500 ], loss: 0.3346, avg_reader_cost: 0.5497 avg_batch_cost: 0.9136, avg_ips: 105.0779.
-Type : zipper Train [ Epoch 117/500 ], loss: 0.3003, avg_reader_cost: 0.8019 avg_batch_cost: 1.1617, avg_ips: 82.6368.
-Type : zipper Train [ Epoch 118/500 ], loss: 0.3497, avg_reader_cost: 0.7812 avg_batch_cost: 1.1616, avg_ips: 82.6412.
-Type : zipper Train [ Epoch 119/500 ], loss: 0.3058, avg_reader_cost: 0.7689 avg_batch_cost: 1.1215, avg_ips: 85.5964.
-Type : zipper Train [ Epoch 120/500 ], loss: 0.2729, avg_reader_cost: 0.7671 avg_batch_cost: 1.1343, avg_ips: 84.6323.
+Type : zipper Val [ Epoch 110/500 ] max_auc: 0.9997 roc_auc : 0.999737.
+Type : zipper Train [ Epoch 111/500 ], loss: 0.2220, avg_reader_cost: 7.3956 avg_batch_cost: 7.7494, avg_ips: 12.3880.
+Type : zipper Train [ Epoch 112/500 ], loss: 0.2434, avg_reader_cost: 0.0011 avg_batch_cost: 0.3534, avg_ips: 271.6791.
+Type : zipper Train [ Epoch 113/500 ], loss: 0.2959, avg_reader_cost: 0.0002 avg_batch_cost: 0.3527, avg_ips: 272.1523.
+Type : zipper Train [ Epoch 114/500 ], loss: 0.2257, avg_reader_cost: 0.0003 avg_batch_cost: 0.3556, avg_ips: 269.9403.
+Type : zipper Train [ Epoch 115/500 ], loss: 0.2477, avg_reader_cost: 0.0004 avg_batch_cost: 0.3499, avg_ips: 274.3705.
+Type : zipper Train [ Epoch 116/500 ], loss: 0.2172, avg_reader_cost: 0.6385 avg_batch_cost: 0.9931, avg_ips: 96.6687.
+Type : zipper Train [ Epoch 117/500 ], loss: 0.2952, avg_reader_cost: 0.7956 avg_batch_cost: 1.1484, avg_ips: 83.5971.
+Type : zipper Train [ Epoch 118/500 ], loss: 0.2280, avg_reader_cost: 0.8030 avg_batch_cost: 1.1536, avg_ips: 83.2177.
+Type : zipper Train [ Epoch 119/500 ], loss: 0.2280, avg_reader_cost: 0.7884 avg_batch_cost: 1.1421, avg_ips: 84.0527.
+Type : zipper Train [ Epoch 120/500 ], loss: 0.2718, avg_reader_cost: 0.7838 avg_batch_cost: 1.1359, avg_ips: 84.5121.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 120/500 ] max_auc: 0.9982 roc_auc : 0.995011.
-Type : zipper Train [ Epoch 121/500 ], loss: 0.3937, avg_reader_cost: 6.6696 avg_batch_cost: 6.7818, avg_ips: 14.1555.
-Type : zipper Train [ Epoch 122/500 ], loss: 0.3242, avg_reader_cost: 0.0004 avg_batch_cost: 0.1058, avg_ips: 907.4345.
-Type : zipper Train [ Epoch 123/500 ], loss: 0.2910, avg_reader_cost: 0.0004 avg_batch_cost: 0.1064, avg_ips: 902.2717.
-Type : zipper Train [ Epoch 124/500 ], loss: 0.3259, avg_reader_cost: 0.0004 avg_batch_cost: 0.1066, avg_ips: 900.9373.
-Type : zipper Train [ Epoch 125/500 ], loss: 0.3446, avg_reader_cost: 0.8567 avg_batch_cost: 1.2145, avg_ips: 79.0463.
-Type : zipper Train [ Epoch 126/500 ], loss: 0.3505, avg_reader_cost: 0.7692 avg_batch_cost: 1.1292, avg_ips: 85.0128.
-Type : zipper Train [ Epoch 127/500 ], loss: 0.3392, avg_reader_cost: 0.7649 avg_batch_cost: 1.1288, avg_ips: 85.0431.
-Type : zipper Train [ Epoch 128/500 ], loss: 0.2795, avg_reader_cost: 0.7861 avg_batch_cost: 1.1536, avg_ips: 83.2157.
-Type : zipper Train [ Epoch 129/500 ], loss: 0.3507, avg_reader_cost: 0.8160 avg_batch_cost: 1.1754, avg_ips: 81.6717.
-Type : zipper Train [ Epoch 130/500 ], loss: 0.3008, avg_reader_cost: 0.8081 avg_batch_cost: 1.1721, avg_ips: 81.9031.
+Type : zipper Val [ Epoch 120/500 ] max_auc: 0.9997 roc_auc : 0.977941.
+Type : zipper Train [ Epoch 121/500 ], loss: 0.2590, avg_reader_cost: 6.4298 avg_batch_cost: 6.5575, avg_ips: 14.6397.
+Type : zipper Train [ Epoch 122/500 ], loss: 0.2478, avg_reader_cost: 0.0003 avg_batch_cost: 0.1110, avg_ips: 865.0502.
+Type : zipper Train [ Epoch 123/500 ], loss: 0.2460, avg_reader_cost: 0.0003 avg_batch_cost: 0.1064, avg_ips: 902.6277.
+Type : zipper Train [ Epoch 124/500 ], loss: 0.2770, avg_reader_cost: 0.0004 avg_batch_cost: 0.1061, avg_ips: 904.9322.
+Type : zipper Train [ Epoch 125/500 ], loss: 0.2354, avg_reader_cost: 0.8414 avg_batch_cost: 1.1977, avg_ips: 80.1539.
+Type : zipper Train [ Epoch 126/500 ], loss: 0.2922, avg_reader_cost: 0.7939 avg_batch_cost: 1.1486, avg_ips: 83.5834.
+Type : zipper Train [ Epoch 127/500 ], loss: 0.2687, avg_reader_cost: 0.8933 avg_batch_cost: 1.2473, avg_ips: 76.9641.
+Type : zipper Train [ Epoch 128/500 ], loss: 0.2980, avg_reader_cost: 0.8400 avg_batch_cost: 1.1983, avg_ips: 80.1143.
+Type : zipper Train [ Epoch 129/500 ], loss: 0.3089, avg_reader_cost: 0.7842 avg_batch_cost: 1.1390, avg_ips: 84.2872.
+Type : zipper Train [ Epoch 130/500 ], loss: 0.2524, avg_reader_cost: 0.7875 avg_batch_cost: 1.1448, avg_ips: 83.8592.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 130/500 ] max_auc: 0.9982 roc_auc : 0.993697.
-Type : zipper Train [ Epoch 131/500 ], loss: 0.3450, avg_reader_cost: 6.7737 avg_batch_cost: 7.2441, avg_ips: 13.2521.
-Type : zipper Train [ Epoch 132/500 ], loss: 0.2733, avg_reader_cost: 0.0003 avg_batch_cost: 0.3632, avg_ips: 264.3160.
-Type : zipper Train [ Epoch 133/500 ], loss: 0.2958, avg_reader_cost: 0.0003 avg_batch_cost: 0.3642, avg_ips: 263.6238.
-Type : zipper Train [ Epoch 134/500 ], loss: 0.2567, avg_reader_cost: 0.0003 avg_batch_cost: 0.3616, avg_ips: 265.4759.
-Type : zipper Train [ Epoch 135/500 ], loss: 0.3046, avg_reader_cost: 0.0005 avg_batch_cost: 0.3630, avg_ips: 264.4292.
-Type : zipper Train [ Epoch 136/500 ], loss: 0.2784, avg_reader_cost: 0.5962 avg_batch_cost: 0.9608, avg_ips: 99.9152.
-Type : zipper Train [ Epoch 137/500 ], loss: 0.2451, avg_reader_cost: 0.7725 avg_batch_cost: 1.1369, avg_ips: 84.4398.
-Type : zipper Train [ Epoch 138/500 ], loss: 0.2732, avg_reader_cost: 0.7858 avg_batch_cost: 1.1481, avg_ips: 83.6140.
-Type : zipper Train [ Epoch 139/500 ], loss: 0.2826, avg_reader_cost: 0.7587 avg_batch_cost: 1.1155, avg_ips: 86.0569.
-Type : zipper Train [ Epoch 140/500 ], loss: 0.2520, avg_reader_cost: 0.7619 avg_batch_cost: 1.1282, avg_ips: 85.0929.
+Type : zipper Val [ Epoch 130/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : zipper Train [ Epoch 131/500 ], loss: 0.2566, avg_reader_cost: 7.5906 avg_batch_cost: 7.9408, avg_ips: 12.0895.
+Type : zipper Train [ Epoch 132/500 ], loss: 0.2744, avg_reader_cost: 0.0005 avg_batch_cost: 0.3535, avg_ips: 271.5846.
+Type : zipper Train [ Epoch 133/500 ], loss: 0.2318, avg_reader_cost: 0.0003 avg_batch_cost: 0.3509, avg_ips: 273.6005.
+Type : zipper Train [ Epoch 134/500 ], loss: 0.2505, avg_reader_cost: 0.0005 avg_batch_cost: 0.3526, avg_ips: 272.2578.
+Type : zipper Train [ Epoch 135/500 ], loss: 0.2890, avg_reader_cost: 0.0003 avg_batch_cost: 0.3525, avg_ips: 272.3053.
+Type : zipper Train [ Epoch 136/500 ], loss: 0.2132, avg_reader_cost: 0.7876 avg_batch_cost: 1.1395, avg_ips: 84.2489.
+Type : zipper Train [ Epoch 137/500 ], loss: 0.2510, avg_reader_cost: 0.7901 avg_batch_cost: 1.1397, avg_ips: 84.2344.
+Type : zipper Train [ Epoch 138/500 ], loss: 0.3688, avg_reader_cost: 0.7779 avg_batch_cost: 1.1313, avg_ips: 84.8558.
+Type : zipper Train [ Epoch 139/500 ], loss: 0.2870, avg_reader_cost: 0.7841 avg_batch_cost: 1.1363, avg_ips: 84.4853.
+Type : zipper Train [ Epoch 140/500 ], loss: 0.2886, avg_reader_cost: 0.7814 avg_batch_cost: 1.1324, avg_ips: 84.7724.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 140/500 ] max_auc: 0.9982 roc_auc : 0.996324.
-Type : zipper Train [ Epoch 141/500 ], loss: 0.2632, avg_reader_cost: 7.0998 avg_batch_cost: 7.6252, avg_ips: 12.5899.
-Type : zipper Train [ Epoch 142/500 ], loss: 0.2340, avg_reader_cost: 0.0003 avg_batch_cost: 0.3610, avg_ips: 265.9111.
-Type : zipper Train [ Epoch 143/500 ], loss: 0.2563, avg_reader_cost: 0.0003 avg_batch_cost: 0.3571, avg_ips: 268.8362.
-Type : zipper Train [ Epoch 144/500 ], loss: 0.2825, avg_reader_cost: 0.0006 avg_batch_cost: 0.3614, avg_ips: 265.6152.
-Type : zipper Train [ Epoch 145/500 ], loss: 0.2389, avg_reader_cost: 0.0011 avg_batch_cost: 0.3694, avg_ips: 259.9060.
-Type : zipper Train [ Epoch 146/500 ], loss: 0.2680, avg_reader_cost: 0.6150 avg_batch_cost: 0.9744, avg_ips: 98.5256.
-Type : zipper Train [ Epoch 147/500 ], loss: 0.2183, avg_reader_cost: 0.7748 avg_batch_cost: 1.1444, avg_ips: 83.8893.
-Type : zipper Train [ Epoch 148/500 ], loss: 0.2092, avg_reader_cost: 0.7746 avg_batch_cost: 1.1396, avg_ips: 84.2399.
-Type : zipper Train [ Epoch 149/500 ], loss: 0.2541, avg_reader_cost: 0.7820 avg_batch_cost: 1.1499, avg_ips: 83.4828.
-Type : zipper Train [ Epoch 150/500 ], loss: 0.2613, avg_reader_cost: 0.7870 avg_batch_cost: 1.1440, avg_ips: 83.9139.
+Type : zipper Val [ Epoch 140/500 ] max_auc: 1.0000 roc_auc : 0.997637.
+Type : zipper Train [ Epoch 141/500 ], loss: 0.3004, avg_reader_cost: 6.7461 avg_batch_cost: 7.2057, avg_ips: 13.3228.
+Type : zipper Train [ Epoch 142/500 ], loss: 0.3285, avg_reader_cost: 0.0005 avg_batch_cost: 0.3546, avg_ips: 270.7602.
+Type : zipper Train [ Epoch 143/500 ], loss: 0.2997, avg_reader_cost: 0.0005 avg_batch_cost: 0.3571, avg_ips: 268.7953.
+Type : zipper Train [ Epoch 144/500 ], loss: 0.2470, avg_reader_cost: 0.0002 avg_batch_cost: 0.3557, avg_ips: 269.9084.
+Type : zipper Train [ Epoch 145/500 ], loss: 0.2983, avg_reader_cost: 0.0005 avg_batch_cost: 0.3567, avg_ips: 269.1532.
+Type : zipper Train [ Epoch 146/500 ], loss: 0.3307, avg_reader_cost: 0.6137 avg_batch_cost: 0.9769, avg_ips: 98.2667.
+Type : zipper Train [ Epoch 147/500 ], loss: 0.2833, avg_reader_cost: 0.7980 avg_batch_cost: 1.1546, avg_ips: 83.1485.
+Type : zipper Train [ Epoch 148/500 ], loss: 0.3496, avg_reader_cost: 0.8180 avg_batch_cost: 1.1696, avg_ips: 82.0826.
+Type : zipper Train [ Epoch 149/500 ], loss: 0.3431, avg_reader_cost: 0.7816 avg_batch_cost: 1.1330, avg_ips: 84.7278.
+Type : zipper Train [ Epoch 150/500 ], loss: 0.2743, avg_reader_cost: 0.8019 avg_batch_cost: 1.1645, avg_ips: 82.4408.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 150/500 ] max_auc: 0.9995 roc_auc : 0.999475.
-Type : zipper Train [ Epoch 151/500 ], loss: 0.2490, avg_reader_cost: 7.7357 avg_batch_cost: 7.8527, avg_ips: 12.2251.
-Type : zipper Train [ Epoch 152/500 ], loss: 0.2467, avg_reader_cost: 0.0003 avg_batch_cost: 0.1075, avg_ips: 892.9870.
-Type : zipper Train [ Epoch 153/500 ], loss: 0.1752, avg_reader_cost: 0.0004 avg_batch_cost: 0.1080, avg_ips: 889.1319.
-Type : zipper Train [ Epoch 154/500 ], loss: 0.2225, avg_reader_cost: 0.0004 avg_batch_cost: 0.1067, avg_ips: 899.5706.
-Type : zipper Train [ Epoch 155/500 ], loss: 0.2440, avg_reader_cost: 0.0004 avg_batch_cost: 0.1081, avg_ips: 888.2415.
-Type : zipper Train [ Epoch 156/500 ], loss: 0.2066, avg_reader_cost: 0.8320 avg_batch_cost: 1.1975, avg_ips: 80.1671.
-Type : zipper Train [ Epoch 157/500 ], loss: 0.2604, avg_reader_cost: 0.7681 avg_batch_cost: 1.1288, avg_ips: 85.0466.
-Type : zipper Train [ Epoch 158/500 ], loss: 0.1900, avg_reader_cost: 0.7791 avg_batch_cost: 1.1404, avg_ips: 84.1835.
-Type : zipper Train [ Epoch 159/500 ], loss: 0.2132, avg_reader_cost: 0.7582 avg_batch_cost: 1.1171, avg_ips: 85.9367.
-Type : zipper Train [ Epoch 160/500 ], loss: 0.2039, avg_reader_cost: 0.7656 avg_batch_cost: 1.1247, avg_ips: 85.3580.
+Type : zipper Val [ Epoch 150/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : zipper Train [ Epoch 151/500 ], loss: 0.3384, avg_reader_cost: 7.5342 avg_batch_cost: 7.6384, avg_ips: 12.5681.
+Type : zipper Train [ Epoch 152/500 ], loss: 0.2683, avg_reader_cost: 0.0003 avg_batch_cost: 0.1039, avg_ips: 924.3263.
+Type : zipper Train [ Epoch 153/500 ], loss: 0.2846, avg_reader_cost: 0.0003 avg_batch_cost: 0.1030, avg_ips: 932.0352.
+Type : zipper Train [ Epoch 154/500 ], loss: 0.3168, avg_reader_cost: 0.0002 avg_batch_cost: 0.1027, avg_ips: 934.9438.
+Type : zipper Train [ Epoch 155/500 ], loss: 0.3133, avg_reader_cost: 0.0003 avg_batch_cost: 0.1039, avg_ips: 923.6669.
+Type : zipper Train [ Epoch 156/500 ], loss: 0.2372, avg_reader_cost: 0.8529 avg_batch_cost: 1.2058, avg_ips: 79.6144.
+Type : zipper Train [ Epoch 157/500 ], loss: 0.2964, avg_reader_cost: 0.7731 avg_batch_cost: 1.1163, avg_ips: 86.0014.
+Type : zipper Train [ Epoch 158/500 ], loss: 0.2424, avg_reader_cost: 0.8186 avg_batch_cost: 1.1775, avg_ips: 81.5297.
+Type : zipper Train [ Epoch 159/500 ], loss: 0.2354, avg_reader_cost: 0.7837 avg_batch_cost: 1.1366, avg_ips: 84.4609.
+Type : zipper Train [ Epoch 160/500 ], loss: 0.3203, avg_reader_cost: 0.7788 avg_batch_cost: 1.1383, avg_ips: 84.3363.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 160/500 ] max_auc: 0.9997 roc_auc : 0.999737.
-Type : zipper Train [ Epoch 161/500 ], loss: 0.2028, avg_reader_cost: 7.6323 avg_batch_cost: 8.0005, avg_ips: 11.9993.
-Type : zipper Train [ Epoch 162/500 ], loss: 0.2153, avg_reader_cost: 0.0007 avg_batch_cost: 0.3617, avg_ips: 265.4093.
-Type : zipper Train [ Epoch 163/500 ], loss: 0.2185, avg_reader_cost: 0.0003 avg_batch_cost: 0.3667, avg_ips: 261.8155.
-Type : zipper Train [ Epoch 164/500 ], loss: 0.1908, avg_reader_cost: 0.0006 avg_batch_cost: 0.3585, avg_ips: 267.7758.
-Type : zipper Train [ Epoch 165/500 ], loss: 0.2225, avg_reader_cost: 0.0002 avg_batch_cost: 0.3629, avg_ips: 264.5652.
-Type : zipper Train [ Epoch 166/500 ], loss: 0.2686, avg_reader_cost: 0.5883 avg_batch_cost: 0.9481, avg_ips: 101.2573.
-Type : zipper Train [ Epoch 167/500 ], loss: 0.2500, avg_reader_cost: 0.7635 avg_batch_cost: 1.1265, avg_ips: 85.2169.
-Type : zipper Train [ Epoch 168/500 ], loss: 0.1769, avg_reader_cost: 0.7650 avg_batch_cost: 1.1232, avg_ips: 85.4734.
-Type : zipper Train [ Epoch 169/500 ], loss: 0.1848, avg_reader_cost: 0.7616 avg_batch_cost: 1.1242, avg_ips: 85.3953.
-Type : zipper Train [ Epoch 170/500 ], loss: 0.1417, avg_reader_cost: 0.7596 avg_batch_cost: 1.1223, avg_ips: 85.5352.
+Type : zipper Val [ Epoch 160/500 ] max_auc: 1.0000 roc_auc : 0.977416.
+Type : zipper Train [ Epoch 161/500 ], loss: 0.3671, avg_reader_cost: 6.8518 avg_batch_cost: 7.2735, avg_ips: 13.1986.
+Type : zipper Train [ Epoch 162/500 ], loss: 0.2767, avg_reader_cost: 0.0005 avg_batch_cost: 0.3489, avg_ips: 275.1474.
+Type : zipper Train [ Epoch 163/500 ], loss: 0.2184, avg_reader_cost: 0.0005 avg_batch_cost: 0.3537, avg_ips: 271.4484.
+Type : zipper Train [ Epoch 164/500 ], loss: 0.2501, avg_reader_cost: 0.0003 avg_batch_cost: 0.3525, avg_ips: 272.3452.
+Type : zipper Train [ Epoch 165/500 ], loss: 0.2481, avg_reader_cost: 0.0010 avg_batch_cost: 0.3513, avg_ips: 273.2629.
+Type : zipper Train [ Epoch 166/500 ], loss: 0.2370, avg_reader_cost: 0.6357 avg_batch_cost: 0.9863, avg_ips: 97.3321.
+Type : zipper Train [ Epoch 167/500 ], loss: 0.2677, avg_reader_cost: 0.9093 avg_batch_cost: 1.2614, avg_ips: 76.1050.
+Type : zipper Train [ Epoch 168/500 ], loss: 0.2376, avg_reader_cost: 0.8037 avg_batch_cost: 1.1569, avg_ips: 82.9832.
+Type : zipper Train [ Epoch 169/500 ], loss: 0.2930, avg_reader_cost: 0.8071 avg_batch_cost: 1.1589, avg_ips: 82.8368.
+Type : zipper Train [ Epoch 170/500 ], loss: 0.2082, avg_reader_cost: 0.8503 avg_batch_cost: 1.1927, avg_ips: 80.4928.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 170/500 ] max_auc: 1.0000 roc_auc : 1.000000.
-Type : zipper Train [ Epoch 171/500 ], loss: 0.1993, avg_reader_cost: 7.8437 avg_batch_cost: 8.2030, avg_ips: 11.7031.
-Type : zipper Train [ Epoch 172/500 ], loss: 0.2047, avg_reader_cost: 0.0005 avg_batch_cost: 0.3662, avg_ips: 262.1604.
-Type : zipper Train [ Epoch 173/500 ], loss: 0.2059, avg_reader_cost: 0.0003 avg_batch_cost: 0.3684, avg_ips: 260.6002.
-Type : zipper Train [ Epoch 174/500 ], loss: 0.2022, avg_reader_cost: 0.0003 avg_batch_cost: 0.3701, avg_ips: 259.4082.
-Type : zipper Train [ Epoch 175/500 ], loss: 0.1427, avg_reader_cost: 0.0003 avg_batch_cost: 0.3605, avg_ips: 266.3003.
-Type : zipper Train [ Epoch 176/500 ], loss: 0.2473, avg_reader_cost: 0.5978 avg_batch_cost: 0.9568, avg_ips: 100.3326.
-Type : zipper Train [ Epoch 177/500 ], loss: 0.2010, avg_reader_cost: 0.7688 avg_batch_cost: 1.1269, avg_ips: 85.1883.
-Type : zipper Train [ Epoch 178/500 ], loss: 0.1848, avg_reader_cost: 0.7691 avg_batch_cost: 1.1293, avg_ips: 85.0053.
-Type : zipper Train [ Epoch 179/500 ], loss: 0.3048, avg_reader_cost: 0.7677 avg_batch_cost: 1.1216, avg_ips: 85.5930.
-Type : zipper Train [ Epoch 180/500 ], loss: 0.1893, avg_reader_cost: 0.7689 avg_batch_cost: 1.1306, avg_ips: 84.9081.
+Type : zipper Val [ Epoch 170/500 ] max_auc: 1.0000 roc_auc : 0.992122.
+Type : zipper Train [ Epoch 171/500 ], loss: 0.2060, avg_reader_cost: 6.9169 avg_batch_cost: 7.3862, avg_ips: 12.9972.
+Type : zipper Train [ Epoch 172/500 ], loss: 0.2557, avg_reader_cost: 0.0004 avg_batch_cost: 0.3529, avg_ips: 272.0339.
+Type : zipper Train [ Epoch 173/500 ], loss: 0.2555, avg_reader_cost: 0.0003 avg_batch_cost: 0.3558, avg_ips: 269.7990.
+Type : zipper Train [ Epoch 174/500 ], loss: 0.2210, avg_reader_cost: 0.0002 avg_batch_cost: 0.3575, avg_ips: 268.5613.
+Type : zipper Train [ Epoch 175/500 ], loss: 0.2280, avg_reader_cost: 0.0005 avg_batch_cost: 0.3549, avg_ips: 270.5252.
+Type : zipper Train [ Epoch 176/500 ], loss: 0.2271, avg_reader_cost: 0.5907 avg_batch_cost: 0.9451, avg_ips: 101.5802.
+Type : zipper Train [ Epoch 177/500 ], loss: 0.2944, avg_reader_cost: 0.7705 avg_batch_cost: 1.1242, avg_ips: 85.3937.
+Type : zipper Train [ Epoch 178/500 ], loss: 0.2216, avg_reader_cost: 0.7709 avg_batch_cost: 1.1231, avg_ips: 85.4814.
+Type : zipper Train [ Epoch 179/500 ], loss: 0.1741, avg_reader_cost: 0.7743 avg_batch_cost: 1.1264, avg_ips: 85.2298.
+Type : zipper Train [ Epoch 180/500 ], loss: 0.2288, avg_reader_cost: 0.7731 avg_batch_cost: 1.1351, avg_ips: 84.5776.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 180/500 ] max_auc: 1.0000 roc_auc : 0.999737.
-Type : zipper Train [ Epoch 181/500 ], loss: 0.2236, avg_reader_cost: 6.8809 avg_batch_cost: 7.3444, avg_ips: 13.0712.
-Type : zipper Train [ Epoch 182/500 ], loss: 0.2504, avg_reader_cost: 0.0003 avg_batch_cost: 0.3651, avg_ips: 262.9580.
-Type : zipper Train [ Epoch 183/500 ], loss: 0.3599, avg_reader_cost: 0.0003 avg_batch_cost: 0.3670, avg_ips: 261.6107.
-Type : zipper Train [ Epoch 184/500 ], loss: 0.3005, avg_reader_cost: 0.0003 avg_batch_cost: 0.3593, avg_ips: 267.2228.
-Type : zipper Train [ Epoch 185/500 ], loss: 0.3967, avg_reader_cost: 0.0004 avg_batch_cost: 0.3633, avg_ips: 264.2102.
-Type : zipper Train [ Epoch 186/500 ], loss: 0.3648, avg_reader_cost: 0.6276 avg_batch_cost: 0.7335, avg_ips: 130.8776.
-Type : zipper Train [ Epoch 187/500 ], loss: 0.4262, avg_reader_cost: 0.8212 avg_batch_cost: 1.1823, avg_ips: 81.1994.
-Type : zipper Train [ Epoch 188/500 ], loss: 0.3825, avg_reader_cost: 0.7586 avg_batch_cost: 1.1228, avg_ips: 85.5021.
-Type : zipper Train [ Epoch 189/500 ], loss: 0.3946, avg_reader_cost: 0.7631 avg_batch_cost: 1.1286, avg_ips: 85.0596.
-Type : zipper Train [ Epoch 190/500 ], loss: 0.3544, avg_reader_cost: 0.7597 avg_batch_cost: 1.1263, avg_ips: 85.2361.
+Type : zipper Val [ Epoch 180/500 ] max_auc: 1.0000 roc_auc : 0.997899.
+Type : zipper Train [ Epoch 181/500 ], loss: 0.1510, avg_reader_cost: 6.6498 avg_batch_cost: 7.0687, avg_ips: 13.5810.
+Type : zipper Train [ Epoch 182/500 ], loss: 0.2159, avg_reader_cost: 0.0005 avg_batch_cost: 0.3586, avg_ips: 267.6922.
+Type : zipper Train [ Epoch 183/500 ], loss: 0.2215, avg_reader_cost: 0.0002 avg_batch_cost: 0.3639, avg_ips: 263.8043.
+Type : zipper Train [ Epoch 184/500 ], loss: 0.1841, avg_reader_cost: 0.0004 avg_batch_cost: 0.3685, avg_ips: 260.5082.
+Type : zipper Train [ Epoch 185/500 ], loss: 0.2324, avg_reader_cost: 0.0003 avg_batch_cost: 0.3584, avg_ips: 267.8786.
+Type : zipper Train [ Epoch 186/500 ], loss: 0.2241, avg_reader_cost: 0.6009 avg_batch_cost: 0.7042, avg_ips: 136.3167.
+Type : zipper Train [ Epoch 187/500 ], loss: 0.2211, avg_reader_cost: 0.8531 avg_batch_cost: 1.2146, avg_ips: 79.0355.
+Type : zipper Train [ Epoch 188/500 ], loss: 0.2085, avg_reader_cost: 0.8130 avg_batch_cost: 1.1660, avg_ips: 82.3295.
+Type : zipper Train [ Epoch 189/500 ], loss: 0.2160, avg_reader_cost: 0.7869 avg_batch_cost: 1.1405, avg_ips: 84.1768.
+Type : zipper Train [ Epoch 190/500 ], loss: 0.2263, avg_reader_cost: 0.7935 avg_batch_cost: 1.1534, avg_ips: 83.2328.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 190/500 ] max_auc: 1.0000 roc_auc : 0.998687.
-Type : zipper Train [ Epoch 191/500 ], loss: 0.3738, avg_reader_cost: 6.8489 avg_batch_cost: 7.2867, avg_ips: 13.1746.
-Type : zipper Train [ Epoch 192/500 ], loss: 0.3421, avg_reader_cost: 0.0003 avg_batch_cost: 0.3608, avg_ips: 266.0646.
-Type : zipper Train [ Epoch 193/500 ], loss: 0.3523, avg_reader_cost: 0.0008 avg_batch_cost: 0.3699, avg_ips: 259.5627.
-Type : zipper Train [ Epoch 194/500 ], loss: 0.3255, avg_reader_cost: 0.0008 avg_batch_cost: 0.3620, avg_ips: 265.1902.
-Type : zipper Train [ Epoch 195/500 ], loss: 0.3691, avg_reader_cost: 0.0008 avg_batch_cost: 0.3653, avg_ips: 262.7995.
-Type : zipper Train [ Epoch 196/500 ], loss: 0.3324, avg_reader_cost: 0.6230 avg_batch_cost: 0.9857, avg_ips: 97.3938.
-Type : zipper Train [ Epoch 197/500 ], loss: 0.3262, avg_reader_cost: 0.8253 avg_batch_cost: 1.1897, avg_ips: 80.6937.
-Type : zipper Train [ Epoch 198/500 ], loss: 0.2857, avg_reader_cost: 0.7863 avg_batch_cost: 1.1480, avg_ips: 83.6207.
-Type : zipper Train [ Epoch 199/500 ], loss: 0.2863, avg_reader_cost: 0.8200 avg_batch_cost: 1.1829, avg_ips: 81.1553.
-Type : zipper Train [ Epoch 200/500 ], loss: 0.2484, avg_reader_cost: 0.7828 avg_batch_cost: 1.1467, avg_ips: 83.7201.
+Type : zipper Val [ Epoch 190/500 ] max_auc: 1.0000 roc_auc : 0.998162.
+Type : zipper Train [ Epoch 191/500 ], loss: 0.2224, avg_reader_cost: 6.8296 avg_batch_cost: 7.2534, avg_ips: 13.2351.
+Type : zipper Train [ Epoch 192/500 ], loss: 0.1657, avg_reader_cost: 0.0004 avg_batch_cost: 0.3514, avg_ips: 273.1624.
+Type : zipper Train [ Epoch 193/500 ], loss: 0.1495, avg_reader_cost: 0.0012 avg_batch_cost: 0.3530, avg_ips: 271.9208.
+Type : zipper Train [ Epoch 194/500 ], loss: 0.2296, avg_reader_cost: 0.0005 avg_batch_cost: 0.3574, avg_ips: 268.6434.
+Type : zipper Train [ Epoch 195/500 ], loss: 0.1954, avg_reader_cost: 0.0003 avg_batch_cost: 0.3546, avg_ips: 270.7555.
+Type : zipper Train [ Epoch 196/500 ], loss: 0.1690, avg_reader_cost: 0.5875 avg_batch_cost: 0.9416, avg_ips: 101.9527.
+Type : zipper Train [ Epoch 197/500 ], loss: 0.1408, avg_reader_cost: 0.7515 avg_batch_cost: 1.1004, avg_ips: 87.2424.
+Type : zipper Train [ Epoch 198/500 ], loss: 0.1743, avg_reader_cost: 0.7550 avg_batch_cost: 1.1120, avg_ips: 86.3338.
+Type : zipper Train [ Epoch 199/500 ], loss: 0.2202, avg_reader_cost: 0.7618 avg_batch_cost: 1.1134, avg_ips: 86.2205.
+Type : zipper Train [ Epoch 200/500 ], loss: 0.1651, avg_reader_cost: 0.7540 avg_batch_cost: 1.1126, avg_ips: 86.2852.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 200/500 ] max_auc: 1.0000 roc_auc : 0.996324.
-Type : zipper Train [ Epoch 201/500 ], loss: 0.3078, avg_reader_cost: 6.8500 avg_batch_cost: 7.3155, avg_ips: 13.1228.
-Type : zipper Train [ Epoch 202/500 ], loss: 0.2333, avg_reader_cost: 0.0011 avg_batch_cost: 0.3775, avg_ips: 254.3136.
-Type : zipper Train [ Epoch 203/500 ], loss: 0.2677, avg_reader_cost: 0.0004 avg_batch_cost: 0.3721, avg_ips: 257.9714.
-Type : zipper Train [ Epoch 204/500 ], loss: 0.2851, avg_reader_cost: 0.0006 avg_batch_cost: 0.3694, avg_ips: 259.8970.
-Type : zipper Train [ Epoch 205/500 ], loss: 0.2100, avg_reader_cost: 0.0004 avg_batch_cost: 0.3633, avg_ips: 264.2511.
-Type : zipper Train [ Epoch 206/500 ], loss: 0.3224, avg_reader_cost: 0.5880 avg_batch_cost: 0.9454, avg_ips: 101.5459.
-Type : zipper Train [ Epoch 207/500 ], loss: 0.2135, avg_reader_cost: 0.7664 avg_batch_cost: 1.1359, avg_ips: 84.5148.
-Type : zipper Train [ Epoch 208/500 ], loss: 0.2437, avg_reader_cost: 0.7644 avg_batch_cost: 1.1283, avg_ips: 85.0832.
-Type : zipper Train [ Epoch 209/500 ], loss: 0.2839, avg_reader_cost: 0.7671 avg_batch_cost: 1.1298, avg_ips: 84.9701.
-Type : zipper Train [ Epoch 210/500 ], loss: 0.2982, avg_reader_cost: 0.7696 avg_batch_cost: 1.1258, avg_ips: 85.2732.
+Type : zipper Val [ Epoch 200/500 ] max_auc: 1.0000 roc_auc : 0.998162.
+Type : zipper Train [ Epoch 201/500 ], loss: 0.2396, avg_reader_cost: 6.5732 avg_batch_cost: 7.0100, avg_ips: 13.6947.
+Type : zipper Train [ Epoch 202/500 ], loss: 0.1899, avg_reader_cost: 0.0002 avg_batch_cost: 0.3526, avg_ips: 272.2902.
+Type : zipper Train [ Epoch 203/500 ], loss: 0.1997, avg_reader_cost: 0.0005 avg_batch_cost: 0.3551, avg_ips: 270.3784.
+Type : zipper Train [ Epoch 204/500 ], loss: 0.1549, avg_reader_cost: 0.0005 avg_batch_cost: 0.3539, avg_ips: 271.2520.
+Type : zipper Train [ Epoch 205/500 ], loss: 0.2051, avg_reader_cost: 0.0003 avg_batch_cost: 0.3538, avg_ips: 271.3739.
+Type : zipper Train [ Epoch 206/500 ], loss: 0.2407, avg_reader_cost: 0.5879 avg_batch_cost: 0.9400, avg_ips: 102.1287.
+Type : zipper Train [ Epoch 207/500 ], loss: 0.2260, avg_reader_cost: 0.7522 avg_batch_cost: 1.1038, avg_ips: 86.9711.
+Type : zipper Train [ Epoch 208/500 ], loss: 0.1960, avg_reader_cost: 0.7566 avg_batch_cost: 1.1096, avg_ips: 86.5204.
+Type : zipper Train [ Epoch 209/500 ], loss: 0.1775, avg_reader_cost: 0.7614 avg_batch_cost: 1.1146, avg_ips: 86.1287.
+Type : zipper Train [ Epoch 210/500 ], loss: 0.2245, avg_reader_cost: 0.7608 avg_batch_cost: 1.1163, avg_ips: 85.9983.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 210/500 ] max_auc: 1.0000 roc_auc : 1.000000.
-Type : zipper Train [ Epoch 211/500 ], loss: 0.2374, avg_reader_cost: 7.9709 avg_batch_cost: 8.3377, avg_ips: 11.5140.
-Type : zipper Train [ Epoch 212/500 ], loss: 0.2584, avg_reader_cost: 0.0003 avg_batch_cost: 0.3704, avg_ips: 259.1978.
-Type : zipper Train [ Epoch 213/500 ], loss: 0.2739, avg_reader_cost: 0.0012 avg_batch_cost: 0.3703, avg_ips: 259.2546.
-Type : zipper Train [ Epoch 214/500 ], loss: 0.2528, avg_reader_cost: 0.0003 avg_batch_cost: 0.3660, avg_ips: 262.2763.
-Type : zipper Train [ Epoch 215/500 ], loss: 0.2219, avg_reader_cost: 0.0006 avg_batch_cost: 0.3794, avg_ips: 253.0468.
-Type : zipper Train [ Epoch 216/500 ], loss: 0.2195, avg_reader_cost: 0.5850 avg_batch_cost: 0.9458, avg_ips: 101.4980.
-Type : zipper Train [ Epoch 217/500 ], loss: 0.2343, avg_reader_cost: 0.7718 avg_batch_cost: 0.8781, avg_ips: 109.3304.
-Type : zipper Train [ Epoch 218/500 ], loss: 0.2392, avg_reader_cost: 0.8622 avg_batch_cost: 1.2271, avg_ips: 78.2330.
-Type : zipper Train [ Epoch 219/500 ], loss: 0.1762, avg_reader_cost: 0.7946 avg_batch_cost: 1.1708, avg_ips: 81.9957.
-Type : zipper Train [ Epoch 220/500 ], loss: 0.2045, avg_reader_cost: 0.7584 avg_batch_cost: 1.1197, avg_ips: 85.7353.
+Type : zipper Val [ Epoch 210/500 ] max_auc: 1.0000 roc_auc : 0.999737.
+Type : zipper Train [ Epoch 211/500 ], loss: 0.2210, avg_reader_cost: 7.7641 avg_batch_cost: 8.1595, avg_ips: 11.7654.
+Type : zipper Train [ Epoch 212/500 ], loss: 0.2212, avg_reader_cost: 0.0003 avg_batch_cost: 0.2835, avg_ips: 338.6235.
+Type : zipper Train [ Epoch 213/500 ], loss: 0.2167, avg_reader_cost: 0.0008 avg_batch_cost: 0.3557, avg_ips: 269.9097.
+Type : zipper Train [ Epoch 214/500 ], loss: 0.1862, avg_reader_cost: 0.0003 avg_batch_cost: 0.3548, avg_ips: 270.6130.
+Type : zipper Train [ Epoch 215/500 ], loss: 0.2350, avg_reader_cost: 0.0004 avg_batch_cost: 0.3622, avg_ips: 265.0417.
+Type : zipper Train [ Epoch 216/500 ], loss: 0.1954, avg_reader_cost: 0.7006 avg_batch_cost: 1.0549, avg_ips: 91.0015.
+Type : zipper Train [ Epoch 217/500 ], loss: 0.2303, avg_reader_cost: 0.8237 avg_batch_cost: 0.9273, avg_ips: 103.5235.
+Type : zipper Train [ Epoch 218/500 ], loss: 0.2230, avg_reader_cost: 0.8081 avg_batch_cost: 1.1610, avg_ips: 82.6850.
+Type : zipper Train [ Epoch 219/500 ], loss: 0.2093, avg_reader_cost: 0.7530 avg_batch_cost: 1.1118, avg_ips: 86.3479.
+Type : zipper Train [ Epoch 220/500 ], loss: 0.2401, avg_reader_cost: 0.7540 avg_batch_cost: 1.1076, avg_ips: 86.6706.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 220/500 ] max_auc: 1.0000 roc_auc : 0.998162.
-Type : zipper Train [ Epoch 221/500 ], loss: 0.2306, avg_reader_cost: 6.6774 avg_batch_cost: 7.1319, avg_ips: 13.4607.
-Type : zipper Train [ Epoch 222/500 ], loss: 0.2839, avg_reader_cost: 0.0004 avg_batch_cost: 0.3662, avg_ips: 262.1621.
-Type : zipper Train [ Epoch 223/500 ], loss: 0.2023, avg_reader_cost: 0.0004 avg_batch_cost: 0.3674, avg_ips: 261.2668.
-Type : zipper Train [ Epoch 224/500 ], loss: 0.2082, avg_reader_cost: 0.0006 avg_batch_cost: 0.3657, avg_ips: 262.5429.
-Type : zipper Train [ Epoch 225/500 ], loss: 0.1771, avg_reader_cost: 0.0005 avg_batch_cost: 0.3654, avg_ips: 262.7319.
-Type : zipper Train [ Epoch 226/500 ], loss: 0.2300, avg_reader_cost: 0.6389 avg_batch_cost: 1.0150, avg_ips: 94.5845.
-Type : zipper Train [ Epoch 227/500 ], loss: 0.1684, avg_reader_cost: 0.7850 avg_batch_cost: 1.1508, avg_ips: 83.4223.
-Type : zipper Train [ Epoch 228/500 ], loss: 0.1781, avg_reader_cost: 0.7851 avg_batch_cost: 1.1502, avg_ips: 83.4641.
-Type : zipper Train [ Epoch 229/500 ], loss: 0.1826, avg_reader_cost: 0.8242 avg_batch_cost: 1.2488, avg_ips: 76.8712.
-Type : zipper Train [ Epoch 230/500 ], loss: 0.1818, avg_reader_cost: 0.7307 avg_batch_cost: 1.1709, avg_ips: 81.9860.
+Type : zipper Val [ Epoch 220/500 ] max_auc: 1.0000 roc_auc : 0.999737.
+Type : zipper Train [ Epoch 221/500 ], loss: 0.2001, avg_reader_cost: 6.8984 avg_batch_cost: 7.3114, avg_ips: 13.1303.
+Type : zipper Train [ Epoch 222/500 ], loss: 0.2012, avg_reader_cost: 0.0003 avg_batch_cost: 0.3500, avg_ips: 274.3245.
+Type : zipper Train [ Epoch 223/500 ], loss: 0.1635, avg_reader_cost: 0.0005 avg_batch_cost: 0.3513, avg_ips: 273.2460.
+Type : zipper Train [ Epoch 224/500 ], loss: 0.1596, avg_reader_cost: 0.0004 avg_batch_cost: 0.3473, avg_ips: 276.4127.
+Type : zipper Train [ Epoch 225/500 ], loss: 0.1497, avg_reader_cost: 0.0002 avg_batch_cost: 0.3524, avg_ips: 272.4477.
+Type : zipper Train [ Epoch 226/500 ], loss: 0.1679, avg_reader_cost: 0.6146 avg_batch_cost: 0.9679, avg_ips: 99.1850.
+Type : zipper Train [ Epoch 227/500 ], loss: 0.1828, avg_reader_cost: 0.7542 avg_batch_cost: 1.1069, avg_ips: 86.7272.
+Type : zipper Train [ Epoch 228/500 ], loss: 0.1889, avg_reader_cost: 0.7610 avg_batch_cost: 1.1149, avg_ips: 86.1030.
+Type : zipper Train [ Epoch 229/500 ], loss: 0.1739, avg_reader_cost: 0.7622 avg_batch_cost: 1.1132, avg_ips: 86.2358.
+Type : zipper Train [ Epoch 230/500 ], loss: 0.2049, avg_reader_cost: 0.7635 avg_batch_cost: 1.1175, avg_ips: 85.9041.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 230/500 ] max_auc: 1.0000 roc_auc : 0.997637.
-Type : zipper Train [ Epoch 231/500 ], loss: 0.1618, avg_reader_cost: 6.8500 avg_batch_cost: 7.3388, avg_ips: 13.0811.
-Type : zipper Train [ Epoch 232/500 ], loss: 0.1616, avg_reader_cost: 0.0005 avg_batch_cost: 0.3649, avg_ips: 263.0982.
-Type : zipper Train [ Epoch 233/500 ], loss: 0.2110, avg_reader_cost: 0.0005 avg_batch_cost: 0.3652, avg_ips: 262.9000.
-Type : zipper Train [ Epoch 234/500 ], loss: 0.2010, avg_reader_cost: 0.0003 avg_batch_cost: 0.3628, avg_ips: 264.6122.
-Type : zipper Train [ Epoch 235/500 ], loss: 0.1467, avg_reader_cost: 0.0005 avg_batch_cost: 0.3652, avg_ips: 262.8947.
-Type : zipper Train [ Epoch 236/500 ], loss: 0.2370, avg_reader_cost: 0.5822 avg_batch_cost: 0.9507, avg_ips: 100.9736.
-Type : zipper Train [ Epoch 237/500 ], loss: 0.1536, avg_reader_cost: 0.7744 avg_batch_cost: 1.1380, avg_ips: 84.3573.
-Type : zipper Train [ Epoch 238/500 ], loss: 0.1596, avg_reader_cost: 0.7874 avg_batch_cost: 1.1548, avg_ips: 83.1292.
-Type : zipper Train [ Epoch 239/500 ], loss: 0.2147, avg_reader_cost: 0.7839 avg_batch_cost: 1.1477, avg_ips: 83.6476.
-Type : zipper Train [ Epoch 240/500 ], loss: 0.1980, avg_reader_cost: 0.7809 avg_batch_cost: 1.1461, avg_ips: 83.7646.
+Type : zipper Val [ Epoch 230/500 ] max_auc: 1.0000 roc_auc : 0.999475.
+Type : zipper Train [ Epoch 231/500 ], loss: 0.1963, avg_reader_cost: 6.9649 avg_batch_cost: 7.4082, avg_ips: 12.9587.
+Type : zipper Train [ Epoch 232/500 ], loss: 0.1761, avg_reader_cost: 0.0004 avg_batch_cost: 0.3558, avg_ips: 269.7820.
+Type : zipper Train [ Epoch 233/500 ], loss: 0.1670, avg_reader_cost: 0.0002 avg_batch_cost: 0.3486, avg_ips: 275.3738.
+Type : zipper Train [ Epoch 234/500 ], loss: 0.2276, avg_reader_cost: 0.0003 avg_batch_cost: 0.3540, avg_ips: 271.1515.
+Type : zipper Train [ Epoch 235/500 ], loss: 0.1731, avg_reader_cost: 0.0002 avg_batch_cost: 0.3520, avg_ips: 272.7402.
+Type : zipper Train [ Epoch 236/500 ], loss: 0.1540, avg_reader_cost: 0.6514 avg_batch_cost: 1.0038, avg_ips: 95.6335.
+Type : zipper Train [ Epoch 237/500 ], loss: 0.1774, avg_reader_cost: 0.7803 avg_batch_cost: 1.1310, avg_ips: 84.8788.
+Type : zipper Train [ Epoch 238/500 ], loss: 0.2069, avg_reader_cost: 0.7702 avg_batch_cost: 1.1235, avg_ips: 85.4441.
+Type : zipper Train [ Epoch 239/500 ], loss: 0.1671, avg_reader_cost: 0.7782 avg_batch_cost: 1.1280, avg_ips: 85.1085.
+Type : zipper Train [ Epoch 240/500 ], loss: 0.1639, avg_reader_cost: 0.7695 avg_batch_cost: 1.1221, avg_ips: 85.5533.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 240/500 ] max_auc: 1.0000 roc_auc : 0.998687.
-Type : zipper Train [ Epoch 241/500 ], loss: 0.1779, avg_reader_cost: 7.0077 avg_batch_cost: 7.4496, avg_ips: 12.8865.
-Type : zipper Train [ Epoch 242/500 ], loss: 0.1758, avg_reader_cost: 0.0006 avg_batch_cost: 0.3582, avg_ips: 267.9986.
-Type : zipper Train [ Epoch 243/500 ], loss: 0.1670, avg_reader_cost: 0.0003 avg_batch_cost: 0.3777, avg_ips: 254.1852.
-Type : zipper Train [ Epoch 244/500 ], loss: 0.1930, avg_reader_cost: 0.0006 avg_batch_cost: 0.3603, avg_ips: 266.4374.
-Type : zipper Train [ Epoch 245/500 ], loss: 0.1445, avg_reader_cost: 0.0003 avg_batch_cost: 0.3633, avg_ips: 264.2650.
-Type : zipper Train [ Epoch 246/500 ], loss: 0.1644, avg_reader_cost: 0.5998 avg_batch_cost: 0.9637, avg_ips: 99.6144.
-Type : zipper Train [ Epoch 247/500 ], loss: 0.1442, avg_reader_cost: 0.7685 avg_batch_cost: 1.1282, avg_ips: 85.0929.
-Type : zipper Train [ Epoch 248/500 ], loss: 0.1967, avg_reader_cost: 0.7653 avg_batch_cost: 0.8730, avg_ips: 109.9646.
-Type : zipper Train [ Epoch 249/500 ], loss: 0.1668, avg_reader_cost: 0.8428 avg_batch_cost: 1.2050, avg_ips: 79.6652.
-Type : zipper Train [ Epoch 250/500 ], loss: 0.1481, avg_reader_cost: 0.7670 avg_batch_cost: 1.1323, avg_ips: 84.7795.
+Type : zipper Val [ Epoch 240/500 ] max_auc: 1.0000 roc_auc : 0.998162.
+Type : zipper Train [ Epoch 241/500 ], loss: 0.1921, avg_reader_cost: 7.2380 avg_batch_cost: 7.4627, avg_ips: 12.8640.
+Type : zipper Train [ Epoch 242/500 ], loss: 0.1827, avg_reader_cost: 0.0004 avg_batch_cost: 0.3579, avg_ips: 268.2027.
+Type : zipper Train [ Epoch 243/500 ], loss: 0.1556, avg_reader_cost: 0.0003 avg_batch_cost: 0.3545, avg_ips: 270.8161.
+Type : zipper Train [ Epoch 244/500 ], loss: 0.1382, avg_reader_cost: 0.0002 avg_batch_cost: 0.3535, avg_ips: 271.5712.
+Type : zipper Train [ Epoch 245/500 ], loss: 0.1408, avg_reader_cost: 0.0004 avg_batch_cost: 0.3562, avg_ips: 269.4982.
+Type : zipper Train [ Epoch 246/500 ], loss: 0.1688, avg_reader_cost: 0.6225 avg_batch_cost: 0.9769, avg_ips: 98.2658.
+Type : zipper Train [ Epoch 247/500 ], loss: 0.2480, avg_reader_cost: 0.7535 avg_batch_cost: 1.1100, avg_ips: 86.4856.
+Type : zipper Train [ Epoch 248/500 ], loss: 0.2498, avg_reader_cost: 0.7551 avg_batch_cost: 0.8594, avg_ips: 111.7076.
+Type : zipper Train [ Epoch 249/500 ], loss: 0.1627, avg_reader_cost: 0.8262 avg_batch_cost: 1.1720, avg_ips: 81.9102.
+Type : zipper Train [ Epoch 250/500 ], loss: 0.1654, avg_reader_cost: 0.9758 avg_batch_cost: 1.1203, avg_ips: 85.6885.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
 Type : zipper Val [ Epoch 250/500 ] max_auc: 1.0000 roc_auc : 0.998950.
-Type : zipper Train [ Epoch 251/500 ], loss: 0.1444, avg_reader_cost: 6.7668 avg_batch_cost: 7.2384, avg_ips: 13.2626.
-Type : zipper Train [ Epoch 252/500 ], loss: 0.1626, avg_reader_cost: 0.0003 avg_batch_cost: 0.3739, avg_ips: 256.7676.
-Type : zipper Train [ Epoch 253/500 ], loss: 0.1626, avg_reader_cost: 0.0003 avg_batch_cost: 0.3671, avg_ips: 261.5244.
-Type : zipper Train [ Epoch 254/500 ], loss: 0.1420, avg_reader_cost: 0.0004 avg_batch_cost: 0.3637, avg_ips: 263.9335.
-Type : zipper Train [ Epoch 255/500 ], loss: 0.1133, avg_reader_cost: 0.0006 avg_batch_cost: 0.3843, avg_ips: 249.8275.
-Type : zipper Train [ Epoch 256/500 ], loss: 0.1337, avg_reader_cost: 0.5892 avg_batch_cost: 0.9508, avg_ips: 100.9696.
-Type : zipper Train [ Epoch 257/500 ], loss: 0.1420, avg_reader_cost: 0.7685 avg_batch_cost: 1.1287, avg_ips: 85.0562.
-Type : zipper Train [ Epoch 258/500 ], loss: 0.1428, avg_reader_cost: 0.7711 avg_batch_cost: 1.1344, avg_ips: 84.6243.
-Type : zipper Train [ Epoch 259/500 ], loss: 0.2009, avg_reader_cost: 0.7779 avg_batch_cost: 1.1421, avg_ips: 84.0586.
-Type : zipper Train [ Epoch 260/500 ], loss: 0.1535, avg_reader_cost: 0.8126 avg_batch_cost: 1.1779, avg_ips: 81.4987.
+Type : zipper Train [ Epoch 251/500 ], loss: 0.1293, avg_reader_cost: 7.6630 avg_batch_cost: 8.0718, avg_ips: 11.8933.
+Type : zipper Train [ Epoch 252/500 ], loss: 0.1094, avg_reader_cost: 0.0002 avg_batch_cost: 0.3523, avg_ips: 272.4967.
+Type : zipper Train [ Epoch 253/500 ], loss: 0.1892, avg_reader_cost: 0.0004 avg_batch_cost: 0.3559, avg_ips: 269.7197.
+Type : zipper Train [ Epoch 254/500 ], loss: 0.1556, avg_reader_cost: 0.0003 avg_batch_cost: 0.3554, avg_ips: 270.0933.
+Type : zipper Train [ Epoch 255/500 ], loss: 0.1425, avg_reader_cost: 0.0004 avg_batch_cost: 0.3514, avg_ips: 273.2080.
+Type : zipper Train [ Epoch 256/500 ], loss: 0.1536, avg_reader_cost: 0.5893 avg_batch_cost: 0.9385, avg_ips: 102.2861.
+Type : zipper Train [ Epoch 257/500 ], loss: 0.1173, avg_reader_cost: 0.7769 avg_batch_cost: 1.1384, avg_ips: 84.3306.
+Type : zipper Train [ Epoch 258/500 ], loss: 0.1751, avg_reader_cost: 0.8376 avg_batch_cost: 1.1960, avg_ips: 80.2661.
+Type : zipper Train [ Epoch 259/500 ], loss: 0.1983, avg_reader_cost: 0.8125 avg_batch_cost: 1.1670, avg_ips: 82.2624.
+Type : zipper Train [ Epoch 260/500 ], loss: 0.1817, avg_reader_cost: 0.7767 avg_batch_cost: 1.1308, avg_ips: 84.8934.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 260/500 ] max_auc: 1.0000 roc_auc : 0.998162.
-Type : zipper Train [ Epoch 261/500 ], loss: 0.1667, avg_reader_cost: 7.0024 avg_batch_cost: 7.4544, avg_ips: 12.8783.
-Type : zipper Train [ Epoch 262/500 ], loss: 0.1339, avg_reader_cost: 0.0012 avg_batch_cost: 0.3639, avg_ips: 263.8236.
-Type : zipper Train [ Epoch 263/500 ], loss: 0.2296, avg_reader_cost: 0.0006 avg_batch_cost: 0.3682, avg_ips: 260.7035.
-Type : zipper Train [ Epoch 264/500 ], loss: 0.1703, avg_reader_cost: 0.0003 avg_batch_cost: 0.3649, avg_ips: 263.0603.
-Type : zipper Train [ Epoch 265/500 ], loss: 0.1712, avg_reader_cost: 0.0003 avg_batch_cost: 0.3610, avg_ips: 265.9516.
-Type : zipper Train [ Epoch 266/500 ], loss: 0.1858, avg_reader_cost: 0.5865 avg_batch_cost: 0.9533, avg_ips: 100.7057.
-Type : zipper Train [ Epoch 267/500 ], loss: 0.1788, avg_reader_cost: 0.7573 avg_batch_cost: 1.1173, avg_ips: 85.9205.
-Type : zipper Train [ Epoch 268/500 ], loss: 0.1467, avg_reader_cost: 0.7588 avg_batch_cost: 1.1184, avg_ips: 85.8364.
-Type : zipper Train [ Epoch 269/500 ], loss: 0.2114, avg_reader_cost: 0.7589 avg_batch_cost: 1.1194, avg_ips: 85.7635.
-Type : zipper Train [ Epoch 270/500 ], loss: 0.1491, avg_reader_cost: 0.7721 avg_batch_cost: 1.1310, avg_ips: 84.8797.
+Type : zipper Val [ Epoch 260/500 ] max_auc: 1.0000 roc_auc : 0.996849.
+Type : zipper Train [ Epoch 261/500 ], loss: 0.1250, avg_reader_cost: 7.2052 avg_batch_cost: 7.6302, avg_ips: 12.5816.
+Type : zipper Train [ Epoch 262/500 ], loss: 0.1939, avg_reader_cost: 0.0003 avg_batch_cost: 0.3557, avg_ips: 269.8999.
+Type : zipper Train [ Epoch 263/500 ], loss: 0.0819, avg_reader_cost: 0.0003 avg_batch_cost: 0.3527, avg_ips: 272.1991.
+Type : zipper Train [ Epoch 264/500 ], loss: 0.2381, avg_reader_cost: 0.0005 avg_batch_cost: 0.3513, avg_ips: 273.3035.
+Type : zipper Train [ Epoch 265/500 ], loss: 0.2137, avg_reader_cost: 0.0004 avg_batch_cost: 0.3578, avg_ips: 268.3151.
+Type : zipper Train [ Epoch 266/500 ], loss: 0.2062, avg_reader_cost: 0.6002 avg_batch_cost: 0.9568, avg_ips: 100.3345.
+Type : zipper Train [ Epoch 267/500 ], loss: 0.1949, avg_reader_cost: 0.7632 avg_batch_cost: 1.1205, avg_ips: 85.6758.
+Type : zipper Train [ Epoch 268/500 ], loss: 0.2213, avg_reader_cost: 0.7611 avg_batch_cost: 1.1159, avg_ips: 86.0321.
+Type : zipper Train [ Epoch 269/500 ], loss: 0.1655, avg_reader_cost: 0.7620 avg_batch_cost: 1.1164, avg_ips: 85.9933.
+Type : zipper Train [ Epoch 270/500 ], loss: 0.2582, avg_reader_cost: 0.7606 avg_batch_cost: 1.1107, avg_ips: 86.4312.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 270/500 ] max_auc: 1.0000 roc_auc : 0.996061.
-Type : zipper Train [ Epoch 271/500 ], loss: 0.1665, avg_reader_cost: 7.0479 avg_batch_cost: 7.5901, avg_ips: 12.6480.
-Type : zipper Train [ Epoch 272/500 ], loss: 0.1988, avg_reader_cost: 0.0005 avg_batch_cost: 0.3604, avg_ips: 266.3799.
-Type : zipper Train [ Epoch 273/500 ], loss: 0.2049, avg_reader_cost: 0.0003 avg_batch_cost: 0.3656, avg_ips: 262.5953.
-Type : zipper Train [ Epoch 274/500 ], loss: 0.2134, avg_reader_cost: 0.0005 avg_batch_cost: 0.3705, avg_ips: 259.0976.
-Type : zipper Train [ Epoch 275/500 ], loss: 0.1694, avg_reader_cost: 0.0003 avg_batch_cost: 0.3668, avg_ips: 261.7277.
-Type : zipper Train [ Epoch 276/500 ], loss: 0.2104, avg_reader_cost: 0.5730 avg_batch_cost: 0.9442, avg_ips: 101.6726.
-Type : zipper Train [ Epoch 277/500 ], loss: 0.1360, avg_reader_cost: 0.7565 avg_batch_cost: 1.1233, avg_ips: 85.4587.
-Type : zipper Train [ Epoch 278/500 ], loss: 0.1318, avg_reader_cost: 0.7575 avg_batch_cost: 1.1236, avg_ips: 85.4394.
-Type : zipper Train [ Epoch 279/500 ], loss: 0.2022, avg_reader_cost: 0.7554 avg_batch_cost: 0.8608, avg_ips: 111.5281.
-Type : zipper Train [ Epoch 280/500 ], loss: 0.1633, avg_reader_cost: 0.8234 avg_batch_cost: 1.1864, avg_ips: 80.9149.
+Type : zipper Val [ Epoch 270/500 ] max_auc: 1.0000 roc_auc : 0.999737.
+Type : zipper Train [ Epoch 271/500 ], loss: 0.2113, avg_reader_cost: 6.9338 avg_batch_cost: 7.4296, avg_ips: 12.9213.
+Type : zipper Train [ Epoch 272/500 ], loss: 0.2362, avg_reader_cost: 0.0003 avg_batch_cost: 0.3586, avg_ips: 267.6715.
+Type : zipper Train [ Epoch 273/500 ], loss: 0.1838, avg_reader_cost: 0.0010 avg_batch_cost: 0.3622, avg_ips: 265.0574.
+Type : zipper Train [ Epoch 274/500 ], loss: 0.1773, avg_reader_cost: 0.0022 avg_batch_cost: 0.3567, avg_ips: 269.1073.
+Type : zipper Train [ Epoch 275/500 ], loss: 0.2253, avg_reader_cost: 0.0003 avg_batch_cost: 0.3560, avg_ips: 269.6371.
+Type : zipper Train [ Epoch 276/500 ], loss: 0.2190, avg_reader_cost: 0.8412 avg_batch_cost: 1.1954, avg_ips: 80.3046.
+Type : zipper Train [ Epoch 277/500 ], loss: 0.1460, avg_reader_cost: 0.8250 avg_batch_cost: 1.1789, avg_ips: 81.4350.
+Type : zipper Train [ Epoch 278/500 ], loss: 0.2252, avg_reader_cost: 0.8273 avg_batch_cost: 1.1802, avg_ips: 81.3412.
+Type : zipper Train [ Epoch 279/500 ], loss: 0.1660, avg_reader_cost: 0.8274 avg_batch_cost: 0.9332, avg_ips: 102.8753.
+Type : zipper Train [ Epoch 280/500 ], loss: 0.1353, avg_reader_cost: 1.2003 avg_batch_cost: 1.5575, avg_ips: 61.6383.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 280/500 ] max_auc: 1.0000 roc_auc : 0.998687.
-Type : zipper Train [ Epoch 281/500 ], loss: 0.1739, avg_reader_cost: 6.8274 avg_batch_cost: 7.3396, avg_ips: 13.0797.
-Type : zipper Train [ Epoch 282/500 ], loss: 0.1490, avg_reader_cost: 0.0003 avg_batch_cost: 0.3565, avg_ips: 269.3102.
-Type : zipper Train [ Epoch 283/500 ], loss: 0.1608, avg_reader_cost: 0.0012 avg_batch_cost: 0.3661, avg_ips: 262.2394.
-Type : zipper Train [ Epoch 284/500 ], loss: 0.1869, avg_reader_cost: 0.0003 avg_batch_cost: 0.3633, avg_ips: 264.2445.
-Type : zipper Train [ Epoch 285/500 ], loss: 0.1785, avg_reader_cost: 0.0008 avg_batch_cost: 0.3669, avg_ips: 261.6279.
-Type : zipper Train [ Epoch 286/500 ], loss: 0.1667, avg_reader_cost: 0.5947 avg_batch_cost: 0.9577, avg_ips: 100.2393.
-Type : zipper Train [ Epoch 287/500 ], loss: 0.2232, avg_reader_cost: 0.7598 avg_batch_cost: 1.1191, avg_ips: 85.7831.
-Type : zipper Train [ Epoch 288/500 ], loss: 0.1597, avg_reader_cost: 0.7654 avg_batch_cost: 1.1252, avg_ips: 85.3201.
-Type : zipper Train [ Epoch 289/500 ], loss: 0.1687, avg_reader_cost: 0.7631 avg_batch_cost: 1.1250, avg_ips: 85.3364.
-Type : zipper Train [ Epoch 290/500 ], loss: 0.0985, avg_reader_cost: 0.7713 avg_batch_cost: 1.1338, avg_ips: 84.6681.
+Type : zipper Val [ Epoch 280/500 ] max_auc: 1.0000 roc_auc : 0.991334.
+Type : zipper Train [ Epoch 281/500 ], loss: 0.1475, avg_reader_cost: 7.1872 avg_batch_cost: 7.6076, avg_ips: 12.6190.
+Type : zipper Train [ Epoch 282/500 ], loss: 0.1834, avg_reader_cost: 0.0006 avg_batch_cost: 0.3547, avg_ips: 270.6230.
+Type : zipper Train [ Epoch 283/500 ], loss: 0.1683, avg_reader_cost: 0.0005 avg_batch_cost: 0.3538, avg_ips: 271.3370.
+Type : zipper Train [ Epoch 284/500 ], loss: 0.1779, avg_reader_cost: 0.0003 avg_batch_cost: 0.3551, avg_ips: 270.3096.
+Type : zipper Train [ Epoch 285/500 ], loss: 0.1710, avg_reader_cost: 0.0003 avg_batch_cost: 0.3503, avg_ips: 274.0355.
+Type : zipper Train [ Epoch 286/500 ], loss: 0.2212, avg_reader_cost: 0.9796 avg_batch_cost: 1.3189, avg_ips: 72.7899.
+Type : zipper Train [ Epoch 287/500 ], loss: 0.1363, avg_reader_cost: 0.8326 avg_batch_cost: 1.1863, avg_ips: 80.9264.
+Type : zipper Train [ Epoch 288/500 ], loss: 0.2167, avg_reader_cost: 0.7740 avg_batch_cost: 1.1390, avg_ips: 84.2861.
+Type : zipper Train [ Epoch 289/500 ], loss: 0.2533, avg_reader_cost: 0.7660 avg_batch_cost: 1.1469, avg_ips: 83.7049.
+Type : zipper Train [ Epoch 290/500 ], loss: 0.2248, avg_reader_cost: 0.7589 avg_batch_cost: 1.1273, avg_ips: 85.1557.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 290/500 ] max_auc: 1.0000 roc_auc : 0.998687.
-Type : zipper Train [ Epoch 291/500 ], loss: 0.1450, avg_reader_cost: 7.0601 avg_batch_cost: 7.5197, avg_ips: 12.7664.
-Type : zipper Train [ Epoch 292/500 ], loss: 0.1769, avg_reader_cost: 0.0004 avg_batch_cost: 0.3654, avg_ips: 262.7230.
-Type : zipper Train [ Epoch 293/500 ], loss: 0.1911, avg_reader_cost: 0.0004 avg_batch_cost: 0.3687, avg_ips: 260.4069.
-Type : zipper Train [ Epoch 294/500 ], loss: 0.1360, avg_reader_cost: 0.0004 avg_batch_cost: 0.3660, avg_ips: 262.3004.
-Type : zipper Train [ Epoch 295/500 ], loss: 0.1026, avg_reader_cost: 0.0003 avg_batch_cost: 0.3612, avg_ips: 265.7615.
-Type : zipper Train [ Epoch 296/500 ], loss: 0.1724, avg_reader_cost: 0.6482 avg_batch_cost: 1.0138, avg_ips: 94.6892.
-Type : zipper Train [ Epoch 297/500 ], loss: 0.1350, avg_reader_cost: 0.8094 avg_batch_cost: 1.1792, avg_ips: 81.4123.
-Type : zipper Train [ Epoch 298/500 ], loss: 0.1591, avg_reader_cost: 0.8105 avg_batch_cost: 1.1744, avg_ips: 81.7446.
-Type : zipper Train [ Epoch 299/500 ], loss: 0.1186, avg_reader_cost: 0.8041 avg_batch_cost: 1.1669, avg_ips: 82.2663.
-Type : zipper Train [ Epoch 300/500 ], loss: 0.1950, avg_reader_cost: 0.8127 avg_batch_cost: 1.1796, avg_ips: 81.3859.
+Type : zipper Val [ Epoch 290/500 ] max_auc: 1.0000 roc_auc : 0.995011.
+Type : zipper Train [ Epoch 291/500 ], loss: 0.1645, avg_reader_cost: 6.8547 avg_batch_cost: 7.3338, avg_ips: 13.0901.
+Type : zipper Train [ Epoch 292/500 ], loss: 0.1757, avg_reader_cost: 0.0003 avg_batch_cost: 0.3583, avg_ips: 267.9112.
+Type : zipper Train [ Epoch 293/500 ], loss: 0.2051, avg_reader_cost: 0.0002 avg_batch_cost: 0.3574, avg_ips: 268.6222.
+Type : zipper Train [ Epoch 294/500 ], loss: 0.1752, avg_reader_cost: 0.0008 avg_batch_cost: 0.3583, avg_ips: 267.9209.
+Type : zipper Train [ Epoch 295/500 ], loss: 0.1750, avg_reader_cost: 0.0010 avg_batch_cost: 0.3528, avg_ips: 272.0981.
+Type : zipper Train [ Epoch 296/500 ], loss: 0.1284, avg_reader_cost: 0.6027 avg_batch_cost: 0.9534, avg_ips: 100.6955.
+Type : zipper Train [ Epoch 297/500 ], loss: 0.1275, avg_reader_cost: 0.7845 avg_batch_cost: 1.1372, avg_ips: 84.4190.
+Type : zipper Train [ Epoch 298/500 ], loss: 0.1346, avg_reader_cost: 0.8044 avg_batch_cost: 1.1548, avg_ips: 83.1298.
+Type : zipper Train [ Epoch 299/500 ], loss: 0.1736, avg_reader_cost: 0.8269 avg_batch_cost: 1.1803, avg_ips: 81.3333.
+Type : zipper Train [ Epoch 300/500 ], loss: 0.1687, avg_reader_cost: 0.8230 avg_batch_cost: 1.1758, avg_ips: 81.6457.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 300/500 ] max_auc: 1.0000 roc_auc : 0.997899.
-Type : zipper Train [ Epoch 301/500 ], loss: 0.1345, avg_reader_cost: 7.0574 avg_batch_cost: 7.5167, avg_ips: 12.7715.
-Type : zipper Train [ Epoch 302/500 ], loss: 0.1944, avg_reader_cost: 0.0007 avg_batch_cost: 0.3774, avg_ips: 254.3851.
-Type : zipper Train [ Epoch 303/500 ], loss: 0.2009, avg_reader_cost: 0.0003 avg_batch_cost: 0.3727, avg_ips: 257.5670.
-Type : zipper Train [ Epoch 304/500 ], loss: 0.1240, avg_reader_cost: 0.0006 avg_batch_cost: 0.3665, avg_ips: 261.9314.
-Type : zipper Train [ Epoch 305/500 ], loss: 0.1598, avg_reader_cost: 0.0004 avg_batch_cost: 0.3647, avg_ips: 263.2505.
-Type : zipper Train [ Epoch 306/500 ], loss: 0.1409, avg_reader_cost: 0.5815 avg_batch_cost: 0.9483, avg_ips: 101.2358.
-Type : zipper Train [ Epoch 307/500 ], loss: 0.1968, avg_reader_cost: 0.8297 avg_batch_cost: 1.1871, avg_ips: 80.8709.
-Type : zipper Train [ Epoch 308/500 ], loss: 0.1577, avg_reader_cost: 0.8190 avg_batch_cost: 1.1880, avg_ips: 80.8051.
-Type : zipper Train [ Epoch 309/500 ], loss: 0.0960, avg_reader_cost: 0.8187 avg_batch_cost: 1.1900, avg_ips: 80.6700.
-Type : zipper Train [ Epoch 310/500 ], loss: 0.1740, avg_reader_cost: 0.8224 avg_batch_cost: 0.9313, avg_ips: 103.0827.
+Type : zipper Val [ Epoch 300/500 ] max_auc: 1.0000 roc_auc : 0.998162.
+Type : zipper Train [ Epoch 301/500 ], loss: 0.1389, avg_reader_cost: 6.7827 avg_batch_cost: 7.2291, avg_ips: 13.2796.
+Type : zipper Train [ Epoch 302/500 ], loss: 0.1724, avg_reader_cost: 0.0003 avg_batch_cost: 0.3537, avg_ips: 271.4451.
+Type : zipper Train [ Epoch 303/500 ], loss: 0.1361, avg_reader_cost: 0.0002 avg_batch_cost: 0.3565, avg_ips: 269.2531.
+Type : zipper Train [ Epoch 304/500 ], loss: 0.1295, avg_reader_cost: 0.0004 avg_batch_cost: 0.3534, avg_ips: 271.6100.
+Type : zipper Train [ Epoch 305/500 ], loss: 0.1413, avg_reader_cost: 0.0002 avg_batch_cost: 0.3655, avg_ips: 262.6767.
+Type : zipper Train [ Epoch 306/500 ], loss: 0.1694, avg_reader_cost: 0.5639 avg_batch_cost: 0.9184, avg_ips: 104.5247.
+Type : zipper Train [ Epoch 307/500 ], loss: 0.1800, avg_reader_cost: 0.7564 avg_batch_cost: 1.1091, avg_ips: 86.5570.
+Type : zipper Train [ Epoch 308/500 ], loss: 0.1673, avg_reader_cost: 0.7497 avg_batch_cost: 1.1015, avg_ips: 87.1570.
+Type : zipper Train [ Epoch 309/500 ], loss: 0.1103, avg_reader_cost: 0.7543 avg_batch_cost: 1.1116, avg_ips: 86.3612.
+Type : zipper Train [ Epoch 310/500 ], loss: 0.1737, avg_reader_cost: 0.7552 avg_batch_cost: 0.8594, avg_ips: 111.7038.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 310/500 ] max_auc: 1.0000 roc_auc : 0.995011.
-Type : zipper Train [ Epoch 311/500 ], loss: 0.2010, avg_reader_cost: 6.1946 avg_batch_cost: 6.5647, avg_ips: 14.6238.
-Type : zipper Train [ Epoch 312/500 ], loss: 0.1584, avg_reader_cost: 0.8251 avg_batch_cost: 1.1968, avg_ips: 80.2156.
-Type : zipper Train [ Epoch 313/500 ], loss: 0.1718, avg_reader_cost: 0.8893 avg_batch_cost: 1.2613, avg_ips: 76.1116.
-Type : zipper Train [ Epoch 314/500 ], loss: 0.1785, avg_reader_cost: 0.8608 avg_batch_cost: 1.2157, avg_ips: 78.9639.
-Type : zipper Train [ Epoch 315/500 ], loss: 0.1794, avg_reader_cost: 0.8524 avg_batch_cost: 1.2336, avg_ips: 77.8204.
-Type : zipper Train [ Epoch 316/500 ], loss: 0.1863, avg_reader_cost: 0.8404 avg_batch_cost: 1.1969, avg_ips: 80.2089.
-Type : zipper Train [ Epoch 317/500 ], loss: 0.1716, avg_reader_cost: 0.8068 avg_batch_cost: 1.1732, avg_ips: 81.8295.
-Type : zipper Train [ Epoch 318/500 ], loss: 0.1851, avg_reader_cost: 0.8207 avg_batch_cost: 1.1793, avg_ips: 81.4027.
-Type : zipper Train [ Epoch 319/500 ], loss: 0.1896, avg_reader_cost: 0.8573 avg_batch_cost: 1.2183, avg_ips: 78.7969.
-Type : zipper Train [ Epoch 320/500 ], loss: 0.2425, avg_reader_cost: 0.7839 avg_batch_cost: 1.1731, avg_ips: 81.8322.
+Type : zipper Val [ Epoch 310/500 ] max_auc: 1.0000 roc_auc : 0.996849.
+Type : zipper Train [ Epoch 311/500 ], loss: 0.1476, avg_reader_cost: 5.9891 avg_batch_cost: 6.3669, avg_ips: 15.0779.
+Type : zipper Train [ Epoch 312/500 ], loss: 0.0980, avg_reader_cost: 0.7874 avg_batch_cost: 1.1410, avg_ips: 84.1390.
+Type : zipper Train [ Epoch 313/500 ], loss: 0.1886, avg_reader_cost: 0.7812 avg_batch_cost: 1.1379, avg_ips: 84.3673.
+Type : zipper Train [ Epoch 314/500 ], loss: 0.1021, avg_reader_cost: 0.7746 avg_batch_cost: 1.1434, avg_ips: 83.9570.
+Type : zipper Train [ Epoch 315/500 ], loss: 0.1103, avg_reader_cost: 0.7477 avg_batch_cost: 1.3826, avg_ips: 69.4340.
+Type : zipper Train [ Epoch 316/500 ], loss: 0.1548, avg_reader_cost: 0.4793 avg_batch_cost: 0.8428, avg_ips: 113.9109.
+Type : zipper Train [ Epoch 317/500 ], loss: 0.1636, avg_reader_cost: 0.7605 avg_batch_cost: 1.1170, avg_ips: 85.9421.
+Type : zipper Train [ Epoch 318/500 ], loss: 0.1634, avg_reader_cost: 0.7593 avg_batch_cost: 1.1115, avg_ips: 86.3721.
+Type : zipper Train [ Epoch 319/500 ], loss: 0.1735, avg_reader_cost: 0.7555 avg_batch_cost: 1.1068, avg_ips: 86.7327.
+Type : zipper Train [ Epoch 320/500 ], loss: 0.1177, avg_reader_cost: 0.7573 avg_batch_cost: 1.1115, avg_ips: 86.3734.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 320/500 ] max_auc: 1.0000 roc_auc : 0.998424.
-Type : zipper Train [ Epoch 321/500 ], loss: 0.1679, avg_reader_cost: 6.9647 avg_batch_cost: 7.3627, avg_ips: 13.0387.
-Type : zipper Train [ Epoch 322/500 ], loss: 0.1889, avg_reader_cost: 0.0003 avg_batch_cost: 0.3614, avg_ips: 265.6465.
-Type : zipper Train [ Epoch 323/500 ], loss: 0.1622, avg_reader_cost: 0.0006 avg_batch_cost: 0.3614, avg_ips: 265.6232.
-Type : zipper Train [ Epoch 324/500 ], loss: 0.2008, avg_reader_cost: 0.0003 avg_batch_cost: 0.3618, avg_ips: 265.3430.
-Type : zipper Train [ Epoch 325/500 ], loss: 0.1526, avg_reader_cost: 0.0003 avg_batch_cost: 0.3613, avg_ips: 265.6865.
-Type : zipper Train [ Epoch 326/500 ], loss: 0.2341, avg_reader_cost: 0.6450 avg_batch_cost: 1.0067, avg_ips: 95.3630.
-Type : zipper Train [ Epoch 327/500 ], loss: 0.1621, avg_reader_cost: 0.8077 avg_batch_cost: 1.1659, avg_ips: 82.3420.
-Type : zipper Train [ Epoch 328/500 ], loss: 0.1182, avg_reader_cost: 0.7843 avg_batch_cost: 1.1511, avg_ips: 83.4016.
-Type : zipper Train [ Epoch 329/500 ], loss: 0.1626, avg_reader_cost: 0.7776 avg_batch_cost: 1.1392, avg_ips: 84.2668.
-Type : zipper Train [ Epoch 330/500 ], loss: 0.1335, avg_reader_cost: 0.7911 avg_batch_cost: 1.1573, avg_ips: 82.9504.
+Type : zipper Val [ Epoch 320/500 ] max_auc: 1.0000 roc_auc : 0.998162.
+Type : zipper Train [ Epoch 321/500 ], loss: 0.1333, avg_reader_cost: 6.7327 avg_batch_cost: 7.1875, avg_ips: 13.3566.
+Type : zipper Train [ Epoch 322/500 ], loss: 0.1254, avg_reader_cost: 0.0003 avg_batch_cost: 0.3524, avg_ips: 272.4013.
+Type : zipper Train [ Epoch 323/500 ], loss: 0.1393, avg_reader_cost: 0.0003 avg_batch_cost: 0.3449, avg_ips: 278.3436.
+Type : zipper Train [ Epoch 324/500 ], loss: 0.1605, avg_reader_cost: 0.0002 avg_batch_cost: 0.3549, avg_ips: 270.5354.
+Type : zipper Train [ Epoch 325/500 ], loss: 0.1763, avg_reader_cost: 0.0004 avg_batch_cost: 0.3532, avg_ips: 271.8158.
+Type : zipper Train [ Epoch 326/500 ], loss: 0.1344, avg_reader_cost: 0.6140 avg_batch_cost: 0.9691, avg_ips: 99.0585.
+Type : zipper Train [ Epoch 327/500 ], loss: 0.1795, avg_reader_cost: 0.7741 avg_batch_cost: 1.1292, avg_ips: 85.0170.
+Type : zipper Train [ Epoch 328/500 ], loss: 0.1500, avg_reader_cost: 0.7694 avg_batch_cost: 1.1203, avg_ips: 85.6906.
+Type : zipper Train [ Epoch 329/500 ], loss: 0.2145, avg_reader_cost: 0.7712 avg_batch_cost: 1.1257, avg_ips: 85.2838.
+Type : zipper Train [ Epoch 330/500 ], loss: 0.1135, avg_reader_cost: 0.7704 avg_batch_cost: 1.1248, avg_ips: 85.3486.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
 Type : zipper Val [ Epoch 330/500 ] max_auc: 1.0000 roc_auc : 0.997899.
-Type : zipper Train [ Epoch 331/500 ], loss: 0.1000, avg_reader_cost: 6.9292 avg_batch_cost: 7.3144, avg_ips: 13.1248.
-Type : zipper Train [ Epoch 332/500 ], loss: 0.1461, avg_reader_cost: 0.0004 avg_batch_cost: 0.3632, avg_ips: 264.3469.
-Type : zipper Train [ Epoch 333/500 ], loss: 0.1335, avg_reader_cost: 0.0006 avg_batch_cost: 0.3574, avg_ips: 268.5701.
-Type : zipper Train [ Epoch 334/500 ], loss: 0.1486, avg_reader_cost: 0.0011 avg_batch_cost: 0.3624, avg_ips: 264.9362.
-Type : zipper Train [ Epoch 335/500 ], loss: 0.1523, avg_reader_cost: 0.0004 avg_batch_cost: 0.3624, avg_ips: 264.8882.
-Type : zipper Train [ Epoch 336/500 ], loss: 0.1603, avg_reader_cost: 0.6066 avg_batch_cost: 0.9641, avg_ips: 99.5698.
-Type : zipper Train [ Epoch 337/500 ], loss: 0.1913, avg_reader_cost: 0.7674 avg_batch_cost: 1.1416, avg_ips: 84.0935.
-Type : zipper Train [ Epoch 338/500 ], loss: 0.1123, avg_reader_cost: 0.7612 avg_batch_cost: 1.1314, avg_ips: 84.8474.
-Type : zipper Train [ Epoch 339/500 ], loss: 0.1980, avg_reader_cost: 0.7726 avg_batch_cost: 1.1334, avg_ips: 84.7001.
-Type : zipper Train [ Epoch 340/500 ], loss: 0.1623, avg_reader_cost: 0.7641 avg_batch_cost: 1.1261, avg_ips: 85.2516.
+Type : zipper Train [ Epoch 331/500 ], loss: 0.1606, avg_reader_cost: 6.8617 avg_batch_cost: 7.2995, avg_ips: 13.1516.
+Type : zipper Train [ Epoch 332/500 ], loss: 0.1520, avg_reader_cost: 0.0003 avg_batch_cost: 0.3570, avg_ips: 268.9360.
+Type : zipper Train [ Epoch 333/500 ], loss: 0.1971, avg_reader_cost: 0.0008 avg_batch_cost: 0.3518, avg_ips: 272.8768.
+Type : zipper Train [ Epoch 334/500 ], loss: 0.1733, avg_reader_cost: 0.0003 avg_batch_cost: 0.3552, avg_ips: 270.2410.
+Type : zipper Train [ Epoch 335/500 ], loss: 0.1236, avg_reader_cost: 0.0003 avg_batch_cost: 0.3557, avg_ips: 269.9093.
+Type : zipper Train [ Epoch 336/500 ], loss: 0.1401, avg_reader_cost: 0.6164 avg_batch_cost: 0.9724, avg_ips: 98.7233.
+Type : zipper Train [ Epoch 337/500 ], loss: 0.1852, avg_reader_cost: 0.7656 avg_batch_cost: 1.1176, avg_ips: 85.8967.
+Type : zipper Train [ Epoch 338/500 ], loss: 0.1681, avg_reader_cost: 0.8099 avg_batch_cost: 1.1661, avg_ips: 82.3288.
+Type : zipper Train [ Epoch 339/500 ], loss: 0.1365, avg_reader_cost: 0.7854 avg_batch_cost: 1.1384, avg_ips: 84.3307.
+Type : zipper Train [ Epoch 340/500 ], loss: 0.1449, avg_reader_cost: 0.7724 avg_batch_cost: 1.1252, avg_ips: 85.3178.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 340/500 ] max_auc: 1.0000 roc_auc : 0.999212.
-Type : zipper Train [ Epoch 341/500 ], loss: 0.1625, avg_reader_cost: 5.3636 avg_batch_cost: 5.4796, avg_ips: 17.5196.
-Type : zipper Train [ Epoch 342/500 ], loss: 0.1685, avg_reader_cost: 0.8431 avg_batch_cost: 1.2129, avg_ips: 79.1482.
-Type : zipper Train [ Epoch 343/500 ], loss: 0.1519, avg_reader_cost: 0.7671 avg_batch_cost: 1.1449, avg_ips: 83.8508.
-Type : zipper Train [ Epoch 344/500 ], loss: 0.1067, avg_reader_cost: 0.7692 avg_batch_cost: 1.1323, avg_ips: 84.7829.
-Type : zipper Train [ Epoch 345/500 ], loss: 0.1010, avg_reader_cost: 0.7755 avg_batch_cost: 1.1629, avg_ips: 82.5557.
-Type : zipper Train [ Epoch 346/500 ], loss: 0.1618, avg_reader_cost: 0.7552 avg_batch_cost: 1.1165, avg_ips: 85.9795.
-Type : zipper Train [ Epoch 347/500 ], loss: 0.1732, avg_reader_cost: 0.7668 avg_batch_cost: 1.1315, avg_ips: 84.8401.
-Type : zipper Train [ Epoch 348/500 ], loss: 0.2047, avg_reader_cost: 0.7790 avg_batch_cost: 1.1465, avg_ips: 83.7297.
-Type : zipper Train [ Epoch 349/500 ], loss: 0.1083, avg_reader_cost: 0.7711 avg_batch_cost: 1.1362, avg_ips: 84.4934.
-Type : zipper Train [ Epoch 350/500 ], loss: 0.1524, avg_reader_cost: 0.7716 avg_batch_cost: 1.1363, avg_ips: 84.4883.
+Type : zipper Val [ Epoch 340/500 ] max_auc: 1.0000 roc_auc : 0.996061.
+Type : zipper Train [ Epoch 341/500 ], loss: 0.1398, avg_reader_cost: 5.7184 avg_batch_cost: 5.8432, avg_ips: 16.4292.
+Type : zipper Train [ Epoch 342/500 ], loss: 0.1596, avg_reader_cost: 0.8186 avg_batch_cost: 1.1677, avg_ips: 82.2095.
+Type : zipper Train [ Epoch 343/500 ], loss: 0.1828, avg_reader_cost: 0.7594 avg_batch_cost: 1.1140, avg_ips: 86.1767.
+Type : zipper Train [ Epoch 344/500 ], loss: 0.1785, avg_reader_cost: 0.7550 avg_batch_cost: 1.1104, avg_ips: 86.4570.
+Type : zipper Train [ Epoch 345/500 ], loss: 0.1457, avg_reader_cost: 0.7962 avg_batch_cost: 1.1497, avg_ips: 83.5015.
+Type : zipper Train [ Epoch 346/500 ], loss: 0.1808, avg_reader_cost: 0.7617 avg_batch_cost: 1.1116, avg_ips: 86.3651.
+Type : zipper Train [ Epoch 347/500 ], loss: 0.1676, avg_reader_cost: 0.7558 avg_batch_cost: 1.1110, avg_ips: 86.4075.
+Type : zipper Train [ Epoch 348/500 ], loss: 0.1573, avg_reader_cost: 0.7533 avg_batch_cost: 1.1050, avg_ips: 86.8809.
+Type : zipper Train [ Epoch 349/500 ], loss: 0.1614, avg_reader_cost: 0.7571 avg_batch_cost: 1.1096, avg_ips: 86.5212.
+Type : zipper Train [ Epoch 350/500 ], loss: 0.1599, avg_reader_cost: 0.7532 avg_batch_cost: 1.1018, avg_ips: 87.1302.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 350/500 ] max_auc: 1.0000 roc_auc : 0.999212.
-Type : zipper Train [ Epoch 351/500 ], loss: 0.1090, avg_reader_cost: 6.8311 avg_batch_cost: 7.2579, avg_ips: 13.2269.
-Type : zipper Train [ Epoch 352/500 ], loss: 0.1677, avg_reader_cost: 0.0004 avg_batch_cost: 0.3578, avg_ips: 268.3067.
-Type : zipper Train [ Epoch 353/500 ], loss: 0.1017, avg_reader_cost: 0.0005 avg_batch_cost: 0.3626, avg_ips: 264.7796.
-Type : zipper Train [ Epoch 354/500 ], loss: 0.1411, avg_reader_cost: 0.0003 avg_batch_cost: 0.3621, avg_ips: 265.1150.
-Type : zipper Train [ Epoch 355/500 ], loss: 0.1618, avg_reader_cost: 0.0004 avg_batch_cost: 0.3665, avg_ips: 261.9470.
-Type : zipper Train [ Epoch 356/500 ], loss: 0.1691, avg_reader_cost: 0.6210 avg_batch_cost: 0.9865, avg_ips: 97.3090.
-Type : zipper Train [ Epoch 357/500 ], loss: 0.2197, avg_reader_cost: 0.7660 avg_batch_cost: 1.1358, avg_ips: 84.5242.
-Type : zipper Train [ Epoch 358/500 ], loss: 0.1282, avg_reader_cost: 0.7638 avg_batch_cost: 1.1341, avg_ips: 84.6518.
-Type : zipper Train [ Epoch 359/500 ], loss: 0.0846, avg_reader_cost: 0.7564 avg_batch_cost: 1.1169, avg_ips: 85.9542.
-Type : zipper Train [ Epoch 360/500 ], loss: 0.1624, avg_reader_cost: 0.7669 avg_batch_cost: 1.1317, avg_ips: 84.8312.
+Type : zipper Val [ Epoch 350/500 ] max_auc: 1.0000 roc_auc : 0.997899.
+Type : zipper Train [ Epoch 351/500 ], loss: 0.1434, avg_reader_cost: 6.6700 avg_batch_cost: 7.1468, avg_ips: 13.4325.
+Type : zipper Train [ Epoch 352/500 ], loss: 0.1680, avg_reader_cost: 0.0004 avg_batch_cost: 0.3513, avg_ips: 273.2863.
+Type : zipper Train [ Epoch 353/500 ], loss: 0.1281, avg_reader_cost: 0.0003 avg_batch_cost: 0.3526, avg_ips: 272.2705.
+Type : zipper Train [ Epoch 354/500 ], loss: 0.1610, avg_reader_cost: 0.0003 avg_batch_cost: 0.3581, avg_ips: 268.0700.
+Type : zipper Train [ Epoch 355/500 ], loss: 0.1611, avg_reader_cost: 0.0002 avg_batch_cost: 0.3698, avg_ips: 259.5721.
+Type : zipper Train [ Epoch 356/500 ], loss: 0.1518, avg_reader_cost: 0.5904 avg_batch_cost: 0.9441, avg_ips: 101.6826.
+Type : zipper Train [ Epoch 357/500 ], loss: 0.1221, avg_reader_cost: 0.7790 avg_batch_cost: 1.1299, avg_ips: 84.9646.
+Type : zipper Train [ Epoch 358/500 ], loss: 0.1684, avg_reader_cost: 0.7865 avg_batch_cost: 1.1455, avg_ips: 83.8033.
+Type : zipper Train [ Epoch 359/500 ], loss: 0.1135, avg_reader_cost: 0.7685 avg_batch_cost: 1.1230, avg_ips: 85.4819.
+Type : zipper Train [ Epoch 360/500 ], loss: 0.1160, avg_reader_cost: 0.7712 avg_batch_cost: 1.1239, avg_ips: 85.4204.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 360/500 ] max_auc: 1.0000 roc_auc : 1.000000.
-Type : zipper Train [ Epoch 361/500 ], loss: 0.1521, avg_reader_cost: 7.5887 avg_batch_cost: 7.9536, avg_ips: 12.0701.
-Type : zipper Train [ Epoch 362/500 ], loss: 0.1418, avg_reader_cost: 0.0005 avg_batch_cost: 0.3632, avg_ips: 264.3249.
-Type : zipper Train [ Epoch 363/500 ], loss: 0.1279, avg_reader_cost: 0.0006 avg_batch_cost: 0.3622, avg_ips: 265.0373.
-Type : zipper Train [ Epoch 364/500 ], loss: 0.1199, avg_reader_cost: 0.0004 avg_batch_cost: 0.3700, avg_ips: 259.4821.
-Type : zipper Train [ Epoch 365/500 ], loss: 0.1677, avg_reader_cost: 0.0005 avg_batch_cost: 0.3742, avg_ips: 256.5719.
-Type : zipper Train [ Epoch 366/500 ], loss: 0.1660, avg_reader_cost: 0.5804 avg_batch_cost: 0.9537, avg_ips: 100.6565.
-Type : zipper Train [ Epoch 367/500 ], loss: 0.1564, avg_reader_cost: 0.7585 avg_batch_cost: 1.1264, avg_ips: 85.2270.
-Type : zipper Train [ Epoch 368/500 ], loss: 0.1589, avg_reader_cost: 0.7578 avg_batch_cost: 1.1256, avg_ips: 85.2890.
-Type : zipper Train [ Epoch 369/500 ], loss: 0.1543, avg_reader_cost: 0.7601 avg_batch_cost: 1.1278, avg_ips: 85.1202.
-Type : zipper Train [ Epoch 370/500 ], loss: 0.1545, avg_reader_cost: 0.7601 avg_batch_cost: 1.1219, avg_ips: 85.5658.
+Type : zipper Val [ Epoch 360/500 ] max_auc: 1.0000 roc_auc : 0.999212.
+Type : zipper Train [ Epoch 361/500 ], loss: 0.1357, avg_reader_cost: 6.8099 avg_batch_cost: 7.2431, avg_ips: 13.2540.
+Type : zipper Train [ Epoch 362/500 ], loss: 0.1234, avg_reader_cost: 0.0006 avg_batch_cost: 0.3546, avg_ips: 270.7322.
+Type : zipper Train [ Epoch 363/500 ], loss: 0.0882, avg_reader_cost: 0.0004 avg_batch_cost: 0.3589, avg_ips: 267.5104.
+Type : zipper Train [ Epoch 364/500 ], loss: 0.2040, avg_reader_cost: 0.0004 avg_batch_cost: 0.3562, avg_ips: 269.4796.
+Type : zipper Train [ Epoch 365/500 ], loss: 0.0872, avg_reader_cost: 0.0002 avg_batch_cost: 0.3558, avg_ips: 269.7846.
+Type : zipper Train [ Epoch 366/500 ], loss: 0.1017, avg_reader_cost: 0.6061 avg_batch_cost: 0.9603, avg_ips: 99.9691.
+Type : zipper Train [ Epoch 367/500 ], loss: 0.1384, avg_reader_cost: 0.7782 avg_batch_cost: 1.1308, avg_ips: 84.8934.
+Type : zipper Train [ Epoch 368/500 ], loss: 0.1313, avg_reader_cost: 0.7711 avg_batch_cost: 1.1245, avg_ips: 85.3709.
+Type : zipper Train [ Epoch 369/500 ], loss: 0.1553, avg_reader_cost: 0.7757 avg_batch_cost: 1.1261, avg_ips: 85.2500.
+Type : zipper Train [ Epoch 370/500 ], loss: 0.1836, avg_reader_cost: 0.7731 avg_batch_cost: 1.1268, avg_ips: 85.1962.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 370/500 ] max_auc: 1.0000 roc_auc : 0.999737.
-Type : zipper Train [ Epoch 371/500 ], loss: 0.1168, avg_reader_cost: 5.8393 avg_batch_cost: 5.9835, avg_ips: 16.0441.
-Type : zipper Train [ Epoch 372/500 ], loss: 0.1147, avg_reader_cost: 0.0005 avg_batch_cost: 0.1083, avg_ips: 886.4600.
-Type : zipper Train [ Epoch 373/500 ], loss: 0.1022, avg_reader_cost: 0.8519 avg_batch_cost: 1.2203, avg_ips: 78.6673.
-Type : zipper Train [ Epoch 374/500 ], loss: 0.1771, avg_reader_cost: 0.7743 avg_batch_cost: 1.1426, avg_ips: 84.0207.
-Type : zipper Train [ Epoch 375/500 ], loss: 0.1575, avg_reader_cost: 0.8024 avg_batch_cost: 1.1714, avg_ips: 81.9539.
-Type : zipper Train [ Epoch 376/500 ], loss: 0.1243, avg_reader_cost: 0.7891 avg_batch_cost: 1.1535, avg_ips: 83.2259.
-Type : zipper Train [ Epoch 377/500 ], loss: 0.0942, avg_reader_cost: 0.7756 avg_batch_cost: 1.1423, avg_ips: 84.0381.
-Type : zipper Train [ Epoch 378/500 ], loss: 0.0871, avg_reader_cost: 0.7844 avg_batch_cost: 1.1464, avg_ips: 83.7384.
-Type : zipper Train [ Epoch 379/500 ], loss: 0.1778, avg_reader_cost: 0.7715 avg_batch_cost: 1.1361, avg_ips: 84.4989.
-Type : zipper Train [ Epoch 380/500 ], loss: 0.1330, avg_reader_cost: 0.7727 avg_batch_cost: 1.1376, avg_ips: 84.3856.
+Type : zipper Val [ Epoch 370/500 ] max_auc: 1.0000 roc_auc : 0.998950.
+Type : zipper Train [ Epoch 371/500 ], loss: 0.1381, avg_reader_cost: 5.7731 avg_batch_cost: 5.9211, avg_ips: 16.2132.
+Type : zipper Train [ Epoch 372/500 ], loss: 0.1384, avg_reader_cost: 0.0004 avg_batch_cost: 0.1067, avg_ips: 899.3596.
+Type : zipper Train [ Epoch 373/500 ], loss: 0.1365, avg_reader_cost: 0.8078 avg_batch_cost: 1.1641, avg_ips: 82.4656.
+Type : zipper Train [ Epoch 374/500 ], loss: 0.2289, avg_reader_cost: 0.7503 avg_batch_cost: 1.1032, avg_ips: 87.0180.
+Type : zipper Train [ Epoch 375/500 ], loss: 0.1202, avg_reader_cost: 0.7580 avg_batch_cost: 1.1176, avg_ips: 85.9019.
+Type : zipper Train [ Epoch 376/500 ], loss: 0.1095, avg_reader_cost: 0.7746 avg_batch_cost: 1.1288, avg_ips: 85.0443.
+Type : zipper Train [ Epoch 377/500 ], loss: 0.1093, avg_reader_cost: 0.7501 avg_batch_cost: 1.1546, avg_ips: 83.1472.
+Type : zipper Train [ Epoch 378/500 ], loss: 0.0928, avg_reader_cost: 0.7070 avg_batch_cost: 1.0823, avg_ips: 88.7013.
+Type : zipper Train [ Epoch 379/500 ], loss: 0.1613, avg_reader_cost: 0.7312 avg_batch_cost: 1.0846, avg_ips: 88.5110.
+Type : zipper Train [ Epoch 380/500 ], loss: 0.1618, avg_reader_cost: 0.7540 avg_batch_cost: 1.1079, avg_ips: 86.6525.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
 Type : zipper Val [ Epoch 380/500 ] max_auc: 1.0000 roc_auc : 0.996061.
-Type : zipper Train [ Epoch 381/500 ], loss: 0.1215, avg_reader_cost: 6.9520 avg_batch_cost: 7.5011, avg_ips: 12.7981.
-Type : zipper Train [ Epoch 382/500 ], loss: 0.1171, avg_reader_cost: 0.0002 avg_batch_cost: 0.3580, avg_ips: 268.1762.
-Type : zipper Train [ Epoch 383/500 ], loss: 0.1459, avg_reader_cost: 0.0003 avg_batch_cost: 0.3583, avg_ips: 267.9326.
-Type : zipper Train [ Epoch 384/500 ], loss: 0.1398, avg_reader_cost: 0.0003 avg_batch_cost: 0.3631, avg_ips: 264.4184.
-Type : zipper Train [ Epoch 385/500 ], loss: 0.1561, avg_reader_cost: 0.0004 avg_batch_cost: 0.3633, avg_ips: 264.2184.
-Type : zipper Train [ Epoch 386/500 ], loss: 0.1987, avg_reader_cost: 0.5963 avg_batch_cost: 0.9650, avg_ips: 99.4847.
-Type : zipper Train [ Epoch 387/500 ], loss: 0.1316, avg_reader_cost: 0.7875 avg_batch_cost: 1.1620, avg_ips: 82.6148.
-Type : zipper Train [ Epoch 388/500 ], loss: 0.1500, avg_reader_cost: 0.7787 avg_batch_cost: 1.1454, avg_ips: 83.8107.
-Type : zipper Train [ Epoch 389/500 ], loss: 0.1058, avg_reader_cost: 0.7837 avg_batch_cost: 1.1596, avg_ips: 82.7886.
-Type : zipper Train [ Epoch 390/500 ], loss: 0.0615, avg_reader_cost: 0.7847 avg_batch_cost: 1.1526, avg_ips: 83.2891.
+Type : zipper Train [ Epoch 381/500 ], loss: 0.1128, avg_reader_cost: 6.9384 avg_batch_cost: 7.3856, avg_ips: 12.9982.
+Type : zipper Train [ Epoch 382/500 ], loss: 0.1459, avg_reader_cost: 0.0003 avg_batch_cost: 0.3552, avg_ips: 270.2973.
+Type : zipper Train [ Epoch 383/500 ], loss: 0.1437, avg_reader_cost: 0.0005 avg_batch_cost: 0.3566, avg_ips: 269.2104.
+Type : zipper Train [ Epoch 384/500 ], loss: 0.1217, avg_reader_cost: 0.0006 avg_batch_cost: 0.3558, avg_ips: 269.7833.
+Type : zipper Train [ Epoch 385/500 ], loss: 0.1372, avg_reader_cost: 0.0002 avg_batch_cost: 0.3537, avg_ips: 271.4284.
+Type : zipper Train [ Epoch 386/500 ], loss: 0.1375, avg_reader_cost: 0.5884 avg_batch_cost: 0.9509, avg_ips: 100.9541.
+Type : zipper Train [ Epoch 387/500 ], loss: 0.1083, avg_reader_cost: 0.7537 avg_batch_cost: 1.1106, avg_ips: 86.4421.
+Type : zipper Train [ Epoch 388/500 ], loss: 0.1497, avg_reader_cost: 0.7512 avg_batch_cost: 1.1071, avg_ips: 86.7115.
+Type : zipper Train [ Epoch 389/500 ], loss: 0.1094, avg_reader_cost: 0.7494 avg_batch_cost: 1.1102, avg_ips: 86.4738.
+Type : zipper Train [ Epoch 390/500 ], loss: 0.1180, avg_reader_cost: 0.7467 avg_batch_cost: 1.0987, avg_ips: 87.3784.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 390/500 ] max_auc: 1.0000 roc_auc : 0.999737.
-Type : zipper Train [ Epoch 391/500 ], loss: 0.1374, avg_reader_cost: 6.8037 avg_batch_cost: 7.2387, avg_ips: 13.2621.
-Type : zipper Train [ Epoch 392/500 ], loss: 0.1014, avg_reader_cost: 0.0006 avg_batch_cost: 0.3577, avg_ips: 268.3775.
-Type : zipper Train [ Epoch 393/500 ], loss: 0.1479, avg_reader_cost: 0.0005 avg_batch_cost: 0.3577, avg_ips: 268.3939.
-Type : zipper Train [ Epoch 394/500 ], loss: 0.1869, avg_reader_cost: 0.0005 avg_batch_cost: 0.3581, avg_ips: 268.0918.
-Type : zipper Train [ Epoch 395/500 ], loss: 0.1648, avg_reader_cost: 0.0003 avg_batch_cost: 0.3578, avg_ips: 268.2736.
-Type : zipper Train [ Epoch 396/500 ], loss: 0.1444, avg_reader_cost: 0.5888 avg_batch_cost: 0.9513, avg_ips: 100.9093.
-Type : zipper Train [ Epoch 397/500 ], loss: 0.1316, avg_reader_cost: 0.7613 avg_batch_cost: 1.1270, avg_ips: 85.1814.
-Type : zipper Train [ Epoch 398/500 ], loss: 0.0830, avg_reader_cost: 0.7615 avg_batch_cost: 1.1252, avg_ips: 85.3158.
-Type : zipper Train [ Epoch 399/500 ], loss: 0.1663, avg_reader_cost: 0.7574 avg_batch_cost: 1.1175, avg_ips: 85.9071.
-Type : zipper Train [ Epoch 400/500 ], loss: 0.1225, avg_reader_cost: 0.7587 avg_batch_cost: 1.1263, avg_ips: 85.2322.
+Type : zipper Val [ Epoch 390/500 ] max_auc: 1.0000 roc_auc : 0.997111.
+Type : zipper Train [ Epoch 391/500 ], loss: 0.1407, avg_reader_cost: 7.2570 avg_batch_cost: 7.6812, avg_ips: 12.4980.
+Type : zipper Train [ Epoch 392/500 ], loss: 0.1667, avg_reader_cost: 0.0008 avg_batch_cost: 0.3546, avg_ips: 270.6961.
+Type : zipper Train [ Epoch 393/500 ], loss: 0.1503, avg_reader_cost: 0.0004 avg_batch_cost: 0.3559, avg_ips: 269.7715.
+Type : zipper Train [ Epoch 394/500 ], loss: 0.1241, avg_reader_cost: 0.0004 avg_batch_cost: 0.3612, avg_ips: 265.7561.
+Type : zipper Train [ Epoch 395/500 ], loss: 0.1388, avg_reader_cost: 0.0004 avg_batch_cost: 0.3529, avg_ips: 272.0288.
+Type : zipper Train [ Epoch 396/500 ], loss: 0.1288, avg_reader_cost: 0.5799 avg_batch_cost: 0.9395, avg_ips: 102.1805.
+Type : zipper Train [ Epoch 397/500 ], loss: 0.1400, avg_reader_cost: 0.7740 avg_batch_cost: 1.1428, avg_ips: 84.0019.
+Type : zipper Train [ Epoch 398/500 ], loss: 0.1081, avg_reader_cost: 0.7474 avg_batch_cost: 1.1017, avg_ips: 87.1359.
+Type : zipper Train [ Epoch 399/500 ], loss: 0.0908, avg_reader_cost: 0.7542 avg_batch_cost: 1.1080, avg_ips: 86.6455.
+Type : zipper Train [ Epoch 400/500 ], loss: 0.1609, avg_reader_cost: 0.7611 avg_batch_cost: 1.1204, avg_ips: 85.6812.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 400/500 ] max_auc: 1.0000 roc_auc : 0.996586.
-Type : zipper Train [ Epoch 401/500 ], loss: 0.1654, avg_reader_cost: 6.2830 avg_batch_cost: 6.4075, avg_ips: 14.9825.
-Type : zipper Train [ Epoch 402/500 ], loss: 0.1040, avg_reader_cost: 0.0003 avg_batch_cost: 0.1070, avg_ips: 897.3373.
-Type : zipper Train [ Epoch 403/500 ], loss: 0.1245, avg_reader_cost: 0.0005 avg_batch_cost: 0.1092, avg_ips: 879.4857.
-Type : zipper Train [ Epoch 404/500 ], loss: 0.1445, avg_reader_cost: 0.8367 avg_batch_cost: 1.1994, avg_ips: 80.0382.
-Type : zipper Train [ Epoch 405/500 ], loss: 0.1975, avg_reader_cost: 0.7715 avg_batch_cost: 1.1335, avg_ips: 84.6933.
-Type : zipper Train [ Epoch 406/500 ], loss: 0.1646, avg_reader_cost: 0.7699 avg_batch_cost: 1.1369, avg_ips: 84.4396.
-Type : zipper Train [ Epoch 407/500 ], loss: 0.1465, avg_reader_cost: 0.7778 avg_batch_cost: 1.1420, avg_ips: 84.0609.
-Type : zipper Train [ Epoch 408/500 ], loss: 0.1601, avg_reader_cost: 0.7637 avg_batch_cost: 1.1274, avg_ips: 85.1525.
-Type : zipper Train [ Epoch 409/500 ], loss: 0.1493, avg_reader_cost: 0.7583 avg_batch_cost: 1.1191, avg_ips: 85.7797.
-Type : zipper Train [ Epoch 410/500 ], loss: 0.1106, avg_reader_cost: 0.7559 avg_batch_cost: 1.1276, avg_ips: 85.1344.
+Type : zipper Val [ Epoch 400/500 ] max_auc: 1.0000 roc_auc : 0.997899.
+Type : zipper Train [ Epoch 401/500 ], loss: 0.1116, avg_reader_cost: 5.9302 avg_batch_cost: 6.0428, avg_ips: 15.8867.
+Type : zipper Train [ Epoch 402/500 ], loss: 0.1472, avg_reader_cost: 0.0002 avg_batch_cost: 0.1040, avg_ips: 923.1904.
+Type : zipper Train [ Epoch 403/500 ], loss: 0.1395, avg_reader_cost: 0.0003 avg_batch_cost: 0.1057, avg_ips: 908.0320.
+Type : zipper Train [ Epoch 404/500 ], loss: 0.1729, avg_reader_cost: 0.8178 avg_batch_cost: 1.1858, avg_ips: 80.9575.
+Type : zipper Train [ Epoch 405/500 ], loss: 0.1234, avg_reader_cost: 0.7426 avg_batch_cost: 1.0983, avg_ips: 87.4068.
+Type : zipper Train [ Epoch 406/500 ], loss: 0.1437, avg_reader_cost: 0.7534 avg_batch_cost: 1.1063, avg_ips: 86.7795.
+Type : zipper Train [ Epoch 407/500 ], loss: 0.0866, avg_reader_cost: 0.7582 avg_batch_cost: 1.1120, avg_ips: 86.3278.
+Type : zipper Train [ Epoch 408/500 ], loss: 0.1891, avg_reader_cost: 0.7475 avg_batch_cost: 1.1022, avg_ips: 87.1020.
+Type : zipper Train [ Epoch 409/500 ], loss: 0.1560, avg_reader_cost: 0.7522 avg_batch_cost: 1.1067, avg_ips: 86.7412.
+Type : zipper Train [ Epoch 410/500 ], loss: 0.1483, avg_reader_cost: 0.7471 avg_batch_cost: 1.0981, avg_ips: 87.4203.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 410/500 ] max_auc: 1.0000 roc_auc : 0.999212.
-Type : zipper Train [ Epoch 411/500 ], loss: 0.1423, avg_reader_cost: 6.7805 avg_batch_cost: 7.2367, avg_ips: 13.2658.
-Type : zipper Train [ Epoch 412/500 ], loss: 0.1537, avg_reader_cost: 0.0004 avg_batch_cost: 0.3671, avg_ips: 261.5298.
-Type : zipper Train [ Epoch 413/500 ], loss: 0.1289, avg_reader_cost: 0.0006 avg_batch_cost: 0.3589, avg_ips: 267.5207.
-Type : zipper Train [ Epoch 414/500 ], loss: 0.1069, avg_reader_cost: 0.0006 avg_batch_cost: 0.3612, avg_ips: 265.7670.
-Type : zipper Train [ Epoch 415/500 ], loss: 0.1526, avg_reader_cost: 0.0004 avg_batch_cost: 0.3644, avg_ips: 263.4332.
-Type : zipper Train [ Epoch 416/500 ], loss: 0.1154, avg_reader_cost: 0.5818 avg_batch_cost: 0.9527, avg_ips: 100.7669.
-Type : zipper Train [ Epoch 417/500 ], loss: 0.0827, avg_reader_cost: 0.7661 avg_batch_cost: 1.1309, avg_ips: 84.8910.
-Type : zipper Train [ Epoch 418/500 ], loss: 0.1562, avg_reader_cost: 0.7708 avg_batch_cost: 1.1291, avg_ips: 85.0197.
-Type : zipper Train [ Epoch 419/500 ], loss: 0.1689, avg_reader_cost: 0.7680 avg_batch_cost: 1.1271, avg_ips: 85.1725.
-Type : zipper Train [ Epoch 420/500 ], loss: 0.1351, avg_reader_cost: 0.7721 avg_batch_cost: 1.1322, avg_ips: 84.7926.
+Type : zipper Val [ Epoch 410/500 ] max_auc: 1.0000 roc_auc : 0.997374.
+Type : zipper Train [ Epoch 411/500 ], loss: 0.1130, avg_reader_cost: 6.5788 avg_batch_cost: 6.9938, avg_ips: 13.7263.
+Type : zipper Train [ Epoch 412/500 ], loss: 0.0839, avg_reader_cost: 0.0003 avg_batch_cost: 0.3528, avg_ips: 272.1189.
+Type : zipper Train [ Epoch 413/500 ], loss: 0.1027, avg_reader_cost: 0.0012 avg_batch_cost: 0.3517, avg_ips: 272.9443.
+Type : zipper Train [ Epoch 414/500 ], loss: 0.1243, avg_reader_cost: 0.0011 avg_batch_cost: 0.3550, avg_ips: 270.4173.
+Type : zipper Train [ Epoch 415/500 ], loss: 0.1606, avg_reader_cost: 0.0003 avg_batch_cost: 0.3516, avg_ips: 273.0207.
+Type : zipper Train [ Epoch 416/500 ], loss: 0.1000, avg_reader_cost: 0.5982 avg_batch_cost: 0.9498, avg_ips: 101.0722.
+Type : zipper Train [ Epoch 417/500 ], loss: 0.1383, avg_reader_cost: 0.7648 avg_batch_cost: 1.1154, avg_ips: 86.0671.
+Type : zipper Train [ Epoch 418/500 ], loss: 0.0704, avg_reader_cost: 0.7730 avg_batch_cost: 1.1326, avg_ips: 84.7588.
+Type : zipper Train [ Epoch 419/500 ], loss: 0.1037, avg_reader_cost: 0.7667 avg_batch_cost: 1.1227, avg_ips: 85.5065.
+Type : zipper Train [ Epoch 420/500 ], loss: 0.1388, avg_reader_cost: 0.7961 avg_batch_cost: 1.1513, avg_ips: 83.3810.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 420/500 ] max_auc: 1.0000 roc_auc : 0.998162.
-Type : zipper Train [ Epoch 421/500 ], loss: 0.1694, avg_reader_cost: 6.9163 avg_batch_cost: 7.3611, avg_ips: 13.0415.
-Type : zipper Train [ Epoch 422/500 ], loss: 0.1124, avg_reader_cost: 0.0004 avg_batch_cost: 0.3712, avg_ips: 258.6289.
-Type : zipper Train [ Epoch 423/500 ], loss: 0.1580, avg_reader_cost: 0.0005 avg_batch_cost: 0.3663, avg_ips: 262.0805.
-Type : zipper Train [ Epoch 424/500 ], loss: 0.1179, avg_reader_cost: 0.0003 avg_batch_cost: 0.3655, avg_ips: 262.6227.
-Type : zipper Train [ Epoch 425/500 ], loss: 0.1366, avg_reader_cost: 0.0008 avg_batch_cost: 0.3720, avg_ips: 258.0711.
-Type : zipper Train [ Epoch 426/500 ], loss: 0.1923, avg_reader_cost: 0.6032 avg_batch_cost: 0.9702, avg_ips: 98.9473.
-Type : zipper Train [ Epoch 427/500 ], loss: 0.1433, avg_reader_cost: 0.7719 avg_batch_cost: 1.1353, avg_ips: 84.5599.
-Type : zipper Train [ Epoch 428/500 ], loss: 0.1675, avg_reader_cost: 0.7731 avg_batch_cost: 1.1339, avg_ips: 84.6614.
-Type : zipper Train [ Epoch 429/500 ], loss: 0.1500, avg_reader_cost: 0.7714 avg_batch_cost: 1.1322, avg_ips: 84.7934.
-Type : zipper Train [ Epoch 430/500 ], loss: 0.1627, avg_reader_cost: 0.7691 avg_batch_cost: 1.1335, avg_ips: 84.6962.
+Type : zipper Val [ Epoch 420/500 ] max_auc: 1.0000 roc_auc : 0.997111.
+Type : zipper Train [ Epoch 421/500 ], loss: 0.1935, avg_reader_cost: 6.6027 avg_batch_cost: 7.0236, avg_ips: 13.6682.
+Type : zipper Train [ Epoch 422/500 ], loss: 0.1256, avg_reader_cost: 0.0003 avg_batch_cost: 0.3516, avg_ips: 273.0539.
+Type : zipper Train [ Epoch 423/500 ], loss: 0.1491, avg_reader_cost: 0.0002 avg_batch_cost: 0.3501, avg_ips: 274.2297.
+Type : zipper Train [ Epoch 424/500 ], loss: 0.1203, avg_reader_cost: 0.0011 avg_batch_cost: 0.3676, avg_ips: 261.1877.
+Type : zipper Train [ Epoch 425/500 ], loss: 0.2218, avg_reader_cost: 0.0008 avg_batch_cost: 0.3582, avg_ips: 268.0074.
+Type : zipper Train [ Epoch 426/500 ], loss: 0.1460, avg_reader_cost: 0.5773 avg_batch_cost: 0.9374, avg_ips: 102.4159.
+Type : zipper Train [ Epoch 427/500 ], loss: 0.1407, avg_reader_cost: 0.7556 avg_batch_cost: 1.1080, avg_ips: 86.6424.
+Type : zipper Train [ Epoch 428/500 ], loss: 0.1572, avg_reader_cost: 0.7584 avg_batch_cost: 1.1137, avg_ips: 86.2002.
+Type : zipper Train [ Epoch 429/500 ], loss: 0.1317, avg_reader_cost: 0.7618 avg_batch_cost: 1.1191, avg_ips: 85.7854.
+Type : zipper Train [ Epoch 430/500 ], loss: 0.1354, avg_reader_cost: 0.7728 avg_batch_cost: 1.1324, avg_ips: 84.7782.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 430/500 ] max_auc: 1.0000 roc_auc : 0.998687.
-Type : zipper Train [ Epoch 431/500 ], loss: 0.1248, avg_reader_cost: 6.7687 avg_batch_cost: 6.8764, avg_ips: 13.9608.
-Type : zipper Train [ Epoch 432/500 ], loss: 0.1293, avg_reader_cost: 0.0004 avg_batch_cost: 0.1062, avg_ips: 904.0666.
-Type : zipper Train [ Epoch 433/500 ], loss: 0.1265, avg_reader_cost: 0.0003 avg_batch_cost: 0.1065, avg_ips: 901.0764.
-Type : zipper Train [ Epoch 434/500 ], loss: 0.1549, avg_reader_cost: 0.0003 avg_batch_cost: 0.1081, avg_ips: 887.7852.
-Type : zipper Train [ Epoch 435/500 ], loss: 0.1500, avg_reader_cost: 0.8403 avg_batch_cost: 1.2070, avg_ips: 79.5346.
-Type : zipper Train [ Epoch 436/500 ], loss: 0.1444, avg_reader_cost: 0.7757 avg_batch_cost: 1.1402, avg_ips: 84.1928.
-Type : zipper Train [ Epoch 437/500 ], loss: 0.1300, avg_reader_cost: 0.7824 avg_batch_cost: 1.1541, avg_ips: 83.1801.
-Type : zipper Train [ Epoch 438/500 ], loss: 0.1556, avg_reader_cost: 0.8097 avg_batch_cost: 1.1755, avg_ips: 81.6653.
-Type : zipper Train [ Epoch 439/500 ], loss: 0.1261, avg_reader_cost: 0.7976 avg_batch_cost: 1.1620, avg_ips: 82.6197.
-Type : zipper Train [ Epoch 440/500 ], loss: 0.1362, avg_reader_cost: 0.8037 avg_batch_cost: 1.1709, avg_ips: 81.9861.
+Type : zipper Val [ Epoch 430/500 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : zipper Train [ Epoch 431/500 ], loss: 0.1755, avg_reader_cost: 7.3538 avg_batch_cost: 7.4603, avg_ips: 12.8681.
+Type : zipper Train [ Epoch 432/500 ], loss: 0.1028, avg_reader_cost: 0.0004 avg_batch_cost: 0.1061, avg_ips: 904.8244.
+Type : zipper Train [ Epoch 433/500 ], loss: 0.1278, avg_reader_cost: 0.0004 avg_batch_cost: 0.1068, avg_ips: 898.8075.
+Type : zipper Train [ Epoch 434/500 ], loss: 0.1264, avg_reader_cost: 0.0004 avg_batch_cost: 0.1068, avg_ips: 899.1588.
+Type : zipper Train [ Epoch 435/500 ], loss: 0.1002, avg_reader_cost: 0.8068 avg_batch_cost: 1.1641, avg_ips: 82.4637.
+Type : zipper Train [ Epoch 436/500 ], loss: 0.1504, avg_reader_cost: 0.7667 avg_batch_cost: 1.1286, avg_ips: 85.0642.
+Type : zipper Train [ Epoch 437/500 ], loss: 0.1427, avg_reader_cost: 0.7690 avg_batch_cost: 1.1268, avg_ips: 85.1936.
+Type : zipper Train [ Epoch 438/500 ], loss: 0.1316, avg_reader_cost: 0.7650 avg_batch_cost: 1.1209, avg_ips: 85.6426.
+Type : zipper Train [ Epoch 439/500 ], loss: 0.1497, avg_reader_cost: 0.7683 avg_batch_cost: 1.1193, avg_ips: 85.7651.
+Type : zipper Train [ Epoch 440/500 ], loss: 0.1372, avg_reader_cost: 0.7794 avg_batch_cost: 1.1398, avg_ips: 84.2260.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 440/500 ] max_auc: 1.0000 roc_auc : 0.999475.
-Type : zipper Train [ Epoch 441/500 ], loss: 0.1022, avg_reader_cost: 7.0393 avg_batch_cost: 7.4810, avg_ips: 12.8326.
-Type : zipper Train [ Epoch 442/500 ], loss: 0.1311, avg_reader_cost: 0.0005 avg_batch_cost: 0.3680, avg_ips: 260.8885.
-Type : zipper Train [ Epoch 443/500 ], loss: 0.2459, avg_reader_cost: 0.0004 avg_batch_cost: 0.3662, avg_ips: 262.1201.
-Type : zipper Train [ Epoch 444/500 ], loss: 0.1115, avg_reader_cost: 0.0005 avg_batch_cost: 0.3681, avg_ips: 260.7820.
-Type : zipper Train [ Epoch 445/500 ], loss: 0.1034, avg_reader_cost: 0.0004 avg_batch_cost: 0.3661, avg_ips: 262.2253.
-Type : zipper Train [ Epoch 446/500 ], loss: 0.2055, avg_reader_cost: 0.6170 avg_batch_cost: 0.9812, avg_ips: 97.8384.
-Type : zipper Train [ Epoch 447/500 ], loss: 0.2713, avg_reader_cost: 0.7899 avg_batch_cost: 1.1509, avg_ips: 83.4135.
-Type : zipper Train [ Epoch 448/500 ], loss: 0.1310, avg_reader_cost: 0.7554 avg_batch_cost: 1.1239, avg_ips: 85.4166.
-Type : zipper Train [ Epoch 449/500 ], loss: 0.1459, avg_reader_cost: 0.7712 avg_batch_cost: 1.1354, avg_ips: 84.5488.
-Type : zipper Train [ Epoch 450/500 ], loss: 0.1727, avg_reader_cost: 0.7635 avg_batch_cost: 1.1305, avg_ips: 84.9173.
+Type : zipper Val [ Epoch 440/500 ] max_auc: 1.0000 roc_auc : 0.998162.
+Type : zipper Train [ Epoch 441/500 ], loss: 0.1301, avg_reader_cost: 7.2553 avg_batch_cost: 7.7961, avg_ips: 12.3138.
+Type : zipper Train [ Epoch 442/500 ], loss: 0.1414, avg_reader_cost: 0.0006 avg_batch_cost: 0.3983, avg_ips: 241.0206.
+Type : zipper Train [ Epoch 443/500 ], loss: 0.1369, avg_reader_cost: 0.0003 avg_batch_cost: 0.3568, avg_ips: 269.0773.
+Type : zipper Train [ Epoch 444/500 ], loss: 0.1200, avg_reader_cost: 0.0005 avg_batch_cost: 0.3545, avg_ips: 270.7784.
+Type : zipper Train [ Epoch 445/500 ], loss: 0.1234, avg_reader_cost: 0.0004 avg_batch_cost: 0.3552, avg_ips: 270.2809.
+Type : zipper Train [ Epoch 446/500 ], loss: 0.1336, avg_reader_cost: 0.4488 avg_batch_cost: 0.8009, avg_ips: 119.8593.
+Type : zipper Train [ Epoch 447/500 ], loss: 0.0664, avg_reader_cost: 0.7544 avg_batch_cost: 1.1107, avg_ips: 86.4332.
+Type : zipper Train [ Epoch 448/500 ], loss: 0.1147, avg_reader_cost: 0.7533 avg_batch_cost: 1.1071, avg_ips: 86.7115.
+Type : zipper Train [ Epoch 449/500 ], loss: 0.1121, avg_reader_cost: 0.7635 avg_batch_cost: 1.1153, avg_ips: 86.0763.
+Type : zipper Train [ Epoch 450/500 ], loss: 0.1104, avg_reader_cost: 0.7580 avg_batch_cost: 1.1076, avg_ips: 86.6710.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 450/500 ] max_auc: 1.0000 roc_auc : 1.000000.
-Type : zipper Train [ Epoch 451/500 ], loss: 0.1706, avg_reader_cost: 7.5200 avg_batch_cost: 7.9009, avg_ips: 12.1505.
-Type : zipper Train [ Epoch 452/500 ], loss: 0.1791, avg_reader_cost: 0.0003 avg_batch_cost: 0.3617, avg_ips: 265.4387.
-Type : zipper Train [ Epoch 453/500 ], loss: 0.1712, avg_reader_cost: 0.0003 avg_batch_cost: 0.3575, avg_ips: 268.5316.
-Type : zipper Train [ Epoch 454/500 ], loss: 0.1613, avg_reader_cost: 0.0003 avg_batch_cost: 0.3576, avg_ips: 268.4634.
-Type : zipper Train [ Epoch 455/500 ], loss: 0.1954, avg_reader_cost: 0.0011 avg_batch_cost: 0.3633, avg_ips: 264.2437.
-Type : zipper Train [ Epoch 456/500 ], loss: 0.1440, avg_reader_cost: 0.5899 avg_batch_cost: 0.9568, avg_ips: 100.3358.
-Type : zipper Train [ Epoch 457/500 ], loss: 0.1513, avg_reader_cost: 0.7671 avg_batch_cost: 1.1333, avg_ips: 84.7093.
-Type : zipper Train [ Epoch 458/500 ], loss: 0.1425, avg_reader_cost: 0.7750 avg_batch_cost: 1.1361, avg_ips: 84.4969.
-Type : zipper Train [ Epoch 459/500 ], loss: 0.1139, avg_reader_cost: 0.7598 avg_batch_cost: 1.1285, avg_ips: 85.0721.
-Type : zipper Train [ Epoch 460/500 ], loss: 0.1293, avg_reader_cost: 0.7569 avg_batch_cost: 1.1162, avg_ips: 86.0030.
+Type : zipper Val [ Epoch 450/500 ] max_auc: 1.0000 roc_auc : 0.998162.
+Type : zipper Train [ Epoch 451/500 ], loss: 0.1411, avg_reader_cost: 6.5459 avg_batch_cost: 6.9767, avg_ips: 13.7602.
+Type : zipper Train [ Epoch 452/500 ], loss: 0.1043, avg_reader_cost: 0.0003 avg_batch_cost: 0.3552, avg_ips: 270.2579.
+Type : zipper Train [ Epoch 453/500 ], loss: 0.1195, avg_reader_cost: 0.0003 avg_batch_cost: 0.3558, avg_ips: 269.8039.
+Type : zipper Train [ Epoch 454/500 ], loss: 0.1474, avg_reader_cost: 0.0002 avg_batch_cost: 0.3624, avg_ips: 264.8647.
+Type : zipper Train [ Epoch 455/500 ], loss: 0.0801, avg_reader_cost: 0.0003 avg_batch_cost: 0.3512, avg_ips: 273.3160.
+Type : zipper Train [ Epoch 456/500 ], loss: 0.1460, avg_reader_cost: 0.6224 avg_batch_cost: 0.9727, avg_ips: 98.6906.
+Type : zipper Train [ Epoch 457/500 ], loss: 0.0870, avg_reader_cost: 0.7908 avg_batch_cost: 1.1470, avg_ips: 83.6966.
+Type : zipper Train [ Epoch 458/500 ], loss: 0.0864, avg_reader_cost: 0.8014 avg_batch_cost: 1.1524, avg_ips: 83.3023.
+Type : zipper Train [ Epoch 459/500 ], loss: 0.1192, avg_reader_cost: 0.7991 avg_batch_cost: 1.1527, avg_ips: 83.2832.
+Type : zipper Train [ Epoch 460/500 ], loss: 0.1025, avg_reader_cost: 0.8416 avg_batch_cost: 1.1994, avg_ips: 80.0430.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 460/500 ] max_auc: 1.0000 roc_auc : 0.998687.
-Type : zipper Train [ Epoch 461/500 ], loss: 0.1442, avg_reader_cost: 7.0572 avg_batch_cost: 7.2013, avg_ips: 13.3310.
-Type : zipper Train [ Epoch 462/500 ], loss: 0.1333, avg_reader_cost: 0.0004 avg_batch_cost: 0.1078, avg_ips: 890.3352.
-Type : zipper Train [ Epoch 463/500 ], loss: 0.1430, avg_reader_cost: 0.0004 avg_batch_cost: 0.1084, avg_ips: 885.7814.
-Type : zipper Train [ Epoch 464/500 ], loss: 0.1809, avg_reader_cost: 0.0003 avg_batch_cost: 0.1069, avg_ips: 897.7875.
-Type : zipper Train [ Epoch 465/500 ], loss: 0.1680, avg_reader_cost: 0.0005 avg_batch_cost: 0.1061, avg_ips: 905.1356.
-Type : zipper Train [ Epoch 466/500 ], loss: 0.1491, avg_reader_cost: 0.8531 avg_batch_cost: 1.2199, avg_ips: 78.6963.
-Type : zipper Train [ Epoch 467/500 ], loss: 0.1555, avg_reader_cost: 0.7840 avg_batch_cost: 1.1478, avg_ips: 83.6388.
-Type : zipper Train [ Epoch 468/500 ], loss: 0.1671, avg_reader_cost: 0.7820 avg_batch_cost: 1.1464, avg_ips: 83.7417.
-Type : zipper Train [ Epoch 469/500 ], loss: 0.1234, avg_reader_cost: 0.8014 avg_batch_cost: 1.1636, avg_ips: 82.5035.
-Type : zipper Train [ Epoch 470/500 ], loss: 0.1549, avg_reader_cost: 0.7782 avg_batch_cost: 1.1404, avg_ips: 84.1796.
+Type : zipper Val [ Epoch 460/500 ] max_auc: 1.0000 roc_auc : 0.995011.
+Type : zipper Train [ Epoch 461/500 ], loss: 0.1433, avg_reader_cost: 6.7257 avg_batch_cost: 6.8630, avg_ips: 13.9880.
+Type : zipper Train [ Epoch 462/500 ], loss: 0.1293, avg_reader_cost: 0.0003 avg_batch_cost: 0.1047, avg_ips: 917.1031.
+Type : zipper Train [ Epoch 463/500 ], loss: 0.1564, avg_reader_cost: 0.0003 avg_batch_cost: 0.1036, avg_ips: 927.0012.
+Type : zipper Train [ Epoch 464/500 ], loss: 0.1131, avg_reader_cost: 0.0002 avg_batch_cost: 0.1035, avg_ips: 927.4005.
+Type : zipper Train [ Epoch 465/500 ], loss: 0.1440, avg_reader_cost: 0.0003 avg_batch_cost: 0.1032, avg_ips: 930.3447.
+Type : zipper Train [ Epoch 466/500 ], loss: 0.1972, avg_reader_cost: 0.8458 avg_batch_cost: 1.2035, avg_ips: 79.7688.
+Type : zipper Train [ Epoch 467/500 ], loss: 0.1546, avg_reader_cost: 0.7960 avg_batch_cost: 1.1539, avg_ips: 83.1963.
+Type : zipper Train [ Epoch 468/500 ], loss: 0.1702, avg_reader_cost: 0.7888 avg_batch_cost: 1.1491, avg_ips: 83.5443.
+Type : zipper Train [ Epoch 469/500 ], loss: 0.1111, avg_reader_cost: 0.8102 avg_batch_cost: 1.1621, avg_ips: 82.6106.
+Type : zipper Train [ Epoch 470/500 ], loss: 0.1152, avg_reader_cost: 1.0866 avg_batch_cost: 1.4377, avg_ips: 66.7729.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 470/500 ] max_auc: 1.0000 roc_auc : 0.997637.
-Type : zipper Train [ Epoch 471/500 ], loss: 0.1010, avg_reader_cost: 6.8689 avg_batch_cost: 7.3130, avg_ips: 13.1273.
-Type : zipper Train [ Epoch 472/500 ], loss: 0.2199, avg_reader_cost: 0.0008 avg_batch_cost: 0.3739, avg_ips: 256.7722.
-Type : zipper Train [ Epoch 473/500 ], loss: 0.1500, avg_reader_cost: 0.0004 avg_batch_cost: 0.3712, avg_ips: 258.5863.
-Type : zipper Train [ Epoch 474/500 ], loss: 0.1076, avg_reader_cost: 0.0013 avg_batch_cost: 0.3743, avg_ips: 256.4699.
-Type : zipper Train [ Epoch 475/500 ], loss: 0.1683, avg_reader_cost: 0.0004 avg_batch_cost: 0.3723, avg_ips: 257.8375.
-Type : zipper Train [ Epoch 476/500 ], loss: 0.1085, avg_reader_cost: 0.6063 avg_batch_cost: 0.9785, avg_ips: 98.1141.
-Type : zipper Train [ Epoch 477/500 ], loss: 0.1276, avg_reader_cost: 0.7834 avg_batch_cost: 1.1502, avg_ips: 83.4660.
-Type : zipper Train [ Epoch 478/500 ], loss: 0.1342, avg_reader_cost: 0.8284 avg_batch_cost: 1.1985, avg_ips: 80.0991.
-Type : zipper Train [ Epoch 479/500 ], loss: 0.1148, avg_reader_cost: 0.7870 avg_batch_cost: 1.1545, avg_ips: 83.1521.
-Type : zipper Train [ Epoch 480/500 ], loss: 0.1841, avg_reader_cost: 0.7753 avg_batch_cost: 1.1458, avg_ips: 83.7845.
+Type : zipper Val [ Epoch 470/500 ] max_auc: 1.0000 roc_auc : 0.991859.
+Type : zipper Train [ Epoch 471/500 ], loss: 0.1024, avg_reader_cost: 7.5074 avg_batch_cost: 7.9468, avg_ips: 12.0804.
+Type : zipper Train [ Epoch 472/500 ], loss: 0.1197, avg_reader_cost: 0.0003 avg_batch_cost: 0.3585, avg_ips: 267.7570.
+Type : zipper Train [ Epoch 473/500 ], loss: 0.1306, avg_reader_cost: 0.0003 avg_batch_cost: 0.3545, avg_ips: 270.7750.
+Type : zipper Train [ Epoch 474/500 ], loss: 0.1540, avg_reader_cost: 0.0005 avg_batch_cost: 0.3493, avg_ips: 274.8552.
+Type : zipper Train [ Epoch 475/500 ], loss: 0.1136, avg_reader_cost: 0.0010 avg_batch_cost: 0.3551, avg_ips: 270.3728.
+Type : zipper Train [ Epoch 476/500 ], loss: 0.0880, avg_reader_cost: 0.5970 avg_batch_cost: 0.9535, avg_ips: 100.6831.
+Type : zipper Train [ Epoch 477/500 ], loss: 0.1124, avg_reader_cost: 0.7520 avg_batch_cost: 1.1136, avg_ips: 86.2041.
+Type : zipper Train [ Epoch 478/500 ], loss: 0.0666, avg_reader_cost: 0.7486 avg_batch_cost: 1.1023, avg_ips: 87.0936.
+Type : zipper Train [ Epoch 479/500 ], loss: 0.1076, avg_reader_cost: 0.7600 avg_batch_cost: 1.1155, avg_ips: 86.0629.
+Type : zipper Train [ Epoch 480/500 ], loss: 0.1187, avg_reader_cost: 0.7516 avg_batch_cost: 1.1072, avg_ips: 86.7047.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 480/500 ] max_auc: 1.0000 roc_auc : 0.999475.
-Type : zipper Train [ Epoch 481/500 ], loss: 0.1423, avg_reader_cost: 6.9296 avg_batch_cost: 7.3583, avg_ips: 13.0464.
-Type : zipper Train [ Epoch 482/500 ], loss: 0.1108, avg_reader_cost: 0.0003 avg_batch_cost: 0.3627, avg_ips: 264.7070.
-Type : zipper Train [ Epoch 483/500 ], loss: 0.1865, avg_reader_cost: 0.0003 avg_batch_cost: 0.3644, avg_ips: 263.4167.
-Type : zipper Train [ Epoch 484/500 ], loss: 0.1246, avg_reader_cost: 0.0004 avg_batch_cost: 0.3606, avg_ips: 266.2335.
-Type : zipper Train [ Epoch 485/500 ], loss: 0.1293, avg_reader_cost: 0.0003 avg_batch_cost: 0.3614, avg_ips: 265.6484.
-Type : zipper Train [ Epoch 486/500 ], loss: 0.1125, avg_reader_cost: 0.6054 avg_batch_cost: 0.9668, avg_ips: 99.2993.
-Type : zipper Train [ Epoch 487/500 ], loss: 0.1142, avg_reader_cost: 0.7755 avg_batch_cost: 1.1450, avg_ips: 83.8454.
-Type : zipper Train [ Epoch 488/500 ], loss: 0.0915, avg_reader_cost: 0.7787 avg_batch_cost: 1.1414, avg_ips: 84.1038.
-Type : zipper Train [ Epoch 489/500 ], loss: 0.1744, avg_reader_cost: 0.7798 avg_batch_cost: 1.1448, avg_ips: 83.8580.
-Type : zipper Train [ Epoch 490/500 ], loss: 0.0897, avg_reader_cost: 0.8276 avg_batch_cost: 1.1981, avg_ips: 80.1256.
+Type : zipper Val [ Epoch 480/500 ] max_auc: 1.0000 roc_auc : 0.990021.
+Type : zipper Train [ Epoch 481/500 ], loss: 0.0892, avg_reader_cost: 6.9485 avg_batch_cost: 7.3643, avg_ips: 13.0359.
+Type : zipper Train [ Epoch 482/500 ], loss: 0.0751, avg_reader_cost: 0.0003 avg_batch_cost: 0.3560, avg_ips: 269.6751.
+Type : zipper Train [ Epoch 483/500 ], loss: 0.1136, avg_reader_cost: 0.0004 avg_batch_cost: 0.3560, avg_ips: 269.6254.
+Type : zipper Train [ Epoch 484/500 ], loss: 0.1078, avg_reader_cost: 0.0010 avg_batch_cost: 0.3586, avg_ips: 267.6742.
+Type : zipper Train [ Epoch 485/500 ], loss: 0.1480, avg_reader_cost: 0.0004 avg_batch_cost: 0.3575, avg_ips: 268.5368.
+Type : zipper Train [ Epoch 486/500 ], loss: 0.1149, avg_reader_cost: 0.5965 avg_batch_cost: 0.9492, avg_ips: 101.1387.
+Type : zipper Train [ Epoch 487/500 ], loss: 0.1273, avg_reader_cost: 0.7597 avg_batch_cost: 1.1179, avg_ips: 85.8742.
+Type : zipper Train [ Epoch 488/500 ], loss: 0.0867, avg_reader_cost: 0.7604 avg_batch_cost: 1.1161, avg_ips: 86.0109.
+Type : zipper Train [ Epoch 489/500 ], loss: 0.0849, avg_reader_cost: 0.7633 avg_batch_cost: 1.1216, avg_ips: 85.5939.
+Type : zipper Train [ Epoch 490/500 ], loss: 0.0837, avg_reader_cost: 0.7514 avg_batch_cost: 1.1046, avg_ips: 86.9073.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 490/500 ] max_auc: 1.0000 roc_auc : 0.998950.
-Type : zipper Train [ Epoch 491/500 ], loss: 0.1424, avg_reader_cost: 7.0268 avg_batch_cost: 7.4705, avg_ips: 12.8505.
-Type : zipper Train [ Epoch 492/500 ], loss: 0.1265, avg_reader_cost: 0.0009 avg_batch_cost: 0.3633, avg_ips: 264.2116.
-Type : zipper Train [ Epoch 493/500 ], loss: 0.1673, avg_reader_cost: 0.0003 avg_batch_cost: 0.3630, avg_ips: 264.4773.
-Type : zipper Train [ Epoch 494/500 ], loss: 0.1498, avg_reader_cost: 0.0003 avg_batch_cost: 0.3662, avg_ips: 262.1244.
-Type : zipper Train [ Epoch 495/500 ], loss: 0.1512, avg_reader_cost: 0.0003 avg_batch_cost: 0.3612, avg_ips: 265.7857.
-Type : zipper Train [ Epoch 496/500 ], loss: 0.1193, avg_reader_cost: 0.6340 avg_batch_cost: 0.7393, avg_ips: 129.8598.
-Type : zipper Train [ Epoch 497/500 ], loss: 0.0899, avg_reader_cost: 0.8213 avg_batch_cost: 1.1791, avg_ips: 81.4164.
-Type : zipper Train [ Epoch 498/500 ], loss: 0.0771, avg_reader_cost: 0.7762 avg_batch_cost: 1.1415, avg_ips: 84.1033.
-Type : zipper Train [ Epoch 499/500 ], loss: 0.1327, avg_reader_cost: 0.7716 avg_batch_cost: 1.1327, avg_ips: 84.7555.
-Type : zipper Train [ Epoch 500/500 ], loss: 0.1091, avg_reader_cost: 0.7586 avg_batch_cost: 1.1135, avg_ips: 86.2134.
+Type : zipper Val [ Epoch 490/500 ] max_auc: 1.0000 roc_auc : 0.995536.
+Type : zipper Train [ Epoch 491/500 ], loss: 0.1239, avg_reader_cost: 7.1499 avg_batch_cost: 7.6034, avg_ips: 12.6259.
+Type : zipper Train [ Epoch 492/500 ], loss: 0.0840, avg_reader_cost: 0.0002 avg_batch_cost: 0.3540, avg_ips: 271.1997.
+Type : zipper Train [ Epoch 493/500 ], loss: 0.1132, avg_reader_cost: 0.0018 avg_batch_cost: 0.3518, avg_ips: 272.8829.
+Type : zipper Train [ Epoch 494/500 ], loss: 0.1187, avg_reader_cost: 0.0002 avg_batch_cost: 0.3541, avg_ips: 271.0903.
+Type : zipper Train [ Epoch 495/500 ], loss: 0.1054, avg_reader_cost: 0.0003 avg_batch_cost: 0.3509, avg_ips: 273.5867.
+Type : zipper Train [ Epoch 496/500 ], loss: 0.1337, avg_reader_cost: 0.6323 avg_batch_cost: 0.7369, avg_ips: 130.2770.
+Type : zipper Train [ Epoch 497/500 ], loss: 0.1054, avg_reader_cost: 0.8223 avg_batch_cost: 1.1773, avg_ips: 81.5414.
+Type : zipper Train [ Epoch 498/500 ], loss: 0.0884, avg_reader_cost: 0.7673 avg_batch_cost: 1.1215, avg_ips: 85.6002.
+Type : zipper Train [ Epoch 499/500 ], loss: 0.0870, avg_reader_cost: 0.7617 avg_batch_cost: 1.1189, avg_ips: 85.7960.
+Type : zipper Train [ Epoch 500/500 ], loss: 0.1287, avg_reader_cost: 0.7532 avg_batch_cost: 1.1114, avg_ips: 86.3786.
 loading images
 loaded 240 images
 using density estimation GaussianDensityPaddle
-Type : zipper Val [ Epoch 500/500 ] max_auc: 1.0000 roc_auc : 0.998687.
+Type : zipper Val [ Epoch 500/500 ] max_auc: 1.0000 roc_auc : 0.998424.

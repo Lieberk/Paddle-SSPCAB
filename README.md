@@ -13,9 +13,9 @@
     - [5.1 模型训练]()
     - [5.2 模型评估]()
     - [5.3 模型预测]()
-- [6. 模型推理部署]()
-- [7. 自动化测试脚本]()
-- [8. LICENSE]()
+- [6. 自动化测试脚本]()
+- [7. LICENSE]()
+- [8. 模型信息]()
 
 ## 1. 简介
 在成功的异常检测方法中，有一类方法依赖于对被mask掉信息的预测并利用与被mask信息相关的重建误差作为异常分数。与相关方法不同，文章提出将基于重建的功能集成到一个新的自监督的预测体系结构模块中。作者主要是通过一个带有扩张卷积的卷积层进行卷积，然后将结果通过通道注意力模块。提出的自监督块是通用的，可以很容易地纳入各种最新的异常检测方法。
@@ -43,21 +43,21 @@ MVTec AD是MVtec公司提出的一个用于异常检测的数据集。与之前�
 | defect_type   |   CutPaste(3-way)+SSPCAB(复现) |   CutPaste(3-way)+SSPCAB |  CutPaste (3-way) |
 |:--------------|--------------------:|-------------------:|-----------------------------:|
 | bottle        |                100.0 |               98.6 |                         98.3 |
-| cable         |                94.4 |               82.9 |                         80.6 |
-| capsule       |                89.5 |               98.1 |                         96.2 |
-| carpet        |                88.5 |               90.7 |                         93.1 |
+| cable         |                90.7 |               82.9 |                         80.6 |
+| capsule       |                93.0 |               98.1 |                         96.2 |
+| carpet        |                90.1 |               90.7 |                         93.1 |
 | grid          |                100.0 |               99.9 |                         99.9 |
-| hazelnut      |                98.6 |               98.3 |                         97.3 |
+| hazelnut      |                99.6 |               98.3 |                         97.3 |
 | leather       |               100.0 |              100.0 |                        100.0 |
-| metal_nut     |                98.8 |              100.0 |                         99.3 |
-| pill          |                96.8 |               95.3 |                         92.4 |
-| screw         |                84.4 |               90.8 |                         86.3 |
-| tile          |                99.6 |               94.0 |                         93.4 |
-| toothbrush    |               98.8 |               98.8 |                         98.3 |
-| transistor    |                99.5 |               96.5 |                         95.5 |
-| wood          |                99.5 |               99.2 |                         98.6 |
+| metal_nut     |                98.2 |              100.0 |                         99.3 |
+| pill          |                94.8 |               95.3 |                         92.4 |
+| screw         |                81.1 |               90.8 |                         86.3 |
+| tile          |                99.3 |               94.0 |                         93.4 |
+| toothbrush    |               99.4 |               98.8 |                         98.3 |
+| transistor    |                98.5 |               96.5 |                         95.5 |
+| wood          |                100.0 |               99.2 |                         98.6 |
 | zipper        |               100.0 |               98.1 |                         99.4 |
-| average       |                96.4 |               96.1 |                         95.2 |
+| average       |                96.3 |               96.1 |                         95.2 |
 
 
 ## 4. 模型数据与环境
@@ -88,8 +88,10 @@ MVTec AD是MVtec公司提出的一个用于异常检测的数据集。与之前�
 
 ### 4.2 准备环境
 
-- 框架： 
-  PaddlePaddle >= 2.3.1
+- 框架：
+  - PaddlePaddle >= 2.3.1
+- 环境配置：使用`pip install -r requirement.txt`安装依赖。
+
 
 ### 4.3 准备数据
 
@@ -146,14 +148,10 @@ inference model has been saved into deploy
 
 > python deploy/infer.py --data_type bottle --img_path demo/bottle_good.png 
 image_name: images/good.png, data is normal, score is 26.223722457885742, threshold is 51.2691650390625
-``` 
-
-## 6. 模型推理部署
-
-模型推理部署详见4.3节-基于推理引擎的模型预测。
+```
 
 
-## 7. 自动化测试脚本
+## 6. 自动化测试脚本
 -tipc 所有代码一键测试命令（少量数集）
 ```
 bash test_tipc/test_train_inference_python.sh test_tipc/configs/resnet18/train_infer_python.txt lite_train_lite_infer 
@@ -167,6 +165,17 @@ bash test_tipc/test_train_inference_python.sh test_tipc/configs/resnet18/train_i
 [Run successfully with command - python3.7 deploy/infer.py --use-gpu=True --model-dir=./log/resnet18/lite_train_lite_infer/norm_train_gpus_0 --batch-size=1   --benchmark=False > ./log/resnet18/lite_train_lite_infer/python_infer_gpu_batchsize_1.log 2>&1 !  ]
 ```
 
-## 8. LICENSE
+## 7. LICENSE
 
-[Apache 2.0 license7(./LICENSE)许可认证。
+本项目的发布受[Apache 2.0 license](./LICENSE)许可认证。
+
+## 8. 模型信息
+
+| 信息 | 描述 |
+| --- | --- |
+| 作者 | Lieber|
+| 日期 | 2022年8月 |
+| 框架版本 | PaddlePaddle==2.3.1 |
+| 应用场景 | 异常检测 |
+| 硬件支持 | GPU、CPU |
+| 在线体验 | [notebook](https://aistudio.baidu.com/aistudio/projectdetail/4398039)
