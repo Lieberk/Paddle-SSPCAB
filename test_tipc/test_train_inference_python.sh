@@ -61,7 +61,7 @@ benchmark_key=$(func_parser_key "${lines[31]}")
 benchmark_value=$(func_parser_value "${lines[31]}")
 
 # log
-LOG_PATH="./log/${model_name}/${MODE}"
+LOG_PATH="./test_tipc/output/${model_name}/${MODE}"
 mkdir -p ${LOG_PATH}
 status_log="${LOG_PATH}/results_python.log"
 

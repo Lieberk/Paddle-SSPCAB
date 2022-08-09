@@ -21,13 +21,10 @@ import paddle
 class ProjectionNet(nn.Layer):
     def __init__(self, pretrained=True, head_layers=None, num_classes=2):
         super(ProjectionNet, self).__init__()
-        # self.resnet18 = torch.hub.load('pytorch/vision:v0.9.0', 'resnet18', pretrained=pretrained)
         if head_layers is None:
             head_layers = [512, 512, 512, 512, 512, 512, 512, 512, 128]
         self.resnet18 = resnet18(pretrained=pretrained)
 
-        # create MPL head as seen in the code in: https://github.com/uoguelph-mlrg/Cutout/blob/master/util/cutout.py
-        # TODO: check if this is really the right architecture
         last_layer = 512
         sequential_layers = []
 

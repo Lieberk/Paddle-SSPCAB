@@ -183,9 +183,6 @@ def run_training(data_type="screw",
         # run tests
         if test_epochs > 0 and (epoch + 1) % test_epochs == 0:
             # run auc calculation
-            # TODO: create dataset only once.
-            # TODO: train predictor here or in the model class itself. Should not be in the eval part
-            # TODO: we might not want to use the training datat because of droupout etc. but it should give a indecation of the model performance???
             model.eval()
             roc_auc = eval_model(data_dir, model_name, data_type, device=device,
                                  save_plots=False,
@@ -245,13 +242,14 @@ if __name__ == '__main__':
 
     parser.add_argument('--cuda', default=True, type=str2bool,
                         help='use cuda for training (default: False)')
+    parser.add_argument("--seed", type=int, default=102)
 
     parser.add_argument('--workers', default=0, type=int, help="number of workers to use for data loading (default:8)")
     parser.add_argument('--output', default=None)
     args = parser.parse_args()
 
-    paddle.seed(102)
-    np.random.seed(102)
+    paddle.seed(args.seed)
+    np.random.seed(args.seed)
     print(args)
     all_types = ['bottle',
                  'cable',

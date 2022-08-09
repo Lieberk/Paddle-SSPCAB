@@ -104,7 +104,7 @@ MVTec AD是MVtec公司提出的一个用于异常检测的数据集。与之前�
 ### 5.1 模型训练
 
 - 全量数据训练：
-  - `python train.py --batch_size 96`
+  - `python train.py --type all --batch_size 96 --test_epochs 10 --head_layer 1 --seed 102`
 - 少量数据训练：
   - `python train.py --data_dir lite_data --type bottle --epochs 10 --test_epochs 5 --batch_size 5`
   
@@ -124,12 +124,14 @@ Type : bottle Train [ Epoch 5/500 ], loss: 0.5655, avg_reader_cost: 1.1475 avg_b
 
 ### 5.2 模型评估(通过5.1完成训练后)
 
-- 全量数据模型评估：`python eval.py --type all`
+- 全量数据模型评估：`python eval.py --type all --data_dir data --head_layer 8 --density paddle`
 - 少量数据模型评估：`python eval.py --data_dir lite_data --type bottle`
+
+评估会生成验证结果保存在项目evel文件下
 
 ### 5.3 模型预测（需要预先完成5.1训练以及5.2的评估）
 
-- 基于原始代码的模型预测：`python predict.py --data_type bottle --img_file images/good.png`
+- 模型预测：`python predict.py --data_type bottle --img_file images/good.png`
 
 结果如下：
 ```
@@ -146,13 +148,13 @@ python deploy/infer.py --data_type bottle --img_path images/good.png
 > python deploy/export_model.py
 inference model has been saved into deploy
 
-> python deploy/infer.py --data_type bottle --img_path demo/bottle_good.png 
+> python deploy/infer.py --data_type bottle --img_path images/good.png
 image_name: images/good.png, data is normal, score is 26.223722457885742, threshold is 51.2691650390625
 ```
 
 
 ## 6. 自动化测试脚本
--tipc 所有代码一键测试命令（少量数集）
+- tipc 所有代码一键测试命令（少量数集）
 ```
 bash test_tipc/test_train_inference_python.sh test_tipc/configs/resnet18/train_infer_python.txt lite_train_lite_infer 
 ```

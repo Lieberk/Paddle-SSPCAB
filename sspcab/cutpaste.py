@@ -7,7 +7,7 @@ import paddle
 def cut_paste_collate_fn(batch):
     # cutPaste return 2 tuples of tuples we convert them into a list of tuples
     img_types = list(zip(*batch))
-    #     print(list(zip(*batch)))
+    # print(list(zip(*batch)))
     return [paddle.stack(imgs) for imgs in img_types]
 
 
@@ -46,8 +46,6 @@ class CutPasteNormal(CutPaste):
         self.aspect_ratio = aspect_ratio
 
     def __call__(self, img):
-        # TODO: we might want to use the pytorch implementation to calculate the patches from
-        #  https://pytorch.org/vision/stable/_modules/torchvision/transforms/transforms.html#RandomErasing
         h = img.size[0]
         w = img.size[1]
 

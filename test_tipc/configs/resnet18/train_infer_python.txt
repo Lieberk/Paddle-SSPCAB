@@ -11,22 +11,22 @@ train_model_name:
 --data_dir:lite_data
 ##
 trainer:norm_train
-norm_train:train.py --test_epochs=3 --data_dir=lite_data --type=bottle --model_dir=log/resnet18/lite_train_lite_infer/norm_train_gpus_0
+norm_train:train.py --test_epochs=3 --data_dir=lite_data --type=bottle --model_dir=test_tipc/output/resnet18/lite_train_lite_infer/norm_train_gpus_0
 ##
 ===========================eval_params===========================
-eval:eval.py --data_dir=lite_data --type=bottle --model_dir=log/resnet18/lite_train_lite_infer/norm_train_gpus_0
+eval:eval.py --data_dir=lite_data --type=bottle --model_dir=test_tipc/output/resnet18/lite_train_lite_infer/norm_train_gpus_0
 ##
 ===========================infer_params===========================
---save_inference_dir:./output/resnet18/lite_train_lite_infer
+--save_inference_dir:test_tipc/output/resnet18/lite_train_lite_infer
 --pretrained:
-norm_export:deploy/export_model.py --model_path=log/resnet18/lite_train_lite_infer/norm_train_gpus_0 --data_type=bottle
+norm_export:deploy/export_model.py --model_path=test_tipc/output/resnet18/lite_train_lite_infer/norm_train_gpus_0 --data_type=bottle
 ##
-train_model:./output/resnet18/lite_train_lite_infer/model_bottle.pdparams
+train_model:test_tipc/output/resnet18/lite_train_lite_infer/model-bottle.pdparams
 infer_export:deploy/export_model.py
 ##
 inference:deploy/infer.py
 --use_gpu:True|False
 --batch_size:1
---model_dir:./output/resnet18/
+--model_dir:test_tipc/output//resnet18/
 --img-path:images/good.png
 --data_type:bottle
