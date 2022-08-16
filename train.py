@@ -57,29 +57,19 @@ def run_training(data_type="screw",
                  data_dir="data",
                  model_dir="models",
                  epochs=256,
-                 pretrained=True,
                  test_epochs=10,
                  freeze_resnet=20,
-                 learninig_rate=0.03,
-                 optim_name="SGD",
                  batch_size=64,
-                 head_layer=8,
                  cutpate_type=CutPasteNormal,
+                 min_scale=1,
                  device="cuda",
                  workers=8,
                  size=256):
     # TODO: use script params for hyperparameter
     # Temperature Hyperparameter currently not used
-    global scheduler, optimizer
-    temperature = 0.2
 
-    weight_decay = 0.00003
-    momentum = 0.9
     # TODO: use f strings also for the date LOL
     model_name = f"model-{data_type}"
-
-    # augmentation:
-    min_scale = 1
 
     # create Training Dataset and Dataloader
     after_cutpaste_transform = transforms.Compose([])
@@ -101,28 +91,8 @@ def run_training(data_type="screw",
         os.makedirs(f'logdirs/{model_name}')
     logger = Logger(f'logdirs/{model_name}/train.log')
 
-    # create Model:
-    head_layers = [512] * head_layer + [128]
-    num_classes = 2 if cutpate_type is not CutPaste3Way else 3
-    model = ProjectionNet(pretrained=pretrained, head_layers=head_layers, num_classes=num_classes)
-
-    if freeze_resnet > 0 and pretrained:
-        model.freeze_resnet()
-
     loss_fn = paddle.nn.CrossEntropyLoss()
-    if optim_name == "sgd":
-        scheduler = CosineAnnealingDecay(learning_rate=learninig_rate, T_max=10, last_epoch=epochs)
-        optimizer = optim.Momentum(parameters=model.parameters(), learning_rate=scheduler,
-                                   momentum=momentum, weight_decay=weight_decay)
-        # scheduler = None
-    elif optim_name == "adam":
-        optimizer = optim.Adam(parameters=model.parameters(), learning_rate=learninig_rate, weight_decay=weight_decay)
-    else:
-        print(f"ERROR unkown optimizer: {optim_name}")
-
     batch_cost = 1.0
-    step = 0
-    num_batches = len(dataloader)
 
     def get_data_inf():
         while True:
@@ -142,7 +112,6 @@ def run_training(data_type="screw",
 
         batch_embeds = []
         batch_idx, data = next(dataloader_inf)
-        total_samples = data[0].shape[0]
         train_reader_cost = time.time() - reader_start
         xs = [x for x in data]
 
@@ -204,7 +173,7 @@ if __name__ == '__main__':
     parser.add_argument('--type', default="all",
                         help='MVTec defection dataset type to train seperated by , (default: "all": train all defect types)')
 
-    parser.add_argument('--data_dir', default="data",
+    parser.add_argument('--data_dir', default="/home/aistudio/data/",
                         help='input folder of the models ')
 
     parser.add_argument('--epochs', default=500, type=int,
@@ -242,9 +211,19 @@ if __name__ == '__main__':
 
     parser.add_argument('--cuda', default=True, type=str2bool,
                         help='use cuda for training (default: False)')
+
     parser.add_argument("--seed", type=int, default=102)
 
+    parser.add_argument("--min_scale", type=int, default=1)
+
+    parser.add_argument('--weight_decay', type=float, default=0.00003,
+                        help='weight_decay')
+
+    parser.add_argument('--momentum', type=float, default=0.9,
+                        help='momentum used for sgd')
+
     parser.add_argument('--workers', default=0, type=int, help="number of workers to use for data loading (default:8)")
+
     parser.add_argument('--output', default=None)
     args = parser.parse_args()
 
@@ -286,17 +265,33 @@ if __name__ == '__main__':
 
     for data_type in types:
         print(f"training {data_type}")
-        run_training(data_type,
-                     data_dir = args.data_dir,
+
+        # create Model:
+        head_layers = [512] * args.head_layer + [128]
+        num_classes = 2 if variant is not CutPaste3Way else 3
+        model = ProjectionNet(pretrained=args.pretrained, head_layers=head_layers, num_classes=num_classes)
+
+        if args.freeze_resnet > 0 and args.pretrained:
+            model.freeze_resnet()
+
+        if args.optim == "sgd":
+            scheduler = CosineAnnealingDecay(learning_rate=args.lr, T_max=10, last_epoch=args.epochs)
+            optimizer = optim.Momentum(parameters=model.parameters(), learning_rate=scheduler,
+                                       momentum=args.momentum, weight_decay=args.weight_decay)
+        elif args.optim == "adam":
+            optimizer = optim.Adam(parameters=model.parameters(),
+                                   learning_rate=args.lr, weight_decay=args.weight_decay)
+        else:
+            print(f"ERROR unkown optimizer: {args.optim_name}")
+
+        run_training(data_type=data_type,
+                     data_dir=args.data_dir,
                      model_dir=Path(args.model_dir),
                      epochs=args.epochs,
-                     pretrained=args.pretrained,
                      test_epochs=args.test_epochs,
                      freeze_resnet=args.freeze_resnet,
-                     learninig_rate=args.lr,
-                     optim_name=args.optim,
                      batch_size=args.batch_size,
-                     head_layer=args.head_layer,
                      device=device,
                      cutpate_type=variant,
+                     min_scale=args.min_scale,
                      workers=args.workers)
