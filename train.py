@@ -173,7 +173,7 @@ if __name__ == '__main__':
     parser.add_argument('--type', default="all",
                         help='MVTec defection dataset type to train seperated by , (default: "all": train all defect types)')
 
-    parser.add_argument('--data_dir', default="/home/aistudio/data/",
+    parser.add_argument('--data_dir', default="data",
                         help='input folder of the models ')
 
     parser.add_argument('--epochs', default=500, type=int,
