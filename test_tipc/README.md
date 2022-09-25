@@ -16,7 +16,7 @@
 
 | 算法论文 | 模型名称 | 模型类型 | 基础<br>训练预测 | 更多<br>训练方式 | 更多<br>部署方式 | Slim<br>训练部署 |  更多<br>训练环境  |
 | :--- | :--- |  :----:  | :--------: |  :----:  |   :----:  |   :----:  |   :----:  |
-| [CutPaste: Self-Supervised Learning for Anomaly Detection and Localization](https://arxiv.org/pdf/2104.04015v1.pdf)     | resnet18_headlayer1 |  分类  | 支持 | - | -| - | Windows GPU/CPU |
+|  [Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection](https://arxiv.org/pdf/2111.09099.pdf)   | resnet18_sspcab |  分类  | 支持 | - | -| - | Windows GPU/CPU |
 
 
 ## 3. 测试工具简介

@@ -161,10 +161,11 @@ bash test_tipc/test_train_inference_python.sh test_tipc/configs/resnet18/train_i
 
 结果日志如下
 ```
-[Run successfully with command - python3.7 train.py --type bottle --test_epochs 3 --model_dir=./log/resnet18/lite_train_lite_infer/norm_train_gpus_0 --epochs=2   --batch_size=1!]
-[Run successfully with command - python3.7 eval.py --type bottle --pretrained=./log/resnet18/lite_train_lite_infer/norm_train_gpus_0/model-bottle.pdparams! ]
-[Run successfully with command - python3.7 deploy/export_model.py  --pretrained=./log/resnet18/lite_train_lite_infer/norm_train_gpus_0/model-bottle.pdparams --save-inference-dir=./log/resnet18/lite_train_lite_infer/norm_train_gpus_0!  ]
-[Run successfully with command - python3.7 deploy/infer.py --use-gpu=True --model-dir=./log/resnet18/lite_train_lite_infer/norm_train_gpus_0 --batch-size=1   --benchmark=False > ./log/resnet18/lite_train_lite_infer/python_infer_gpu_batchsize_1.log 2>&1 !  ]
+[33m Run successfully with command - python train.py --test_epochs=3 --data_dir=lite_data --type=bottle --model_dir=test_tipc/output/resnet18/lite_train_lite_infer/norm_train_gpus_0 --model_dir=./test_tipc/output/resnet18/lite_train_lite_infer/norm_train_gpus_0 --epochs=3   --batch_size=5!  [0m
+[33m Run successfully with command - python eval.py --data_dir=lite_data --type=bottle --model_dir=test_tipc/output/resnet18/lite_train_lite_infer/norm_train_gpus_0 --pretrained=./test_tipc/output/resnet18/lite_train_lite_infer/norm_train_gpus_0/!  [0m
+[33m Run successfully with command - python deploy/export_model.py --model_path=test_tipc/output/resnet18/lite_train_lite_infer/norm_train_gpus_0 --data_type=bottle --pretrained=./test_tipc/output/resnet18/lite_train_lite_infer/norm_train_gpus_0/ --save_inference_dir=./test_tipc/output/resnet18/lite_train_lite_infer/norm_train_gpus_0!  [0m
+[33m Run successfully with command - python deploy/infer.py --use_gpu=True --model_dir=./test_tipc/output/resnet18/lite_train_lite_infer/norm_train_gpus_0 --batch_size=1   --data_type=bottle > ./test_tipc/output/resnet18/lite_train_lite_infer/python_infer_gpu_batchsize_1.log 2>&1 !  [0m
+[33m Run successfully with command - python deploy/infer.py --use_gpu=False --model_dir=./test_tipc/output/resnet18/lite_train_lite_infer/norm_train_gpus_0 --batch_size=1   --data_type=bottle > ./test_tipc/output/resnet18/lite_train_lite_infer/python_infer_cpu_batchsize_1.log 2>&1 !  [0m
 ```
 
 ## 7. LICENSE
